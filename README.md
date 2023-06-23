@@ -182,7 +182,8 @@ linux commands and any thing basic you need yo know for using linux it is for my
 <details>
 <summary>VIEW ALL</summary><br><b>
 ```
- envsubst                             lslogins                rgrep                              systemd-cryptenroll
+ |envsubst|lslogins|rgrep|systemd-cryptenroll|
+	
  VGAuthService                        eqn                     lsmem                              rlogin                  systemd-delta
 '['                                   ex                      lsmod                              rm                      systemd-detect-virt
  aa-enabled                           expand                  lsns                               rmdir                   systemd-escape
