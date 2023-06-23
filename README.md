@@ -19,14 +19,13 @@ linux commands and any thing basic you need yo know for using linux it is for my
 
 - **Application software with graphical interface**
 <!-- PIC22222222222  -->
-
-
+![img](https://github.com/SamanKhalife/linux-commands/blob/main/IMAGES/2222222222222222222.png)
 
 
 # Linux Boot Process
 - There are 6 stages of the Linux boot process
 <!-- PIC33333333333  -->
-
+![img](https://github.com/SamanKhalife/linux-commands/blob/main/IMAGES/3333333333333333333.png)
 ## Stage 1: BIOS (Basic Input/Output System)
 - `Bios` stands for basic input/output system
 - This is the first step of the boot process, `Bios` doing the POST (Power-on Self-test) job.
