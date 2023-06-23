@@ -1,5 +1,5 @@
 # linux-Tutorial
-linux commands and any thing basic you need yo know for using linux it is for my own Knowledge but if you what to use I try to make it very complex and from base so you can learn linux so easy.
+linux commands and any thing basic you need yo know for using linux it is for my own Knowledge but if you want to use I try to make it very complex and from base so you can learn linux so easy.
 
 <!--if you want to share please share it with the source of it -->
 <!-- SAMAN KHALIFE  -->
