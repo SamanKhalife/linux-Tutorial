@@ -6,8 +6,7 @@ linux commands and any thing basic you need yo know for using linux it is for my
 
 
 
-
-#Linux Getting Started Overview
+# Linux Getting Started Overview
 - **Kernel operating system**
 - **Drivers** 
 - **System software** 
@@ -28,7 +27,7 @@ linux commands and any thing basic you need yo know for using linux it is for my
 - There are 6 stages of the Linux boot process
 <!-- PIC33333333333  -->
 
-##Stage 1: BIOS (Basic Input/Output System)
+## Stage 1: BIOS (Basic Input/Output System)
 - `Bios` stands for basic input/output system
 - This is the first step of the boot process, `Bios` doing the POST (Power-on Self-test) job.
 - **POST**  is a process of checking the properties.
@@ -37,7 +36,7 @@ linux commands and any thing basic you need yo know for using linux it is for my
      + If the **BIOS** can't find it `boot device`  it will report `No boot device found`
      + If the operating system `Linux` is installed on the hard disk, it will find the Master Boot Record at the first sector of the first hard drive.
 
-##Stage 2: MBR loading
+## Stage 2: MBR loading
 - MBR (Master Boot Record) is stored in the first sector of a data storage device ( `/dev/sda`, `/dev/hda`)
 - MBR is very small, only `512byte`=`1 sector`
 - The MBR contains the following information:
@@ -45,14 +44,14 @@ linux commands and any thing basic you need yo know for using linux it is for my
      + Partition table information ( `64 byte`) : stores information about `partition`.
      + Magic number ( 2 byte) : used to check MBR , if MBR fails, it will restore.
 
-##Stage 3: GRUB Loader
+## Stage 3: GRUB Loader
 - After locating the Boot Loader , this step will execute `load` the Boot Loader into memory and read the configuration - information then display the GRUB Boot Menu for the user to choose from.
 - If the User does not select the OS, after a preset time, GRUB will load the default Kernel into memory to boot.
 
-##Stage 4: Kernel
+## Stage 4: Kernel
 - The operating system's kernel will be loaded into **RAM** -> When the kernel works, the first thing will execute the INIT process.
 
-##Stage 5: Run Level (INIT)
+## Stage 5: Run Level (INIT)
 - This is the main stage of the process `boot`.
 
 ```
@@ -107,7 +106,7 @@ linux commands and any thing basic you need yo know for using linux it is for my
 - **csh (the C shell)**
    + Written in C . programming language.
 
-###`Shell Prompt (Shell Prompt)`
+### `Shell Prompt (Shell Prompt)`
 - Is a character or a character set that always starts at the beginning of any command line.
 - Indicates that **shell** is ready to receive commands from the user.
 - `$`: ordinary user
@@ -116,11 +115,11 @@ linux commands and any thing basic you need yo know for using linux it is for my
 
 
 
-#Things you should know about Linux Partitions
-##1.Hard drives
+# Things you should know about Linux Partitions
+## 1.Hard drives
 - As a data storage device, for example in Linux it `isdev/sda`
 
-##2. Partition
+## 2. Partition
 - Partition is a small partition (Logical Partition) divided fromHard drives
 - Each Hard driveshas 4 partition, in which partition includes 3 types: Primary partition , Extended partition and Logical Partition
 - Primary partition
@@ -142,7 +141,7 @@ linux commands and any thing basic you need yo know for using linux it is for my
 
 
 
-#File Directory
+# File Directory
 - /home – User personal data
 - /boot – Boot files
 - /sbin – System binaries
