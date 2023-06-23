@@ -179,8 +179,7 @@ linux commands and any thing basic you need yo know for using linux it is for my
 - [Linux Software Management ] - commands：`rpm`, `yum`, `apt-get`
 
 # Learn more about commands
-[USEABLE COMMANDS]([https://github.com/dunwu/linux-tutorial/](https://github.com/SamanKhalife/linux-commands/blob/main/Commands.md))
-
+[Commands](https://github.com/SamanKhalife/linux-commands/blob/main/Commands.md)
 ## All default Linux commands in bin dir
 <details>
 <summary>VIEW ALL</summary><br><b>
