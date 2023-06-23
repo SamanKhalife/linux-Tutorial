@@ -27,17 +27,17 @@ linux commands and any thing basic you need yo know for using linux it is for my
 <!-- PIC33333333333  -->
 ![img](https://github.com/SamanKhalife/linux-commands/blob/main/IMAGES/3333333333333333333.png)
 ## Stage 1: BIOS (Basic Input/Output System)
-- `Bios` stands for basic input/output system
+- `Bios` stands for basic input/output system.
 - This is the first step of the boot process, `Bios` doing the POST (Power-on Self-test) job.
 - **POST**  is a process of checking the properties.
 - When the BIOS process is successful, the BIOS will search and boot an operating system contained in devices such as hard drives, CD/DVD, USB.
 - Normally, the BIOS will check the floppy or CD-ROM drives to see if they can boot from them, then the hardware, the order of checking the drives depends on the configuration in the BIOS .
-     + If the **BIOS** can't find it `boot device`  it will report `No boot device found`
+     + If the **BIOS** can't find it `boot device`  it will report `No boot device found`.
      + If the operating system `Linux` is installed on the hard disk, it will find the Master Boot Record at the first sector of the first hard drive.
 
 ## Stage 2: MBR loading
-- MBR (Master Boot Record) is stored in the first sector of a data storage device ( `/dev/sda`, `/dev/hda`)
-- MBR is very small, only `512byte`=`1 sector`
+- MBR (Master Boot Record) is stored in the first sector of a data storage device ( `/dev/sda`, `/dev/hda`).
+- MBR is very small, only `512byte`=`1 sector`.
 - The MBR contains the following information:
      + Primary boot loader code (`446 byte`) : provides information for `boot loaderand` location `boot loaderand` the           hard drive.
      + Partition table information ( `64 byte`) : stores information about `partition`.
@@ -167,7 +167,7 @@ linux commands and any thing basic you need yo know for using linux it is for my
 
 
 
-# common commands preview
+# Common commands preview
 - [View Linux command help information] - commands：`help`, `whatis`, `info`, `which`, `whereis`, `man`
 - [Linux file directory management] -commands：`cd`, `ls`, `pwd`, `mkdir`, `rmdir`, `tree`, `touch`, `ln`, `rename`, `stat`, `file`, `chmod`, `chown`, `locate`, `find`, `cp`, `mv`, `rm`
 - [Linux file content viewing command] - commands：`cat`, `head`, `tail`, `more`, `less`, `sed`, `vi`, `grep`
@@ -178,10 +178,13 @@ linux commands and any thing basic you need yo know for using linux it is for my
 - [Linux Hardware Management ] - commands：`df`, `du`, `top`, `free`, `iotop`
 - [Linux Software Management ] - commands：`rpm`, `yum`, `apt-get`
 
-## all default Linux commands in bin dir
+# Learn more about commands
+[USEABLE COMMANDS]([https://github.com/dunwu/linux-tutorial/](https://github.com/SamanKhalife/linux-commands/blob/main/Commands.md))
+
+## All default Linux commands in bin dir
 <details>
 <summary>VIEW ALL</summary><br><b>
-for better view you can see the code	
+for better view you can see the code-----------------------------------------------------------------------------------------------------------------
 envsubst                             lslogins                rgrep                              systemd-cryptenroll
 VGAuthService                        eqn                     lsmem                              rlogin              systemd-delta
 '['                                   ex                      lsmod                              rm                      systemd-detect-virt
