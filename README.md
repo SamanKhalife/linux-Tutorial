@@ -178,6 +178,9 @@ linux commands and any thing basic you need yo know for using linux it is for my
 - [Linux Hardware Management ] - commands：`df`, `du`, `top`, `free`, `iotop`
 - [Linux Software Management ] - commands：`rpm`, `yum`, `apt-get`
 
+## all default Linux commands in bin dir
+
+ envsubst|lslogins|rgrep|systemd-cryptenroll
 
 
 
