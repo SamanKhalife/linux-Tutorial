@@ -181,10 +181,9 @@ linux commands and any thing basic you need yo know for using linux it is for my
 ## all default Linux commands in bin dir
 <details>
 <summary>VIEW ALL</summary><br><b>
-```
- |envsubst|lslogins|rgrep|systemd-cryptenroll|
-	
- VGAuthService                        eqn                     lsmem                              rlogin                  systemd-delta
+for better view you can see the code	
+envsubst                             lslogins                rgrep                              systemd-cryptenroll
+VGAuthService                        eqn                     lsmem                              rlogin              systemd-delta
 '['                                   ex                      lsmod                              rm                      systemd-detect-virt
  aa-enabled                           expand                  lsns                               rmdir                   systemd-escape
  aa-exec                              expiry                  lsof                               rnano                   systemd-hwdb
@@ -380,7 +379,6 @@ linux commands and any thing basic you need yo know for using linux it is for my
  enc2xs                               lsipc                   resizepart                         systemd-cgls            zstdmt
  encguess                             lsirq                   resolvectl                         systemd-cgtop
  env                                  lslocks                 rev                                systemd-creds
-```
 </b>
 </details>
 
