@@ -13,7 +13,7 @@ linux commands and any thing basic you need yo know for using linux it is for my
 - **Application software** 
 - **Application software with graphical interface**
 <!-- PIC11111111111  -->
-
+![img](https://github.com/SamanKhalife/linux-commands/blob/main/IMAGES/1111111111111111111.png)
 
 
 
