@@ -384,89 +384,92 @@ VGAuthService                        eqn                     lsmem              
 </b>
 </details>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Permissions and attributes
+
+command|   what it means   |          what it does          |how to use it
+-------|-------------------|--------------------------------|-------------
+chmod  | change modifiers  | edits the permissions of a file| chmod +x filename
+chattr | change attributes | edits the attributes of a file | chattr +i filename
+chown  |  change owner     |                                |                       
+
+`chmod` is used to edit the permissions on a file. There are 3 permissions and 3
+groups, for a total of 9 permissions. The permissions are:
+  *  read     - allows the group to read the file
+  *  write    - allows the group to edit the file
+  *  execute  - allows the group to run the file as a program
+
+for example when using `ls -la` you see all of the files permissions
+
+```
+(user)
+ |   
+ |     
+ |     (others)
+ |     |
+-rw-r--r-- 1 username groupname date time ...
+    |
+    |
+   (group) 
+
+```
+
+so this file the owner has rw, the group has r and everyone has r
+
+## to make a file executable for all users you would run the following command
+`chmod a+x filename` 
+
+
+character |group name | who it applies to
+----------|-----------|-----------
+u         |  user     | the owner of the file
+g         |  group    | users who are members of the files' group
+o         |  others   | users not included in u or g
+a         |  all      | u, g and o
+
+
+chmod can take either a set of three octal (base 8) numbers to set the
+permissions across all groups, or list the groups "a+" and the permissions that you want to add or
+"a-" and the permissions you want to subtract.
+
+The character representations of the permissions are:
+
+letter |number| binary | permission
+-------|------|--------|-----
+r      |4     |100     |read
+w      |2     |010     |write
+x      |1     |001     |execute
+
+So `chmod a+rwx filename` is the same as `chmod 777 filename`
+
+
+- examples:
+ + `chmod u+x,g+w filename`
+ + `chmod u=rwx,g=rw,o=r filename`
+ + `chmod 764 filename`
+ + `chmod a+x filename`
+
+
+The `chown` command changes the owner and group of a file or directory. This command can authorize a user to become the owner of the specified file or change the group to which the file belongs. User can be user or user D, user group can be group name or group id. The filename can be a list of files separated by spaces, and wildcards can be included in the filename.
+
+Only the file owner and superuser can use this command.
+
+# iptables
+iptables is a powerful configuration tool for controlling traffic to and from your system. Modern Linux kernels come with a packet filtering framework called Netfilter. Netfilter provides operations such as allow, drop, and modify to control the flow of packets into and out of the system. The user-level command-line tool iptables based on the Netfilter framework provides a powerful firewall configuration function, allowing you to add rules to build firewall policies. The richness and complexity of iptables and its baroque command syntax can be overwhelming.
+
+## main view of iptable command
+```
+                                          (chains)
+         (table)                             |                                  (source)                                                                                                             MASQURADE
+            |                            PREROUTING          1                      |                                                             1                    1                             ACCEPT
+            |       filter     -A        INPUT               2            udp       |   xxx.xxx.xxx.xxx            xxx.xxx.xxx.xxx                2                    2             -------         REJECT
+iptables   -t       nat        -I        FORWARDING          .     -P     tcp      -S   37.16.2.4           -d     185.674.46.4       --sport     .       --dport      .      -m     module   -J     DROP
+                    mangle     -D        OUTPUT              .            icmp                               |                                    .                    .             -------   |     DNAT 
+                               -U        POSTROUTING         n                                               |                                  65535                65535                     |     SNAT
+                                |                            |                                         (destination)                                                                           |
+               (insert)(apend)(delete)(update)               |                                                                                                                 [this is the most important thing]
+                                                             |                                                                                                                                         
+                                                      (line you want) 
+```
 
 
 
