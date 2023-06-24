@@ -470,7 +470,8 @@ iptables   -t       nat        -I        FORWARDING          .     -P     tcp   
                                                              |                                                                                                                                         
                                                       (line you want) 
 ```
-
+## chains that packets will go through in iptable
+![img](https://github.com/SamanKhalife/linux-Tutorial/blob/main/IMAGES/4444444444444444444.png)
 
 
 
