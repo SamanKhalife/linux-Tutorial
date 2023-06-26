@@ -490,7 +490,14 @@ iptables   -t       nat        -I        FORWARDING          .     -P     tcp   
     ```
 - save changes and exit.
 
+# Getting SSL Certificat
+you can use any kind tools you know here are some of them:
+- [acme](https://github.com/acmesh-official/acme.sh)
+- [zerossl](https://github.com/zerossl)
+- [free-ssl](https://github.com/topics/free-ssl-certificates)
+- [certbot](https://github.com/certbot/certbot)
 
+[learn getting free ssl with acme step by step]()
 
 
 
