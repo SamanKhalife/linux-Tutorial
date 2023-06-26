@@ -480,8 +480,15 @@ iptables   -t       nat        -I        FORWARDING          .     -P     tcp   
 - [begzar](https://begzar.ir/)
 - [vanillapp](https://vanillapp.ir/)
 - [403.online](https://403.online/)
-
-
+## If you dont know how to change and set it follow these steps
+- connect to your srver with ssh.
+- open `/etc/resolv.conf` with some editor like nano or vim.
+- change the in front of namesrver like this:
+    ```
+    nameserver 172.29.2.100
+    nameserver 185.51.200.2
+    ```
+- save changes and exit.
 
 
 
