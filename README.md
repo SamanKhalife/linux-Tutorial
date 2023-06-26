@@ -473,6 +473,17 @@ iptables   -t       nat        -I        FORWARDING          .     -P     tcp   
 ## chains that packets will go through in iptable
 ![img](https://github.com/SamanKhalife/linux-Tutorial/blob/main/IMAGES/4444444444444444444.png)
 
+## If you live in countries that are embargoed by some companies and applications, you can use some thing like DNS changing for using the apps.
+- [shecan](https://shecan.ir/)
+- [hostiran](https://hostiran.net/landing/proxy)
+- [electrotm](https://electrotm.org/)
+- [begzar](https://begzar.ir/)
+- [vanillapp](https://vanillapp.ir/)
+- [403.online](https://403.online/)
+
+
+
+
 
 
 
