@@ -186,8 +186,31 @@
 
 [dmesg help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/dmesg.txt)
 
-## 47.  command
+## 47. atop command
 
-[ help]()
+[atop help]()
 
+## 48. apachetop command
+
+[apachetop help]()
+
+## 49. iftop command
+
+[iftop help]()
+
+## 51. jnettop command
+
+[jnettop help]()
+
+## 52. GoAccess command
+
+[GoAccess help]()
+
+## 53.Logwatch  command
+
+[Logwatch help]()
+
+## 54. Swatch command
+
+[Swatch help]()
 
