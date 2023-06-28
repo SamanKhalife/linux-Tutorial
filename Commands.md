@@ -11,23 +11,23 @@
 
 ## 3. cd command
 
-[cd help]()
+[cd help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/cd.txt)
 
 ## 4. ls command
 
-[ls help]()
+[ls help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ls.txt)
 
 ## 5. cat command
 
-[cat help]()
+[cat help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/cat.txt)
 
 ## 6. cp command
 
-[cp help]()
+[cp help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/cp.txt)
 
 ## 7. mv command
 
-[mv  help]()
+[mv  help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/mv.txt)
 
 ## 8. mkdir command
 
@@ -39,7 +39,7 @@
 
 ## 10. rm command
 
-[rm help]()
+[rm help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/rm.txt)
 
 ## 11. touch command
 
@@ -51,11 +51,11 @@
 
 ## 13. find command
 
-[find help]()
+[find help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/find.txt)
 
 ## 14. grep command
 
-[grep help]()
+[grep help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/grep.txt)
 
 ## 15. df command
 
@@ -67,7 +67,7 @@
 
 ## 17. head command
 
-[head help]()
+[head help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/head.txt)
 
 ## 18. tail command
 
@@ -83,7 +83,7 @@
 
 ## 21. chmod command
 
-[chmod help]()
+[chmod help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/chmod.txt)
 
 ## 22. chown command
 
@@ -115,7 +115,7 @@
 
 ## 29. htop command
 
-[htop help]()
+[htop help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/htop.txt)
 
 ## 30. history command
 
@@ -127,7 +127,7 @@
 
 ## 32. echo command
 
-[echo help]()
+[echo help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/echo.txt)
 
 ## 33. zip, unzip commands
 
@@ -161,3 +161,33 @@
 ## 40. nano, vim commands
 
 [nano help]()
+
+## 41. tree command
+
+[tree help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/tree.txt)
+
+## 42. less command
+
+[less help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/less.txt)
+
+## 43. info command
+
+[info help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/info.txt)
+
+## 44. find command
+
+[find help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/find.txt)
+
+## 45. fdisk command
+
+[fdisk help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/fdisk.txt)
+
+## 46. dmesg command
+
+[dmesg help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/dmesg.txt)
+
+## 47.  command
+
+[ help]()
+
+
