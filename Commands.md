@@ -9,21 +9,38 @@
 
 [pwd help]()
 
+pwd - print current working directory (= at what path the user currently located)
+
 ## 3. cd command
 
 [cd help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/cd.txt)
+
+cd - change director
+
+  * cd /   ---->  change to the root directory
+  * cd ~   ---->  change to your home directory
+  * cd     ---->  change to your home directory
+  * cd ..  ---->  change to the directory above your current i.e parent directory
+  * cd .   ---->  change to the directory you currently in
+  * cd -   ---->  change to the last visited path
 
 ## 4. ls command
 
 [ls help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ls.txt)
 
+ls - listing files and directories.
+
 ## 5. cat command
 
 [cat help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/cat.txt)
 
+cat - create, view and concatenate files
+
 ## 6. cp command
 
 [cp help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/cp.txt)
+
+cp - copy files and directories
 
 ## 7. mv command
 
@@ -33,6 +50,8 @@
 
 [mkdir help]()
 
+mkdir - create directories
+
 ## 9. rmdir command
 
 [rmdir help]()
@@ -41,9 +60,13 @@
 
 [rm help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/rm.txt)
 
+rm - remove files and directories
+
 ## 11. touch command
 
 [touch help]()
+
+touch - update file's timestamp. More commonly used for creating files.
 
 ## 12. locate command
 
