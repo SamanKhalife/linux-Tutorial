@@ -499,9 +499,14 @@ you can use any kind tools you know here are some of them:
 
 [learn getting free ssl with acme step by step](https://github.com/SamanKhalife/linux-Tutorial/blob/main/acme-freessl.md)
 
+# Some of the server monitoring tools
 
-
-
-
-
+- [prometheus](https://prometheus.io/)
+	+	[grafana](https://grafana.com/)
+- [zabbix](https://www.zabbix.com/)
+- [paessler](https://www.paessler.com/)
+- [nagios](https://www.nagios.org/)
+- [elastic.co](www.elastic.co/kibana)
+- [elastic](https://www.elastic.co/)
+- [influxdata](https://www.influxdata.com/)
 
