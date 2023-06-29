@@ -453,6 +453,12 @@ The `chown` command changes the owner and group of a file or directory. This com
 
 Only the file owner and superuser can use this command.
 
+# SSH
+
+# DNS
+
+
+
 # iptables
 iptables is a powerful configuration tool for controlling traffic to and from your system. Modern Linux kernels come with a packet filtering framework called Netfilter. Netfilter provides operations such as allow, drop, and modify to control the flow of packets into and out of the system. The user-level command-line tool iptables based on the Netfilter framework provides a powerful firewall configuration function, allowing you to add rules to build firewall policies. The richness and complexity of iptables and its baroque command syntax can be overwhelming.
 
@@ -509,4 +515,13 @@ you can use any kind tools you know here are some of them:
 - [elastic.co](www.elastic.co/kibana)
 - [elastic](https://www.elastic.co/)
 - [influxdata](https://www.influxdata.com/)
+
+
+# Misc
+
+
+# apache
+
+
+# NGINX
 
