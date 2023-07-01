@@ -479,6 +479,19 @@ This command is used when the user wants to search for the given regex term(s) i
  
  Basic Syntax :`sudo apt-get [options] [command] [package(s)]`
 
+# Linux Networking Tools
+ping
+host
+finger
+traceroute
+netstat
+tracepath
+dig
+hostname
+route
+nslookup
+
+
 # SSH
 
 
