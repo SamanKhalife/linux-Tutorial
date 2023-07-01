@@ -209,6 +209,10 @@ touch - update file's timestamp. More commonly used for creating files.
 
 [dmesg help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/dmesg.txt)
 
+------------------------------------------------------------------------------------------
+# these commands are the most usable command
+
+------------------------------------------------------------------------------------------
 ## 47. atop command
 
 [atop help]()
@@ -405,173 +409,113 @@ Used to search for a pattern or an expression but inside a bzip2-compressed file
 
 Used to compress and decompress the files.
 
-## .  command
+## . cal command
 
-[ help]()
+[cal help]()
 
+Used to see the calendar of a specific month or a whole year. By default, it shows current month’s calendar as output.
 
+## . case command
 
-## .  command
+[case help]()
 
-[ help]()
+It is the best alternative when we had to use multiple if/elif on a single variable.
 
+## . ccrypt command
 
+[ccrypt help]()
 
-## .  command
+It is a command line tool for encryption and decryption of data
 
-[ help]()
+## . chage command
 
+[chage help]()
 
+Used to view and change the user password expiry information
 
-## .  command
+## . chattr command
 
-[ help]()
+[chattr help]()
 
+It is a file system command which is used for changing the attributes of a file in a directory.
 
+## . chfn command
 
-## .  command
+[chfn help]()
 
-[ help]()
+It allows you to change a user’s name and other details easily. chfn stands for Change finger.
 
+## . chgrp command
 
+[chgrp help]()
 
-## .  command
+Used to change the group ownership of a file or directory.
 
-[ help]()
+## . chkconfig command
 
+[chkconfig help]()
 
+Used to list all available services and view or update their run level settings.
 
-## .  command
+## . chpasswd command
 
-[ help]()
+[chpasswd help]()
 
+Used to change password for multiple users at a time.
 
+## . chroot command
 
-## .  command
+[chroot help]()
 
-[ help]()
+Used to change the root directory.
 
+## . chrt command
 
+[chrt help]()
 
-## .  command
+Used for manipulating the real-time attributes of a process.
 
-[ help]()
+## . chsh command
 
+[chsh help]()
 
+Used to change the user’s login shell(currently login shell).
 
-## .  command
+## . chvt command
 
-[ help]()
+[chvt help]()
 
+Used to switch between the different TTY (TeleTYpewriter) terminals available.
 
+## . cksum command
 
-## .  command
+[cksum help]()
 
-[ help]()
+Used to display a CRC(Cyclic Redundancy Check) value, the byte size of the file and the name of the file to standard output.
 
+## . cmp command
 
+[cmp help]()
 
-## .  command
+Used to compare the two files byte by byte and helps you to find out whether the two files are identical or not.
 
-[ help]()
+## . colcrt command
 
+[colcrt help]()
 
+Used to format the text processor output so that it can be viewed on Cathode Ray Tube displays.
 
-## .  command
+## . colrm command
 
-[ help]()
+[colrm help]()
 
+Removes selected columns from a file.
 
+## . column command
 
-## .  command
+[column help]()
 
-[ help]()
-
-
-
-## .  command
-
-[ help]()
-
-
-
-## .  command
-
-[ help]()
-
-
-
-## .  command
-
-[ help]()
-
-
-
-## .  command
-
-[ help]()
-
-
-
-## .  command
-
-[ help]()
-
-
-
-## .  command
-
-[ help]()
-
-
-
-## .  command
-
-[ help]()
-
-
-
-## .  command
-
-[ help]()
-
-
-
-## .  command
-
-[ help]()
-
-
-
-## .  command
-
-[ help]()
-
-
-
-## .  command
-
-[ help]()
-
-
-
-## .  command
-
-[ help]()
-
-
-
-## .  command
-
-[ help]()
-
-
-
-## .  command
-
-[ help]()
-
-
+Used to display the contents of a file in columns.
 
 ## . comm command
 
@@ -1404,19 +1348,19 @@ It is one of the most powerful process monitoring, diagnostic, instructional too
 
 [stty help]()
 
+Used to change and print terminal line settings.
+
 ## . sum command
 
 [sum help]()
 
-Used to change and print terminal line settings
-
-Used to find checksum and count the blocks in a file
+Used to find checksum and count the blocks in a file.
 
 ## . sync command
 
 [sync help]()
 
-Used to synchronize cached writes to persistent storage
+Used to synchronize cached writes to persistent storage.
 
 ## . tac command
 
@@ -1434,7 +1378,7 @@ Prints the last N number of data of the given input.
 
 [tar help]()
 
-Used to create Archive and extract the Archive files
+Used to create Archive and extract the Archive files.
 
 ## . tee command
 
@@ -1472,13 +1416,13 @@ It displays the information related to terminal. It basically prints the file na
 
 [uname help]()
 
-Displays the information about the system
+Displays the information about the system.
 
 ## . unexpand command
 
 [unexpand help]()
 
-Converts each spaces into tabs writing the produced output to the standard output
+Converts each spaces into tabs writing the produced output to the standard output.
  
 ## . uniq command
 
@@ -1526,9 +1470,13 @@ Displays a message, or the contents of a file, or otherwise its standard input, 
 
 [watch help]()
 
+Used to execute a program periodically, showing output in fullscreen.
+
 ## . wc command
 
 [wc help]()
+
+Used to find out number of lines, word count, byte and characters count in the files specified in the file arguments.
 
 ## . Wget command
 
@@ -1544,13 +1492,13 @@ Used to download files from the server even when the user has not logged on to t
 
 [which help]()
 
-Used to locate the executable file associated with the given command by searching it in the path environment variable
+Used to locate the executable file associated with the given command by searching it in the path environment variable.
 
 ## . while command
 
 [while help]()
 
-Used to repeatedly execute a set of command as long as the COMMAND returns true
+Used to repeatedly execute a set of command as long as the COMMAND returns true.
 
 ## . who command
 
@@ -1568,25 +1516,43 @@ Displays the username of the current user when this command is invoked.
 
 [write help]()
 
+Allows a user to communicate with other users, by copying lines from one user’s terminal to others.
+
 ## . xargs command
 
 [xargs help]()
+
+Used to build and execute commands from standard input. It converts input received from standard input into arguments of a command.
 
 ## . zdiff command
 
 [zdiff help]()
 
+Used to invoke the diff program on files compressed via gzip.
+
 ## . zdump command
 
 [zdump help]()
+
+Used to print the current time in the specified zone or you can say prints the current time in each zonename named on the command line.
 
 ## . zgrep command
 
 [zgrep help]()
 
+Used to search out expressions from a given a file even if it is compressed.
+
 ## . zip command
 
 [zip help]()
+
+It is a compression and file packaging utility for Unix. Each file is stored in single .zip {.zip-filename} file with the extension .zip.
+
+## .  command
+
+[ help]()
+
+
 
 
 
