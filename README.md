@@ -455,7 +455,37 @@ The `chown` command changes the owner and group of a file or directory. This com
 
 Only the file owner and superuser can use this command.
 
+# apt command in linux (for installing packages)
+apt provides a high-level CLI (Command Line Interface) for the package management system and is intended as an interface for the end user which enables some options better suited for interactive usage by default compared to more specialized APT tools like apt-cache and apt-get.
+ 
+ Syntax :`apt [...COMMANDS] [...PACKAGES]`
+
+ update :`apt update`
+
+ full-upgrade :`apt full-upgrade`
+
+ install :`apt install [...PACKAGES]`
+
+ remove :`apt remove [...PACKAGES]`
+
+ purge :`apt purge [...PACKAGES]`
+
+ search :`apt search [...REGEX]`
+This command is used when the user wants to search for the given regex term(s) in the list of available packages and display matches. For example, this command can be useful when you want to search for packages having a specific feature.
+
+ show :`apt show [...PACKAGES]`
+
+## APT-GET Command in Linux
+ 
+ Basic Syntax :`sudo apt-get [options] [command] [package(s)]`
+
 # SSH
+
+
+
+
+
+
 
 # DNS
 
