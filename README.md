@@ -5,6 +5,21 @@ linux commands and any thing basic you need yo know for using linux it is for my
 <!-- SAMAN KHALIFE  -->
 
 
+# commands in first place
+[Commands](https://github.com/SamanKhalife/linux-commands/blob/main/Commands.md)
+
+# Common commands preview
+- [View Linux command help information] - commands：`help`, `whatis`, `info`, `which`, `whereis`, `man`
+- [Linux file directory management] -commands：`cd`, `ls`, `pwd`, `mkdir`, `rmdir`, `tree`, `touch`, `ln`, `rename`, `stat`, `file`, `chmod`, `chown`, `locate`, `find`, `cp`, `mv`, `rm`
+- [Linux file content viewing command] - commands：`cat`, `head`, `tail`, `more`, `less`, `sed`, `vi`, `grep`
+- [Linux File Compression and Decompression] -commands：`tar`, `gzip`, `zip`, `unzip`
+- [Linux User Management] - commands：`groupadd`, `groupdel`, `groupmod`, `useradd`, `userdel`, `usermod`, `passwd`, `su`, `sudo`
+- [Linux System Administration ] - commands：`reboot`, `exit`, `shutdown`, `date`, `mount`, `umount`, `ps`, `kill`, `systemctl`, `service`, `crontab`
+- [Linux Network Administration] - commands：`curl`, `wget`, `telnet`, `ip`, `hostname`, `ifconfig`, `route`, `ssh`, `ssh-keygen`, `firewalld`, `iptables`, `host`, `nslookup`, `nc`/`netcat`, `ping`, `traceroute`, `netstat`
+- [Linux Hardware Management ] - commands：`df`, `du`, `top`, `free`, `iotop`
+- [Linux Software Management ] - commands：`rpm`, `yum`, `apt-get`
+
+
 
 # Linux Getting Started Overview
 - **Kernel operating system**
@@ -167,22 +182,9 @@ linux commands and any thing basic you need yo know for using linux it is for my
 
 
 
-# Common commands preview
-- [View Linux command help information] - commands：`help`, `whatis`, `info`, `which`, `whereis`, `man`
-- [Linux file directory management] -commands：`cd`, `ls`, `pwd`, `mkdir`, `rmdir`, `tree`, `touch`, `ln`, `rename`, `stat`, `file`, `chmod`, `chown`, `locate`, `find`, `cp`, `mv`, `rm`
-- [Linux file content viewing command] - commands：`cat`, `head`, `tail`, `more`, `less`, `sed`, `vi`, `grep`
-- [Linux File Compression and Decompression] -commands：`tar`, `gzip`, `zip`, `unzip`
-- [Linux User Management] - commands：`groupadd`, `groupdel`, `groupmod`, `useradd`, `userdel`, `usermod`, `passwd`, `su`, `sudo`
-- [Linux System Administration ] - commands：`reboot`, `exit`, `shutdown`, `date`, `mount`, `umount`, `ps`, `kill`, `systemctl`, `service`, `crontab`
-- [Linux Network Administration] - commands：`curl`, `wget`, `telnet`, `ip`, `hostname`, `ifconfig`, `route`, `ssh`, `ssh-keygen`, `firewalld`, `iptables`, `host`, `nslookup`, `nc`/`netcat`, `ping`, `traceroute`, `netstat`
-- [Linux Hardware Management ] - commands：`df`, `du`, `top`, `free`, `iotop`
-- [Linux Software Management ] - commands：`rpm`, `yum`, `apt-get`
-
-# Learn more about commands
-[Commands](https://github.com/SamanKhalife/linux-commands/blob/main/Commands.md)
 ## All default Linux commands in bin dir
 <details>
-<summary>VIEW ALL</summary><br><b>
+<summary> VIEW ALL </summary><br><b>
 for better view you can see the code-----------------------------------------------------------------------------------------------------------------
 envsubst                             lslogins                rgrep                              systemd-cryptenroll
 VGAuthService                        eqn                     lsmem                              rlogin              systemd-delta
