@@ -5,6 +5,21 @@ linux commands and any thing basic you need yo know for using linux it is for my
 <!-- SAMAN KHALIFE  -->
 
 
+# commands in first place
+[Commands](https://github.com/SamanKhalife/linux-commands/blob/main/Commands.md)
+
+# Common commands preview
+- [View Linux command help information] - commands：`help`, `whatis`, `info`, `which`, `whereis`, `man`
+- [Linux file directory management] -commands：`cd`, `ls`, `pwd`, `mkdir`, `rmdir`, `tree`, `touch`, `ln`, `rename`, `stat`, `file`, `chmod`, `chown`, `locate`, `find`, `cp`, `mv`, `rm`
+- [Linux file content viewing command] - commands：`cat`, `head`, `tail`, `more`, `less`, `sed`, `vi`, `grep`
+- [Linux File Compression and Decompression] -commands：`tar`, `gzip`, `zip`, `unzip`
+- [Linux User Management] - commands：`groupadd`, `groupdel`, `groupmod`, `useradd`, `userdel`, `usermod`, `passwd`, `su`, `sudo`
+- [Linux System Administration ] - commands：`reboot`, `exit`, `shutdown`, `date`, `mount`, `umount`, `ps`, `kill`, `systemctl`, `service`, `crontab`
+- [Linux Network Administration] - commands：`curl`, `wget`, `telnet`, `ip`, `hostname`, `ifconfig`, `route`, `ssh`, `ssh-keygen`, `firewalld`, `iptables`, `host`, `nslookup`, `nc`/`netcat`, `ping`, `traceroute`, `netstat`
+- [Linux Hardware Management ] - commands：`df`, `du`, `top`, `free`, `iotop`
+- [Linux Software Management ] - commands：`rpm`, `yum`, `apt-get`
+
+
 
 # Linux Getting Started Overview
 - **Kernel operating system**
@@ -167,22 +182,9 @@ linux commands and any thing basic you need yo know for using linux it is for my
 
 
 
-# Common commands preview
-- [View Linux command help information] - commands：`help`, `whatis`, `info`, `which`, `whereis`, `man`
-- [Linux file directory management] -commands：`cd`, `ls`, `pwd`, `mkdir`, `rmdir`, `tree`, `touch`, `ln`, `rename`, `stat`, `file`, `chmod`, `chown`, `locate`, `find`, `cp`, `mv`, `rm`
-- [Linux file content viewing command] - commands：`cat`, `head`, `tail`, `more`, `less`, `sed`, `vi`, `grep`
-- [Linux File Compression and Decompression] -commands：`tar`, `gzip`, `zip`, `unzip`
-- [Linux User Management] - commands：`groupadd`, `groupdel`, `groupmod`, `useradd`, `userdel`, `usermod`, `passwd`, `su`, `sudo`
-- [Linux System Administration ] - commands：`reboot`, `exit`, `shutdown`, `date`, `mount`, `umount`, `ps`, `kill`, `systemctl`, `service`, `crontab`
-- [Linux Network Administration] - commands：`curl`, `wget`, `telnet`, `ip`, `hostname`, `ifconfig`, `route`, `ssh`, `ssh-keygen`, `firewalld`, `iptables`, `host`, `nslookup`, `nc`/`netcat`, `ping`, `traceroute`, `netstat`
-- [Linux Hardware Management ] - commands：`df`, `du`, `top`, `free`, `iotop`
-- [Linux Software Management ] - commands：`rpm`, `yum`, `apt-get`
-
-# Learn more about commands
-[Commands](https://github.com/SamanKhalife/linux-commands/blob/main/Commands.md)
 ## All default Linux commands in bin dir
 <details>
-<summary>VIEW ALL</summary><br><b>
+<summary> VIEW ALL </summary><br><b>
 for better view you can see the code-----------------------------------------------------------------------------------------------------------------
 envsubst                             lslogins                rgrep                              systemd-cryptenroll
 VGAuthService                        eqn                     lsmem                              rlogin              systemd-delta
@@ -453,6 +455,55 @@ The `chown` command changes the owner and group of a file or directory. This com
 
 Only the file owner and superuser can use this command.
 
+# apt command in linux (for installing packages)
+apt provides a high-level CLI (Command Line Interface) for the package management system and is intended as an interface for the end user which enables some options better suited for interactive usage by default compared to more specialized APT tools like apt-cache and apt-get.
+ 
+ Syntax :`apt [...COMMANDS] [...PACKAGES]`
+
+ update :`apt update`
+
+ full-upgrade :`apt full-upgrade`
+
+ install :`apt install [...PACKAGES]`
+
+ remove :`apt remove [...PACKAGES]`
+
+ purge :`apt purge [...PACKAGES]`
+
+ search :`apt search [...REGEX]`
+This command is used when the user wants to search for the given regex term(s) in the list of available packages and display matches. For example, this command can be useful when you want to search for packages having a specific feature.
+
+ show :`apt show [...PACKAGES]`
+
+## APT-GET Command in Linux
+ 
+ Basic Syntax :`sudo apt-get [options] [command] [package(s)]`
+
+# Linux Networking Tools
+ping
+host
+finger
+traceroute
+netstat
+tracepath
+dig
+hostname
+route
+nslookup
+
+
+# SSH
+
+
+
+
+
+
+
+# DNS
+
+
+
 # iptables
 iptables is a powerful configuration tool for controlling traffic to and from your system. Modern Linux kernels come with a packet filtering framework called Netfilter. Netfilter provides operations such as allow, drop, and modify to control the flow of packets into and out of the system. The user-level command-line tool iptables based on the Netfilter framework provides a powerful firewall configuration function, allowing you to add rules to build firewall policies. The richness and complexity of iptables and its baroque command syntax can be overwhelming.
 
@@ -509,4 +560,13 @@ you can use any kind tools you know here are some of them:
 - [elastic.co](www.elastic.co/kibana)
 - [elastic](https://www.elastic.co/)
 - [influxdata](https://www.influxdata.com/)
+
+
+# Misc
+
+
+# apache
+
+
+# NGINX
 
