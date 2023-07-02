@@ -1,5 +1,5 @@
-# linux-Tutorial
-linux commands and any thing basic you need yo know for using linux it is for my own Knowledge but if you want to use I try to make it very complex and from base so you can learn linux so easy.
+# linux-Tutorial (for cloud computing)
+linux commands and any thing basic you need yo know for using linux (for cloud computing) it is for my own Knowledge but if you want to use I try to make it very complex and from base so you can learn linux so easy and work on linux based systems.
 
 <!--if you want to share please share it with the source of it -->
 <!-- SAMAN KHALIFE  -->
@@ -551,15 +551,24 @@ you can use any kind tools you know here are some of them:
 [learn getting free ssl with acme step by step](https://github.com/SamanKhalife/linux-Tutorial/blob/main/acme-freessl.md)
 
 # Some of the server monitoring tools
-top
-htop
-nethogs
-iptraf-ng
-netstat
-df 
-du 
-free
-vmstat
+ top
+ 
+ htop
+ 
+ nethogs
+ 
+ iptraf-ng
+ 
+ netstat
+ 
+ df 
+ 
+ du 
+ 
+ free
+ 
+ vmstat
+ 
 
 
 # Some of the monitoring apps
@@ -580,4 +589,52 @@ vmstat
 
 
 # NGINX
+
+
+# Cloud Delivery Models
+
+### Infrastructure as a Service (IaaS)
+IaaS is the on-demand delivery of computing infrastructure, including operating systems, networking, storage, and other infrastructural components. Acting much like a virtual equivalent to physical servers, IaaS relieves cloud users of the need to buy and maintain physical servers while also providing the flexibility to scale and pay for resources as needed. IaaS is a popular option for businesses that wish to leverage the advantages of the cloud and have system administrators who can oversee the installation, configuration, and management of operating systems, development tools, and other underlying infrastructure that they wish to use. However, IaaS is also used by developers, researchers, and others who wish to customize the underlying infrastructure of their computing environment. Given its flexibility, IaaS can support everything from a company’s computing infrastructure to web hosting to big data analysis.
+
+### Platform as a Service (PaaS)
+PaaS provides a computing platform where the underlying infrastructure (such as the operating system and other software) is installed, configured, and maintained by the provider, allowing users to focus their efforts on developing and deploying apps in a tested and standardized environment. PaaS is commonly used by software developers and developer teams as it cuts down on the complexity of setting up and maintaining computer infrastructure, while also supporting collaboration among distributed teams. PaaS can be a good choice for developers who don’t have the need to customize their underlying infrastructure, or those who want to focus their attention on development rather than DevOps and system administration.
+
+### Software as a Service (SaaS)
+SaaS providers are cloud-based applications that users access on demand from the internet without needing to install or maintain the software. Examples include GitHub, Google Docs, Slack, and Adobe Creative Cloud. SaaS applications are popular among businesses and general users given that they’re often easy to adopt, accessible from any device, and have free, premium, and enterprise versions of their applications. Like PaaS, SaaS abstracts away the underlying infrastructure of the software application so that users are only exposed to the interface they interact with.
+
+# Cloud Environments
+
+### Public Cloud
+
+The public cloud refers to cloud services (such as virtual machines, storage, or applications) offered publicly by a commercial provider to businesses and individuals. Public cloud resources are hosted on the commercial provider’s hardware, which users access through the internet. They are not always suitable for organizations in highly-regulated industries, such as healthcare or finance, as public cloud environments may not comply with industry regulations regarding customer data.
+
+### Private Cloud
+
+The private cloud refers to cloud services that are owned and managed by the organization that uses them and available only to the organization’s employees and customers. Private clouds allow organizations to exert greater control over their computing environment and their stored data, which can be necessary for organizations in highly-regulated industries. Private clouds are sometimes seen as more secure than public clouds as they are accessed through private networks and enable the organization to directly oversee their cloud security. Public cloud providers sometimes provide their services as applications that can be installed on private clouds, allowing organizations to keep their infrastructure and data on premise while taking advantage of the public cloud’s latest innovations.
+
+### Hybrid Cloud and Multicloud
+
+Many organizations use a hybrid cloud environment which combines public and private cloud resources to support the organization’s computing needs while maintaining compliance with industry regulation. Multicloud environments are also common, which entail the use of more than one public cloud provider (for example, combining Amazon Web Services and DigitalOcean).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
