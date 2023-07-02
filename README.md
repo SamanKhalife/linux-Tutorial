@@ -551,23 +551,39 @@ you can use any kind tools you know here are some of them:
 [learn getting free ssl with acme step by step](https://github.com/SamanKhalife/linux-Tutorial/blob/main/acme-freessl.md)
 
 # Some of the server monitoring tools
- top
+ ### How To View Running Processes in Linux
+- top
+
  
- htop
+- htop
+
+
+- ps
+
+
+ ### How To Monitor Your Network Bandwidth
+- nethogs
+
  
- nethogs
+- iptraf-ng
+
  
- iptraf-ng
+- netstat
+
+
+ ### How To Monitor Your Disk Usage
+- df 
+
  
- netstat
+- du 
+
+
+ ### How To Monitor Your Memory Usage
+- free
+
  
- df 
- 
- du 
- 
- free
- 
- vmstat
+- vmstat
+
  
 
 
@@ -582,13 +598,140 @@ you can use any kind tools you know here are some of them:
 - [influxdata](https://www.influxdata.com/)
 
 
+# How to to Manage Processes in Linux
+- start
+
+
+- kill
+
+
+- nice
+
+
+
+
+
+# How To Add Swap Space 
+What is Swap?????
+Swap is a portion of hard drive storage that has been set aside for the operating system to temporarily store data that it can no longer hold in RAM. This lets you increase the amount of information that your server can keep in its working memory, with some caveats.
+
+### Checking the System for Swap Information
+We can see if the system has any configured swap by typing:`sudo swapon --show`.
+
+If you don’t get back any output, this means your system does not have swap space available currently.
+
+You can verify that there is no active swap using the free utility:`free -h`
+### Checking Available Space on the Hard Drive Partition
+Before we create our swap file, we’ll check our current disk usage to make sure we have enough space:`df -h`
+### Creating a Swap File
+Now that we know our available hard drive space, we can create a swap file on our filesystem. We will allocate a file of the size that we want called swapfile in our root (/) directory.
+
+ The best way of creating a swap file is with the fallocate program. This command instantly creates a file of the specified size.
+
+ Since the server in our example has 1G of RAM, we will create a 1G file in this guide. Adjust this to meet the needs of your own server:`sudo fallocate -l 1G /swapfile`
+
+ We can verify that the correct amount of space was reserved by typing:`ls -lh /swapfile`
+### Enabling the Swap File
+Now that we have a file of the correct size available, we need to actually turn this into swap space.
+
+ First, we need to lock down the permissions of the file so that only users with root privileges can read the contents. This prevents normal users from being able to access the file, which would have significant security implications.
+
+ Make the file only accessible to root by typing:`sudo chmod 600 /swapfile`
+
+ Verify the permissions change by typing:`ls -lh /swapfile`
+```
+Output
+-rw------- 1 root root 1.0G jul 16 16:18 /swapfile
+```
+only the root user has the read and write flags enabled.
+
+We can now mark the file as swap space by typing:`sudo mkswap /swapfile`
+
+After marking the file, we can enable the swap file, allowing our system to start using it:`sudo swapon /swapfile`
+
+Verify that the swap is available by typing:`sudo swapon --show`
+```
+Output
+NAME      TYPE  SIZE USED PRIO
+/swapfile file 1024M   0B   -2
+```
+We can check the output of the free utility again to corroborate our findings:`free -h`
+```
+Output
+              total        used        free      shared  buff/cache   available
+Mem:          981Mi       123Mi       644Mi       0.0Ki       213Mi       714Mi
+Swap:         1.0Gi          0B       1.0Gi
+```
+### Making the Swap File Permanent
+Our recent changes have enabled the swap file for the current session. However, if we reboot, the server will not retain the swap settings automatically. We can change this by adding the swap file to our /etc/fstab file.
+
+Back up the /etc/fstab file in case anything goes wrong:`sudo cp /etc/fstab /etc/fstab.bak`
+
+Add the swap file information to the end of your /etc/fstab file by typing:`echo '/swapfile none swap sw 0 0' | sudo tee -a /etc/fstab`
+
+Next we’ll review some settings we can update to tune our swap space.
+
+
+
 # Misc
+
+
+
+
+
+
 
 
 # apache
 
 
+
+
+
+
+
+
 # NGINX
+
+
+
+
+
+
+
+
+
+# How To Install and Configure GitLab
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # Cloud Delivery Models
@@ -617,6 +760,9 @@ The private cloud refers to cloud services that are owned and managed by the org
 Many organizations use a hybrid cloud environment which combines public and private cloud resources to support the organization’s computing needs while maintaining compliance with industry regulation. Multicloud environments are also common, which entail the use of more than one public cloud provider (for example, combining Amazon Web Services and DigitalOcean).
 
 
+
+# Sources I get help from
+- Digital ocean
 
 
 
