@@ -1,11 +1,5 @@
 help
-
-No manual entry for help
-root@SAMANLEARN:~# man grep
-root@SAMANLEARN:~# head --helop
-head: unrecognized option '--helop'
-Try 'head --help' for more information.
-root@SAMANLEARN:~# head --help
+```
 Usage: head [OPTION]... [FILE]...
 Print the first 10 lines of each FILE to standard output.
 With more than one FILE, precede each with a header giving the file name.
@@ -56,11 +50,11 @@ Released under the GNU GPLv2+.
 -V --version                    Print version info
 
 Long options may be passed with a single dash.
-
+```
 
 
 man
-
+```
 NAME
        htop, pcp-htop - interactive process viewer
 
@@ -250,3 +244,5 @@ INTERACTIVE COMMANDS
 ..........
 ..........
 ..........
+
+```
