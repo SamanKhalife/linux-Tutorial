@@ -497,9 +497,6 @@ nslookup
 
 
 
-
-
-
 # DNS
 
 
@@ -688,52 +685,19 @@ Next we’ll review some settings we can update to tune our swap space.
 # Misc
 
 
+# Open Vpn
 
 
+# Wireguard
 
 
-
-
-# apache
-
-
-
-
-
-
+# Apache
 
 
 # NGINX
 
 
-
-
-
-
-
-
-
 # How To Install and Configure GitLab
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
