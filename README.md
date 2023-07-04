@@ -561,7 +561,10 @@ you can use any kind tools you know here are some of them:
 - ps
 
 
- ### How To Monitor Your Network Bandwidth
+-lsof
+
+
+ ### How To Monitor Your Network 
 - nethogs
 
  
@@ -571,6 +574,11 @@ you can use any kind tools you know here are some of them:
 - netstat
 
 
+- iftop
+
+
+-(speed test)
+
  ### How To Monitor Your Disk Usage
 - df 
 
@@ -578,13 +586,28 @@ you can use any kind tools you know here are some of them:
 - du 
 
 
+- iotop
+
+
+- iostat
+
+
  ### How To Monitor Your Memory Usage
-- free
+- free(Ram usage)
 
  
 - vmstat
 
  
+# How to to Manage Processes in Linux
+- kill
+
+
+- nice
+
+mosltly use for controlling the cpu usage (nice number is from -20 to 19 ).
+
+
 
 
 # Some of the monitoring apps
@@ -596,17 +619,6 @@ you can use any kind tools you know here are some of them:
 - [elastic.co](www.elastic.co/kibana)
 - [elastic](https://www.elastic.co/)
 - [influxdata](https://www.influxdata.com/)
-
-
-# How to to Manage Processes in Linux
-- start
-
-
-- kill
-
-
-- nice
-
 
 
 
