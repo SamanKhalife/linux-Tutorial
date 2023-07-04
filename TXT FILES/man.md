@@ -1,5 +1,5 @@
 help
-
+```
 Usage: plocate [OPTION]... PATTERN...
 
   -b, --basename         search only the file name portion of path names
@@ -15,8 +15,9 @@ Usage: plocate [OPTION]... PATTERN...
   -w, --wholename        search the entire path name (default; see -b)
       --help             print this help
       --version          print version information
-root@Samii:~# ^C
-root@Samii:~# man --help
+```
+man 
+```
 Usage: man [OPTION...] [SECTION] PAGE...
 
   -C, --config-file=FILE     use this user configuration file
@@ -88,3 +89,4 @@ g - grap, r - refer, v - vgrind
 
 Mandatory or optional arguments to long options are also mandatory or optional
 for any corresponding short options.
+```

@@ -1,5 +1,5 @@
 help
-
+```
 history: history [-c] [-d offset] [n] or history -anrw [filename] or history -ps arg [arg...]
     Display or manipulate the history list.
     
@@ -31,3 +31,4 @@ history: history [-c] [-d offset] [n] or history -anrw [filename] or history -ps
     
     Exit Status:
     Returns success unless an invalid option is given or an error occurs.
+```

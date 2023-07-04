@@ -1,5 +1,5 @@
 help
-
+```
 Usage: touch [OPTION]... FILE...
 Update the access and modification times of each FILE to the current time.
 
@@ -27,3 +27,4 @@ Mandatory arguments to long options are mandatory for short options too.
       --version  output version information and exit
 
 Note that the -d and -t options accept different time-date formats.
+```

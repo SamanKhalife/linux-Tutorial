@@ -17,7 +17,7 @@ The syntax is that the first argument of this command is the path of the source 
 	root@Saman:~# mv -r /foo/  /tmp/
 
 help
-
+```
 Usage: mv [OPTION]... [-T] SOURCE DEST
   or:  mv [OPTION]... SOURCE... DIRECTORY
   or:  mv [OPTION]... -t DIRECTORY SOURCE...
@@ -44,9 +44,9 @@ If you specify more than one of -i, -f, -n, only the final one takes effect.
       --help     display this help and exit
       --version  output version information and exit
 
-
+```
 man 
-
+```
 NAME
        mv - move (rename) files
 
@@ -116,3 +116,4 @@ DESCRIPTION
 
        simple, never
               always make simple backups
+```

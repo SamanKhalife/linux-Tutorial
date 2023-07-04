@@ -4,7 +4,7 @@ Using the rm tool, you can delete any file or directory you want. Be very carefu
 	you can easily remove files like this:
 	
 	root@Saman:~# sudo rm test.txt
-
+```
 help
 
 Usage: rm [OPTION]... [FILE]...
@@ -38,11 +38,11 @@ use one of these commands:
   rm -- -foo
 
   rm ./-foo
-
+```
 
 
 man
-
+```
 NAME
        rm - remove files or directories
 
@@ -108,3 +108,4 @@ OPTIONS
 
        Note that if you use rm to remove a file, it might be possible to recover some  of  its  contents,  given  sufficient  expertise
        and/or time.  For greater assurance that the contents are truly unrecoverable, consider using shred.
+```

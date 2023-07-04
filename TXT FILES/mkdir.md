@@ -1,5 +1,5 @@
 help
-
+```
 Usage: mkdir [OPTION]... DIRECTORY...
 Create the DIRECTORY(ies), if they do not already exist.
 
@@ -13,7 +13,7 @@ Mandatory arguments to long options are mandatory for short options too.
                          or SMACK security context to CTX
       --help     display this help and exit
       --version  output version information and exit
-
+```
 
 
 

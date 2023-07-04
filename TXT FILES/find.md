@@ -1,5 +1,5 @@
 help
-
+```
 Usage: find [-H] [-L] [-P] [-Olevel] [-D debugopts] [path...] [expression]
 
 Default path is the current directory; default expression is -print.
@@ -40,9 +40,9 @@ Valid arguments for -D:
 exec, opt, rates, search, stat, time, tree, all, help
 Use '-D help' for a description of the options, or see find(1)
 
-
+```
 man
-
+```
 NAME
        find - search for files in a directory hierarchy
 
@@ -543,7 +543,7 @@ EXPRESSION
 .......
 .......
 
-
+```
 
 
 

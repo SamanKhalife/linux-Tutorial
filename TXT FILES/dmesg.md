@@ -1,5 +1,5 @@
 help
-
+```
 Options:
  -C, --clear                 clear the kernel ring buffer
  -c, --read-clear            read and clear all messages
@@ -214,3 +214,4 @@ OPTIONS
 
        -V, --version
            Print version and exit.
+```

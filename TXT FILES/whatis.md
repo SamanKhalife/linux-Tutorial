@@ -1,7 +1,7 @@
 help
 
 
-
+```
 Usage: whatis [OPTION...] KEYWORD...
 
   -d, --debug                emit debugging messages
@@ -21,10 +21,10 @@ Usage: whatis [OPTION...] KEYWORD...
 
 Mandatory or optional arguments to long options are also mandatory or optional
 for any corresponding short options.
-
+```
 
 man
-
+```
 NAME
        whatis - display one-line manual page descriptions
 
@@ -124,5 +124,5 @@ ENVIRONMENT
               width  will  be calculated using the value of $COLUMNS, and ioctl(2) if available, or falling back to 80 characters if
               all else fails.
 
-
-
+..............................
+```

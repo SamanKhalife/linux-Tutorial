@@ -1,4 +1,5 @@
 help
+```
 Pattern selection and interpretation:
   -E, --extended-regexp     PATTERNS are extended regular expressions
   -F, --fixed-strings       PATTERNS are strings
@@ -59,12 +60,12 @@ Context control:
       --colour[=WHEN]       use markers to highlight the matching strings;
                             WHEN is 'always', 'never', or 'auto'
   -U, --binary              do not strip CR characters at EOL (MSDOS/Windows)
-
+```
 
 
 
 man
-
+```
 NAME
        grep, egrep, fgrep, rgrep - print lines that match patterns
 
@@ -265,3 +266,4 @@ OPTIONS
 --------
 --------
 --------
+```

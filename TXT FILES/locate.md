@@ -1,5 +1,5 @@
 help
-
+```
 Usage: plocate [OPTION]... PATTERN...
 
   -b, --basename         search only the file name portion of path names
@@ -16,5 +16,5 @@ Usage: plocate [OPTION]... PATTERN...
       --help             print this help
       --version          print version information
 
-
+```
 

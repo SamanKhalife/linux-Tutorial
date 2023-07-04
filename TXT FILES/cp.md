@@ -1,6 +1,6 @@
 help 
 
-
+```
 Usage: cp [OPTION]... [-T] SOURCE DEST
   or:  cp [OPTION]... SOURCE... DIRECTORY
   or:  cp [OPTION]... -t DIRECTORY SOURCE...
@@ -54,12 +54,12 @@ Mandatory arguments to long options are mandatory for short options too.
       --help     display this help and exit
       --version  output version information and exit
 
-
+```
 
 
 man 
 
-
+```
 NAME
        cp - copy files and directories
 
@@ -197,3 +197,4 @@ DESCRIPTION
 
        As a special case, cp makes a backup of SOURCE when the force and backup options are given
        and SOURCE and DEST are the same name for an existing, regular file.
+```

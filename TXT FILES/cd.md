@@ -15,7 +15,7 @@ The cd utility is one of the system utilities that allows you to navigate to a s
 	for home dir from anywhere
 
 	root@Saman:~# cd ~
-
+```
  help
 
     Options:
@@ -29,3 +29,4 @@ The cd utility is one of the system utilities that allows you to navigate to a s
                 a non-zero status
       -@        on systems that support it, present a file with extended
                 attributes as a directory containing the file attribute
+```

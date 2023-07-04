@@ -1,6 +1,6 @@
 help
 
-
+```
 Usage: info [OPTION]... [MENU-ITEM...]
 
 Read documentation in Info format.
@@ -39,12 +39,12 @@ Examples:
   info --subnodes -o out.txt emacs
                                dump entire emacs manual to out.txt
   info -f ./foo.info           show file ./foo.info, not searching dir
-
+```
 
 
 man
 
-
+```
 NAME
        info - read Info documents
 
@@ -126,4 +126,4 @@ EXAMPLES
 
        info -f ./foo.info
               show file ./foo.info, not searching dir
-
+```

@@ -1,5 +1,5 @@
 help
-
+```
 Usage:
  fdisk [options] <disk>         change partition table
  fdisk [options] -l [<disk>...] list partition table(s)
@@ -38,10 +38,10 @@ Available output columns:
  sgi: Device Start End Sectors Cylinders Size Type Id Attrs
  sun: Device Start End Sectors Cylinders Size Type Id Flags
 
-
+```
 man 
 
-
+```
 NAME
        fdisk - manipulate disk partition table
 
@@ -347,4 +347,4 @@ ENVIRONMENT
        LOCK_BLOCK_DEVICE=<mode>
            use exclusive BSD lock. The mode is "1" or "0". See --lock for more details.
 
-
+```

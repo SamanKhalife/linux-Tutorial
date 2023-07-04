@@ -21,7 +21,7 @@ The tree tool is used to display the list of files and directories based on thei
 	root@Saman:~# tree -L 2
 	
 
-
+```
 help
 
 usage: tree [-acdfghilnpqrstuvxACDFJQNSUX] [-L level [-R]] [-H  baseHREF]
@@ -94,10 +94,10 @@ usage: tree [-acdfghilnpqrstuvxACDFJQNSUX] [-L level [-R]] [-H  baseHREF]
   --version     Print version and exit.
   --help        Print usage and this help message and exit.
   --            Options processing terminator.
-
+```
 man 
 
-
+```
 NAME
        tree - list contents of directories in a tree-like format.
 
@@ -324,3 +324,4 @@ ENVIRONMENT
        TZ             Timezone for timefmt output, see strftime(3).
        STDDATA_FD     Enable the stddata feature, optionally set descriptor to use.
 
+```

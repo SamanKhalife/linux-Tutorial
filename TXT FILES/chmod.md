@@ -1,7 +1,5 @@
-
-
 help
-
+```
 Usage: chmod [OPTION]... MODE[,MODE]... FILE...
   or:  chmod [OPTION]... OCTAL-MODE FILE...
   or:  chmod [OPTION]... --reference=RFILE FILE...
@@ -19,9 +17,9 @@ With --reference, change the mode of each FILE to that of RFILE.
       --version  output version information and exit
 
 Each MODE is of the form '[ugoa]*([-+=]([rwxXst]*|[ugo]))+|[-+=][0-7]+'.
-
+```
 man 
-
+```
 NAME
        chmod - change file mode bits
 
@@ -119,3 +117,4 @@ OPTIONS
               output version information and exit
 
        Each MODE is of the form '[ugoa]*([-+=]([rwxXst]*|[ugo]))+|[-+=][0-7]+'.
+```
