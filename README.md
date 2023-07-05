@@ -386,7 +386,7 @@ VGAuthService                        eqn                     lsmem              
 </b>
 </details>
 
-# Permissions and attributes
+# User Permissions and attributes
 
 command|   what it means   |          what it does          |how to use it
 -------|-------------------|--------------------------------|-------------
@@ -455,6 +455,21 @@ The `chown` command changes the owner and group of a file or directory. This com
 
 Only the file owner and superuser can use this command.
 
+
+# Group Permissions and attributes
+
+gorupmod
+
+groupadd
+
+groupdel
+
+groups
+
+
+
+
+
 # apt command in linux (for installing packages)
 apt provides a high-level CLI (Command Line Interface) for the package management system and is intended as an interface for the end user which enables some options better suited for interactive usage by default compared to more specialized APT tools like apt-cache and apt-get.
  
@@ -481,16 +496,24 @@ This command is used when the user wants to search for the given regex term(s) i
 
 # Linux Networking Tools
 ping
-host
-finger
-traceroute
-netstat
-tracepath
-dig
-hostname
-route
-nslookup
 
+host
+
+finger
+
+traceroute
+
+netstat
+
+tracepath
+
+dig
+
+hostname
+
+route
+
+nslookup
 
 # SSH
 
