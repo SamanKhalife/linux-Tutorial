@@ -3,11 +3,11 @@
 
 ## 1. sudo command
 
-[sudo help]()
+[sudo help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/sudo.md)
 
 ## 2. pwd command
 
-[pwd help]()
+[pwd help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/pwd.md)
 
 pwd - print current working directory (= at what path the user currently located)
 
@@ -54,7 +54,7 @@ mkdir - create directories
 
 ## 9. rmdir command
 
-[rmdir help]()
+[rmdir help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/rmdir.md)
 
 ## 10. rm command
 
@@ -82,11 +82,11 @@ touch - update file's timestamp. More commonly used for creating files.
 
 ## 15. df command
 
-[df help]()
+[df help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/df.md)
 
 ## 16. du command
 
-[du help]()
+[du help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/du.md)
 
 ## 17. head command
 
@@ -98,11 +98,11 @@ touch - update file's timestamp. More commonly used for creating files.
 
 ## 19. diff command
 
-[diff help]()
+[diff help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/diff.md)
 
 ## 20. tar command
 
-[tar help]()
+[tar help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/tar.md)
 
 ## 21. chmod command
 
@@ -110,11 +110,11 @@ touch - update file's timestamp. More commonly used for creating files.
 
 ## 22. chown command
 
-[chown help]()
+[chown help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/chown.md)
 
 ## 23. jobs command
 
-[jobs help]()
+[jobs help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/jobs.md)
 
 ## 24. kill command
 
@@ -162,28 +162,28 @@ touch - update file's timestamp. More commonly used for creating files.
 
 ## 35. useradd, userdel commands
 
-[useradd help]()
+[useradd help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/useradd.md)
 
 ## 36. apt-get command
 
-[apt help]()
+[apt help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/apt-get.md)
 
 ## 37. alias, unalias commands
 
-[alies help]()
+[alies help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/alias.md)
 
 ## 38. su command
 
-[su help]()
+[su help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/su.md)
 
 ## 39. ps command
 
-[ps help]()
+[ps help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ps.md)
 
 
 ## 40. nano, vim commands
 
-[nano help]()
+[nano help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/nano%20vim.md)
 
 ## 41. tree command
 
@@ -223,27 +223,27 @@ touch - update file's timestamp. More commonly used for creating files.
 
 ## 49. iftop command
 
-[iftop help]()
+[iftop help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/iftop.md)
 
 ## 51. jnettop command
 
-[jnettop help]()
+[jnettop help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/jnettop.md)
 
 ## 52. GoAccess command
 
-[GoAccess help]()
+[GoAccess help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/goaccess.md)
 
 ## 53.Logwatch  command
 
-[Logwatch help]()
+[Logwatch help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/logwatch.md)
 
 ## 54. Swatch command
 
-[Swatch help]()
+[Swatch help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/Swatch.md)
 
 ## 55. access command
 
-[access help]()
+[access help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/access.md)
 
 ## 56. accton command
 
@@ -271,7 +271,7 @@ touch - update file's timestamp. More commonly used for creating files.
 
 ## 62. alias command
 
-[alias help]()
+[alias help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/alias.md)
 
 ## 63. aplay command
 
@@ -295,7 +295,7 @@ touch - update file's timestamp. More commonly used for creating files.
 
 ## 68. arch command
 
-[arch help]()
+[arch help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/arch.md)
 
 ## 69. arp command
 
