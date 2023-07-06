@@ -48,7 +48,7 @@ cp - copy files and directories
 
 ## 8. mkdir command
 
-[mkdir help]()
+[mkdir help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/mkdir.md)
 
 mkdir - create directories
 
@@ -64,13 +64,13 @@ rm - remove files and directories
 
 ## 11. touch command
 
-[touch help]()
+[touch help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/touch.md)
 
 touch - update file's timestamp. More commonly used for creating files.
 
 ## 12. locate command
 
-[locate help]()
+[locate help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/locate.md)
 
 ## 13. find command
 
@@ -94,7 +94,7 @@ touch - update file's timestamp. More commonly used for creating files.
 
 ## 18. tail command
 
-[tail help]()
+[tail help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/tail.md)
 
 ## 19. diff command
 
@@ -118,23 +118,23 @@ touch - update file's timestamp. More commonly used for creating files.
 
 ## 24. kill command
 
-[kill help]()
+[kill help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/kill.md)
 
 ## 25. ping command
 
-[ping help]()
+[ping help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ping.md)
 
 ## 26. wget command
 
-[wget help]()
+[wget help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/wget.md)
 
 ## 27. uname command
 
-[uname help]()
+[uname help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/uname.md)
 
 ## 28. top command
 
-[top help]()
+[top help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/top.md)
 
 ## 29. htop command
 
@@ -142,11 +142,11 @@ touch - update file's timestamp. More commonly used for creating files.
 
 ## 30. history command
 
-[history help]()
+[history help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/history.md)
 
-## 31.  man command
+## 31. man command
 
-[man help]()
+[man help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/man.md)
 
 ## 32. echo command
 
@@ -154,11 +154,11 @@ touch - update file's timestamp. More commonly used for creating files.
 
 ## 33. zip, unzip commands
 
-[zip help]()
+[zip help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/zip.md)
 
 ## 34. hostname command
 
-[hostname help]()
+[hostname help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/hostname.md)
 
 ## 35. useradd, userdel commands
 
