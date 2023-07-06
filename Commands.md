@@ -215,11 +215,11 @@ touch - update file's timestamp. More commonly used for creating files.
 ------------------------------------------------------------------------------------------
 ## 47. atop command
 
-[atop help]()
+[atop help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/atop.md)
 
 ## 48. apachetop command
 
-[apachetop help]()
+[apachetop help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/apachetop.md)
 
 ## 49. iftop command
 
@@ -243,31 +243,31 @@ touch - update file's timestamp. More commonly used for creating files.
 
 ## 55. access command
 
-[ help]()
+[access help]()
 
 ## 56. accton command
 
-[ help]()
+[accton help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/accton.md)
 
 ## 57. aclocal command
 
-[ help]()
+[aclocal help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/aclocal.md)
 
 ## 58. acpi command
 
-[acpi help]()
+[acpi help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/acpi.md)
 
 ## 59. acpid command
 
-[acpid help]()
+[acpid help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/acpid.md)
 
 ## 60. addr2line command
 
-[addr2line help]()
+[addr2line help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/addr2line.md)
 
 ## 61. agetty command
 
-[agetty help]()
+[agetty help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/agetty.md)
 
 ## 62. alias command
 
@@ -275,23 +275,23 @@ touch - update file's timestamp. More commonly used for creating files.
 
 ## 63. aplay command
 
-[aplay help]()
+[aplay help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/aplay.md)
 
 ## 64. amixer command
 
-[amixer help]()
+[amixer help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/amixer.md)
 
 ## 65. apt command
 
-[apt help]()
+[apt help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/apt.md)
 
 ## 66. aptitude command
 
-[ help]()
+[aptitude help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/aptitude.md)
 
 ## 67. ar command
 
-[ help]()
+[ar help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ar.md)
 
 ## 68. arch command
 
@@ -299,185 +299,185 @@ touch - update file's timestamp. More commonly used for creating files.
 
 ## 69. arp command
 
-[arp help]()
+[arp help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/arp.md)
 
 ## 70. aspell command
 
-[aspell help]()
+[aspell help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/aspell.md)
 
 ## 71. atd command
 
-[atd help]()
+[atd help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/atd.md)
 
 ## 72. atrm command
 
-[atrm help]()
+[atrm help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/atrm.md)
 
 ## 73. atq command
 
-[atq help]()
+[atq help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/atq.md)
 
 ## 74. autoconf command
 
-[autoconf help]()
+[autoconf help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/autoconf.md)
 
 ## 75. autoheader command
 
-[autoheader help]()
+[autoheader help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/autoheader.md)
 
 ## 76. banner command
 
-[banner help]()
+[banner help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/banner.md)
 
 Used to print the ASCII character string in large letter to standard output.
 
 ## 77. basename command
 
-[basename help]()
+[basename help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/basename.md)
 
 It strips directory information and suffixes from file names i.e. it prints the file name NAME with any leading directory components removed.
 
 ## 78. batch command
 
-[batch help]()
+[batch help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/batch.md)
 
 Used to read commands from standard input or a specified file and execute them when system load levels permit i.e. when the load average drops below 1.5.
 
 ## 79. bc command
 
-[bc help]()
+[bc help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/bc.md)
 
 Used for command line calculator.
 
 ## 80. bg command
 
-[bg help]()
+[bg help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/bg.md)
 
 Used to place foreground jobs in background.
 
 ## 81. biff command
 
-[biff help]()
+[biff help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/biff.md)
 
 A mail notification system for unix that notifies the user at the command line when new mail arrives and tells from whom it is.
 
 ## 82. bind command
 
-[bind help]()
+[bind help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/bind.md)
 
 Used to set Readline key bindings and variables.
 
 ## 83. bison command
 
-[bison help]()
+[bison help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/bison.md)
 
 It is basically a parser generator similar to yacc.
 
 ## 84. break command
 
-[break help]()
+[break help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/break.md)
 
 Used to terminate the execution of for loop, while loop and until loop.
 
 ## 85. builtin command
 
-[builtin help]()
+[builtin help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/builtin.md)
 
 Used to run a shell builtin, passing it arguments(args), and also to get the exit status.
 
 ## 86. bzcmp command
 
-[bzcmp help]()
+[bzcmp help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/bzcmp.md)
 
 Used to invoke the cmp utility on bzip2 compressed files.
 
 ## 87. bzdiff command
 
-[bzdiff help]()
+[bzdiff help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/bzdiff.md)
 
 Used to compare the bzip2 compressed files.
 
 ## 88. bzgrep command
 
-[bzgrep help]()
+[bzgrep help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/bzgrep.md)
 
 Used to search for a pattern or an expression but inside a bzip2-compressed file
 
 ## 89. bzip2 command
 
-[bzip2 help]()
+[bzip2 help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/bzip2%20(1).md)
 
 Used to compress and decompress the files.
 
 ## 90. cal command
 
-[cal help]()
+[cal help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/cal.md)
 
 Used to see the calendar of a specific month or a whole year. By default, it shows current month’s calendar as output.
 
 ## 91. case command
 
-[case help]()
+[case help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/case.md)
 
 It is the best alternative when we had to use multiple if/elif on a single variable.
 
 ## 92. ccrypt command
 
-[ccrypt help]()
+[ccrypt help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ccrypt.md)
 
 It is a command line tool for encryption and decryption of data
 
 ## 93. chage command
 
-[chage help]()
+[chage help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/chage.md)
 
 Used to view and change the user password expiry information
 
 ## 94. chattr command
 
-[chattr help]()
+[chattr help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/chattr.md)
 
 It is a file system command which is used for changing the attributes of a file in a directory.
 
 ## 95. chfn command
 
-[chfn help]()
+[chfn help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/chfn.md)
 
 It allows you to change a user’s name and other details easily. chfn stands for Change finger.
 
 ## 96. chgrp command
 
-[chgrp help]()
+[chgrp help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/chgrp.md)
 
 Used to change the group ownership of a file or directory.
 
 ## 97. chkconfig command
 
-[chkconfig help]()
+[chkconfig help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/chkconfig.md)
 
 Used to list all available services and view or update their run level settings.
 
 ## 98. chpasswd command
 
-[chpasswd help]()
+[chpasswd help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/chpasswd.md)
 
 Used to change password for multiple users at a time.
 
 ## 99. chroot command
 
-[chroot help]()
+[chroot help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/chroot.md)
 
 Used to change the root directory.
 
 ## 100. chrt command
 
-[chrt help]()
+[chrt help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/chrt.md)
 
 Used for manipulating the real-time attributes of a process.
 
 ## 101. chsh command
 
-[chsh help]()
+[chsh help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/chsh.md)
 
 Used to change the user’s login shell(currently login shell).
 
@@ -489,7 +489,7 @@ Used to switch between the different TTY (TeleTYpewriter) terminals available.
 
 ## 103. cksum command
 
-[cksum help]()
+[cksum help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/cksum.md)
 
 Used to display a CRC(Cyclic Redundancy Check) value, the byte size of the file and the name of the file to standard output.
 
@@ -507,242 +507,242 @@ Used to format the text processor output so that it can be viewed on Cathode Ray
 
 ## 106. colrm command
 
-[colrm help]()
+[colrm help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/clorm.md)
 
 Removes selected columns from a file.
 
 ## 107. column command
 
-[column help]()
+[column help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/cloumn.md)
 
 Used to display the contents of a file in columns.
 
 ## 108. comm command
 
-[comm help]()
+[comm help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/comm.md)
 
 Compares two sorted files line by line and write to standard output; the lines that are common and the lines that are unique.
 
 ## 109. compress command
 
-[compress help]()
+[compress help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/compress.md)
 
 Used to reduce the file size. After compression, the file will be available with an added .Z extension.
 
 ## 110. continue command
 
-[continue help]()
+[continue help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/continue.md)
 
 Used to skip the current iteration in for, while and until loop.
 
 ## 111. cpio command
 
-[cpio help]()
+[cpio help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/cpio.md)
 
 cpio stands for “copy in, copy out“. It is used for processing the archive files like *.cpio or *.tar. This command can copy files to and from archives
 
 ## 112. cron command
 
-[cron help]()
+[cron help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/cron.md)
 
 A software utility, offered by Linux-like operating system which automates the scheduled task at a predetermined time.
 
 ## 113. crontab command
 
-[crontab help]()
+[crontab help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/crontab.md)
 
 A list of commands that you want to run on a regular schedule, and also the name of the command used to manage that list.
 
 ## 114. csplit command
 
-[csplit help]()
+[csplit help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/csplit.md)
 
 Used to split any file into many parts as required by the user.
 
 ## 115. ctags command
 
-[ctags help]()
+[ctags help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ctags.md)
 
 It allows quick access across the files (For example quickly seeing definition of a function).
 
 ## 116. cupsd command
 
-[cupsd help]()
+[cupsd help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/cupsd.md)
 
 It is a type of scheduler for CUPS (Common Unit Printing System). It implements the printing system on the basis of the Internet Printing Protocol.
 
 ## 117. curl command
 
-[curl help]()
+[curl help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/curl.md)
 
 A tool to transfer data to or from a server, using any of the supported protocols
 
 ## 118. cut command
 
-[cut help]()
+[cut help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/cut.md)
 
 For cutting out the sections from each line of files and writing the result to standard output
 
 ## 119. cvs command
 
-[cvs help]()
+[cvs help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/cvs.md)
 
 Used to store the history of a file. Whenever a file gets corrupted or anything goes wrong “cvs” help us to go back to the previous version and restore our file.
 
 ## 120. date command
 
-[date help]()
+[date help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/date.md)
 
 Used to display the system date and time. It is also used to set date and time of the system.
 
 ## 121. dd command
 
-[dd help]()
+[dd help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/dd.md)
 
 It is a command-line utility for Unix and Unix-like operating systems whose primary purpose is to convert and copy files.
 
 ## 122. declare command
 
-[declare help]()
+[declare help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/declare.md)
 
 Used to declare shell variables and functions, set their attributes and display their values.
 
 ## 123. depmod command
 
-[depmod help]()
+[depmod help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/depmod.md)
 
 Used to generate a list of dependency description of kernel modules and its associated map files.
 
 ## 124. diff command
 
-[diff help]()
+[diff help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/diff.md)
 
 Used to display the differences in the files by comparing the files line by line.
 
 ## 125. dirname command
 
-[dirname help]()
+[dirname help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/dirname.md)
 
 Used to remove the trailing forward slahes “/” from the NAME and prints the remaining portion.
 
 ## 126. dirs command
 
-[dirs help]()
+[dirs help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/dirs.md)
 
 Used to display the list of currently remembered directories.
 
 ## 127. disable command
 
-[disable help]()
+[disable help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/disable.md)
 
 Used to stop the printers or classes.
 
 ## 128. dmesg command
 
-[dmesg help]()
+[dmesg help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/dmesg.md)
 
 Used to examine the kernel ring buffer and print the message buffer of kernel.
 
 ## 129. domainname command
 
-[domainname help]()
+[domainname help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/domainname.md)
 
 Used to return the Network Information System (NIS) domain name of the host.
 
 ## 130. dstat command
 
-[dstat help]()
+[dstat help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/dstat.md)
 
 Used to retrieve information or statistics form components of the system such as network connections, IO devices, or CPU, etc.
 
 ## 131. dump command
 
-[dump help]()
+[dump help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/dump.md)
 
 Used to backup the filesystem to some storage device.
 
 ## 132. dumpkeys command
 
-[dumpkeys help]()
+[dumpkeys help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/dumpkeys.md)
 
 Used for the dump keyboard translation tables.
 
 
 ## 133. eject command
 
-[eject help]()
+[eject help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/eject.md)
 
 It allows ejecting a removable media (typically a CD-ROM, floppy disk, tape, or JAZ or ZIP disk) using the software.
 
 ## 134. emacs command
 
-[emacs help]()
+[emacs help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/emacs.md)
 
 It is a editor having simple user interface. Also, there is no insert mode in this editor. It only have editing mode.
 
 ## 135. enable command
 
-[enable help]()
+[enable help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/enable.md)
 
 Used to start the printers or classes
 
 ## 136. env command
 
-[env help]()
+[env help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/env.md)
 
 Used to either print environment variables. It is also used to run a utility or command in a custom environment.
 
 ## 137. eval command
 
-[eval help]()
+[eval help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/eval.md)
 
 Built-in command used to execute arguments as a shell command.
 
 ## 138. exit command
 
-[exit help]()
+[exit help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/exit.md)
 
 Used to exit the shell where it is currently running
 
 ## 139. expand command
 
-[expand help]()
+[expand help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/expand.md)
 
 Allows you to convert tabs into spaces in a file and when no file is specified it reads from standard input.
 
 ## 140. expect command
 
-[expect help]()
+[expect help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/expect.md)
 
 This command or scripting language works with scripts that expect user inputs. It automates the task by providing inputs.
 
 ## 141. export command
 
-[export help]()
+[export help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/export.md)
 
 It is bash shell BUILTINS commands, which means it is part of the shell. It marks an environment variables to be exported to child-processes.
 
 ## 142. expr command
 
-[expr help]()
+[expr help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/expr.md)
 
 It evaluates a given expression and displays its corresponding output.
 
 ## 143. factor command
 
-[factor help]()
+[factor help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/factor.md)
 
 Used to print the prime factors of the given numbers, either given from command line or read from standard input.
 
 ## 144. fc command
 
-[fc help]()
+[fc help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/fc.md)
 
 Used to list, edit or re-execute the commands previously entered into an interactive shell.
 
 ## 145. fc-list command
 
-[fc-list help]()
+[fc-list help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/fg.md)
 
 It is used to list the available fonts and font styles. Using the format option, the list of all fonts can be filtered and sorted out.
 
@@ -754,157 +754,157 @@ Used to put a background job in foreground.
 
 ## 147. file command
 
-[file help]()
+[file help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/file.md)
 
 Used to determine the type of a file. .file type may be of human-readable(e.g. ‘ASCII text’) or MIME type(e.g. ‘text/plain; charset=us-ascii’).
 
 ## 148. find command
 
-[find help]()
+[find help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/find.md)
 
 Used to find files and directories and perform subsequent operations on them.
 
 ## 149. finger command
 
-[finger help]()
+[finger help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/finger.md)
 
 It is a user information lookup command which gives details of all the users logged in.
 
 ## 150. fmt command
 
-[fmt help]()
+[fmt help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/fmt.md)
 
 Works as a formatter for simplifying and optimizing text files.
 
 ## 151. fold command
 
-[fold help]()
+[fold help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/fold.md)
 
 It wraps each line in an input file to fit a specified width and prints it to the standard output.
 
 ## 152. for command
 
-[for help]()
+[for help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/for.md)
 
 Used to repeatedly execute a set of command for every element present in the list.
 
-## 153. Fun command
+## 153. fun command
 
-[Fun help]()
+[Fun help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/fun.md)
 
 Used to draw various type of patterns on the terminal.
 
 ## 154. function command
 
-[function help]()
+[function help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/function.md)
 
 Used to create functions or methods.
 
 ## 155. gawk command
 
-[gawk help]()
+[gawk help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/gawk.md)
 
 Used for pattern scanning and processing language.
 
 ## 156. gdb command
 
-[gdb help]()
+[gdb help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/gdb.md)
 
 GNU Debugger tool helps to debug the programs written in C, C++, Ada, Fortran, etc.
 
 ## 157. getent command
 
-[getent help]()
+[getent help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/getent.md)
 
 Used to get the entries in a number of important text files called databases.
 
 ## 158. gpasswd command
 
-[gpasswd help]()
+[gpasswd help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/gpasswd.md)
 
 Used to administer the /etc/group and /etc/gshadow.
 
 ## 159. groupadd command
 
-[groupadd help]()
+[groupadd help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/groupadd.md)
 
 Used to create a new user group.
 
 ## 160. groupdel command
 
-[groupdel help]()
+[groupdel help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/groupdel.md)
 
 Used to delete a existing group.
 
 ## 161. groupmod command
 
-[groupmod help]()
+[groupmod help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/gorupmod.md)
 
 Used to modify or change the existing group on Linux system.
 
 ## 162. groups command
 
-[groups help]()
+[groups help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/groups.md)
 
 Groups are the collection of users. Groups make it easy to manage users with the same security and access privileges.
 
 ## 163. grpck command
 
-[grpck help]()
+[grpck help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/grpck.md)
 
 It verifies the integrity of the groups information. It checks that all entries in /etc/group and /etc/gshadow have. the proper format and contain valid data
 
 ## 164. grpconv command
 
-[grpconv help]()
+[grpconv help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/grpconv.md)
 
 It is used to convert to shadow groups. The grpconv command creates a gshadow from the group and an optionally existing gshadow.
 
 ## 165. gs command
 
-[gs help]()
+[gs help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/gs.md)
 
 This command invokes Ghostscript, which is an interpreter of Adobe Systems PostScript and Portable Document Format(PDF) languages.
 
 ## 166. gunzip command
 
-[gunzip help]()
+[gunzip help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/gunzip.md)
 
 Used to compress or expand a file or a list of files in Linux.
 
 ## 167. gzexe command
 
-[gzexe help]()
+[gzexe help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/gzexe.md)
 
 Used to compress executable files and also used to automatically uncompress and execute the files.
 
 ## 168. gzip command
 
-[gzip help]()
+[gzip help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/gzip.md)
 
 This command compresses files. Each single file is compressed into a single file.
 
 ## 169. halt command
 
-[halt help]()
+[halt help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/halt.md)
 
 Used to instruct the hardware to stop all the CPU functions. Basically, it reboots or stops the system.
 
 ## 170. hash command
 
-[hash help]()
+[hash help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/hash.md)
 
 Used to maintain a hash table of recently executed programs.
 
 ## 171. hdparm command
 
-[hdparm help]()
+[hdparm help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/hdparm.md)
 
 Used to get statistics about the hard disk, alter writing intervals, acoustic management, and DMA settings.
 
 ## 172. hexdump command
 
-[hexdump help]()
+[hexdump help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/hexdump.md)
 
 Used to filter and display the specified files, or standard input in a human readable specified format.
 
