@@ -910,353 +910,353 @@ Used to filter and display the specified files, or standard input in a human rea
 
 ## 173. history command
 
-[history help]()
+[history help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/history.md)
 
 Used to view the previously executed command.
 
 ## 174. hostid command
 
-[hostid help]()
+[hostid help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/hostid.md)
 
 Used to displays the Host’s ID in hexadecimal format.
 
 ## 175. hostname command
 
-[hostname help]()
+[hostname help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/hostname.md)
 
 Used to obtain the DNS(Domain Name System) name and set the system’s hostname or NIS(Network Information System) domain name.
 
 ## 176. hostnamectl command
 
-[hostnamectl help]()
+[hostnamectl help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/hostnamectl.md)
 
 Provides a proper API used to control Linux system hostname and change its related settings.
 
 ## 177. hwclock command
 
-[hwclock help]()
+[hwclock help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/hwclock.md)
 
 Utility for accessing the hardware clock, also called Real Time Clock (RTC).
 
 ## 178. iconv command
 
-[iconv help]()
+[iconv help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/iconv.md)
 
 Used to convert some text in one encoding into another encoding.
 
 ## 179. id command
 
-[id help]()
+[id help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/id.md)
 
 Used to find out user and group names and numeric ID’s (UID or group ID) of the current user or any other user in the server.
 
 ## 180. if command
 
-[if help]()
+[if help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/if.md)
 
 Used to execute commands based on conditions.
 
 ## 181. ifconfig command
 
-[ifconfig help]()
+[ifconfig help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ifconfig.md)
 
 Used to configure the kernel-resident network interfaces.
 
 ## 182. iftop command
 
-[iftop help]()
+[iftop help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/iftop.md)
 
 It is a network analyzing tool used by system administrators to view the bandwidth related stats.
 
 ## 183. ifup command
 
-[ifup help]()
+[ifup help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ifup.md)
 
 It basically brings the network interface up, allowing it to transmit and receive dat.
 
 ## 184. import command
 
-[import help]()
+[import help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/import.md)
 
 Used for capturing a screenshot for any of the active pages we have and it gives the output as an image file.
 
 ## 185. insmod command
 
-[insmod help]()
+[insmod help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/insmod.md)
 
 Used to insert modules into the kernel.
 
 ## 186. install command
 
-[install help]()
+[install help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/install.md)
 
 Used to copy files and set attributes.
 
 ## 187. iostat command
 
-[iostat help]()
+[iostat help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/iostat.md)
 
 Used for monitoring system input/output statistics for devices and partitions.
 
 ## 188. iotop command
 
-[iotop help]()
+[iotop help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/iotop.md)
 
 Used to display and monitor the disk IO usage details and even gets a table of existing IO utilization by the process.
 
 ## 189. ipcrm command
 
-[ipcrm help]()
+[ipcrm help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ipcrm.md)
 
 Used to remove some IPC(Inter-Process Communication) resources. It eliminates the IPC objects and their associated. data structure form the system
 
 ## 190. iwconfig command
 
-[iwconfig help]()
+[iwconfig help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/iwconfig.md)
 
 Used to display the parameters, and the wireless statistics which are extracted from /proc/net/wireless.
 
 ## 191. join command
 
-[join help]()
+[join help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/join.md)
 
 It is a command line utility for joining lines of two files based on a key field present in both the files.
 
 ## 192. journalctl command
 
-[journalctl help]()
+[journalctl help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/journalctl.md)
 
 Used to view systemd, kernel and journal logs.
 
 ## 193. kill command
 
-[kill help]()
+[kill help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/kill.md)
 
 Used to terminate processes manually. kill command sends a signal to a process which terminates the process.
 
 ## 194. last command
 
-[last help]()
+[last help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/last.md)
 
 Used to display the list of all the users logged in and out since the file /var/log/wtmp was created.
 
 ## 195. let command
 
-[let help]()
+[let help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/let.md)
 
 Used to evaluate arithmetic expressions on shell variables.
 
 ## 196. ln command
 
-[ln help]()
+[ln help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ln.md)
 
 Used to create links between files.
 
 ## 197. locate command
 
-[locate help]()
+[locate help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/locate.md)
 
 Used to find the files by name.
 
 ## 198. look command
 
-[look help]()
+[look help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/look.md)
 
 Shows the lines beginning with a given string.
 
 ## 199. lsblk command
 
-[ help]()
+[ help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/lsblk.md)
 
 Used to display details about block devices and these block devices(Except ram disk) are basically those files that represent devices connected to the pc.
 
 ## 200. lshw command
 
-[lshw help]()
+[lshw help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/lshw.md)
 
 Used to generate the detailed information of the system’s hardware configuration from various files in the /proc directory.
 
 ## 201. lsusb command
 
-[lsusb help]()
+[lsusb help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/lsusb.md)
 
 Used to display the information about USB buses and the devices connected to them.
 
 ## 202. mailq command
 
-[mailq help]()
+[mailq help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/mailq.md)
 
 This command in Linux prints the mail queue i.e the list of messages that are there in the mail queue.
 
 ## 203. modinfo command
 
-[modinfo help]()
+[modinfo help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/modinfo.md)
 
 Used to display the information about a Linux Kernel module.
 
 ## 204. mount command
 
-[mount help]()
+[mount help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/mount.md)
 
 Used to mount the filesystem found on a device to big tree structure(Linux filesystem) rooted at ‘/‘.
 
 ## 205. mpstat command
 
-[mpstat help]()
+[mpstat help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/mpstat.md)
 
 Used to report processor related statistics.
 
 ## 206. nc(netcat) command
 
-[nc help]()
+[nc help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/netcat.md)
 
 It is one of the powerful networking tool, security tool or network monitoring tool.
 
 ## 207. netstat command
 
-[netstat help]()
+[netstat help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/netstat.md)
 
 Displays various network related information such as network connections, routing tables, interface statistics, masquerade connections, multicast memberships, etc.
 
 ## 208. nmcli command
 
-[nmcli help]()
+[nmcli help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/nmcli.md)
 
 Used for controlling NetworkManager. nmcli command can also be used to display network device status, create, edit, activate/deactivate, and delete network connections.
 
 ## 209. nslookup command
 
-[nslookup help]()
+[nslookup help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/nslookup.md)
 
 It is a network administration tool for querying the Domain Name System (DNS) to obtain domain name or IP address mapping or any other specific DNS record.
 
 ## 210. paste command
 
-[paste help]()
+[paste help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/paste.md)
 
 Used to join files horizontally (parallel merging) by outputting lines consisting of lines from each file specified, separated by tab as delimiter, to the standard output.
 
 ## 211. pidof command
 
-[pidof help]()
+[pidof help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/pidof.md)
 
 Used to find out the process IDs of a specific running program.
 
 ## 212. ping command
 
-[ping help]()
+[ping help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ping.md)
 
 Used to check the network connectivity between host and server/host.
 
 ## 213. pmap command
 
-[pmap help]()
+[pmap help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/pmap.md)
 
 
 
 ## 214. poweroff command
 
-[poweroff help]()
+[poweroff help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/poweroff.md)
 
 
 
 ## 215. printf command
 
-[printf help]()
+[printf help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/printf.md)
 
 Used to display the given string, number or any other format specifier on the terminal window.
 
 ## 216. ranlib command
 
-[ranlib help]()
+[ranlib help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ranlib.md)
 
 Used to generate index to archive.
 
 ## 214. rcp command
 
-[rcp help]()
+[rcp help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/rcp.md)
 
 Used to copy files from one computer to another computer.
 
 ## 215. read command
 
-[read help]()
+[read help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/read.md)
 
 Reads up the total number of bytes from the specified file descriptor into the buffer.
 
 ## 216. readelf command
 
-[readelf help]()
+[readelf help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/readelf.md)
 
 Used to get information of ELF(Executable and Linkable Format) Files.
 
 ## 217. readlink command
 
-[readlink help]()
+[readlink help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/readlink.md)
 
 Used to print resolved symbolic links or canonical file names.
 
 ## 218. reboot command
 
-[reboot help]()
+[reboot help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/reboot.md)
 
 Instructs the system to restart or reboot.
 
 ## 219. reset command
 
-[reset help]()
+[reset help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/reset.md)
 
 Used to initialize the terminal. This is useful once a program dies leaving a terminal in an abnormal state.
 
 ## 220. restore command
 
-[restore help]()
+[restore help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/restore.md)
 
 Used for restoring files from a backup created using dump.
 
 ## 221. return command
 
-[return help]()
+[return help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/return.md)
 
 Used to exit from a shell function.
 
 ## 222. rev command
 
-[rev help]()
+[rev help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/rev.md)
 
 Used to reverse the lines characterwise.
 
 ## 223. rmmod command
 
-[rmmod help]()
+[rmmod help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/rmmod.md)
 
 Used to remove a module from the kernel.
 
 ## 224. route command
 
-[route help]()
+[route help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/route.md)
 
 Used when you want to work with the IP/kernel routing table.
 
 ## 225. sar command
 
-[sar help]()
+[sar help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/sar.md)
 
 ## 226. screen command
 
-[screen help]()
+[screen help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/screen.md)
 
 Provides the ability to launch and use multiple shell sessions from a single ssh session.
 
 ## 227. script command
 
-[script help]()
+[script help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/script.md)
 
 Used to make typescript or record all the terminal activities.
 
 ## 228. sdiff command
 
-[sdiff help]()
+[sdiff help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/sdiff.md)
 
 Used to compare two files and then writes the results to standard output in a side-by-side format.
 
@@ -1268,283 +1268,283 @@ Used for finding, filtering, text substitution, replacement and text manipulatio
 
 ## 230. select command
 
-[select help]()
+[select help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/select.md)
 
 Used to create a numbered menu from which a user can select an option.
 
 ## 231. seq command
 
-[seq help]()
+[seq help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/seq.md)
 
 Used to generate numbers from FIRST to LAST in steps of INCREMENT.
 
 ## 232. setsid command
 
-[setsid help]()
+[setsid help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/setsid.md)
 
 Used to run a program in a new session.
 
 ## 233. shift command
 
-[shift help]()
+[shift help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/shift.md)
 
 Shifts/moves the command line arguments to one position left.
 
 ## 234. showkey command
 
-[showkey help]()
+[showkey help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/showkey.md)
 
 prints to standard output either the scan codes or the key code or the `ascii’ code of each key pressed.
 
 ## 235. shred command
 
-[shred help]()
+[shred help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/shred.md)
 
 Used in order to delete a file completely from hard disk.
 
 ## 236. shutdown command
 
-[shutdown help]()
+[shutdown help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/shutdown.md)
 
 Used to shutdown the system in a safe way.
 
 ## 237. sleep command
 
-[sleep help]()
+[sleep help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/sleep.md)
 
 Used to create a dummy job. A dummy job helps in delaying the execution.
 
 ## 238. source command
 
-[source help]()
+[source help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/source.md)
 
 Used to read and execute the content of a file(generally set of commands), passed as an argument in the current shell script.
 
 ## 239. sort command
 
-[sort help]()
+[sort help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/sort.md)
 
 Used to sort a file, arranging the records in a particular order.
 
 ## 240. split command
 
-[split help]()
+[split help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/split.md)
 
 Used to split large files into smaller files.
 
 ## 241. ssh command
 
-[ssh help]()
+[ssh help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ssh.md)
 
 Protocol used to securely connect to a remote server/system.
 
 ## 242. strace command
 
-[strace help]()
+[strace help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/strace.md)
 
 It is one of the most powerful process monitoring, diagnostic, instructional tool of Linux.
 
 ## 243. stty command
 
-[stty help]()
+[stty help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/stty.md)
 
 Used to change and print terminal line settings.
 
 ## 244. sum command
 
-[sum help]()
+[sum help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/sum.md)
 
 Used to find checksum and count the blocks in a file.
 
 ## 245. sync command
 
-[sync help]()
+[sync help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/sync.md)
 
 Used to synchronize cached writes to persistent storage.
 
 ## 246. tac command
 
-[tac help]()
+[tac help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/tac.md)
 
 Used to concatenate and print files in reverse.
 
 ## 247. Tail command
 
-[Tail help]()
+[Tail help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/tail.md)
 
 Prints the last N number of data of the given input.
 
 ## 248. tar command
 
-[tar help]()
+[tar help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/tar.md)
 
 Used to create Archive and extract the Archive files.
 
 ## 249. tee command
 
-[tee help]()
+[tee help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/tee.md)
 
 ## 250. tr command
 
-[tr help]()
+[tr help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/tr.md)
 
 It is a command line utility for translating or deleting characters.
 
 ## 251. tracepath command
 
-[tracepath help]()
+[tracepath help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/touch.md)
 
 Used to traces path to destination discovering MTU along this path.
 
 ## 252. traceroute command
 
-[traceroute help]()
+[traceroute help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/tracepath.md)
 
 Prints the route that a packet takes to reach the host.
 
 ## 253. tty command
 
-[tty help]()
+[tty help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/tty.md)
 
 It displays the information related to terminal. It basically prints the file name of the terminal connected to standard input.
 
 ## 254. type command
 
-[type help]()
+[type help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/type.md)
 
 ## 255. uname command
 
-[uname help]()
+[uname help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/uname.md)
 
 Displays the information about the system.
 
 ## 256. unexpand command
 
-[unexpand help]()
+[unexpand help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/unexpand.md)
 
 Converts each spaces into tabs writing the produced output to the standard output.
  
 ## 257. uniq command
 
-[uniq help]()
+[uniq help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/uniq.md)
 
 It is a command line utility that reports or filters out the repeated lines in a file.
 
 ## 258. until command
 
-[until help]()
+[until help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/until.md)
 
 Used to execute a set of commands as long as the final command in the ‘until’ Commands has an exit status which is not zero.
 
 ## 259. Uptime command
 
-[Uptime help]()
+[Uptime help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/uptime.md)
 
 Used to find out how long the system is active (running).
 
 ## 260. vmstat command
 
-[vmstat help]()
+[vmstat help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/vmstat.md)
 
 It is a performance monitoring command of the system as it gives the information about processes, memory, paging, block IO, disk and CPU scheduling.
 
 ## 261. vnstat command
 
-[vnstat help]()
+[vnstat help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/vnstat.md)
 
 Used by system administrators in order to monitor network parameters such as bandwidth consumption or maybe some traffic flowing in or out.
  
 ## 262. w command
 
-[w help]()
+[w help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/w.md)
 
 Used to show who is logged on and what they are doing.
 
 ## 263. wall command
 
-[wall help]()
+[wall help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/wall.md)
 
 Displays a message, or the contents of a file, or otherwise its standard input, on the terminals of all currently logged in users.
 
 ## 264. watch command
 
-[watch help]()
+[watch help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/whatch.md)
 
 Used to execute a program periodically, showing output in fullscreen.
 
 ## 265. wc command
 
-[wc help]()
+[wc help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/wc.md)
 
 Used to find out number of lines, word count, byte and characters count in the files specified in the file arguments.
 
-## 266. Wget command
+## 266. wget command
 
-[Wget help]()
+[Wget help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/wget.md)
 
 Used to download files from the server even when the user has not logged on to the system and it can work in background without hindering the current process.
 
 ## 267. whatis command
 
-[whatis help]()
+[whatis help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/whatis.md)
 
 ## 268. which command
 
-[which help]()
+[which help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/which.md)
 
 Used to locate the executable file associated with the given command by searching it in the path environment variable.
 
 ## 269. while command
 
-[while help]()
+[while help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/while.md)
 
 Used to repeatedly execute a set of command as long as the COMMAND returns true.
 
 ## 270. who command
 
-[who help]()
+[who help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/who.md)
 
 Used to get information about currently logged in user on to system.
 
 ## 271. whoami command
 
-[whoami help]()
+[whoami help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/whoami.md)
 
 Displays the username of the current user when this command is invoked.
 
 ## 272. write command
 
-[write help]()
+[write help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/write.md)
 
 Allows a user to communicate with other users, by copying lines from one user’s terminal to others.
 
 ## 273. xargs command
 
-[xargs help]()
+[xargs help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/xargs.md)
 
 Used to build and execute commands from standard input. It converts input received from standard input into arguments of a command.
 
 ## 274. zdiff command
 
-[zdiff help]()
+[zdiff help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/zdiff.md)
 
 Used to invoke the diff program on files compressed via gzip.
 
 ## 275. zdump command
 
-[zdump help]()
+[zdump help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/zdump.md)
 
 Used to print the current time in the specified zone or you can say prints the current time in each zonename named on the command line.
 
 ## 276. zgrep command
 
-[zgrep help]()
+[zgrep help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/zgrep.md)
 
 Used to search out expressions from a given a file even if it is compressed.
 
 ## 277. zip command
 
-[zip help]()
+[zip help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/hostid.md)
 
 It is a compression and file packaging utility for Unix. Each file is stored in single .zip {.zip-filename} file with the extension .zip.
 
