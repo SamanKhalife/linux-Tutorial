@@ -205,6 +205,99 @@ In many cases, you need to resize your partitions or even install new disks and 
 - Swap is slower than RAM because Swap is part of the hard drive.
 - (mostly we set swap 2*ram but less than 8 GB for hdd and set 1*ram or 2*ram )
 
+# These are some of the most used bash environment variables
+
+<table style="width:100%">
+  <tr>
+    <td>USER</td>
+    <td>The name of the logged-in user</td> 
+  </tr>
+  <tr>
+    <td>PATH</td>
+    <td>List of directories to search for commands, colon separated</td> 
+  </tr>
+  <tr>
+    <td>EDITOR</td>
+    <td>Default editor</td> 
+  </tr>
+  <tr>
+    <td>HISTFILE</td>
+    <td>System hostname</td> 
+  </tr>
+  <tr>
+    <td>HOSTNAME</td>
+    <td>Show Info</td> 
+  </tr>
+  <tr>
+    <td>PS1</td>
+    <td>The Prompt! Play with it</td> 
+  </tr>
+  <tr>
+    <td>UID</td>
+    <td>The numeric user id of the logged-in user</td> 
+  </tr>
+  <tr>
+    <td>HOME</td>
+    <td>The user's home directory</td> 
+  </tr>
+  <tr>
+    <td>PWD</td>
+    <td>The current working directory</td> 
+  </tr>
+  <tr>
+    <td>SHELL</td>
+    <td>The name of the shell</td> 
+  </tr>	
+  <tr>
+    <td>$</td>
+    <td>The process id (or PID of the running bash shell (or other) process</td> 
+  </tr>	
+  <tr>
+    <td>PPID</td>
+    <td>The process id of the process that started this process (that is, the id of the parent process)</td> 
+  </tr>	
+    <tr>
+    <td>?</td>
+    <td>The exit code of the last command</td> 
+  </tr>	
+</table>
+
+</b>
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -547,6 +640,65 @@ This command is used when the user wants to search for the given regex term(s) i
  
  Basic Syntax :`sudo apt-get [options] [command] [package(s)]`
 
+ If you want to download only one specific package, you can do:`apt-get download [...PACKAGES]`
+
+ Removing debian packages:`apt-get remove [package(s)]`
+
+## package information with dpkg
+
+ If you want to reconfigure a package that is already installed, you can use the:`dpkg-reconfigure tzdata`
+
+ dpkg [OPTIONS] ACTION PACKAGE
+<details>
+<summary> Switch Description </summary><br><b>
+
+<table style="width:100%">
+  <tr>
+    <td>-c or --contents</td>
+    <td>Show the contents of a package</td> 
+  </tr>
+  <tr>
+    <td>-C or --audit</td>
+    <td>Search for broken installed packages and propose solutions</td> 
+  </tr>
+  <tr>
+    <td>--configure</td>
+    <td>Reconfigure an installed package</td> 
+  </tr>
+  <tr>
+    <td>-i or --install	</td>
+    <td>Install or Upgrade a package; Wont resolve / install dependencies</td> 
+  </tr>
+  <tr>
+    <td>-I or --info</td>
+    <td>Show Info</td> 
+  </tr>
+  <tr>
+    <td>-l or --list</td>
+    <td>List all installed packages</td> 
+  </tr>
+  <tr>
+    <td>-L or --listfiles</td>
+    <td>List all files related to this package</td> 
+  </tr>
+  <tr>
+    <td>-r or --remove</td>
+    <td>Remove the package; Keep the configurations</td> 
+  </tr>
+  <tr>
+    <td>-s or --status</td>
+    <td>Display status of a package</td> 
+  </tr>	
+  <tr>
+    <td>-S or --search</td>
+    <td>Search and see which package owns this file</td> 
+  </tr>	
+</table>
+
+</b>
+</details>
+
+
 # How to your find your Linux IP address
 The following commands will get you the IP address list to find public IP addresses for your machine:
 
@@ -803,13 +955,61 @@ Next we’ll review some settings we can update to tune our swap space.
 
 
 
+ 
+# Linux as a virtualization guest
+topics:Virtual machine/Linux container/Application container/Guest drivers/SSH host keys/D-Bus machine id
+
+To check and see if your host operating system / CPU, supports using hypervisors check for the `vmx` (for Intel CPUs) or `svm` (for AMD CPUs) in your `/proc/cpuinfo` in flags.
+
+Based on your CPU you should have `kvm` or `kvm-amd` kernel modules loaded.
+```
+lsmod | grep -i kvm
+sudo modprobe kvm
+```
+(If you see hypervisor in your /proc/cpuinfo it means that you are inside a virtualized Linux machine )
+
+### let's see the 2 types of hypervisors. First type 2, since it's easier to understand.
+
+![img](https://github.com/SamanKhalife/linux-Tutorial/blob/main/IMAGES/5555555555555555555.png)
+
+#### Type 2 Hypervisor
+These hypervisors run on a conventional operating system (OS) just as other computer programs do. A guest operating system runs as a process on the host. Type-2 hypervisors abstract guest operating systems from the host operating system.
+
+In other words, a type 2 hypervisor is the software between the guest and host. It completely runs on the host OS and provides virtualization to the guest.
+
+Two of the most famous Type 2 hypervisors are VirtualBox (from Oracle) and VMware.
+
+#### Type 1 Hypervisor
+These hypervisors run directly on the host's hardware to control the hardware and manage guest operating systems. For this reason, they are sometimes called bare-metal hypervisors. The first hypervisors, which IBM developed in the 1960s, were native hypervisors. These included the test software SIMMON and the CP/CMS operating system, the predecessor of IBM z/VM.
+
+Some of the most famous Type 1 hypervisors are KVM, Xen & Hyper-V. KVM is built-in since Linux Kernel version 2.6.20.
+
+
+
+## Creating a Virtual Machine
+
+First, create the machine itself. We tell the hypervisor this machine how much RAM/disk/CPU/... needs and set a name for our machine. Then we need to install the guest OS. This can be done using:
+
+- Installing from a CD / DVD / ...
+- Cloning an existing machine.
+- Using Open Virtualization Format (OVF) to move machines between hypervisors. This is a standard format for virtual machine definition and may include several files, in this case, you can archive all of them into one Open Virtualization Archive (OVA) file.
+- It is also possible to create Templates that are master copies* to initiate new machines.
+
+## Guest-specific configs
+Some configurations are machine specific. For example, a network card's MAC address should be unique for whole the network. If we are cloning a machine or sometimes creating them from templates, at least we need to change these on each machine before booting them:
+- Host Name
+- NIC MAC Address
+- NIC IP (If not using DHCP)
+- Machine ID (delete the `/etc/machine-id` and `/var/lib/dbus/machine-id` and run `dbus-uuidgen --ensure`. These two files might be soft links to each other)
+- Encryption Keys like SSH Fingerprints and PGP keys
+- HDD UUIDs
+- Any other UUIDs on the system
 
 
 
 
 
-
-
+ 
 # Cloud Delivery Models
 
 ### Infrastructure as a Service (IaaS)
@@ -821,6 +1021,11 @@ PaaS provides a computing platform where the underlying infrastructure (such as 
 ### Software as a Service (SaaS)
 SaaS providers are cloud-based applications that users access on demand from the internet without needing to install or maintain the software. Examples include GitHub, Google Docs, Slack, and Adobe Creative Cloud. SaaS applications are popular among businesses and general users given that they’re often easy to adopt, accessible from any device, and have free, premium, and enterprise versions of their applications. Like PaaS, SaaS abstracts away the underlying infrastructure of the software application so that users are only exposed to the interface they interact with.
 
+
+
+
+
+ 
 # Cloud Environments
 
 ### Public Cloud
