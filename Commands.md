@@ -6,7 +6,7 @@
 
 <h2>Table</h2>
 
-#### │  A │  B │  C  │  D  │  E  │  F  │  G  │  H  │  I  │  J  │  K  │  L  │  M  │  N  │  O  │  P  │  Q  │  R  │  S  │  T  │  U  │  V  │  W  │  X  │  Y  │  Z  │  
+#### │  [A](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Commands.md#-a) │  [B](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Commands.md#-b-) │  [C]()  │  [D]()  │  [E]()  │  [F]()  │  [G]()  │  [H]()  │  [I]()  │  [J]()  │  [K]()  │  [L]()  │  [M]()  │  [N]()  │  [O]()  │  [P]()  │  [Q]()  │  [R]()  │  [S]()  │  [T]()  │  [U]()  │  [V]()  │  [W]()  │  [X]()  │  [Y]()  │  [Z]()  │  
   
 </div>
 
@@ -784,6 +784,7 @@ Used to compress executable files and also used to automatically uncompress and 
 
 This command compresses files Each single file is compressed into a single file
 
+<h2> A</h2>
 
 ##  halt command
 
@@ -847,6 +848,8 @@ Provides a proper API used to control Linux system hostname and change its relat
 
 Utility for accessing the hardware clock, also called Real Time Clock (RTC)
 
+<h2> I </h2>
+
 ##  iconv command
 
 [iconv help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/iconvmd)
@@ -875,7 +878,6 @@ Used to execute commands based on conditions
 [ifconfig help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/ifconfigmd)
 
 Used to configure the kernel-resident network interfaces
-
 
 ##  iftop command
 
@@ -931,6 +933,8 @@ Used to remove some IPC(Inter-Process Communication) resources It eliminates the
 
 Used to display the parameters, and the wireless statistics which are extracted from /proc/net/wireless
 
+<h2> J </h2>
+
 ##  jobs command
 
 [jobs help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/jobsmd)
@@ -954,11 +958,15 @@ It is a command line utility for joining lines of two files based on a key field
 
 Used to view systemd, kernel and journal logs
 
+<h2> K </h2>
+
 ##  kill command
 
 [kill help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/killmd)
 
 Used to terminate processes manually kill command sends a signal to a process which terminates the process
+
+<h2> L </h2>
 
 ##  last command
 
@@ -1028,6 +1036,7 @@ Used to generate the detailed information of the system’s hardware configurati
 
 Used to display the information about USB buses and the devices connected to them
 
+<h2> M </h2>
 
 ##  man command
 
@@ -1068,6 +1077,8 @@ Used to mount the filesystem found on a device to big tree structure(Linux files
 
 Used to report processor related statistics
 
+<h2> N </h2>
+
 ##  nc(netcat) command
 
 [nc help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/netcatmd)
@@ -1091,6 +1102,8 @@ Used for controlling NetworkManager nmcli command can also be used to display ne
 [nslookup help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/nslookupmd)
 
 It is a network administration tool for querying the Domain Name System (DNS) to obtain domain name or IP address mapping or any other specific DNS record
+
+<h2> P </h2>
 
 ##  paste command
 
@@ -1117,8 +1130,6 @@ Used to check the network connectivity between host and server/host
 ##  ps command
 
 [ps help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/psmd)
-
-
 
 
 ##  poweroff command
@@ -1148,6 +1159,8 @@ Used to display the given string, number or any other format specifier on the te
 [ranlib help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/ranlibmd)
 
 Used to generate index to archive
+
+<h2> R </h2>
 
 ##  rcp command
 
@@ -1224,6 +1237,8 @@ Used to remove a module from the kernel
 [route help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/routemd)
 
 Used when you want to work with the IP/kernel routing table
+
+<h2> S </h2>
 
 ##  sar command
 
@@ -1358,13 +1373,15 @@ Used to find checksum and count the blocks in a file
 
 Used to synchronize cached writes to persistent storage
 
+<h2> T </h2>
+
 ##  tac command
 
 [tac help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/tacmd)
 
 Used to concatenate and print files in reverse
 
-##  Tail command
+##  tail command
 
 [Tail help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/tailmd)
 
@@ -1375,10 +1392,6 @@ Prints the last N number of data of the given input
 [tar help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/tarmd)
 
 Used to create Archive and extract the Archive files
-
-\##  tail command
-
-[tail help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/tailmd)
 
 ##  touch command
 
@@ -1428,6 +1441,8 @@ It displays the information related to terminal It basically prints the file nam
 
 [type help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/typemd)
 
+<h2> U </h2>
+
 ##  uname command
 
 [uname help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/unamemd)
@@ -1457,11 +1472,13 @@ Used to execute a set of commands as long as the final command in the ‘until�
 [useradd help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/useraddmd)
 
 
-##  Uptime command
+##  uptime command
 
 [Uptime help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/uptimemd)
 
 Used to find out how long the system is active (running)
+
+<h2> V </h2>
 
 ##  vmstat command
 
@@ -1474,6 +1491,8 @@ It is a performance monitoring command of the system as it gives the information
 [vnstat help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/vnstatmd)
 
 Used by system administrators in order to monitor network parameters such as bandwidth consumption or maybe some traffic flowing in or out
+
+<h2> W </h2>
  
 ##  w command
 
@@ -1543,11 +1562,17 @@ Displays the username of the current user when this command is invoked
 
 Allows a user to communicate with other users, by copying lines from one user’s terminal to others
 
+
+<h2> X </h2>
+
 ##  xargs command
 
 [xargs help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/xargsmd)
 
 Used to build and execute commands from standard input It converts input received from standard input into arguments of a command
+
+
+<h2> Z </h2>
 
 ##  zdiff command
 
@@ -1572,9 +1597,10 @@ Used to search out expressions from a given a file even if it is compressed
 [zip help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/hostidmd)
 
 It is a compression and file packaging utility for Unix Each file is stored in single zip {zip-filename} file with the extension zip
-##  unzip commands
 
-[zip help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/zipmd)
+
+
+
 
 
 ## 
