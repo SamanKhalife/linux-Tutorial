@@ -205,6 +205,99 @@ In many cases, you need to resize your partitions or even install new disks and 
 - Swap is slower than RAM because Swap is part of the hard drive.
 - (mostly we set swap 2*ram but less than 8 GB for hdd and set 1*ram or 2*ram )
 
+# These are some of the most used bash environment variables
+
+<table style="width:100%">
+  <tr>
+    <td>USER</td>
+    <td>The name of the logged-in user</td> 
+  </tr>
+  <tr>
+    <td>PATH</td>
+    <td>List of directories to search for commands, colon separated</td> 
+  </tr>
+  <tr>
+    <td>EDITOR</td>
+    <td>Default editor</td> 
+  </tr>
+  <tr>
+    <td>HISTFILE</td>
+    <td>System hostname</td> 
+  </tr>
+  <tr>
+    <td>HOSTNAME</td>
+    <td>Show Info</td> 
+  </tr>
+  <tr>
+    <td>PS1</td>
+    <td>The Prompt! Play with it</td> 
+  </tr>
+  <tr>
+    <td>UID</td>
+    <td>The numeric user id of the logged-in user</td> 
+  </tr>
+  <tr>
+    <td>HOME</td>
+    <td>The user's home directory</td> 
+  </tr>
+  <tr>
+    <td>PWD</td>
+    <td>The current working directory</td> 
+  </tr>
+  <tr>
+    <td>SHELL</td>
+    <td>The name of the shell</td> 
+  </tr>	
+  <tr>
+    <td>$</td>
+    <td>The process id (or PID of the running bash shell (or other) process</td> 
+  </tr>	
+  <tr>
+    <td>PPID</td>
+    <td>The process id of the process that started this process (that is, the id of the parent process)</td> 
+  </tr>	
+    <tr>
+    <td>?</td>
+    <td>The exit code of the last command</td> 
+  </tr>	
+</table>
+
+</b>
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -601,9 +694,6 @@ This command is used when the user wants to search for the given regex term(s) i
     <td>Search and see which package owns this file</td> 
   </tr>	
 </table>
-
-
-
 
 </b>
 </details>
