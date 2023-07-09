@@ -15,7 +15,7 @@ linux commands and any thing basic you need yo know for using linux (for cloud c
 - [Linux File Compression and Decompression] -commands：`tar`, `gzip`, `zip`, `unzip`
 - [Linux User Management] - commands：`groupadd`, `groupdel`, `groupmod`, `useradd`, `userdel`, `usermod`, `passwd`, `su`, `sudo`
 - [Linux System Administration ] - commands：`reboot`, `exit`, `shutdown`, `date`, `mount`, `umount`, `ps`, `kill`, `systemctl`, `service`, `crontab`
-- [Linux Network Administration] - commands：`curl`, `wget`, `telnet`, `ip`, `hostname`, `ifconfig`, `route`, `ssh`, `ssh-keygen`, `firewalld`, `iptables`, `host`, `nslookup`, `nc`/`netcat`, `ping`, `traceroute`, `netstat`
+- [Linux Network Administration] - commands：`curl`, `wget`, `telnet`, `ip`, `hostname`, `ifconfig`, `route`, `ssh`, `ssh-keygen`, `firewalld`, `iptables`, `host`, `nslookup`, `nc`, `netcat`, `ping`, `traceroute`, `netstat`
 - [Linux Hardware Management ] - commands：`df`, `du`, `top`, `free`, `iotop`
 - [Linux Software Management ] - commands：`rpm`, `yum`, `apt-get`
 
@@ -132,7 +132,9 @@ linux commands and any thing basic you need yo know for using linux (for cloud c
 # Things you should know about Linux Partitions
 ## 1.Hard drives
 - As a data storage device, for example in Linux it `isdev/sda`
-
+- `/dev/sda3` is the 3rd primary partition on the first disk
+- `/dev/sdb5` is the first logical partition on the second disk
+- `/dev/sda7` is the 3rd logical partition of the first physical disk
 ## 2. Partition
 - Partition is a small partition (Logical Partition) divided fromHard drives
 - Each Hard driveshas 4 partition, in which partition includes 3 types: Primary partition , Extended partition and Logical Partition
@@ -142,7 +144,57 @@ linux commands and any thing basic you need yo know for using linux (for cloud c
      +Is the remaining data area when we divide into Primary partitions.
      +Extended partition contains Logical Partitions in it. Each drive can only hold 1 Extended partition.
      +Logical partition : These are small partitions in the extended partition , usually used to store data.
-3. MBR and GPT
+
+fdisk
+```
+root@saman:~# fdisk /dev/sda
+Welcome to fdisk (util-linux 2.25.1).
+Changes will remain in memory only, until you decide to write them.
+Be careful before using the write command.
+
+
+root@saman:~# Command (m for help): p
+Disk /dev/sda: 298.1 GiB, 320072933376 bytes, 625142448 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disklabel type: dos
+Disk identifier: 0x000beca1
+
+Device     Boot     Start       End   Sectors   Size Id Type
+/dev/sda1  *         2048  43094015  43091968  20.6G 83 Linux
+/dev/sda2        43094016  92078390  48984375  23.4G 83 Linux
+/dev/sda3        92080126 625141759 533061634 254.2G  5 Extended
+/dev/sda5        92080128 107702271  15622144   7.5G 82 Linux swap / Solaris
+/dev/sda6       107704320 625141759 517437440 246.8G 83 Linux
+```
+
+parted
+```
+root@saman:~# sudo parted /dev/sda p
+Model: ATA ST320LT000-9VL14 (scsi)
+Disk /dev/sda: 320GB
+Sector size (logical/physical): 512B/512B
+Partition Table: msdos
+Disk Flags:
+
+Number  Start   End     Size    Type      File system     Flags
+ 1      1049kB  22.1GB  22.1GB  primary   ext4            boot
+ 2      22.1GB  47.1GB  25.1GB  primary   ext4
+ 3      47.1GB  320GB   273GB   extended
+ 5      47.1GB  55.1GB  7999MB  logical   linux-swap(v1)
+ 6      55.1GB  320GB   265GB   logical
+```
+- LVM (logical volume management)
+
+In many cases, you need to resize your partitions or even install new disks and add them to your current mount points; Increasing the total size. LVM is designed for this.
+     + Physical Volume (PV): A whole drive or a partition. It is better to define partitions and not use whole disks - unpartitioned.
+     + Volume Groups (VG): This is the collection of one or more PVs. OS will see the vg as one big disk. PVs in one VG, can have different sizes or even be on different physical disks.
+     + Logical Volumes (LV): OS will see lvs as partitions. You can format an LV with your OS and use it.
+
+
+ 
+## MBR and GPT
 - Information about hard disk partitions will be stored on MBR (Master Boot record) or GPT (GUID Partition table).
 - These are two standards for configuring and managing Partitions on hard drives.
 - The information stored here includes the location and size of the Partitions.
@@ -151,13 +203,14 @@ linux commands and any thing basic you need yo know for using linux (for cloud c
 - Swap is virtual memory concept used on Linux.
 - When VPS/Serveroperating, if the system runs out of RAM, it will automatically use part of the hard drive as memory for applications to operate.
 - Swap is slower than RAM because Swap is part of the hard drive.
+- (mostly we set swap 2*ram but less than 8 GB for hdd and set 1*ram or 2*ram )
 
 
 
 
 # File Directory
 - /home – User personal data
-- /boot – Boot files
+- /boot – Static files of the boot loader
 - /sbin – System binaries
 - /dev – Device files
 - /sys 
@@ -176,8 +229,8 @@ linux commands and any thing basic you need yo know for using linux (for cloud c
 - /opt – Optional software
 - /root – The home directory of the root
 - /media – Mount point for removable media
-- /mnt – Mount directory
-- /srv – Service data	
+- /mnt – Mount point for mounting a filesystem temporarily
+- /srv – Service data
 
 
 
@@ -185,7 +238,7 @@ linux commands and any thing basic you need yo know for using linux (for cloud c
 ## All default Linux commands in bin dir
 <details>
 <summary> VIEW ALL </summary><br><b>
-for better view you can see the code-----------------------------------------------------------------------------------------------------------------
+for better view you can see the code-----------------------------------------------------------------------------------------------------------
 envsubst                             lslogins                rgrep                              systemd-cryptenroll
 VGAuthService                        eqn                     lsmem                              rlogin              systemd-delta
 '['                                   ex                      lsmod                              rm                      systemd-detect-virt
