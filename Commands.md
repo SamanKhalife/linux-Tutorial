@@ -6,11 +6,11 @@
 
 <h2>Table</h2>
 
-#### │  [A](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Commands.md#-a) │  [B](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Commands.md#-b-) │  [C]()  │  [D]()  │  [E]()  │  [F]()  │  [G]()  │  [H]()  │  [I]()  │  [J]()  │  [K]()  │  [L]()  │  [M]()  │  [N]()  │  [O]()  │  [P]()  │  [Q]()  │  [R]()  │  [S]()  │  [T]()  │  [U]()  │  [V]()  │  [W]()  │  [X]()  │  [Y]()  │  [Z]()  │  
+#### │  [A](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Commands.md#-a) │  [B](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Commands.md#-b-) │  [C](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Commands.md#-c-)  │  [D](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Commands.md#-d-)  │  [E](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Commands.md#-e-)  │  [F](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Commands.md#-f-)  │  [G](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Commands.md#-g-)  │  [H]()  │  [I](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Commands.md#-i-)  │  [J](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Commands.md#-j-)  │  [K](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Commands.md#-k-)  │  [L](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Commands.md#-l-)  │  [M](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Commands.md#-m-)  │  [N](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Commands.md#-n-)  │  [O]()  │  [P](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Commands.md#-p-)  │  [Q]()  │  [R](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Commands.md#-r-)  │  [S](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Commands.md#-s-)  │  [T](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Commands.md#-t-)  │  [U](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Commands.md#-u-)  │  [V](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Commands.md#-v-)  │  [W](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Commands.md#-w-)  │  [X](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Commands.md#-x-)  │  [Y]()  │  [Z](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Commands.md#-z-)  │  
   
 </div>
 
-<h2> A</h2>
+<h2> A </h2>
   
 
 
@@ -784,7 +784,7 @@ Used to compress executable files and also used to automatically uncompress and 
 
 This command compresses files Each single file is compressed into a single file
 
-<h2> A</h2>
+<h2> H </h2>
 
 ##  halt command
 
