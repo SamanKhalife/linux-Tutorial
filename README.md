@@ -494,6 +494,30 @@ This command is used when the user wants to search for the given regex term(s) i
  
  Basic Syntax :`sudo apt-get [options] [command] [package(s)]`
 
+# How to your find your Linux IP address
+The following commands will get you the IP address list to find public IP addresses for your machine:
+
+If you enter the command `ifconfig` in the terminal, all information will be displayed. You can also use
+these commands:
+
+The following commands will get you the IP address list to find public IP addresses for your machine:
+
+- `curl ifconfig.me`
+- `curl -4/-6 icanhazip.com`
+- `curl ipinfo.io/ip`
+- `curl api.ipify.org`
+- `curl checkip.dyndns.org`
+- `dig +short myip.opendns.com @resolver1.opendns.com`
+- `host myip.opendns.com resolver1.opendns.com`
+- `curl ident.me`
+
+The following commands will get you the private IP address of your interfaces:
+
+- `ifconfig -a`
+- `hostname -I'`
+- `ip route get 1.2.3.4'`
+- `nmcli -p device show`(best option in my opinion)
+
 # Linux Networking Tools
 ping
 
