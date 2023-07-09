@@ -2,6 +2,17 @@
 <!--i think adding number is not a good so i don't do it -->
 <!-- SAMAN KHALIFE  -->
 
+<div align="center">
+
+<h2>Table</h2>
+
+#### │  A │  B │  C  │  D  │  E  │  F  │  G  │  H  │  I  │  J  │  K  │  L  │  M  │  N  │  O  │  P  │  Q  │  R  │  S  │  T  │  U  │  V  │  W  │  X  │  Y  │  Z  │  
+  
+</div>
+
+<h2> A</h2>
+  
+
 
 ## accept command
 
@@ -112,6 +123,8 @@ Accept or Reject jobs to a destination, such as a printer.
 
 [autoheader help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/autoheadermd)
 
+<h2> B </h2>
+
 ##  banner command
 
 [banner help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/bannermd)
@@ -195,6 +208,8 @@ Used to search for a pattern or an expression but inside a bzip-compressed file
 [bzip help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/bzip%()md)
 
 Used to compress and decompress the files
+
+<h2> C </h2>
 
 ##  cat command
 
@@ -422,6 +437,8 @@ For cutting out the sections from each line of files and writing the result to s
 
 Used to store the history of a file Whenever a file gets corrupted or anything goes wrong “cvs” help us to go back to the previous version and restore our file
 
+<h2> D </h2>
+
 ##  df command
 
 [df help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/dfmd)
@@ -520,6 +537,8 @@ Used to backup the filesystem to some storage device
 
 Used for the dump keyboard translation tables
 
+<h2> E </h2>
+
 ##  echo command
 
 [echo help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/echotxt)
@@ -584,6 +603,8 @@ It is bash shell BUILTINS commands, which means it is part of the shell It marks
 [expr help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/exprmd)
 
 It evaluates a given expression and displays its corresponding output
+
+<h2> F </h2>
 
 ##  factor command
 
@@ -668,6 +689,8 @@ Used to draw various type of patterns on the terminal
 [function help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/functionmd)
 
 Used to create functions or methods
+
+<h2> G </h2>
 
 ##  gawk command
 
