@@ -604,13 +604,13 @@ Only the file owner and superuser can use this command.
 
 # Group Permissions and attributes
 
-gorupmod
+[gorupmod]()
 
-groupadd
+[groupadd]()
 
-groupdel
+[groupdel]()
 
-groups
+[groups]()
 
 
 
@@ -724,25 +724,25 @@ The following commands will get you the private IP address of your interfaces:
 - `nmcli -p device show`(best option in my opinion)
 
 # Linux Networking Tools
-ping
+[ping](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ping.md)
 
-host
+[host](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/host.md)
 
-finger
+[finger](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/finger.md)
 
-traceroute
+[traceroute](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/traceroute.md)
 
-netstat
+[netstat](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/netstat.md)
 
-tracepath
+[tracepath](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/tracepath.md)
 
-dig
+[dig](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/dig.md)
 
-hostname
+[hostname](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/hostname.md)
 
-route
+[route](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/route.md)
 
-nslookup
+[nslookup](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/nslookup.md)
 
 # SSH
 
@@ -801,58 +801,58 @@ you can use any kind tools you know here are some of them:
 
 # Some of the server monitoring tools
  ### How To View Running Processes in Linux
-- top
+- [top](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/top.md)
 
  
-- htop
+- [htop](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/htop.md)
 
 
-- ps
+- [ps](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ps.md)
 
 
--lsof
+- [lsof](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/lsof.md)
 
 
  ### How To Monitor Your Network 
-- nethogs
+- [nethogs]()
 
  
-- iptraf-ng
+- [iptraf-ng]()
 
  
-- netstat
+- [netstat](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/netstat.md)
 
 
-- iftop
+- [iftop](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/iftop.md)
 
 
--(speed test)
+- [(speed test)]()
 
  ### How To Monitor Your Disk Usage
-- df 
+- [df](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/df.md)
 
  
-- du 
+- [du](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/du.md)
 
 
-- iotop
+- [iotop](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/iotop.md)
 
 
-- iostat
+- [iostat](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/iostat.md)
 
 
  ### How To Monitor Your Memory Usage
-- free(Ram usage)
+- [free(Ram usage)](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/free.md)
 
  
-- vmstat
+- [vmstat](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/vmstat.md)
 
  
 # How to to Manage Processes in Linux
-- kill
+- [kill](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/kill.md)
 
 
-- nice
+- [nice](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/nice.md)
 
 mosltly use for controlling the cpu usage (nice number is from -20 to 19 ).
 
@@ -861,7 +861,9 @@ mosltly use for controlling the cpu usage (nice number is from -20 to 19 ).
 
 # Some of the monitoring apps
 - [prometheus](https://prometheus.io/)
-	+	[grafana](https://grafana.com/)
+	+	[my docs]()
+- [grafana](https://grafana.com/)
+	+	[my docs]()
 - [zabbix](https://www.zabbix.com/)
 - [paessler](https://www.paessler.com/)
 - [nagios](https://www.nagios.org/)
@@ -934,22 +936,184 @@ Next we’ll review some settings we can update to tune our swap space.
 
 
 
-# Misc
 
 
-# Open Vpn
+
+# Docker 
+
+[docker docs](https://docs.docker.com/)
 
 
-# Wireguard
+
+
+
+
+
+
+
+# Prometheus 
+
+
+
+
+
+
+
+
+
+
+
+# Grafana
+
+
+
+
+
+
+
+
+
+
 
 
 # Apache
 
+[Apache](https://www.apache.org/)
+[Apache docs]([https://www.ansible.com/](https://httpd.apache.org/docs/))
 
-# NGINX
+
+
+
+
+
+
+
+
+
+
+# Nginx
+
+[Nginx](https://www.nginx.com/)
+[Nginx docs](http://nginx.org/en/)
+
+
+
+
+
+
+
+
+
+
+
+
+# Open Vpn
+
+[Open Vpn](https://openvpn.net)
+[ansible](https://openvpn.net/vpn-server-resources/)
+
+
+
+
+
+
+
+
+
+
+
+
+# Wireguard
+
+[Wireguard](https://www.wireguard.com/)
+[Wireguard docs](https://www.wireguard.com/install/)
+
+
+
+
+
+
+
+
+
+
 
 
 # How To Install and Configure GitLab
+
+
+
+
+
+
+
+# Jenkins
+
+[Jenkins](https://www.jenkins.io/)
+
+
+
+
+
+
+
+
+# Open stack 
+
+[Open stack](https://www.openstack.org/)
+[Open stack docs](https://www.ansible.com/)
+
+
+
+
+
+
+
+
+# Ceph 
+
+[Ceph](https://ceph.io/en/)
+[Ceph docs](https://www.ansible.com/)
+
+
+ 
+
+
+
+
+# ansible
+
+[ansible](https://www.ansible.com/)
+[ansible docs](https://docs.ansible.com/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -984,8 +1148,6 @@ These hypervisors run directly on the host's hardware to control the hardware an
 
 Some of the most famous Type 1 hypervisors are KVM, Xen & Hyper-V. KVM is built-in since Linux Kernel version 2.6.20.
 
-
-
 ## Creating a Virtual Machine
 
 First, create the machine itself. We tell the hypervisor this machine how much RAM/disk/CPU/... needs and set a name for our machine. Then we need to install the guest OS. This can be done using:
@@ -1008,8 +1170,6 @@ Some configurations are machine specific. For example, a network card's MAC addr
 
 
 
-
- 
 # Cloud Delivery Models
 
 ### Infrastructure as a Service (IaaS)
@@ -1025,7 +1185,6 @@ SaaS providers are cloud-based applications that users access on demand from the
 
 
 
- 
 # Cloud Environments
 
 ### Public Cloud
@@ -1039,6 +1198,7 @@ The private cloud refers to cloud services that are owned and managed by the org
 ### Hybrid Cloud and Multicloud
 
 Many organizations use a hybrid cloud environment which combines public and private cloud resources to support the organization’s computing needs while maintaining compliance with industry regulation. Multicloud environments are also common, which entail the use of more than one public cloud provider (for example, combining Amazon Web Services and DigitalOcean).
+
 
 
 
