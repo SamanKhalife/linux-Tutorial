@@ -978,8 +978,8 @@ Next we’ll review some settings we can update to tune our swap space.
 
 # Apache
 
-
-
+[Apache](https://www.apache.org/)
+[Apache docs]([https://www.ansible.com/](https://httpd.apache.org/docs/))
 
 
 
@@ -993,6 +993,7 @@ Next we’ll review some settings we can update to tune our swap space.
 
 # Nginx
 
+[Nginx](https://www.nginx.com/)
 [Nginx docs](http://nginx.org/en/)
 
 
@@ -1008,8 +1009,8 @@ Next we’ll review some settings we can update to tune our swap space.
 
 # Open Vpn
 
-
-
+[Open Vpn](https://openvpn.net)
+[ansible](https://openvpn.net/vpn-server-resources/)
 
 
 
@@ -1024,8 +1025,8 @@ Next we’ll review some settings we can update to tune our swap space.
 
 # Wireguard
 
-
-
+[Wireguard](https://www.wireguard.com/)
+[Wireguard docs](https://www.wireguard.com/install/)
 
 
 
@@ -1046,18 +1047,9 @@ Next we’ll review some settings we can update to tune our swap space.
 
 
 
-
-
-
-
-
-
-
-
 # Jenkins
 
-
-
+[Jenkins](https://www.jenkins.io/)
 
 
 
@@ -1068,8 +1060,8 @@ Next we’ll review some settings we can update to tune our swap space.
 
 # Open stack 
 
-
-
+[Open stack](https://www.openstack.org/)
+[Open stack docs](https://www.ansible.com/)
 
 
 
@@ -1080,8 +1072,8 @@ Next we’ll review some settings we can update to tune our swap space.
 
 # Ceph 
 
-
-
+[Ceph](https://ceph.io/en/)
+[Ceph docs](https://www.ansible.com/)
 
 
  
@@ -1089,7 +1081,30 @@ Next we’ll review some settings we can update to tune our swap space.
 
 
 
-#ansible
+# ansible
+
+[ansible](https://www.ansible.com/)
+[ansible docs](https://docs.ansible.com/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1155,20 +1170,6 @@ Some configurations are machine specific. For example, a network card's MAC addr
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 # Cloud Delivery Models
 
 ### Infrastructure as a Service (IaaS)
@@ -1184,21 +1185,6 @@ SaaS providers are cloud-based applications that users access on demand from the
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 # Cloud Environments
 
 ### Public Cloud
@@ -1212,23 +1198,6 @@ The private cloud refers to cloud services that are owned and managed by the org
 ### Hybrid Cloud and Multicloud
 
 Many organizations use a hybrid cloud environment which combines public and private cloud resources to support the organization’s computing needs while maintaining compliance with industry regulation. Multicloud environments are also common, which entail the use of more than one public cloud provider (for example, combining Amazon Web Services and DigitalOcean).
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
