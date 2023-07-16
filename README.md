@@ -1170,6 +1170,28 @@ Some configurations are machine specific. For example, a network card's MAC addr
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+# 
+# 
+# 
+# Some info about Clouds and SRE things 
+# 
+# 
+# 
+
+
+
 # Cloud Delivery Models
 
 ### Infrastructure as a Service (IaaS)
@@ -1202,9 +1224,37 @@ Many organizations use a hybrid cloud environment which combines public and priv
 
 
 
+
+
+
+
+
+
+
+
+
+# SLA(Service Level agreement) / SLI(Service Level Indicators) / SLO(Service Level Objectives)
+
+If the running time and availability of a system cannot be measured, it is very difficult to maintain and operate the system that is already online, which often causes the maintenance and operation team to continue to be in the state of a fire brigade, and when the root cause of the problem is finally found, it may be the development There is a problem with the code written by the team.
+
+Development teams often don't see "stability" as a potential problem if they can't figure out how to measure runtime and availability. This problem has plagued Google for many years, which is why the SRE principle was developed. One of the motivations.
+
+SRE ensures that everyone knows how to measure reliability and what to do when a service fails. This will be detailed to the point that when a problem occurs, from VP or CxO to every relevant employee within the organization, they all have to do what they should do. What each "person" should do is clearly regulated. SRE will communicate with all relevant personnel to determine Service Level Indicators (SLIs) and Service Level Objectives (SLOs).
+
+SLIs define metrics related to the "response time" of a system, such as response time, throughput per second, requests, etc., and often convert this metric into a ratio or average.
+
+SLOs are a time interval obtained after discussions with relevant personnel. It is expected that SLIs can maintain a certain level of figures, such as "what is the level of SLIs every month", which is more internal indicators.
+
+The video also discusses Service Level Agreements (SLAs), even though it's not a number that SREs care about on a daily basis. As an online service provider, SLA is a commitment to customers to ensure that the percentage of continuous operation of the service is usually "negotiated" with customers, and the downtime per year (or month) should not be less than a few minutes.
+
+The concepts of SLI, SLO, and SLA are very similar to the "everything can be measured" mentioned by DevOps, which is one of the reasons why it is said that class SRE implements DevOps.
+
+
+
+
 # Sources I get help from
 - Digital ocean
-
+- google youtube chanel
 
 
 
