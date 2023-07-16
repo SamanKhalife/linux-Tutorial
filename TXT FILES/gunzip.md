@@ -1,6 +1,7 @@
 The "gunzip" command in Linux systems is used to decompress files compressed with the gzip compression algorithm. By running "gunzip," you can restore the original uncompressed version of a file. 
 
 # help
+
 ```
 Usage: /usr/bin/gunzip [OPTION]... [FILE]...
 Uncompress FILEs (by default, in-place).

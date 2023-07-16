@@ -1,6 +1,7 @@
 The ls tool is used to list the directories and files in a directory. Using this tool and its useful switches, you can quickly find your files and directories.
 
-help
+# help
+
 ```
   -a, --all                  do not ignore entries starting with .
   -A, --almost-all           do not list implied . and ..
@@ -95,7 +96,7 @@ help
       --version  output version information and exit
 ```
 
-man 
+# man 
 
 ```
 NAME

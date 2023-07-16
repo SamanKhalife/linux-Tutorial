@@ -1,4 +1,5 @@
-help
+
+# help
 
 ```
 Usage: neofetch func_name --option "value" --option "value"

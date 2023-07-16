@@ -1,4 +1,5 @@
-help
+# help
+
 ```
 Usage: plocate [OPTION]... PATTERN...
 
@@ -16,7 +17,8 @@ Usage: plocate [OPTION]... PATTERN...
       --help             print this help
       --version          print version information
 ```
-man 
+# man
+ 
 ```
 Usage: man [OPTION...] [SECTION] PAGE...
 

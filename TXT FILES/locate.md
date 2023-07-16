@@ -1,4 +1,6 @@
-help
+
+# help
+
 ```
 Usage: plocate [OPTION]... PATTERN...
 

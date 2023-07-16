@@ -1,4 +1,6 @@
-help
+
+# help
+
 ```
 Pattern selection and interpretation:
   -E, --extended-regexp     PATTERNS are extended regular expressions

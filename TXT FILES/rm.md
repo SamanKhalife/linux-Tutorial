@@ -1,12 +1,12 @@
-
 Using the rm tool, you can delete any file or directory you want. Be very careful when using this tool, because your files may be lost forever.
 
 	you can easily remove files like this:
 	
 	root@Saman:~# sudo rm test.txt
-```
-help
 
+# help
+
+```
 Usage: rm [OPTION]... [FILE]...
 Remove (unlink) the FILE(s).
 
@@ -41,7 +41,8 @@ use one of these commands:
 ```
 
 
-man
+# man
+
 ```
 NAME
        rm - remove files or directories
