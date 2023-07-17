@@ -1235,6 +1235,8 @@ Many organizations use a hybrid cloud environment which combines public and priv
 
 # SLA(Service Level agreement) / SLI(Service Level Indicators) / SLO(Service Level Objectives)
 
+![img](https://github.com/SamanKhalife/linux-Tutorial/blob/main/IMAGES/6666666666666666666.png)
+
 If the running time and availability of a system cannot be measured, it is very difficult to maintain and operate the system that is already online, which often causes the maintenance and operation team to continue to be in the state of a fire brigade, and when the root cause of the problem is finally found, it may be the development There is a problem with the code written by the team.
 
 Development teams often don't see "stability" as a potential problem if they can't figure out how to measure runtime and availability. This problem has plagued Google for many years, which is why the SRE principle was developed. One of the motivations.
