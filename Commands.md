@@ -13,16 +13,75 @@
 <h2> A </h2>
   
 
-
 ## accept command
 
 [accept help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/accept.md)
 
 Accept or Reject jobs to a destination, such as a printer.
 
-## atop command
 
-[atop help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/atopmd)
+## access command
+
+[access help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/access.md)
+
+
+
+## accton command 
+
+[accton help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/accton.md)
+
+
+##  aclocal command
+
+[aclocal help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/aclocalmd)
+
+
+##  acpi command
+
+[acpi help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/acpimd)
+
+
+##  acpid command
+
+[acpid help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/acpidmd)
+
+
+## addr2line command 
+
+[addr2line help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/addr2line.md)
+
+
+
+## addresses command 
+
+[addresses help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/addresses.md)
+
+
+##  agetty command
+
+[agetty help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/agetty.md)
+
+
+##  alsactl command
+
+[alsactl help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/alsactl.md)
+
+
+##  amidi command
+
+[amidi help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/amidi.md)
+
+
+
+##  amixer command
+
+[amixer help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/amixer.md)
+
+
+
+##  anacron command
+
+[anacron help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/anacron.md)
 
 
 
@@ -31,37 +90,42 @@ Accept or Reject jobs to a destination, such as a printer.
 [apachetop help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/apachetopmd)
 
 
-##  access command
 
-[access help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/accessmd)
 
-##  accton command
+## aplay command
 
-[accton help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/acctonmd)
+[aplay help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/aplay.md)
 
-##  aclocal command
 
-[aclocal help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/aclocalmd)
 
-##  acpi command
+## aplaymidi command
 
-[acpi help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/acpimd)
+[aplaymidi help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/aplaymidi.md)
+
+
+## apm command
+
+[apm help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/apm.md)
+
+
+
+
+## atop command
+
+[atop help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/atopmd)
+
+
+
 
 ##  alias, unalias commands
 
 [alies help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/aliasmd)
 
-##  acpid command
-
-[acpid help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/acpidmd)
 
 ##  addrline command
 
 [addrline help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/addrlinemd)
 
-##  agetty command
-
-[agetty help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/agettymd)
 
 ##  alias command
 
