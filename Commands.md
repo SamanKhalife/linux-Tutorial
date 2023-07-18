@@ -61,6 +61,9 @@ Accept or Reject jobs to a destination, such as a printer.
 
 [agetty help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/agetty.md)
 
+##  alias, unalias commands
+
+[alies help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/aliasmd)
 
 ##  alsactl command
 
@@ -108,36 +111,15 @@ Accept or Reject jobs to a destination, such as a printer.
 [apm help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/apm.md)
 
 
+## apmd command
+
+[apmd help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/apmd.md)
 
 
-## atop command
+## apropos command
 
-[atop help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/atopmd)
+[apropos help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/apropos.md)
 
-
-
-
-##  alias, unalias commands
-
-[alies help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/aliasmd)
-
-
-##  addrline command
-
-[addrline help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/addrlinemd)
-
-
-##  alias command
-
-[alias help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/aliasmd)
-
-##  aplay command
-
-[aplay help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/aplaymd)
-
-##  amixer command
-
-[amixer help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/amixermd)
 
 ##  apt-get command
 
@@ -146,6 +128,7 @@ Accept or Reject jobs to a destination, such as a printer.
 ##  apt command
 
 [apt help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/aptmd)
+
 
 ##  aptitude command
 
@@ -159,33 +142,93 @@ Accept or Reject jobs to a destination, such as a printer.
 
 [arch help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/archmd)
 
+
+## arecord command
+
+[arecord help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/arecord.md)
+
+
+## arecordmid command
+
+[arecordmid help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/arecordmid.md)
+
+
+## arecord command
+
+[arecord help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/arecord.md)
+
+
 ##  arp command
 
 [arp help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/arpmd)
+
+
 
 ##  aspell command
 
 [aspell help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/aspellmd)
 
+##  at command
+
+[at help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/at.md)
+
+
+
 ##  atd command
 
 [atd help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/atdmd)
 
-##  atrm command
 
-[atrm help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/atrmmd)
+## atop command
 
-##  atq command
+[atop help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/atop.md)
 
-[atq help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/atqmd)
+
+## atq command
+
+[atq help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/atq.md)
+
+
+
+
+
+##  aplay command
+
+[aplay help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/aplaymd)
+
+
+## atrm command
+
+[atrm help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/atrm.md)
+
+
+
+## aumix command
+
+[aumix help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/aumix.md)
+
+
 
 ##  autoconf command
 
-[autoconf help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/autoconfmd)
+[autoconf help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/autoconf.md)
+
 
 ##  autoheader command
 
-[autoheader help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/autoheadermd)
+[autoheader help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/autoheader.md)
+
+##  automake command
+
+[automake help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/automake.md)
+
+##  autoreconf command
+
+[autoreconf help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/autoreconf.md)
+
+##  autoscan command
+
+[autoscan help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/autoscan.md)
 
 <h2> B </h2>
 
@@ -1631,132 +1674,204 @@ Allows a user to communicate with other users, by copying lines from one user’
 
 ##  xargs command
 
-[xargs help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/xargsmd)
+[xargs help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/xargs.md)
 
 Used to build and execute commands from standard input It converts input received from standard input into arguments of a command
 
 
+## xdg-open command
+
+[xdg-open help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/xdg-open.md)
+
+
+## xinetd command
+
+[xinetd help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/xinetd.md)
+
+
+## xz command
+
+[xz help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/xz.md)
+
+
+
 <h2> Y </h2>
+
+## yacc command
+
+[yacc help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/yacc.md)
+
+
+## yes command
+
+[yes help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/yes.md)
+
+
+## ypbind command
+
+[ help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ypbind.md)
+
+
+## ypcat command
+
+[ help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ypcat.md)
+
+
+## ypinit command
+
+[ help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ypinit.md)
+
+
+## ypmatch command
+
+[ help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ypmatch.md)
+
+
+## yppasswd command
+
+[ help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/yppasswd.md)
+
+
+## yppasswdd command
+
+[ help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/yppasswdd.md)
+
+
+## yppoll command
+
+[ help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/yppoll.md)
+
+
+## yppush command
+
+[ help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/yppush.md)
+
+## ypserv command
+
+[ help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ypserv.md)
+
+
+## ypset command
+
+[ help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ypset.md)
+
+
+
+## yptest command
+
+[yptest help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/yptest.md)
+
+
+
+## ypwhich command
+
+[ypwhich help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ypwhich.md)
+
+
+## ypxfr command
+
+[ypxfr help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ypxfr.md)
+
+
 
 <h2> Z </h2>
 
+
+##  zcat command
+
+[zcat help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/zcat.md)
+
+
+##  zcmp command
+
+[zcmp help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/zcmp.md)
+
 ##  zdiff command
 
-[zdiff help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/zdiffmd)
+[zdiff help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/zdiff.md)
 
 Used to invoke the diff program on files compressed via gzip
 
 ##  zdump command
 
-[zdump help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/zdumpmd)
+[zdump help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/zdump.md)
 
 Used to print the current time in the specified zone or you can say prints the current time in each zonename named on the command line
 
+##  zforce command
+
+[zforce help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/zforce.md)
+
+
+
 ##  zgrep command
 
-[zgrep help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/zgrepmd)
+[zgrep help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/zgrep.md)
 
 Used to search out expressions from a given a file even if it is compressed
 
+
+##  zic command
+
+[zic help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/zic.md)
+
+
+
 ##  zip command
 
-[zip help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/hostidmd)
+[zip help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/hostid.md)
 
 It is a compression and file packaging utility for Unix Each file is stored in single zip {zip-filename} file with the extension zip
 
 
 
+## zmore command
+
+[zmore help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/zmore.md)
+
+
+
+## znew command
+
+[znew help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/znew.md)
+
+
+
+
+
+## command
+
+[ help]()
 
 
 
 ## 
 
-[ help]
+[ help]()
 
 
 
 ## 
 
-[ help]
+[ help]()
 
 
 
 ## 
 
-[ help]
+[ help]()
 
 
 
 ## 
 
-[ help]
+[ help]()
 
 
 
 ## 
 
-[ help]
-
-
-
-## 
-
-[ help]
-
-
-
-## 
-
-[ help]
-
-
-
-## 
-
-[ help]
-
-
-
-## 
-
-[ help]
-
-
-
-## 
-
-[ help]
-
-
-
-## 
-
-[ help]
-
-
-
-## 
-
-[ help]
-
-
-
-## 
-
-[ help]
-
-
-
-## 
-
-[ help]
-
-
-
-## 
-
-[ help]
-
+[ help]()
 
 
 
