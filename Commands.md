@@ -24,17 +24,19 @@ Accept or Reject jobs to a destination, such as a printer.
 
 [access help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/access.md)
 
-
+Check a user’s RWX(read, write and execute) permission for a file.
 
 ## accton command 
 
 [accton help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/accton.md)
 
+Used to turn on or turn off the process for accounting or change info process accounting file.
 
 ##  aclocal command
 
 [aclocal help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/aclocalmd)
 
+Used to automatically generate aclocal.m4 files from configure.in file.
 
 ##  acpi command
 
@@ -45,48 +47,55 @@ Accept or Reject jobs to a destination, such as a printer.
 
 [acpid help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/acpidmd)
 
+Show information about the Advanced Configuration and Power Interface.
 
 ## addr2line command 
 
 [addr2line help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/addr2line.md)
 
-
+Used to convert addresses into file names and line numbers.
 
 ## addresses command 
 
 [addresses help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/addresses.md)
 
+Formats for internet mail addresses.
 
 ##  agetty command
 
 [agetty help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/agetty.md)
 
+An alternative Linux Getty that manages physical or virtual terminals to allow multi-user access.
+ 
 ##  alias, unalias commands
 
 [alies help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/aliasmd)
+
+Create an alias, a shortcut that references a command.
 
 ##  alsactl command
 
 [alsactl help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/alsactl.md)
 
+Access advanced controls for ALSA soundcard driver.
 
 ##  amidi command
 
 [amidi help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/amidi.md)
 
-
+Perform read/write operation for ALSA RawMIDI ports.
 
 ##  amixer command
 
 [amixer help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/amixer.md)
 
-
+Access CLI-based mixer for ALSA soundcard driver.
 
 ##  anacron command
 
 [anacron help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/anacron.md)
 
-
+Used to run commands periodically.
 
 ##  apachetop command
 
@@ -99,59 +108,73 @@ Accept or Reject jobs to a destination, such as a printer.
 
 [aplay help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/aplay.md)
 
-
+Sound recorder and player for CLI.
 
 ## aplaymidi command
 
 [aplaymidi help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/aplaymidi.md)
 
+CLI utility used to play MIDI files.
 
 ## apm command
 
 [apm help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/apm.md)
 
+Show Advanced Power Management (APM) hardware info on older systems.
 
 ## apmd command
 
 [apmd help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/apmd.md)
 
+Used to handle events reported by APM BIOS drivers.
 
 ## apropos command
 
 [apropos help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/apropos.md)
 
+Shows the list of all man pages containing a specific keyword.
 
 ##  apt-get command
 
 [apt help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/apt-getmd)
 
+Command-line utility to install/remove/update packages based on APT system.
+
 ##  apt command
 
 [apt help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/aptmd)
 
+Advanced Package Tool, a package management system for Debian and derivatives.
 
 ##  aptitude command
 
 [aptitude help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/aptitudemd)
 
+Another utility to add/remove/upgrade packages based on the APT system.
+
 ##  ar command
 
 [ar help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/armd)
 
+A utility to create/modify/extract from archives.
+ 
 ##  arch command
 
 [arch help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/archmd)
 
+Display print machine hardware name.
 
 ## arecord command
 
 [arecord help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/arecord.md)
 
+Just like aplay, it’s a sound recorder and player for ALSA(Advanced Linux Sound Architecture) soundcard driver.
 
 ## arecordmid command
 
 [arecordmid help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/arecordmid.md)
 
+Record standard MIDI files.
 
 ## arecord command
 
@@ -162,35 +185,37 @@ Accept or Reject jobs to a destination, such as a printer.
 
 [arp help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/arpmd)
 
-
-
+Used to make changes to the system’s ARP cache.
+ 
 ##  aspell command
 
 [aspell help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/aspellmd)
+
+An interactive spell checker utility.
 
 ##  at command
 
 [at help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/at.md)
 
-
+Used to schedule command execution at specified date & time, reading commands from an input file.
 
 ##  atd command
 
 [atd help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/atdmd)
 
+Used to execute jobs queued by the at command.
 
 ## atop command
 
 [atop help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/atop.md)
 
 
+
 ## atq command
 
 [atq help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/atq.md)
 
-
-
-
+List a user’s pending jobs for the at command.
 
 ##  aplay command
 
@@ -201,128 +226,174 @@ Accept or Reject jobs to a destination, such as a printer.
 
 [atrm help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/atrm.md)
 
-
+Delete jobs queued by the at command.
 
 ## aumix command
 
 [aumix help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/aumix.md)
 
-
+An audio mixer utility.
 
 ##  autoconf command
 
 [autoconf help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/autoconf.md)
 
+Generate configuration scripts from a TEMPLATE-FILE and send the output to standard output.
 
 ##  autoheader command
 
 [autoheader help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/autoheader.md)
 
+Create a template header for configure.
+
 ##  automake command
 
 [automake help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/automake.md)
+
+Creates GNU standards-compliant Makefiles from template files.
 
 ##  autoreconf command
 
 [autoreconf help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/autoreconf.md)
 
+Update generated configuration files.
+ 
 ##  autoscan command
 
 [autoscan help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/autoscan.md)
 
+Generate a preliminary configure.in file.
+ 
 <h2> B </h2>
 
+##  badblocks command
+
+[badblocks help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/badblocks.md)
+
+Search a disk partition for bad sectors.
+ 
 ##  banner command
 
-[banner help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/bannermd)
+[banner help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/banner.md)
 
 Used to print the ASCII character string in large letter to standard output
 
 ##  basename command
 
-[basename help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/basenamemd)
+[basename help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/basename.md)
 
 It strips directory information and suffixes from file names ie it prints the file name NAME with any leading directory components removed
 
 ##  batch command
 
-[batch help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/batchmd)
+[batch help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/batch.md)
 
 Used to read commands from standard input or a specified file and execute them when system load levels permit ie when the load average drops below 
 
 ##  bc command
 
-[bc help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/bcmd)
+[bc help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/bc.md)
 
 Used for command line calculator
 
 ##  bg command
 
-[bg help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/bgmd)
+[bg help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/bg.md)
 
 Used to place foreground jobs in background
 
 ##  biff command
 
-[biff help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/biffmd)
+[biff help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/biff.md)
 
 A mail notification system for unix that notifies the user at the command line when new mail arrives and tells from whom it is
 
 ##  bind command
 
-[bind help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/bindmd)
+[bind help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/bind.md)
 
 Used to set Readline key bindings and variables
 
 ##  bison command
 
-[bison help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/bisonmd)
+[bison help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/bison.md)
 
 It is basically a parser generator similar to yacc
 
 ##  break command
 
-[break help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/breakmd)
+[break help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/break.md)
 
 Used to terminate the execution of for loop, while loop and until loop
 
 ##  builtin command
 
-[builtin help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/builtinmd)
+[builtin help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/builtin.md)
 
 Used to run a shell builtin, passing it arguments(args), and also to get the exit status
 
 ##  bzcmp command
 
-[bzcmp help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/bzcmpmd)
+[bzcmp help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/bzcmp.md)
 
 Used to invoke the cmp utility on bzip compressed files
 
 ##  bzdiff command
 
-[bzdiff help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/bzdiffmd)
+[bzdiff help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/bzdiff.md)
 
 Used to compare the bzip compressed files
 
 ##  bzgrep command
 
-[bzgrep help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/bzgrepmd)
+[bzgrep help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/bzgrep.md)
 
 Used to search for a pattern or an expression but inside a bzip-compressed file
 
-##  bzip command
+##  bzip2 command
 
-[bzip help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/bzip%()md)
+[bzip2 help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/bzip2.md)
 
 Used to compress and decompress the files
 
 <h2> C </h2>
 
+##  cal command
+
+[cal help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/calmd)
+
+Used to see the calendar of a specific month or a whole year By default, it shows current month’s calendar as output.
+
+##  cardctl command
+
+[cardctl help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/cardctl.md)
+
+Used to control PCMCIA sockets and select configuration schemes.
+
+##  cardmgr command
+
+[cardmgr help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/cardmgr.md)
+
+Keeps an eye on the added/removes sockets for PCMCIA devices.
+
+##  case command
+
+[case help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/case.md)
+
+It is the best alternative when we had to use multiple if/elif on a single variable
+
+
 ##  cat command
 
-[cat help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/cattxt)
+[cat help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/cat.md)
 
 cat - create, view and concatenate files
+
+##  cc command
+
+[cc help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/cc.md)
+
+GNU C and C++ compiler.
 
 ##  cp command
 
@@ -336,16 +407,15 @@ cp - copy files and directories
 
 cat - create, view and concatenate files
 
-##  cp command
+##  ccrypt command
 
-[cp help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/cptxt)
+[ccrypt help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ccrypt.md)
 
-cp - copy files and directories
-
-
+Used for encryption and decryption of data.
+ 
 ##  cd command
 
-[cd help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/cdtxt)
+[cd help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/cd.md)
 
 cd - change director
 
@@ -356,32 +426,24 @@ cd - change director
   * cd    ---->  change to the directory you currently in
   * cd -   ---->  change to the last visited path
 
-##  chmod command
+##  cdparanoia command
 
-[chmod help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/chmodtxt)
+[cdparanoia help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/cdparanoia.md)
 
-##  chown command
+Record audio from CD more reliably using data-verification algorithms.
 
-[chown help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/chownmd)
+##  cdrdao command
 
-##  cal command
+[cdrdao help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/cdrdao.md)
 
-[cal help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/calmd)
+Used to write all the content specified to a file to a CD all at once.
 
-Used to see the calendar of a specific month or a whole year By default, it shows current month’s calendar as output
+##  cfdisk command
 
-##  case command
+[cfdisk help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/cfdisk.md)
 
-[case help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/casemd)
-
-It is the best alternative when we had to use multiple if/elif on a single variable
-
-##  ccrypt command
-
-[ccrypt help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/ccryptmd)
-
-It is a command line tool for encryption and decryption of data
-
+Show or change the disk partition table.
+ 
 ##  chage command
 
 [chage help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/chagemd)
@@ -394,153 +456,189 @@ Used to view and change the user password expiry information
 
 It is a file system command which is used for changing the attributes of a file in a directory
 
+##  chdir command
+
+[chdir help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/chdir.md)
+
+Used to change active working directory.
+
 ##  chfn command
 
-[chfn help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/chfnmd)
+[chfn help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/chfn.md)
 
 It allows you to change a user’s name and other details easily chfn stands for Change finger
 
 ##  chgrp command
 
-[chgrp help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/chgrpmd)
+[chgrp help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/chgrp.md)
 
 Used to change the group ownership of a file or directory
 
+
 ##  chkconfig command
 
-[chkconfig help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/chkconfigmd)
+[chkconfig help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/chkconfig.md)
 
 Used to list all available services and view or update their run level settings
 
+##  chmod command
+
+[chmod help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/chmod.md)
+
+Change access permission for a file(s).
+ 
+##  chown command
+
+[chown help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/chown.md)
+
+Change the owner or group for a file.
+
+
 ##  chpasswd command
 
-[chpasswd help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/chpasswdmd)
+[chpasswd help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/chpasswd.md)
 
-Used to change password for multiple users at a time
+Update password in a batch.
 
 ##  chroot command
 
-[chroot help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/chrootmd)
+[chroot help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/chroot.md)
 
-Used to change the root directory
+Run a command with root directory.
 
 ##  chrt command
 
-[chrt help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/chrtmd)
+[chrt help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/chrt.md)
 
-Used for manipulating the real-time attributes of a process
+Alter process attributed in real-time.
+
 
 ##  chsh command
 
-[chsh help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/chshmd)
+[chsh help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/chsh.md)
 
 Used to change the user’s login shell(currently login shell)
 
 ##  chvt command
 
-[chvt help]()
+[chvt help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/chvt.md)
 
 Used to switch between the different TTY (TeleTYpewriter) terminals available
 
 ##  cksum command
 
-[cksum help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/cksummd)
+[cksum help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/cksum.md)
 
 Used to display a CRC(Cyclic Redundancy Check) value, the byte size of the file and the name of the file to standard output
 
+
+
 ##  cmp command
 
-[cmp help]()
+[cmp help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/cmp.md)
 
 Used to compare the two files byte by byte and helps you to find out whether the two files are identical or not
 
 ##  colcrt command
 
-[colcrt help]()
+[colcrt help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/colcrt.md)
 
 Used to format the text processor output so that it can be viewed on Cathode Ray Tube displays
 
-##  colrm command
+##  clorm command
 
-[colrm help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/clormmd)
+[clorm help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/clorm.md)
 
-Removes selected columns from a file
+Remove columns from the lines of a file.
+
 
 ##  column command
 
-[column help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/cloumnmd)
+[column help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/cloumn.md)
 
 Used to display the contents of a file in columns
 
 ##  comm command
 
-[comm help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/commmd)
+[comm help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/comm.md)
 
 Compares two sorted files line by line and write to standard output; the lines that are common and the lines that are unique
 
 ##  compress command
 
-[compress help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/compressmd)
+[compress help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/compress.md)
 
 Used to reduce the file size After compression, the file will be available with an added Z extension
 
 ##  continue command
 
-[continue help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/continuemd)
+[continue help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/continue.md)
 
 Used to skip the current iteration in for, while and until loop
 
+##  cp command
+
+[cp help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/cp.md)
+
+Copy contents of one file to another.
+
 ##  cpio command
 
-[cpio help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/cpiomd)
+[cpio help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/cpio.md)
 
 cpio stands for “copy in, copy out“ It is used for processing the archive files like *cpio or *tar This command can copy files to and from archives
 
 ##  cron command
 
-[cron help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/cronmd)
+[cron help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/cron.md)
 
 A software utility, offered by Linux-like operating system which automates the scheduled task at a predetermined time
 
+##  crond command
+
+[crond help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/crond.md)
+
+Same work as cron.
+
 ##  crontab command
 
-[crontab help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/crontabmd)
+[crontab help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/crontab.md)
 
-A list of commands that you want to run on a regular schedule, and also the name of the command used to manage that list
+A list of commands that you want to run on a regular schedule, and also the name of the command used to manage that list.
 
 ##  csplit command
 
-[csplit help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/csplitmd)
+[csplit help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/csplit.md)
 
-Used to split any file into many parts as required by the user
+Used to split any file into many parts as required by the user.
 
 ##  ctags command
 
-[ctags help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/ctagsmd)
+[ctags help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ctags.md)
 
 It allows quick access across the files (For example quickly seeing definition of a function)
 
 ##  cupsd command
 
-[cupsd help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/cupsdmd)
+[cupsd help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/cupsd.md)
 
 It is a type of scheduler for CUPS (Common Unit Printing System) It implements the printing system on the basis of the Internet Printing Protocol
 
 ##  curl command
 
-[curl help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/curlmd)
+[curl help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/curl.md)
 
 A tool to transfer data to or from a server, using any of the supported protocols
 
 ##  cut command
 
-[cut help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/cutmd)
+[cut help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/cut.md)
 
 For cutting out the sections from each line of files and writing the result to standard output
 
 ##  cvs command
 
-[cvs help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/cvsmd)
+[cvs help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/cvs.md)
 
 Used to store the history of a file Whenever a file gets corrupted or anything goes wrong “cvs” help us to go back to the previous version and restore our file
 
@@ -548,7 +646,7 @@ Used to store the history of a file Whenever a file gets corrupted or anything g
 
 ##  df command
 
-[df help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/dfmd)
+[df help]()
 
 ##  du command
 
