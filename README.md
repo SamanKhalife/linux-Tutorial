@@ -93,7 +93,7 @@ linux commands and any thing basic you need yo know for using linux (for cloud c
 - Run level5 : X11- start the system on the graphical interface
 - Run level6 : reboot- reboot the system.
 
-##Stage 6: User Prompt
+## Stage 6: User Prompt
 - User login and use.
 
 
@@ -120,7 +120,7 @@ linux commands and any thing basic you need yo know for using linux (for cloud c
 - **csh (the C shell)**
    + Written in C . programming language.
 
-### `Shell Prompt (Shell Prompt)`
+### Shell Prompt (Shell Prompt)
 - Is a character or a character set that always starts at the beginning of any command line.
 - Indicates that **shell** is ready to receive commands from the user.
 - `$`: ordinary user
@@ -790,6 +790,37 @@ iptables   -t       nat        -I        FORWARDING          .     -P     tcp   
     ```
 - save changes and exit.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting SSL Certificat
 you can use any kind tools you know here are some of them:
 - [acme](https://github.com/acmesh-official/acme.sh)
@@ -798,6 +829,31 @@ you can use any kind tools you know here are some of them:
 - [certbot](https://github.com/certbot/certbot)
 
 [learn getting free ssl with acme step by step](https://github.com/SamanKhalife/linux-Tutorial/blob/main/acme-freessl.md)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Some of the server monitoring tools
  ### How To View Running Processes in Linux
@@ -859,6 +915,14 @@ mosltly use for controlling the cpu usage (nice number is from -20 to 19 ).
 
 
 
+
+
+
+
+
+
+
+
 # Some of the monitoring apps
 - [prometheus](https://prometheus.io/)
 	+	[my docs]()
@@ -870,6 +934,13 @@ mosltly use for controlling the cpu usage (nice number is from -20 to 19 ).
 - [elastic.co](www.elastic.co/kibana)
 - [elastic](https://www.elastic.co/)
 - [influxdata](https://www.influxdata.com/)
+
+
+
+
+
+
+
 
 
 
@@ -933,6 +1004,32 @@ Back up the /etc/fstab file in case anything goes wrong:`sudo cp /etc/fstab /etc
 Add the swap file information to the end of your /etc/fstab file by typing:`echo '/swapfile none swap sw 0 0' | sudo tee -a /etc/fstab`
 
 Next we’ll review some settings we can update to tune our swap space.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
