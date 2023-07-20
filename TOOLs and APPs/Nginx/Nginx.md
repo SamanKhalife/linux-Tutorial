@@ -1,7 +1,4 @@
-first of all best option to learn is the [documentation](http://nginx.org/en/docs/) of nginx 
-
-
-
+# first of all best option to learn is the [documentation](http://nginx.org/en/docs/) of nginx 
 
 
 
@@ -23,14 +20,14 @@ If you are looking for a high-performance, scalable, and secure web server, Ngin
 
 Here are some of the features of Nginx:
 
-- [HTTP server]()
-- [Reverse proxy]()
-- [Load balancer]()
-- [Mail proxy]()
-- [HTTP cache]()
-- [WebSockets]()
-- [Gzip compression]()
-- [SSL/TLS support]()
+- [HTTP server](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TOOLs%20and%20APPs/Nginx/Nginx.md#http-server)
+- [Reverse proxy](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TOOLs%20and%20APPs/Nginx/Nginx.md#reverse-proxy)
+- [Load balancer](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TOOLs%20and%20APPs/Nginx/Nginx.md#load-balancer)
+- [Mail proxy](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TOOLs%20and%20APPs/Nginx/Nginx.md#mail-proxy)
+- [HTTP cache](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TOOLs%20and%20APPs/Nginx/Nginx.md#http-cache)
+- [WebSockets](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TOOLs%20and%20APPs/Nginx/Nginx.md#websockets)
+- [Gzip compression](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TOOLs%20and%20APPs/Nginx/Nginx.md#gzip-compression)
+- [SSL/TLS support](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TOOLs%20and%20APPs/Nginx/Nginx.md#ssltls-support)
 
 here are some more complex features of Nginx:
 
@@ -52,7 +49,7 @@ There are a few different ways to configure Nginx. You can use the command line,
 
 Configuring Nginx using the command line typically involves modifying the Nginx configuration file to customize its behavior. The exact steps may vary depending on the operating system and installation method, but I'll provide a general guide to get you started on Linux-based systems.
 
-[Configuring Nginx using the command line]()
+[Configuring Nginx using the command line](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TOOLs%20and%20APPs/Nginx/Nginx.md#here-are-the-steps-on-how-to-configure-nginx-using-the-command-line)
 
 To configure Nginx using the command line, you need to open a terminal window and navigate to the directory where the Nginx configuration file is located. The configuration file is usually called nginx.conf.
 
