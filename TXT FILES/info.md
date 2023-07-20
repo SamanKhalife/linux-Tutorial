@@ -1,3 +1,6 @@
+The info command is a Linux command that can be used to display information about a variety of system topics. It is a powerful tool that can be used to troubleshoot problems, or to learn more about how the system works.
+
+The info command will display a hierarchical tree of information about the topic. You can use the arrow keys to navigate through the tree, and the q key to exit
 
 # help
 
