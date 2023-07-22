@@ -1,16 +1,18 @@
 The local keyword in Linux is used to declare a local variable. Local variables are variables that are only visible within the current function or scope. This means that they cannot be accessed from other functions or scopes.
 
-To search for all files that contain the word "hello":
-locate hello
 
-To search for all files that contain the word "hello" in the current directory:
-locate -b . hello
+The syntax for the local keyword is:
 
-To search for all files that contain the word "hello" and ignore case:
-locate -i hello
+`local variable_name`
 
-To search for all files that contain the word "hello" recursively:
-locate -r hello
+For example, the following code declares a local variable called my_variable:
+
+`local my_variable`
+
+The my_variable variable can only be accessed within the current function. If you try to access it from another function, you will get an error.
+
+Local variables are a useful way to keep track of data that is only needed within a specific function. They can also be used to prevent name collisions between variables in different functions.
+
 
 # help
 
@@ -32,12 +34,11 @@ Usage: plocate [OPTION]... PATTERN...
       --version          print version information
 ```
 
-## braeakdown
+## braekdown
 
 ```
--b, --base=BASE: This option tells locate to search the specified base directory.
--c, --count: This option tells locate to print the number of files that match the pattern.
--i, --ignorecase: This option tells locate to ignore case when searching for the pattern.
--r, --recursive: This option tells locate to search recursively.
+-a, --array: This option tells local to declare the variable as an array.
+-i, --integer: This option tells local to declare the variable as an integer.
+-r, --readonly: This option tells local to declare the variable as read-only.
 -h, --help: This option shows this help message.
 ```
