@@ -3,8 +3,10 @@
 The "zgrep" command is used to search for a specific pattern or regular expression within one or more compressed files. It automatically decompresses the files on-the-fly, searches for the pattern, and displays the matching lines.
 
 Here's the basic syntax of the "zgrep" command:
+
 ```
 zgrep [options] pattern [file(s)]
+
 ```
 "options" are optional flags that modify the behavior of the command.
 "pattern" is the string or regular expression you want to search for.
