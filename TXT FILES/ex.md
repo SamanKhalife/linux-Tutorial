@@ -1,6 +1,7 @@
 The "ex" command is a text editor available in Unix-like systems, including Linux. It is the predecessor to the "vi" editor and provides a command-line interface for editing files. 
 
 # help
+
 ```
 VIM - Vi IMproved 9.0 (2022 Jun 28, compiled May 24 2023 14:27:18)
 
@@ -56,4 +57,16 @@ Arguments:
    --clean              'nocompatible', Vim defaults, no plugins, no viminfo
    -h  or  --help       Print Help (this message) and exit
    --version            Print version information and exit
+```
+
+## breakdown
+
+```
+-h, --help: This option shows this help message.
+-v, --version: This option prints the version number and exits.
+-s, --secure: This option starts vi in secure mode. Secure mode prevents vi from accessing the environment variables.
+-t, --tty: This option starts vi in tty mode. TTY mode prevents vi from accessing the terminal.
+-n, --new: This option starts a new file.
+-r, --read: This option appends to an existing file.
+-w, --write: This option overwrites an existing file.
 ```
