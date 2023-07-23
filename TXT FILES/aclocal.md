@@ -1,4 +1,19 @@
-help
+The aclocal command in Linux is used to generate the aclocal.m4 file, which is used by the autoconf command to configure software. The aclocal command is part of the autoconf suite of tools.
+
+Here are some examples of how to use the aclocal command:
+
+```
+# To generate the `aclocal.m4` file:
+aclocal
+
+# To specify a directory to search for macros:
+aclocal -I /usr/local/share/aclocal
+
+# To enable warnings:
+aclocal -W
+```
+
+# help
 ```
 Usage: aclocal [OPTION]...
 
@@ -20,21 +35,13 @@ Options:
       --verbose             don't be silent
       --version             print version number, then exit
   -W, --warnings=CATEGORY   report the warnings falling in CATEGORY
-Warning categories include:
-  cross                  cross compilation issues
-  gnu                    GNU coding standards (default in gnu and gnits modes)
-  obsolete               obsolete features or constructions (default)
-  override               user redefinitions of Automake rules or variables
-  portability            portability issues (default in gnu and gnits modes)
-  portability-recursive  nested Make variables (default with -Wportability)
-  extra-portability      extra portability issues related to obscure tools
-  syntax                 dubious syntactic constructs (default)
-  unsupported            unsupported or incomplete features (default)
-  all                    all the warnings
-  no-CATEGORY            turn off warnings in CATEGORY
-  none                   turn off all the warnings
-  error                  treat warnings as errors
-Report bugs to <bug-automake@gnu.org>.
-GNU Automake home page: <https://www.gnu.org/software/automake/>.
-General help using GNU software: <https://www.gnu.org/gethelp/>.
+
+```
+## breakdown
+
+```
+-I, --includes=DIR: This option specifies a directory to search for macros.
+-W, --warnings: This option enables warnings.
+-h, --help: This option shows this help message.
+-V, --version: This option prints version information.
 ```
