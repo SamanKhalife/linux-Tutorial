@@ -1,16 +1,48 @@
+The top command in Linux is a command-line utility that displays a real-time view of the processes running on your system. It can be used to monitor the CPU usage, memory usage, and other resources that are being used by each process.
 
 
+The options argument is a list of options that you can use to customize the output of the top command.
+
+For example, the following command will display the top 10 processes by CPU usage:
+
+`top -n 10`
+
+The top command is a powerful tool that can be used to monitor the performance of your system. However, it is important to use it carefully, as it can be CPU-intensive.
 # help 
 
 ```
+top [options]
 
+Display a dynamic real-time view of the running processes.
+
+Options:
+
+-d, --delay=NUMBER   Set the delay between updates in seconds.
+-n, --number=NUMBER  Set the number of processes to display.
+-s, --sort=COLUMN    Sort the processes by COLUMN.
+-h, --help           Show this help message.
 ```
 
 
 
+## breakdown
 
-
-
+```
+-d, --delay=NUMBER: This option sets the delay between updates in seconds. The default is 2 seconds.
+-n, --number=NUMBER: This option sets the number of processes to display. The default is 15.
+-s, --sort=COLUMN: This option sorts the processes by COLUMN. The possible columns are:
+CPU: CPU usage
+MEM: Memory usage
+PRI: Priority
+NI: Nice value
+VSZ: Virtual memory size
+RSS: Resident set size
+TTY: Controlling terminal
+STAT: Process state
+WCHAN: Waiting state
+COMMAND: Command name
+-h, --help: This option shows this help message.
+```
 
 
 
