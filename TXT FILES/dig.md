@@ -1,30 +1,73 @@
-The date command in Linux is used to display the current date and time. It can also be used to set the date and time.
 
-For example, the following command will display the current date and time in the default format:
+Sure, here is the help output for the dig command:
 
-`date`
+dig [options] [domain]
 
-The following command will display the current date and time in the %a %b %d %H:%M:%S %Y format:
-
-`date +"%a %b %d %H:%M:%S %Y"`
-
-The following command will set the date and time to 2023-03-08 12:00:00:
-
-`date -s "2023-03-08 12:00:00"`
-
-# help 
-
-```
-date [options]
-
-Display or set the date and time.
+Perform DNS lookups.
 
 Options:
 
--s, --set=DATE   Set the date and time to DATE.
--u, --utc        Display or set the time in UTC.
--r, --reference=FILE   Set the date and time to the time in FILE.
--d, --date=DATE   Display the date in the specified format.
 -h, --help           Show this help message.
+-t, --type=TYPE   Set the DNS record type.
+-c, --class=CLASS   Set the DNS record class.
+-p, --port=PORT   Set the DNS port number.
+-q, --query=QUERY   Set the DNS query.
+-x, --xfr   Perform a zone transfer.
+-v, --verbose   Increase verbosity.
+-w, --width=WIDTH   Set the output width.
+
+Examples:
+```
+    dig @8.8.8.8 google.com
+    dig -t A google.com
+    dig -x google.com
 ```
 
+The dig command is a powerful tool that can be used to perform DNS lookups. It can be used to see which DNS servers are authoritative for a domain, and to get the IP addresses of hosts.
+
+
+```
+dig [options] [domain]
+
+Perform DNS lookups.
+
+Options:
+
+-h, --help           Show this help message.
+-t, --type=TYPE   Set the DNS record type.
+-c, --class=CLASS   Set the DNS record class.
+-p, --port=PORT   Set the DNS port number.
+-q, --query=QUERY   Set the DNS query.
+-x, --xfr   Perform a zone transfer.
+-v, --verbose   Increase verbosity.
+-w, --width=WIDTH   Set the output width.
+
+Examples:
+
+    dig @8.8.8.8 google.com
+    dig -t A google.com
+    dig -x google.com
+```
+
+## breakdown
+
+```
+-h, --help: This option shows this help message.
+-t, --type=TYPE: This option sets the DNS record type. The possible values for TYPE are:
+A: A host address.
+AAAA: A host address for IPv6.
+CNAME: A canonical name.
+MX: Mail exchanger.
+NS: Name server.
+PTR: Pointer.
+SOA: Start of authority.
+-c, --class=CLASS: This option sets the DNS record class. The possible values for CLASS are:
+IN: Internet.
+CH: Chaos.
+HS: Hesiod.
+-p, --port=PORT: This option sets the DNS port number. The default port number is 53.
+-q, --query=QUERY: This option sets the DNS query. The query can be a domain name or a specific DNS record type.
+-x, --xfr: This option performs a zone transfer. A zone transfer is a request for all of the DNS records for a zone.
+-v, --verbose: This option increases verbosity. The more verbose the output, the more detailed it will be.
+-w, --width=WIDTH: This option sets the output width. The width is the maximum number of characters per line.
+```
