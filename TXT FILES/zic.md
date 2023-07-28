@@ -9,14 +9,17 @@ In summary, zic is a Linux command-line utility used to compile time zone data i
 
 
 
-help
+# help
+
 ```
 zic: usage is zic [ --version ] [ --help ] [ -v ] \
         [ -b {slim|fat} ] [ -d directory ] [ -l localtime ] [ -L leapseconds ] \
         [ -p posixrules ] [ -r '[@lo][/@hi]' ] [ -t localtime-link ] \
         [ filename ... ]
 ```
-man
+
+# man
+
 ```
 NAME
        zic - timezone compiler
