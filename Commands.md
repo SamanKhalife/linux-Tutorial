@@ -1,4 +1,4 @@
-# MOST USEABLE COMMANDS
+# Linux Commands
 <!--i think adding number is not a good so i don't do it -->
 <!-- SAMAN KHALIFE  -->
 
@@ -8,6 +8,16 @@
 
 #### │  [A](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Commands.md#-a-) │  [B](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Commands.md#-b-) │  [C](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Commands.md#-c-)  │  [D](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Commands.md#-d-)  │  [E](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Commands.md#-e-)  │  [F](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Commands.md#-f-)  │  [G](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Commands.md#-g-)  │  [H](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Commands.md#-h-)  │  [I](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Commands.md#-i-)  │  [J](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Commands.md#-j-)  │  [K](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Commands.md#-k-)  │  [L](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Commands.md#-l-)  │  [M](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Commands.md#-m-)  │  [N](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Commands.md#-n-)  │  [O]()  │  [P](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Commands.md#-p-)  │  [Q]()  │  [R](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Commands.md#-r-)  │  [S](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Commands.md#-s-)  │  [T](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Commands.md#-t-)  │  [U](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Commands.md#-u-)  │  [V](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Commands.md#-v-)  │  [W](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Commands.md#-w-)  │  [X](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Commands.md#-x-)  │  [Y]()  │  [Z](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Commands.md#-z-)  │  
   
+</div>
+
+
+
+<div align="center">
+
+<h2>Top 100 Linux Commands Cheat Sheet</h2>
+
+[Top 100 Linux Commands](https://medium.com/@AnnAfame/top-100-linux-commands-cheat-sheet-cf627b585e68)
+
 </div>
 
 <h2> A </h2>
