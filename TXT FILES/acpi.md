@@ -1,4 +1,5 @@
-help
+
+# help
 
 ```
 Usage: acpi [OPTION]...

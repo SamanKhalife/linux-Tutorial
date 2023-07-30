@@ -20,9 +20,9 @@ The tree tool is used to display the list of files and directories based on thei
 
 	root@Saman:~# tree -L 2
 	
+# help 
 
 ```
-help
 
 usage: tree [-acdfghilnpqrstuvxACDFJQNSUX] [-L level [-R]] [-H  baseHREF]
         [-T title] [-o filename] [-P pattern] [-I pattern] [--gitignore]

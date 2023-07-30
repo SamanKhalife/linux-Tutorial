@@ -1,6 +1,7 @@
 The "enable" command in Linux systems is used to enable or disable built-in shell commands or functions.
 
 # help
+
 ```
 enable: enable [-a] [-dnps] [-f filename] [name ...]
     Enable and disable shell builtins.

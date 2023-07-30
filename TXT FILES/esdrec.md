@@ -20,7 +20,7 @@ Options:
 
 For more information, see the esdrec man page.
 ```
-breakdown
+## breakdown
 
 ```
 -f, --format: This option tells esdrec to use the specified output format. The available formats are:

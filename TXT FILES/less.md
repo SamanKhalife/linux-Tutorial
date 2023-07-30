@@ -1,4 +1,6 @@
-help
+
+# help
+
 ```
 
                    SUMMARY OF LESS COMMANDS
@@ -202,17 +204,11 @@ help
   -z [N]  ....  --window=[N]
                   Set size of window.
 
+```
 
 
-
-
-
-
-
-
-
-man
-
+# man
+```
 NAME
        less - opposite of more
 

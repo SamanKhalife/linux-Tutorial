@@ -1,4 +1,6 @@
-help
+
+# help
+
 ```
 Options:
   -pass-exit-codes         Exit with highest error code from a phase.

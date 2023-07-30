@@ -5,6 +5,10 @@ For example, the following command will expand the tabs in the file file.txt and
 `expand file.txt > expanded.txt`
 
 
+
+
+
+
 # help 
 
 ```
@@ -21,6 +25,7 @@ Options:
 
 
 
+<<<<<<< Updated upstream
 
 ## breakdown
 
@@ -30,3 +35,10 @@ Options:
 -h, --help: This option shows this help message.
 ```
 ``
+=======
+## breakdown
+
+```
+
+```
+>>>>>>> Stashed changes

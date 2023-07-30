@@ -1,4 +1,6 @@
-help
+
+# help
+
 ```
 Options:
  -C, --clear                 clear the kernel ring buffer

@@ -1,22 +1,41 @@
 
-# help
+
+
+
+
+# help 
 
 ```
-Usage: paste [OPTION]... [FILE]...
-Write lines consisting of the sequentially corresponding lines from
-each FILE, separated by TABs, to standard output.
+popd: popd [-n] [+N | -N]
+    Remove directories from stack.
+    
+    Removes entries from the directory stack.  With no arguments, removes
+    the top directory from the stack, and changes to the new top directory.
+    
+    Options:
+      -n        Suppresses the normal change of directory when removing
+                directories from the stack, so only the stack is manipulated.
+    
+    Arguments:
+      +N        Removes the Nth entry counting from the left of the list
+                shown by `dirs', starting with zero.  For example: `popd +0'
+                removes the first directory, `popd +1' the second.
+    
+      -N        Removes the Nth entry counting from the right of the list
+                shown by `dirs', starting with zero.  For example: `popd -0'
+                removes the last directory, `popd -1' the next to last.
+    
+    The `dirs' builtin displays the directory stack.
+    
+    Exit Status:
+    Returns success unless an invalid argument is supplied or the directory
+    change fails.
+```
 
-With no FILE, or when FILE is -, read standard input.
 
-Mandatory arguments to long options are mandatory for short options too.
-  -d, --delimiters=LIST   reuse characters from LIST instead of TABs
-  -s, --serial            paste one file at a time instead of in parallel
-  -z, --zero-terminated    line delimiter is NUL, not newline
-      --help     display this help and exit
-      --version  output version information and exit
 
-GNU coreutils online help: <https://www.gnu.org/software/coreutils/>
-Report any translation bugs to <https://translationproject.org/team/>
-Full documentation <https://www.gnu.org/software/coreutils/paste>
-or available locally via: info '(coreutils) paste invocation'
+## breakdown
+
+```
+
 ```

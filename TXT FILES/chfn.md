@@ -1,5 +1,7 @@
 The "chfn" command in Linux is used to change a user's finger information, such as their full name, office location, phone number, and other contact details. 
+
 # help
+
 ```
 Usage: chfn [options] [LOGIN]
 

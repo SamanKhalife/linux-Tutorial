@@ -12,6 +12,8 @@ kB/write: The average number of kilobytes written in a single I/O operation.
 wait: The average time spent waiting for I/O to complete.
 svctm: The average time spent servicing I/O requests.
 
+
+
 # help 
 
 ```
@@ -31,10 +33,20 @@ Options:
 ##  breakdown
 
 ```
+<<<<<<< Updated upstream
 -k, --kilobytes: This option displays I/O statistics in kilobytes.
 -m, --megabytes: This option displays I/O statistics in megabytes.
 -g, --gigabytes: This option displays I/O statistics in gigabytes.
 -d, --disk=[device]: This option only displays statistics for the specified device.
 -c, --cpu: This option displays CPU utilization statistics.
 -h, --help: This option shows this help message.
+=======
+
+
+
+## breakdown
+
+```
+
+>>>>>>> Stashed changes
 ```

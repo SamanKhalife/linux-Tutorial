@@ -1,6 +1,7 @@
 The name of the cat tool is an abbreviation of the word concatenate. cat is used to view text files. And as the name of this tool suggests, cat is also used to append several separate text files.
 
-help
+# help
+
 ```
 Usage: cat [OPTION]... [FILE]...
 Concatenate FILE(s) to standard output.

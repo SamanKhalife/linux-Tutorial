@@ -1,4 +1,7 @@
-help
+
+
+
+# help
 
 ```
 Usage: getent [OPTION...] database [key ...]

@@ -8,6 +8,9 @@ The device argument is the device name of the floppy disk that you want to forma
 
 `fdformat /dev/fd0`
 
+
+
+
 # help 
 
 ```
@@ -39,3 +42,10 @@ Examples:
 -h, --help: This option shows this help message.
 ```
 
+
+
+## breakdown
+
+```
+
+```

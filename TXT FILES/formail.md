@@ -10,6 +10,9 @@ For example, the following command will change the subject of the mail message t
 
 `formail -s "Important" -r < mail.msg`
 
+
+
+
 # help 
 
 ```
@@ -32,3 +35,10 @@ Options:
 -h, --help: This option shows this help message.
 ```
 
+
+
+## breakdown
+
+```
+
+```

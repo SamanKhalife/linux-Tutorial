@@ -1,6 +1,6 @@
 The "fc" command in Linux is used to invoke the command-line editor to modify and re-execute previously entered commands in the shell history.
 
-#help
+# help
 
 ```
 fc: fc [-e ename] [-lnr] [first] [last] or fc -s [pat=rep] [command]

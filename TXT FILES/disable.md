@@ -18,6 +18,9 @@ cardctl disable 0
 cardctl status 0
 ```
 
+
+
+
 # help 
 
 ```
@@ -36,6 +39,17 @@ Examples:
 ## breakbown
 
 ```
+<<<<<<< Updated upstream
 -h, --help: This option shows this help message.
 <socket_number>: This is the number of the PCMCIA socket that you want to disable.
 ```
+=======
+
+
+
+## breakdown
+
+```
+
+```
+>>>>>>> Stashed changes

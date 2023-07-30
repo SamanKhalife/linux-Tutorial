@@ -18,7 +18,9 @@ Options:
 For more information, see the setsid man page.
 
 ```
+
 ## breakdown help
+
 ```
 -c, --ctty: This option tells setsid to set the controlling terminal to the current one.
 -f, --fork: This option tells setsid to always create a new process.
