@@ -1,3 +1,4 @@
+fdisk is a command-line tool used to manage disk partitions in Linux. A disk partition is a way of dividing a disk drive into multiple logical units. Each partition can then be formatted with a file system, such as ext4 or NTFS, and used to store files.
 
 # help
 
