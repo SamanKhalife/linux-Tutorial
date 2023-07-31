@@ -229,7 +229,7 @@ List a user’s pending jobs for the at command.
 
 ##  aplay command
 
-[aplay help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/aplaymd)
+[aplay help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/aplay.md)
 
 
 ## atrm command
@@ -1695,6 +1695,24 @@ Used to find out how long the system is active (running)
 
 <h2> V </h2>
 
+##  vi command
+
+[vi help]()
+
+A text editor utility.
+
+##  vidmode command
+
+[vidmode help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/vidmode.md)
+
+Set the video mode for a kernel image. Displays current mode value without arguments.
+
+##  vim command
+
+[vim help]()
+
+Vi Improved, a text-based editor which is a successor to vi.
+
 ##  vmstat command
 
 [vmstat help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/vmstatmd)
@@ -1707,11 +1725,12 @@ It is a performance monitoring command of the system as it gives the information
 
 Used by system administrators in order to monitor network parameters such as bandwidth consumption or maybe some traffic flowing in or out
 
+
 <h2> W </h2>
  
 ##  w command
 
-[w help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/wmd)
+[w help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/w.md)
 
 Used to show who is logged on and what they are doing
 
@@ -1721,59 +1740,56 @@ Used to show who is logged on and what they are doing
 
 Displays a message, or the contents of a file, or otherwise its standard input, on the terminals of all currently logged in users
 
-##  watch command
-
-[watch help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/whatchmd)
-
-Used to execute a program periodically, showing output in fullscreen
 
 ##  wc command
 
-[wc help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/wcmd)
+[wc help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/wc.md)
 
 Used to find out number of lines, word count, byte and characters count in the files specified in the file arguments
 
 ##  wget command
 
-[Wget help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/wgetmd)
+[Wget help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/wget.md)
 
 Used to download files from the server even when the user has not logged on to the system and it can work in background without hindering the current process
 
+##  whatch command
+
+[watch help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/whatch.md)
+
+Used to execute a program periodically, showing output in fullscreen
+
 ##  whatis command
 
-[whatis help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/whatismd)
+[whatis help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/whatis.md)
 
 ##  which command
 
-[which help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/whichmd)
+[which help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/which.md)
 
 Used to locate the executable file associated with the given command by searching it in the path environment variable
 
 ##  while command
 
-[while help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/whilemd)
+[while help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/while.md)
 
 Used to repeatedly execute a set of command as long as the COMMAND returns true
 
-##  watch command
-
-[Swatch help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/Swatchmd)
-
 ##  who command
 
-[who help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/whomd)
+[who help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/who.md)
 
 Used to get information about currently logged in user on to system
 
 ##  whoami command
 
-[whoami help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/whoamimd)
+[whoami help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/whoami.md)
 
 Displays the username of the current user when this command is invoked
 
 ##  write command
 
-[write help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/writemd)
+[write help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/write.md)
 
 Allows a user to communicate with other users, by copying lines from one user’s terminal to others
 
