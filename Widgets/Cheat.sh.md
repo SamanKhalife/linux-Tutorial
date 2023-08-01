@@ -1,5 +1,7 @@
 # [cheat.ch](https://github.com/chubin/cheat.sh)
 
+[Visit now](https://cheat.sh/)
+
 Unified access to the best community driven cheat sheets repositories of the world.
 
 
