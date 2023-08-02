@@ -760,6 +760,9 @@ Protects against Denial-of-Service attacks.
 It lets users create logging and graphical reports for insights.
 
 It can be installed on hardware devices such as Raspberry Pi.
+
+<a href="https://www.ipfire.org/">IPFire</a>
+
 </b>
 </details>
 
@@ -781,6 +784,9 @@ Supports VPN endpoint and wireless access point configuration.
 Outbound and Inbound load balancing.
 
 Real-time information.
+
+<a href="https://www.pfsense.org/">pfsense</a>
+
 </b>
 </details>
 
@@ -799,13 +805,16 @@ Offers centralized cloud management to manage multiple firewalls.
 
 Improves network visibility with rich analytics and reporting.
 
+<a href="https://www.zenarmor.com/">Zenarmor</a>
+
 </b>
 </details>
 
 
 <details>
 <summary> UFW </summary><br><b>
-
+	
+<a href="https://help.ubuntu.com/community/UFW">UFW help</a>
 
 </b>
 </details>
@@ -814,7 +823,7 @@ Improves network visibility with rich analytics and reporting.
 
 <details>
 <summary> IPcop </summary><br><b>
-
+<a href="https://www.ipcop.org/docs.html">IPcop docs</a>
 
 </b>
 </details>
@@ -824,24 +833,25 @@ Improves network visibility with rich analytics and reporting.
 <details>
 <summary> Opnsence </summary><br><b>
 
+<a href="https://opnsense.org/">Opnsence</a>
 
 </b>
 </details>
-
-
 
 
 <details>
 <summary> Surewall </summary><br><b>
 
+<a href="https://shorewall.org/">Surewall</a>
 
 </b>
 </details>
 
 
 <details>
-<summary> VlearOS </summary><br><b>
+<summary> ClearOS </summary><br><b>
 
+<a href="https://www.clearos.com/">ClearOS</a>
 
 </b>
 </details>
@@ -850,6 +860,7 @@ Improves network visibility with rich analytics and reporting.
 <details>
 <summary> Arista Edge </summary><br><b>
 
+<a href="https://edge.arista.com/">Arista Edge</a>
 
 </b>
 </details>
