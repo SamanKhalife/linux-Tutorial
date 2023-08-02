@@ -1,4 +1,5 @@
 # linux-Tutorial (for cloud computing)
+
 linux commands and any thing basic you need yo know for using linux (for cloud computing) it is for my own Knowledge but if you want to use I try to make it very complex and from base so you can learn linux so easy and work on linux based systems.
 
 <!--if you want to share please share it with the source of it -->
@@ -6,9 +7,11 @@ linux commands and any thing basic you need yo know for using linux (for cloud c
 
 
 # commands in first place
+
 [Commands](https://github.com/SamanKhalife/linux-commands/blob/main/Commands.md)
 
 # Common commands preview
+
 - [View Linux command help information] - commands：`help`, `whatis`, `info`, `which`, `whereis`, `man`
 - [Linux file directory management] -commands：`cd`, `ls`, `pwd`, `mkdir`, `rmdir`, `tree`, `touch`, `ln`, `rename`, `stat`, `file`, `chmod`, `chown`, `locate`, `find`, `cp`, `mv`, `rm`
 - [Linux file content viewing command] - commands：`cat`, `head`, `tail`, `more`, `less`, `sed`, `vi`, `grep`
@@ -27,20 +30,22 @@ linux commands and any thing basic you need yo know for using linux (for cloud c
 - **System software** 
 - **Application software** 
 - **Application software with graphical interface**
-<!-- PIC11111111111  -->
+  
 ![img](https://github.com/SamanKhalife/linux-commands/blob/main/IMAGES/1111111111111111111.png)
 
 
 
 - **Application software with graphical interface**
-<!-- PIC22222222222  -->
+
 ![img](https://github.com/SamanKhalife/linux-commands/blob/main/IMAGES/2222222222222222222.png)
 
 
 # Linux Boot Process
+
 - There are 6 stages of the Linux boot process
-<!-- PIC33333333333  -->
+
 ![img](https://github.com/SamanKhalife/linux-commands/blob/main/IMAGES/3333333333333333333.png)
+
 ## Stage 1: BIOS (Basic Input/Output System)
 - `Bios` stands for basic input/output system.
 - This is the first step of the boot process, `Bios` doing the POST (Power-on Self-test) job.
@@ -51,6 +56,7 @@ linux commands and any thing basic you need yo know for using linux (for cloud c
      + If the operating system `Linux` is installed on the hard disk, it will find the Master Boot Record at the first sector of the first hard drive.
 
 ## Stage 2: MBR loading
+
 - MBR (Master Boot Record) is stored in the first sector of a data storage device ( `/dev/sda`, `/dev/hda`).
 - MBR is very small, only `512byte`=`1 sector`.
 - The MBR contains the following information:
@@ -59,13 +65,16 @@ linux commands and any thing basic you need yo know for using linux (for cloud c
      + Magic number ( 2 byte) : used to check MBR , if MBR fails, it will restore.
 
 ## Stage 3: GRUB Loader
+
 - After locating the Boot Loader , this step will execute `load` the Boot Loader into memory and read the configuration - information then display the GRUB Boot Menu for the user to choose from.
 - If the User does not select the OS, after a preset time, GRUB will load the default Kernel into memory to boot.
 
 ## Stage 4: Kernel
+
 - The operating system's kernel will be loaded into **RAM** -> When the kernel works, the first thing will execute the INIT process.
 
 ## Stage 5: Run Level (INIT)
+
 - This is the main stage of the process `boot`.
 
 ```
@@ -100,6 +109,7 @@ linux commands and any thing basic you need yo know for using linux (for cloud c
 
 
 # Shell
+
 ## Concepts
 - **Shell** is a program that executes commands from users or applications - the utility requires passing to **Kernel** for processing.
 - Activities of **Shell**:
@@ -264,36 +274,6 @@ In many cases, you need to resize your partitions or even install new disks and 
 
 </b>
 </details>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -606,11 +586,11 @@ Only the file owner and superuser can use this command.
 
 [gorupmod]()
 
-[groupadd]()
+[groupadd](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/groupadd.md)
 
-[groupdel]()
+[groupdel](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/groupdel.md)
 
-[groups]()
+[groups](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/groups.md)
 
 
 
@@ -643,6 +623,8 @@ This command is used when the user wants to search for the given regex term(s) i
  If you want to download only one specific package, you can do:`apt-get download [...PACKAGES]`
 
  Removing debian packages:`apt-get remove [package(s)]`
+
+
 
 ## package information with dpkg
 
@@ -753,6 +735,139 @@ The following commands will get you the private IP address of your interfaces:
 
 
 
+
+
+# Firewalls
+
+ Here are the Best Firewalls for Linux for Effective System Protection
+
+<details>
+<summary> IPFire </summary><br><b>
+Key Features:
+
+Firewall engine and Instruction Prevention system.
+
+Offers default zones with different security policies. For example, DMZ and LAN.
+
+Frequently updated to prevent attack vectors and security vulnerabilities.
+
+Offers Stateful Package Inspection(SPI) firewall built on top of Netfilter.
+
+Provides an intuitive web user interface.
+
+Protects against Denial-of-Service attacks.
+
+It lets users create logging and graphical reports for insights.
+
+It can be installed on hardware devices such as Raspberry Pi.
+
+<a href="https://www.ipfire.org/">IPFire</a>
+
+</b>
+</details>
+
+
+<details>
+<summary> PfSense </summary><br><b>
+Key Features:
+
+FreeBSD-based.
+
+Supports a wide variety of hardware.
+
+Clean web interface.
+
+It comes with commercial-grade features.
+
+Supports VPN endpoint and wireless access point configuration.
+
+Outbound and Inbound load balancing.
+
+Real-time information.
+
+<a href="https://www.pfsense.org/">pfsense</a>
+
+</b>
+</details>
+
+
+<details>
+<summary> Zenarmor </summary><br><b>
+Key Features:
+
+Web filtering, application control, and cloud threat intelligence.
+
+Auto-block malware/phishing attempts in real-time.
+
+Instantly deploy firewall with minimal setup requirements.
+
+Offers centralized cloud management to manage multiple firewalls.
+
+Improves network visibility with rich analytics and reporting.
+
+<a href="https://www.zenarmor.com/">Zenarmor</a>
+
+</b>
+</details>
+
+
+<details>
+<summary> UFW </summary><br><b>
+	
+<a href="https://help.ubuntu.com/community/UFW">UFW help</a>
+
+</b>
+</details>
+
+
+
+<details>
+<summary> IPcop </summary><br><b>
+<a href="https://www.ipcop.org/docs.html">IPcop docs</a>
+
+</b>
+</details>
+
+
+
+<details>
+<summary> Opnsence </summary><br><b>
+
+<a href="https://opnsense.org/">Opnsence</a>
+
+</b>
+</details>
+
+
+<details>
+<summary> Surewall </summary><br><b>
+
+<a href="https://shorewall.org/">Surewall</a>
+
+</b>
+</details>
+
+
+<details>
+<summary> ClearOS </summary><br><b>
+
+<a href="https://www.clearos.com/">ClearOS</a>
+
+</b>
+</details>
+
+
+<details>
+<summary> Arista Edge </summary><br><b>
+
+<a href="https://edge.arista.com/">Arista Edge</a>
+
+</b>
+</details>
+
+
+
+
 # iptables
 iptables is a powerful configuration tool for controlling traffic to and from your system. Modern Linux kernels come with a packet filtering framework called Netfilter. Netfilter provides operations such as allow, drop, and modify to control the flow of packets into and out of the system. The user-level command-line tool iptables based on the Netfilter framework provides a powerful firewall configuration function, allowing you to add rules to build firewall policies. The richness and complexity of iptables and its baroque command syntax can be overwhelming.
 
@@ -789,33 +904,6 @@ iptables   -t       nat        -I        FORWARDING          .     -P     tcp   
     nameserver 185.51.200.2
     ```
 - save changes and exit.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1136,8 +1224,9 @@ Next we’ll review some settings we can update to tune our swap space.
 
 
 
-# How To Install and Configure GitLab
+# GitLab
 
+[GitLab Doc](https://docs.gitlab.com/)
 
 
 
@@ -1278,7 +1367,7 @@ Some configurations are machine specific. For example, a network card's MAC addr
 
 
 
-
+# 
 # 
 # 
 # 
@@ -1354,11 +1443,13 @@ The concepts of SLI, SLO, and SLA are very similar to the "everything can be mea
 # Sources I get help from
 - Digital ocean
 - google youtube chanel
+- some open source projects
+  
 
 
 
-
-
+<!--if you want to share please share it with the source of it -->
+<!-- SAMAN KHALIFE  -->
 
 
 
