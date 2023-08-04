@@ -1138,8 +1138,7 @@ Next we’ll review some settings we can update to tune our swap space.
 
 # Prometheus 
 
-
-
+[Prometheus docs](https://prometheus.io/docs/introduction/overview/)
 
 
 
@@ -1149,7 +1148,7 @@ Next we’ll review some settings we can update to tune our swap space.
 
 
 # Grafana
-
+[Grafana docs](https://grafana.com/docs/grafana/latest/)
 
 
 
