@@ -1163,7 +1163,8 @@ Next we’ll review some settings we can update to tune our swap space.
 # Apache
 
 [Apache](https://www.apache.org/)
-[Apache docs]([https://www.ansible.com/](https://httpd.apache.org/docs/))
+
+[Apache docs](https://httpd.apache.org/docs/)
 
 
 
