@@ -37,11 +37,3 @@ Examples:
     bzgrep -n "hello" file.bz2
     bzgrep -v "hello" file.bz2
 ```
-
-
-
-## breakdown
-
-```
-
-```
