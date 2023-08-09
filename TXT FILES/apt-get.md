@@ -1,3 +1,16 @@
+The apt-get command is a command-line utility that can be used to install, remove, and update software packages on Debian-based Linux distributions. It is a powerful tool that can be used to manage the software on your system.
+
+The apt-get command is used as follows:
+
+`apt-get [options] command`
+
+command: This is the command that you want to run. Some of the most commonly used apt-get commands are:
+- install: This command is used to install software packages.
+- remove: This command is used to remove software packages.
+- update: This command is used to update the list of available software packages.
+- upgrade: This command is used to upgrade installed software packages to the latest version.
+
+
 
 
 # help
