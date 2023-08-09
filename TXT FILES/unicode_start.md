@@ -1,18 +1,24 @@
-The `unicode_stop` function in Python is used to remove all unicode control characters from a string. It is a useful function for cleaning up text that may contain unwanted control characters.
-
-The `unicode_stop` function is used as follows:
+The `unicode_start` function is a Python function that returns the Unicode code point for the first character in a string. The function is defined as follows:
 
 ```python
-import unicodedata
+def unicode_start(string):
+    """Returns the Unicode code point for the first character in a string."""
 
-def unicode_stop(text):
-    """Removes all unicode control characters from a string."""
-    control_characters = [c for c in text if unicodedata.combining(c) or unicodedata.iscontrol(c)]
-    return ''.join(ch for ch in text if ch not in control_characters)
+    if not isinstance(string, str):
+        raise TypeError("Argument must be a string.")
 
-print(unicode_stop('This is a test string with some control characters.'))
+    return ord(string[0])
 ```
 
-The output of the `unicode_stop` function will be the string `This is a test string with some control characters` with all of the control characters removed.
+The `unicode_start` function takes a single argument, which is the string that you want to get the Unicode code point for. The function returns the Unicode code point for the first character in the string.
 
-The `unicode_stop` function is a useful function for cleaning up text that may contain unwanted control characters. It can be used to remove formatting characters, invisible characters, and other unwanted characters from text.
+For example, the following code will print the Unicode code point for the first character in the string "hello":
+
+```python
+>>> unicode_start("hello")
+104
+```
+
+The output of the code is 104, which is the Unicode code point for the letter "h".
+
+The `unicode_start` function is a useful function for getting the Unicode code point for the first character in a string. It can be used for a variety of tasks, such as finding the encoding of a string or determining whether a string contains a certain character.
