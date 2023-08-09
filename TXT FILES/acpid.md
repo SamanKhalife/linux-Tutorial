@@ -1,3 +1,14 @@
+The acpid daemon is a service that manages power management on Linux systems that support ACPI. It is responsible for handling ACPI events, such as lid close, power button press, and battery low, and taking appropriate action, such as putting the system to sleep or suspending it.
+
+
+The acpid daemon is started automatically when the system boots. It can be stopped and started using the following commands:
+
+```
+systemctl stop acpid
+systemctl start acpid
+```
+
+The acpid daemon can be configured using the /etc/acpi/events file. This file contains a list of ACPI events that the acpid daemon should handle, as well as the action that the daemon should take when each event occurs.
 
 
 # help 

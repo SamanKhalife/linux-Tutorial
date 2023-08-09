@@ -1,4 +1,50 @@
+The `whatis` command is a Linux command that can be used to get a brief description of a command. It is a versatile command that can be used to quickly get a summary of a command's purpose and usage.
 
+The `whatis` command is used as follows:
+
+```
+whatis command
+```
+
+* `command`: This is the name of the command that you want to get a description of.
+
+For example, the following command will get a brief description of the `wc` command:
+
+```
+whatis wc
+```
+
+The output of the `whatis` command will be:
+
+```
+wc (1) - count lines, words, and characters
+```
+
+This output shows that the `wc` command is used to count the lines, words, and characters in a file.
+
+The `whatis` command can be used to get a brief description of any command. It is a valuable tool for system administrators who need to learn about the commands that are available on their system. It can also be used by users to get a quick summary of a command's purpose and usage.
+
+Here are some other examples of how the `whatis` command can be used:
+
+* To get a description of the `ls` command:
+
+```
+whatis ls
+```
+
+* To get a description of the `grep` command:
+
+```
+whatis grep
+```
+
+* To get a description of the `man` command:
+
+```
+whatis man
+```
+
+The `whatis` command is a quick and easy way to get a brief description of a command. It is a valuable tool for anyone who needs to learn about the commands that are available on their system.
 
 # help
 
