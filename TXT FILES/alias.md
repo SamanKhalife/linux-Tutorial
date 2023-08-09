@@ -1,3 +1,16 @@
+In Linux, an alias is a command that is defined to be another command. This can be useful for shortening long commands or for creating shortcuts to commands that you use frequently.
+
+
+You can also create aliases for commands that take arguments. For example, the following command creates an alias for the grep command:
+
+`alias grep = "grep -n"`
+
+This alias will now run the grep command with the -n option, which will print the line numbers of the matches.
+
+Aliases are stored in the .bashrc file. This file is located in your home directory. You can edit the .bashrc file to add or remove aliases.
+
+When you open a new terminal, the aliases in your .bashrc file will be loaded. This means that you can use your aliases immediately after opening a new terminal.
+
 # help 
 
 ```
