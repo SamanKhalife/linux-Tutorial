@@ -1,25 +1,36 @@
-The tree tool is used to display the list of files and directories based on their arrangement structure. For example, suppose the foo directory has a bar directory and a self file in it, and inside bar there is another directory with the same name, and a file is created in each of these directories. In order for you to see this structure as nested branches, you can use the tree tool.
+The `tree` command in Linux is used to display the directory structure of a file system. The `tree` command is a recursive command, which means that it will display the contents of all subdirectories as well.
 
-	you can tree a dir like this: 
-	
-	root@Saman:~# tree /tmp/t
+The `tree` command is used as follows:
 
-	Show hidden files:
+```
+tree [options] [directory]
+```
 
-	root@Saman:~# tree -a /tmp/
+* `options`: These are optional flags that can be used to control the behavior of the `tree` command.
+* `directory`: This is the directory that will be displayed. The default directory is the current directory.
 
-	List only directories:
+The `tree` command has a number of options that can be used to control the output of the command. Some of the most commonly used `tree` options are:
 
-	root@Saman:~# tree /tmp/t -d
+* `-d`: This option specifies that only directories should be displayed.
+* `-f`: This option specifies that the output should be formatted in a tree-like format.
+* `-L`: This option specifies the maximum depth of the tree.
+* `-s`: This option specifies that the size of each file or directory should be displayed.
 
-	Display the full path of each file:
+For example, the following command will display the contents of the current directory in a tree-like format:
 
-	root@Saman:~# tree -f
+```
+tree
+```
 
-	Limit the number of subcategories:
+The following command will display the contents of the `/etc` directory in a tree-like format, with a maximum depth of 2:
 
-	root@Saman:~# tree -L 2
-	
+```
+tree -L 2 /etc
+```
+
+The `tree` command is a valuable tool for system administrators and users who need to view the directory structure of a file system. It can be used to troubleshoot problems, to find files, and to understand the file system layout.
+
+
 # help 
 
 ```
