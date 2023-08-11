@@ -39,11 +39,3 @@ Here are some additional things to note about the `cksum` command:
 ```
 
 ```
-
-
-
-## breakdown
-
-```
-
-```
