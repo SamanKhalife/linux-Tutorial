@@ -37,7 +37,7 @@ Options:
 For more information, see the shred man page.
 
 ```
-breakdown 
+## breakdown 
 ```
 -n: This option tells shred to overwrite the file data a specified number of times. The default is 3 times.
 -f: This option tells shred to force the overwrite, even if the file is open.
