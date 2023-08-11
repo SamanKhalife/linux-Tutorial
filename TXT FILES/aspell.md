@@ -20,9 +20,6 @@ Here are some additional things to note about Aspell:
 * Aspell can be used to check the spelling of words in any language.
 * Aspell can be used in a graphical mode or in a command-line mode.
 
-
-
-
 # help 
 
 ```
