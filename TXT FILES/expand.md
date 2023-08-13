@@ -49,10 +49,6 @@ Options:
 -h, --help          Show this help message.
 ```
 
-
-
-<<<<<<< Updated upstream
-
 ## breakdown
 
 ```
@@ -60,11 +56,3 @@ Options:
 -b, --backslashes: This option expands backslashes as literal characters.
 -h, --help: This option shows this help message.
 ```
-``
-=======
-## breakdown
-
-```
-
-```
->>>>>>> Stashed changes
