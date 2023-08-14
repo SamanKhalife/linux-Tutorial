@@ -79,8 +79,3 @@ HS: Hesiod.
 -v, --verbose: This option increases verbosity. The more verbose the output, the more detailed it will be.
 -w, --width=WIDTH: This option sets the output width. The width is the maximum number of characters per line.
 ```
-
-```
-
-```
->>>>>>> Stashed changes
