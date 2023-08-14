@@ -26,7 +26,7 @@ This would disable quotas on all file systems, including the root file system.
 To disable quotas for the user `saman` on the file system `/dev/sda1`, you would use the following command:
 
 ```
-quotaoff -u bard /dev/sda1
+quotaoff -u saman /dev/sda1
 ```
 
 This would disable quotas for the user `saman` on the file system `/dev/sda1`.
