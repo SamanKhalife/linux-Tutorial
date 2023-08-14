@@ -53,11 +53,3 @@ Options:
 -r, --remove-attachment: This option removes the attachment from the message.
 -h, --help: This option shows this help message.
 ```
-
-
-
-## breakdown
-
-```
-
-```
