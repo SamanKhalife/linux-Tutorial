@@ -33,7 +33,7 @@ Examples:
     iotop -u root
 ```
 
-<<<<<<< Updated upstream
+
 ## breakdown
 
 ```
@@ -44,12 +44,4 @@ Examples:
 -b, --background: This option shows all processes, even those in the background.
 -h, --help: This option shows this help message.
 ```
-=======
 
-
-## breakdown
-
-```
-
-```
->>>>>>> Stashed changes
