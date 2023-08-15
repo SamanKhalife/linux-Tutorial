@@ -26,7 +26,6 @@ Options:
 -h, --help          Show this help message.
 ```
 
-<<<<<<< Updated upstream
 ## breakdown
 
 ```
@@ -37,12 +36,3 @@ Options:
 -m, --masquerade: This option allows anonymous users to masquerade as local users.
 -h, --help: This option shows this help message.
 ```
-=======
-
-
-## breakdown
-
-```
-
-```
->>>>>>> Stashed changes
