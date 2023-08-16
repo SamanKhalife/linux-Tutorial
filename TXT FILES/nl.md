@@ -1,3 +1,37 @@
+The `nl` command in Linux is used to number lines in a file. It is a simple command, but it can be very useful for debugging programs and for making files easier to read.
+
+The syntax of the `nl` command is as follows:
+
+```
+nl [options] file
+```
+
+The `file` argument specifies the file that you want to number the lines for.
+
+The `options` argument controls the output of the `nl` command. The most common options are as follows:
+
+* `-b`: Numbers the lines starting from 1.
+* `-n`: Specifies the number of columns to use for the line numbers.
+* `-s`: Specifies the separator to use between the line numbers and the text.
+
+For example, the following command will number the lines in the file `file.txt`, starting from 1, and using a space as the separator:
+
+```
+nl -b -n 5 -s ' ' file.txt
+```
+
+This command will number the lines in the file `file.txt`, starting from 1, and using a space as the separator. The numbers will be displayed in columns of 5.
+
+The `nl` command is a simple command, but it can be very useful for debugging programs and for making files easier to read.
+
+Here are some additional things to keep in mind about the `nl` command:
+
+* The `nl` command can be used to number the lines in any type of file, including text files, binary files, and compressed files.
+* The `nl` command can be used to number the lines in a file that is piped to it.
+* The `nl` command can be used to number the lines in a file that is being read from standard input.
+
+It is important to be aware of these limitations when using the `nl` command, so that you do not get confused by the output.
+
 
 # help
 
