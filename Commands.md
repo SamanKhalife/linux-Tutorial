@@ -654,19 +654,42 @@ Used to store the history of a file Whenever a file gets corrupted or anything g
 
 <h2> D </h2>
 
-##  df command
+##  date command
 
-[df help]()
+[date help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/date.md)
+
+Used to display the system date and time It is also used to set date and time of the system
+
+
+##  dd command
+
+[dd help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/dd.md)
+
+
+
+##  debugfs command
+
+[debugfs help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/debugfs.md)
+
+##  declare command
+
+[declare help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/declare.md)
+
+Used to declare shell variables and functions, set their attributes and display their values
+
+##  depmod command
+
+[depmod help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/depmod.md)
+
+Used to generate a list of dependency description of kernel modules and its associated map files
+
+##  ddrescue command
+
+[ddrescue help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ddrescue.md)
 
 ##  du command
 
 [du help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/dumd)
-
-##  date command
-
-[date help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/datemd)
-
-Used to display the system date and time It is also used to set date and time of the system
 
 
 ##  diff command
@@ -686,17 +709,7 @@ Used to display the system date and time It is also used to set date and time of
 
 It is a command-line utility for Unix and Unix-like operating systems whose primary purpose is to convert and copy files
 
-##  declare command
 
-[declare help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/declaremd)
-
-Used to declare shell variables and functions, set their attributes and display their values
-
-##  depmod command
-
-[depmod help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/depmodmd)
-
-Used to generate a list of dependency description of kernel modules and its associated map files
 
 ##  diff command
 
@@ -1658,46 +1671,110 @@ It displays the information related to terminal It basically prints the file nam
 
 <h2> U </h2>
 
+
+
+
+##  ul command
+
+[ul help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ul.md)
+
+
+##  unalias command
+
+[unalias help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/unalias.md)
+
 ##  uname command
 
-[uname help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/unamemd)
+[uname help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/uname.md)
 
 Displays the information about the system
 
-##  unexpand command
+## uncompress command
 
-[unexpand help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/unexpandmd)
+[uncompress help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/uncompress.md)
+
+## unexpand command
+
+[unexpand help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/unexpand.md)
 
 Converts each spaces into tabs writing the produced output to the standard output
  
+
+## unicode_start command
+
+[unicode_start help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/unicode_start.md)
+
+
+## unicode_stop command
+
+[ help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/unicode_stop.md)
+
 ##  uniq command
 
-[uniq help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/uniqmd)
+[uniq help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/uniq.md)
 
 It is a command line utility that reports or filters out the repeated lines in a file
 
+
+## units command
+
+[units help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/units.md)
+
+## unix2dos command
+
+[unix2dos help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/unix2dos.md)
+
+## unshar command
+
+[unshar help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/unshar.md)
+
 ##  until command
 
-[until help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/untilmd)
+[until help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/until.md)
 
 Used to execute a set of commands as long as the final command in the ‘until’ Commands has an exit status which is not zero
 
-##  useradd, userdel commands
-
-[useradd help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/useraddmd)
-
-
 ##  uptime command
 
-[Uptime help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/uptimemd)
+[Uptime help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/uptime.md)
 
 Used to find out how long the system is active (running)
+
+
+##  useradd, userdel commands
+
+[useradd help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/useradd.md)
+
+
+## usermod command
+
+[usermod help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/usermod.md)
+
+## usleep command
+
+[usleep help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/usleep.md)
+
+
+## uudecode command
+
+[uudecode help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/uuencode.md)
+
+
+## uuencode command
+
+[uuencode help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/uuencode.md)
+
+
+## uuidgen command
+
+[uuidgen help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/uuidgen.md)
+
+
+
 
 <h2> V </h2>
 
 ##  vi command
-
-[vi help]()
 
 A text editor utility.
 
@@ -1709,19 +1786,17 @@ Set the video mode for a kernel image. Displays current mode value without argum
 
 ##  vim command
 
-[vim help]()
-
 Vi Improved, a text-based editor which is a successor to vi.
 
 ##  vmstat command
 
-[vmstat help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/vmstatmd)
+[vmstat help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/vmstat.md)
 
 It is a performance monitoring command of the system as it gives the information about processes, memory, paging, block IO, disk and CPU scheduling
 
 ##  vnstat command
 
-[vnstat help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/vnstatmd)
+[vnstat help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/vnstat.md)
 
 Used by system administrators in order to monitor network parameters such as bandwidth consumption or maybe some traffic flowing in or out
 
