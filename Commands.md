@@ -1605,59 +1605,120 @@ Used to synchronize cached writes to persistent storage
 
 ##  tac command
 
-[tac help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/tacmd)
+[tac help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/tac.md)
 
 Used to concatenate and print files in reverse
 
 ##  tail command
 
-[Tail help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/tailmd)
+[Tail help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/tail.md)
 
 Prints the last N number of data of the given input
 
+##  tailf command
+
+[Tailf help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/tailf.md)
+
+
+##  talkd command
+
+[talkd help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/talkd.md)
+
 ##  tar command
 
-[tar help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/tarmd)
+[tar help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/tar.md)
 
 Used to create Archive and extract the Archive files
 
-##  touch command
+##  taskset command
 
-[touch help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/touchmd)
+[taskset help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/taskset.md)
 
-touch - update file's timestamp More commonly used for creating files
+##  tcpdump command
 
+[tcpdump help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/tcpdump.md)
 
-##  top command
+##  tcpslice command
 
-[top help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/topmd)
+[tcpslice help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/tcpslice.md)
 
-##  tree command
+##  tcpslice command
 
-[tree help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/treetxt)
-
+[tcpslice help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/tcpslice.md)
 
 ##  tee command
 
 [tee help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/teemd)
 
+##  telnet command
+
+[telnet help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/telnet.md)
+
+##  terminator command
+
+[terminator help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/terminator.md)
+
+##  tftp command
+
+[tftp help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/tftp.md)
+
+##  tftpd command
+
+[tftpd help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/tftpd.md)
+
+
+##  tmpwatch command
+
+[tmpwatch help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/tmpwatch.md)
+
+
+##  top command
+
+[top help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/top.md)
+
+
+##  touch command
+
+[touch help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/touch.md)
+
+touch - update file's timestamp More commonly used for creating files
+
+##  tput command
+
+[tput help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/tput.md)
+
 ##  tr command
 
-[tr help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/trmd)
+[tr help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/tr.md)
 
 It is a command line utility for translating or deleting characters
 
+
 ##  tracepath command
 
-[tracepath help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/touchmd)
+[tracepath help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/tracepath.md)
 
 Used to traces path to destination discovering MTU along this path
 
+
 ##  traceroute command
 
-[traceroute help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/tracepathmd)
+[traceroute help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/traceroute.md)
 
 Prints the route that a packet takes to reach the host
+
+##  trep command
+
+[trep help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/trap.md)
+
+
+##  tree command
+
+[tree help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/tree.md)
+
+##  tset command
+
+[tset help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/tset.md)
 
 ##  tty command
 
@@ -1665,9 +1726,22 @@ Prints the route that a packet takes to reach the host
 
 It displays the information related to terminal It basically prints the file name of the terminal connected to standard input
 
+
+##  tune2fs command
+
+[tune2fs help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/tune2fs.md)
+
+
+
+##  tunelp command
+
+[tunelp help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/tunelp.md)
+
+
+
 ##  type command
 
-[type help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/typemd)
+[type help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/type.md)
 
 <h2> U </h2>
 
