@@ -1,51 +1,47 @@
-GoAccess is a real-time web log analyzer and interactive viewer. It is written in Go and is available for Linux, macOS, and Windows.
+`getkeycodes` is a command-line tool that can be used to list the keycodes for all of the keys on a keyboard. It is a useful tool for debugging keyboard input and for writing keyboard input handling code.
 
-GoAccess can be used to analyze web server logs in real time or to view historical logs. It can display a variety of information about web traffic, including:
+The `getkeycodes` command takes the following arguments:
 
-* The number of visitors
-* The number of page views
-* The top pages visited
-* The top referrers
-* The top search engines
-* The top countries
-* The top browsers
-* The top operating systems
+* `options`: Optional arguments that control the behavior of `getkeycodes`.
 
-GoAccess can also be used to generate reports and graphs.
+The following are some of the most common options for the `getkeycodes` command:
 
-To install GoAccess, you can use your system's package manager. For example, on Ubuntu, you would use the following command:
+* `-a`: Displays all keycodes, even those that are not used by any keyboard layout.
+* `-k`: Specifies the keyboard layout to use.
+* `-v`: Verbose mode.
+
+For example, the following command will list all of the keycodes for the US English keyboard layout:
 
 ```
-sudo apt install goaccess
+getkeycodes -k us
 ```
 
-Once GoAccess is installed, you can start it using the following command:
+The `getkeycodes` command is a useful tool for debugging keyboard input and for writing keyboard input handling code. It is a valuable tool for anyone who needs to work with keyboard input.
 
+Here are some additional things to keep in mind about `getkeycodes`:
+
+* `getkeycodes` can be a complex tool to use. There are many different options that can be used to control the behavior of `getkeycodes`.
+* `getkeycodes` can be a slow tool. Listing all of the keycodes for a keyboard layout can take a significant amount of time.
+* `getkeycodes` is a standard tool that is included in most Linux distributions. However, it may not be installed on your system by default. You can install `getkeycodes` using your system's package manager.
+
+Here are some examples of how to use `getkeycodes`:
+
+* To list all of the keycodes for the US English keyboard layout:
 ```
-goaccess /var/log/nginx/access.log
+getkeycodes -k us
+```
+* To list all of the keycodes that are not used by any keyboard layout:
+```
+getkeycodes -a
+```
+* To list all of the keycodes for the keyboard layout that is currently in use:
+```
+getkeycodes
 ```
 
-This will start GoAccess and display the web traffic for the current day.
+`getkeycodes` is a powerful and versatile tool that can be used to list the keycodes for all of the keys on a keyboard. It is a valuable tool for anyone who needs to work with keyboard input.
 
-You can also use GoAccess to view historical logs. To do this, you would use the `-r` flag to specify the path to the log file. For example, to view the web traffic for the past week, you would use the following command:
 
-```
-goaccess -r /var/log/nginx/access.log -w week.html
-```
-
-This will create a file called `week.html` that contains the web traffic for the past week.
-
-GoAccess is a powerful and versatile tool that can be used to analyze web server logs. It is a valuable tool for anyone who needs to monitor their web traffic.
-
-Here are some additional things to keep in mind about GoAccess:
-
-* GoAccess is a real-time web log analyzer. This means that it can display information about web traffic as it happens.
-* GoAccess can be used to view historical logs. This means that you can see information about web traffic that has happened in the past.
-* GoAccess can be used to generate reports and graphs. This means that you can create visual representations of your web traffic data.
-* GoAccess is written in Go. This means that it is a fast and efficient tool.
-* GoAccess is available for Linux, macOS, and Windows. This means that you can use it on any platform.
-
-Overall, GoAccess is a powerful and versatile tool that can be used to analyze web server logs. It is a valuable tool for anyone who needs to monitor their web traffic.
 
 # help 
 
