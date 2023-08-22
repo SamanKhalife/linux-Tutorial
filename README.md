@@ -6,7 +6,7 @@ linux commands and any thing basic you need yo know for using linux (for cloud c
 <!-- SAMAN KHALIFE  -->
 
 
-# commands in first place
+# Commands in first place
 
 [Commands](https://github.com/SamanKhalife/linux-commands/blob/main/Commands.md)
 
