@@ -20,8 +20,16 @@
 
 </div>
 
+<div align="center">
+
+<h4> I have prepared a help and manual for Linux, based on Ubuntu (cause other distribution are using same kernel the commands are mostly same). However, if you require specific guidance for a different Linux distribution, this resource can be helpful. </h4>
+
+[manned](https://manned.org/)
+
+</div>
+
+
 <h2> A </h2>
-  
 
 ## accept command
 
