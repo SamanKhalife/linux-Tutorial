@@ -759,6 +759,7 @@ The following commands will get you the private IP address of your interfaces:
 
 [nslookup](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/nslookup.md)
 
+
 # SSH
 
 
@@ -938,6 +939,22 @@ iptables   -t       nat        -I        FORWARDING          .     -P     tcp   
     ```
 - save changes and exit.
 
+
+
+# How to Check Ubuntu Version Details and Other System Information
+
+type the following command:
+```
+lsb_release -a
+```
+
+Alternate way:
+```
+cat /etc/lsb-release
+```
+Another Fun way:
+
+[Neofetch command](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Widgets/Fun/Neofetch.md)
 
 
 
