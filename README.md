@@ -681,6 +681,39 @@ This command is used when the user wants to search for the given regex term(s) i
 </details>
 
 
+#  2 Ways to Download Files From Linux Terminal
+
+ how do you download a file from the terminal?
+
+1.Download files from Linux terminal using wget command
+
+[wget command](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/wget.md)
+
+Installing wget:
+```
+sudo apt install wget
+```
+Download a file or webpage using wget:
+```
+wget URL
+```
+
+2.Download files from Linux command line using curl
+
+[curl command](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/curl.md)
+
+Installing curl:
+```
+sudo apt install curl
+```
+Download a file or webpage using curl:
+```
+curl URL
+```
+
+
+
+
 # How to your find your Linux IP address
 The following commands will get you the IP address list to find public IP addresses for your machine:
 
@@ -725,6 +758,7 @@ The following commands will get you the private IP address of your interfaces:
 [route](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/route.md)
 
 [nslookup](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/nslookup.md)
+
 
 # SSH
 
@@ -905,6 +939,22 @@ iptables   -t       nat        -I        FORWARDING          .     -P     tcp   
     ```
 - save changes and exit.
 
+
+
+# How to Check Ubuntu Version Details and Other System Information
+
+type the following command:
+```
+lsb_release -a
+```
+
+Alternate way:
+```
+cat /etc/lsb-release
+```
+Another Fun way:
+
+[Neofetch command](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Widgets/Fun/Neofetch.md)
 
 
 
