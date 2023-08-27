@@ -1488,6 +1488,33 @@ The video also discusses Service Level Agreements (SLAs), even though it's not a
 The concepts of SLI, SLO, and SLA are very similar to the "everything can be measured" mentioned by DevOps, which is one of the reasons why it is said that class SRE implements DevOps.
 
 
+### Uptime
+| Availability % | Downtime per year | Downtime per month | Downtime per Week |
+|----------------|-------------------|--------------------|-------------------|
+| 90%            | 36.5 days         | 72 hours           | 16.8 hours        |
+| 95%            | 18.25 days        | 36 hours           | 8.4 hours         |
+| 98%            | 7.30 days         | 14.4 hours         | 3.36 hours        |
+| 99%            | 3.65 days         | 7.20 hours         | 1.68 hours        |
+| 99.5%          | 1.83 days         | 3.60 hours         | 50.4 minutes      |
+| 99.8%          | 17.52 hours       | 86.23 minutes      | 20.16 minutes     |
+| 99.9%          | 8.76 hours        | 43.2 minutes       | 10.1 minutes      |
+| 99.95%         | 4.38 hours        | 21.56 minutes      | 5.04 minutes      |
+| 99.99%         | 52.6 minutes      | 4.32 minutes       | 1.01 minutes      |
+| 99.999%        | 5.26 minutes      | 25.9 seconds       | 6.05 seconds      |
+| 99.9999%       | 31.5 seconds      | 2.59 seconds       | 0.605 seconds     |
+
+
+# Mean Time To Recover (MTTR)
+MTTR is the average time that a device will take to recover from any failure.
+
+
+# Mean Time Between Failures (MTBF)
+MTBF is the predicted elapsed time between inherent failures of a mechanical or electronic system, during normal system operation. MTBF can be calculated as the arithmetic mean (average) time between failures of a system. The term is used for repairable systems, while mean time to failure (MTTF) denotes the expected time to failure for a non-repairable system.
+
+
+# Mean Time To Failure (MTTF)
+MTTF denotes the expected time to failure for a non-repairable system.
+
 
 
 # Sources I get help from
