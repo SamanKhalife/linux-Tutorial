@@ -52,18 +52,18 @@ Used to turn on or turn off the process for accounting or change info process ac
 
 ##  aclocal command
 
-[aclocal help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/aclocalmd)
+[aclocal help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  aclocalmd)
 
 Used to automatically generate aclocal.m4 files from configure.in file.
 
 ##  acpi command
 
-[acpi help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/acpimd)
+[acpi help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  acpimd)
 
 
 ##  acpid command
 
-[acpid help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/acpidmd)
+[acpid help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  acpidmd)
 
 Show information about the Advanced Configuration and Power Interface.
 
@@ -81,13 +81,13 @@ Formats for internet mail addresses.
 
 ##  agetty command
 
-[agetty help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/agetty.md)
+[agetty help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  agetty.md)
 
 An alternative Linux Getty that manages physical or virtual terminals to allow multi-user access.
  
 ##  alias, unalias commands
 
-[alies help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/aliasmd)
+[alies help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  aliasmd)
 
 Create an alias, a shortcut that references a command.
 
@@ -117,7 +117,7 @@ Used to run commands periodically.
 
 ##  apachetop command
 
-[apachetop help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/apachetopmd)
+[apachetop help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  apachetopmd)
 
 
 
@@ -136,78 +136,78 @@ CLI utility used to play MIDI files.
 
 ## apm command
 
-[apm help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/apm.md)
+[apm help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  apm.md)
 
 Show Advanced Power Management (APM) hardware info on older systems.
 
 ## apmd command
 
-[apmd help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/apmd.md)
+[apmd help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  apmd.md)
 
 Used to handle events reported by APM BIOS drivers.
 
 ## apropos command
 
-[apropos help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/apropos.md)
+[apropos help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  apropos.md)
 
 Shows the list of all man pages containing a specific keyword.
 
 ##  apt-get command
 
-[apt help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/apt-getmd)
+[apt help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  apt-getmd)
 
 Command-line utility to install/remove/update packages based on APT system.
 
 ##  apt command
 
-[apt help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/aptmd)
+[apt help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  aptmd)
 
 Advanced Package Tool, a package management system for Debian and derivatives.
 
 ##  aptitude command
 
-[aptitude help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/aptitudemd)
+[aptitude help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  aptitudemd)
 
 Another utility to add/remove/upgrade packages based on the APT system.
 
 ##  ar command
 
-[ar help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/armd)
+[ar help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  armd)
 
 A utility to create/modify/extract from archives.
  
 ##  arch command
 
-[arch help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/archmd)
+[arch help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  archmd)
 
 Display print machine hardware name.
 
 ## arecord command
 
-[arecord help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/arecord.md)
+[arecord help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  arecord.md)
 
 Just like aplay, it’s a sound recorder and player for ALSA(Advanced Linux Sound Architecture) soundcard driver.
 
 ## arecordmid command
 
-[arecordmid help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/arecordmid.md)
+[arecordmid help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  arecordmid.md)
 
 Record standard MIDI files.
 
 ## arecord command
 
-[arecord help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/arecord.md)
+[arecord help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  arecord.md)
 
 
 ##  arp command
 
-[arp help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/arpmd)
+[arp help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  arpmd)
 
 Used to make changes to the system’s ARP cache.
  
 ##  aspell command
 
-[aspell help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/aspellmd)
+[aspell help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  aspellmd)
 
 An interactive spell checker utility.
 
@@ -219,7 +219,7 @@ Used to schedule command execution at specified date & time, reading commands fr
 
 ##  atd command
 
-[atd help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/atdmd)
+[atd help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  atdmd)
 
 Used to execute jobs queued by the at command.
 
@@ -378,7 +378,7 @@ Used to compress and decompress the files
 
 ##  cal command
 
-[cal help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/calmd)
+[cal help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  calmd)
 
 Used to see the calendar of a specific month or a whole year By default, it shows current month’s calendar as output.
 
@@ -415,13 +415,13 @@ GNU C and C++ compiler.
 
 ##  cp command
 
-[cp help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/cptxt)
+[cp help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  cptxt)
 
 cp - copy files and directories
 
 ##  cat command
 
-[cat help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/cattxt)
+[cat help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  cattxt)
 
 cat - create, view and concatenate files
 
@@ -464,13 +464,13 @@ Show or change the disk partition table.
  
 ##  chage command
 
-[chage help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/chagemd)
+[chage help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  chagemd)
 
 Used to view and change the user password expiry information
 
 ##  chattr command
 
-[chattr help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/chattrmd)
+[chattr help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  chattrmd)
 
 It is a file system command which is used for changing the attributes of a file in a directory
 
@@ -697,23 +697,23 @@ Used to generate a list of dependency description of kernel modules and its asso
 
 ##  du command
 
-[du help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/dumd)
+[du help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  dumd)
 
 
 ##  diff command
 
-[diff help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/diffmd)
+[diff help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  diffmd)
 
 
 
 ##  dmesg command
 
-[dmesg help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/dmesgtxt)
+[dmesg help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  dmesgtxt)
 
 
 ##  dd command
 
-[dd help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/ddmd)
+[dd help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  ddmd)
 
 It is a command-line utility for Unix and Unix-like operating systems whose primary purpose is to convert and copy files
 
@@ -721,55 +721,55 @@ It is a command-line utility for Unix and Unix-like operating systems whose prim
 
 ##  diff command
 
-[diff help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/diffmd)
+[diff help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  diffmd)
 
 Used to display the differences in the files by comparing the files line by line
 
 ##  dirname command
 
-[dirname help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/dirnamemd)
+[dirname help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  dirnamemd)
 
 Used to remove the trailing forward slahes “/” from the NAME and prints the remaining portion
 
 ##  dirs command
 
-[dirs help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/dirsmd)
+[dirs help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  dirsmd)
 
 Used to display the list of currently remembered directories
 
 ##  disable command
 
-[disable help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/disablemd)
+[disable help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  disablemd)
 
 Used to stop the printers or classes
 
 ##  dmesg command
 
-[dmesg help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/dmesgmd)
+[dmesg help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  dmesgmd)
 
 Used to examine the kernel ring buffer and print the message buffer of kernel
 
 ##  domainname command
 
-[domainname help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/domainnamemd)
+[domainname help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  domainnamemd)
 
 Used to return the Network Information System (NIS) domain name of the host
 
 ##  dstat command
 
-[dstat help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/dstatmd)
+[dstat help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  dstatmd)
 
 Used to retrieve information or statistics form components of the system such as network connections, IO devices, or CPU, etc
 
 ##  dump command
 
-[dump help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/dumpmd)
+[dump help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  dumpmd)
 
 Used to backup the filesystem to some storage device
 
 ##  dumpkeys command
 
-[dumpkeys help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/dumpkeysmd)
+[dumpkeys help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  dumpkeysmd)
 
 Used for the dump keyboard translation tables
 
@@ -777,66 +777,66 @@ Used for the dump keyboard translation tables
 
 ##  echo command
 
-[echo help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/echotxt)
+[echo help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  echotxt)
 
 
 ##  eject command
 
-[eject help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/ejectmd)
+[eject help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  ejectmd)
 
 It allows ejecting a removable media (typically a CD-ROM, floppy disk, tape, or JAZ or ZIP disk) using the software
 
 ##  emacs command
 
-[emacs help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/emacsmd)
+[emacs help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  emacsmd)
 
 It is a editor having simple user interface Also, there is no insert mode in this editor It only have editing mode
 
 ##  enable command
 
-[enable help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/enablemd)
+[enable help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  enablemd)
 
 Used to start the printers or classes
 
 ##  env command
 
-[env help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/envmd)
+[env help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  envmd)
 
 Used to either print environment variables It is also used to run a utility or command in a custom environment
 
 ##  eval command
 
-[eval help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/evalmd)
+[eval help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  evalmd)
 
 Built-in command used to execute arguments as a shell command
 
 ##  exit command
 
-[exit help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/exitmd)
+[exit help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  exitmd)
 
 Used to exit the shell where it is currently running
 
 ##  expand command
 
-[expand help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/expandmd)
+[expand help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  expandmd)
 
 Allows you to convert tabs into spaces in a file and when no file is specified it reads from standard input
 
 ##  expect command
 
-[expect help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/expectmd)
+[expect help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  expectmd)
 
 This command or scripting language works with scripts that expect user inputs It automates the task by providing inputs
 
 ##  export command
 
-[export help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/exportmd)
+[export help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  exportmd)
 
 It is bash shell BUILTINS commands, which means it is part of the shell It marks an environment variables to be exported to child-processes
 
 ##  expr command
 
-[expr help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/exprmd)
+[expr help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  exprmd)
 
 It evaluates a given expression and displays its corresponding output
 
@@ -844,19 +844,19 @@ It evaluates a given expression and displays its corresponding output
 
 ##  factor command
 
-[factor help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/factormd)
+[factor help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  factormd)
 
 Used to print the prime factors of the given numbers, either given from command line or read from standard input
 
 ##  fc command
 
-[fc help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/fcmd)
+[fc help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  fcmd)
 
 Used to list, edit or re-execute the commands previously entered into an interactive shell
 
 ##  fc-list command
 
-[fc-list help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/fgmd)
+[fc-list help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  fgmd)
 
 It is used to list the available fonts and font styles Using the format option, the list of all fonts can be filtered and sorted out
 
@@ -868,61 +868,61 @@ Used to put a background job in foreground
 
 ##  file command
 
-[file help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/filemd)
+[file help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  filemd)
 
 Used to determine the type of a file file type may be of human-readable(eg ‘ASCII text’) or MIME type(eg ‘text/plain; charset=us-ascii’)
 
 ##  find command
 
-[find help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/findmd)
+[find help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  findmd)
 
 Used to find files and directories and perform subsequent operations on them
 
 ##  finger command
 
-[finger help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/fingermd)
+[finger help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  fingermd)
 
 It is a user information lookup command which gives details of all the users logged in
 
 ##  fmt command
 
-[fmt help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/fmtmd)
+[fmt help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  fmtmd)
 
 Works as a formatter for simplifying and optimizing text files
 
 ##  fold command
 
-[fold help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/foldmd)
+[fold help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  foldmd)
 
 It wraps each line in an input file to fit a specified width and prints it to the standard output
 
 ##  for command
 
-[for help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/formd)
+[for help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  formd)
 
 Used to repeatedly execute a set of command for every element present in the list
 
 ##  find command
 
-[find help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/findtxt)
+[find help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  findtxt)
 
 ##  fdisk command
 
-[fdisk help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/fdisktxt)
+[fdisk help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  fdisktxt)
 
 ##  find command
 
-[find help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/findtxt)
+[find help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  findtxt)
 
 ##  fun command
 
-[Fun help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/funmd)
+[Fun help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  funmd)
 
 Used to draw various type of patterns on the terminal
 
 ##  function command
 
-[function help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/functionmd)
+[function help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  functionmd)
 
 Used to create functions or methods
 
@@ -930,93 +930,93 @@ Used to create functions or methods
 
 ##  gawk command
 
-[gawk help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/gawkmd)
+[gawk help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  gawkmd)
 
 Used for pattern scanning and processing language
 
 ##  gdb command
 
-[gdb help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/gdbmd)
+[gdb help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  gdbmd)
 
 GNU Debugger tool helps to debug the programs written in C, C++, Ada, Fortran, etc
 
 ##  getent command
 
-[getent help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/getentmd)
+[getent help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  getentmd)
 
 Used to get the entries in a number of important text files called databases
 
 ##  gpasswd command
 
-[gpasswd help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/gpasswdmd)
+[gpasswd help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  gpasswdmd)
 
 Used to administer the /etc/group and /etc/gshadow
 
 ##  groupadd command
 
-[groupadd help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/groupaddmd)
+[groupadd help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  groupaddmd)
 
 Used to create a new user group
 
 ##  groupdel command
 
-[groupdel help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/groupdelmd)
+[groupdel help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  groupdelmd)
 
 Used to delete a existing group
 
 ##  groupmod command
 
-[groupmod help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/gorupmodmd)
+[groupmod help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  gorupmodmd)
 
 Used to modify or change the existing group on Linux system
 
 ##  groups command
 
-[groups help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/groupsmd)
+[groups help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  groupsmd)
 
 Groups are the collection of users Groups make it easy to manage users with the same security and access privileges
 
 ##  grpck command
 
-[grpck help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/grpckmd)
+[grpck help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  grpckmd)
 
 It verifies the integrity of the groups information It checks that all entries in /etc/group and /etc/gshadow have the proper format and contain valid data
 
 ##  grpconv command
 
-[grpconv help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/grpconvmd)
+[grpconv help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  grpconvmd)
 
 It is used to convert to shadow groups The grpconv command creates a gshadow from the group and an optionally existing gshadow
 
 ##  gs command
 
-[gs help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/gsmd)
+[gs help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  gsmd)
 
 This command invokes Ghostscript, which is an interpreter of Adobe Systems PostScript and Portable Document Format(PDF) languages
 
 ##  gunzip command
 
-[gunzip help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/gunzipmd)
+[gunzip help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  gunzipmd)
 
 Used to compress or expand a file or a list of files in Linux
 
 ##  gzexe command
 
-[gzexe help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/gzexemd)
+[gzexe help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  gzexemd)
 
 Used to compress executable files and also used to automatically uncompress and execute the files
 
 ##  grep command
 
-[grep help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/greptxt)
+[grep help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  greptxt)
 
 ##  GoAccess command
 
-[GoAccess help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/goaccessmd)
+[GoAccess help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  goaccessmd)
 
 ##  gzip command
 
-[gzip help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/gzipmd)
+[gzip help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  gzipmd)
 
 This command compresses files Each single file is compressed into a single file
 
@@ -1024,63 +1024,63 @@ This command compresses files Each single file is compressed into a single file
 
 ##  halt command
 
-[halt help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/haltmd)
+[halt help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  haltmd)
 
 Used to instruct the hardware to stop all the CPU functions Basically, it reboots or stops the system
 
 
 ##  head command
 
-[head help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/headtxt)
+[head help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  headtxt)
 
 
 
 ##  hash command
 
-[hash help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/hashmd)
+[hash help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  hashmd)
 
 Used to maintain a hash table of recently executed programs
 
 ##  hdparm command
 
-[hdparm help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/hdparmmd)
+[hdparm help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  hdparmmd)
 
 Used to get statistics about the hard disk, alter writing intervals, acoustic management, and DMA settings
 
 ##  hexdump command
 
-[hexdump help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/hexdumpmd)
+[hexdump help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  hexdumpmd)
 
 Used to filter and display the specified files, or standard input in a human readable specified format
 
 ##  history command
 
-[history help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/historymd)
+[history help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  historymd)
 
 Used to view the previously executed command
 
 
 ##  hostid command
 
-[hostid help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/hostidmd)
+[hostid help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  hostidmd)
 
 Used to displays the Host’s ID in hexadecimal format
 
 ##  hostname command
 
-[hostname help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/hostnamemd)
+[hostname help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  hostnamemd)
 
 Used to obtain the DNS(Domain Name System) name and set the system’s hostname or NIS(Network Information System) domain name
 
 ##  hostnamectl command
 
-[hostnamectl help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/hostnamectlmd)
+[hostnamectl help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  hostnamectlmd)
 
 Provides a proper API used to control Linux system hostname and change its related settings
 
 ##  hwclock command
 
-[hwclock help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/hwclockmd)
+[hwclock help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  hwclockmd)
 
 Utility for accessing the hardware clock, also called Real Time Clock (RTC)
 
@@ -1088,84 +1088,84 @@ Utility for accessing the hardware clock, also called Real Time Clock (RTC)
 
 ##  iconv command
 
-[iconv help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/iconvmd)
+[iconv help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  iconvmd)
 
 Used to convert some text in one encoding into another encoding
 
 ##  id command
 
-[id help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/idmd)
+[id help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  idmd)
 
 Used to find out user and group names and numeric ID’s (UID or group ID) of the current user or any other user in the server
 
 ##  info command
 
-[info help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/infotxt)
+[info help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  infotxt)
 
 
 ##  if command
 
-[if help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/ifmd)
+[if help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  ifmd)
 
 Used to execute commands based on conditions
 
 ##  ifconfig command
 
-[ifconfig help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/ifconfigmd)
+[ifconfig help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  ifconfigmd)
 
 Used to configure the kernel-resident network interfaces
 
 ##  iftop command
 
-[iftop help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/iftopmd)
+[iftop help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  iftopmd)
 
 It is a network analyzing tool used by system administrators to view the bandwidth related stats
 
 ##  ifup command
 
-[ifup help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/ifupmd)
+[ifup help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  ifupmd)
 
 It basically brings the network interface up, allowing it to transmit and receive dat
 
 ##  import command
 
-[import help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/importmd)
+[import help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  importmd)
 
 Used for capturing a screenshot for any of the active pages we have and it gives the output as an image file
 
 ##  insmod command
 
-[insmod help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/insmodmd)
+[insmod help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  insmodmd)
 
 Used to insert modules into the kernel
 
 ##  install command
 
-[install help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/installmd)
+[install help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  installmd)
 
 Used to copy files and set attributes
 
 ##  iostat command
 
-[iostat help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/iostatmd)
+[iostat help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  iostatmd)
 
 Used for monitoring system input/output statistics for devices and partitions
 
 ##  iotop command
 
-[iotop help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/iotopmd)
+[iotop help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  iotopmd)
 
 Used to display and monitor the disk IO usage details and even gets a table of existing IO utilization by the process
 
 ##  ipcrm command
 
-[ipcrm help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/ipcrmmd)
+[ipcrm help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  ipcrmmd)
 
 Used to remove some IPC(Inter-Process Communication) resources It eliminates the IPC objects and their associated data structure form the system
 
 ##  iwconfig command
 
-[iwconfig help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/iwconfigmd)
+[iwconfig help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  iwconfigmd)
 
 Used to display the parameters, and the wireless statistics which are extracted from /proc/net/wireless
 
@@ -1173,24 +1173,24 @@ Used to display the parameters, and the wireless statistics which are extracted 
 
 ##  jobs command
 
-[jobs help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/jobsmd)
+[jobs help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  jobsmd)
 
 Show the list of active jobs and their status.
 
  ##  jnettop command
 
-[jnettop help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/jnettopmd)
+[jnettop help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  jnettopmd)
 
 
 ##  join command
 
-[join help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/joinmd)
+[join help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  joinmd)
 
 It is a command line utility for joining lines of two files based on a key field present in both the files
 
 ##  journalctl command
 
-[journalctl help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/journalctlmd)
+[journalctl help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  journalctlmd)
 
 Used to view systemd, kernel and journal logs
 
@@ -1198,7 +1198,7 @@ Used to view systemd, kernel and journal logs
 
 ##  kill command
 
-[kill help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/killmd)
+[kill help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  killmd)
 
 Used to terminate processes manually kill command sends a signal to a process which terminates the process
 
@@ -1206,69 +1206,69 @@ Used to terminate processes manually kill command sends a signal to a process wh
 
 ##  last command
 
-[last help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/lastmd)
+[last help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  lastmd)
 
 Used to display the list of all the users logged in and out since the file /var/log/wtmp was created
 
 ## Logwatch  command
 
-[Logwatch help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/logwatchmd)
+[Logwatch help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  logwatchmd)
 
 
 ##  locate command
 
-[locate help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/locatemd)
+[locate help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  locatemd)
 
 ##  less command
 
-[less help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/lesstxt)
+[less help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  lesstxt)
 
 
 ##  let command
 
-[let help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/letmd)
+[let help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  letmd)
 
 Used to evaluate arithmetic expressions on shell variables
 
 ##  ls command
 
-[ls help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/lstxt)
+[ls help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  lstxt)
 
 ls - listing files and directories
 
 ##  ln command
 
-[ln help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/lnmd)
+[ln help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  lnmd)
 
 Used to create links between files
 
 ##  locate command
 
-[locate help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/locatemd)
+[locate help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  locatemd)
 
 Used to find the files by name
 
 ##  look command
 
-[look help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/lookmd)
+[look help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  lookmd)
 
 Shows the lines beginning with a given string
 
 ##  lsblk command
 
-[ help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/lsblkmd)
+[ help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  lsblkmd)
 
 Used to display details about block devices and these block devices(Except ram disk) are basically those files that represent devices connected to the pc
 
 ##  lshw command
 
-[lshw help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/lshwmd)
+[lshw help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  lshwmd)
 
 Used to generate the detailed information of the system’s hardware configuration from various files in the /proc directory
 
 ##  lsusb command
 
-[lsusb help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/lsusbmd)
+[lsusb help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  lsusbmd)
 
 Used to display the information about USB buses and the devices connected to them
 
@@ -1276,40 +1276,40 @@ Used to display the information about USB buses and the devices connected to the
 
 ##  man command
 
-[man help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/manmd)
+[man help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  manmd)
 
 
 ##  mailq command
 
-[mailq help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/mailqmd)
+[mailq help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  mailqmd)
 
 This command in Linux prints the mail queue ie the list of messages that are there in the mail queue
 
 ##  mv command
 
-[mv  help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/mvtxt)
+[mv  help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  mvtxt)
 
 ##  mkdir command
 
-[mkdir help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/mkdirmd)
+[mkdir help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  mkdirmd)
 
 mkdir - create directories
 
 ##  modinfo command
 
-[modinfo help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/modinfomd)
+[modinfo help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  modinfomd)
 
 Used to display the information about a Linux Kernel module
 
 ##  mount command
 
-[mount help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/mountmd)
+[mount help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  mountmd)
 
 Used to mount the filesystem found on a device to big tree structure(Linux filesystem) rooted at ‘/‘
 
 ##  mpstat command
 
-[mpstat help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/mpstatmd)
+[mpstat help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  mpstatmd)
 
 Used to report processor related statistics
 
@@ -1317,25 +1317,25 @@ Used to report processor related statistics
 
 ##  nc(netcat) command
 
-[nc help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/netcatmd)
+[nc help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  netcatmd)
 
 It is one of the powerful networking tool, security tool or network monitoring tool
 
 ##  netstat command
 
-[netstat help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/netstatmd)
+[netstat help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  netstatmd)
 
 Displays various network related information such as network connections, routing tables, interface statistics, masquerade connections, multicast memberships, etc
 
 ##  nmcli command
 
-[nmcli help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/nmclimd)
+[nmcli help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  nmclimd)
 
 Used for controlling NetworkManager nmcli command can also be used to display network device status, create, edit, activate/deactivate, and delete network connections
 
 ##  nslookup command
 
-[nslookup help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/nslookupmd)
+[nslookup help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  nslookupmd)
 
 It is a network administration tool for querying the Domain Name System (DNS) to obtain domain name or IP address mapping or any other specific DNS record
 
@@ -1343,56 +1343,56 @@ It is a network administration tool for querying the Domain Name System (DNS) to
 
 ##  paste command
 
-[paste help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/pastemd)
+[paste help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  pastemd)
 
 Used to join files horizontally (parallel merging) by outputting lines consisting of lines from each file specified, separated by tab as delimiter, to the standard output
 
 ##  pidof command
 
-[pidof help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/pidofmd)
+[pidof help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  pidofmd)
 
 Used to find out the process IDs of a specific running program
 
 ##  ping command
 
-[ping help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/pingmd)
+[ping help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  pingmd)
 
 Used to check the network connectivity between host and server/host
 
 ##  pmap command
 
-[pmap help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/pmapmd)
+[pmap help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  pmapmd)
 
 ##  ps command
 
-[ps help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/psmd)
+[ps help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  psmd)
 
 
 ##  poweroff command
 
-[poweroff help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/poweroffmd)
+[poweroff help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  poweroffmd)
 
 
 ##  ping command
 
-[ping help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/pingmd)
+[ping help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  pingmd)
 
 ##  pwd command
 
-[pwd help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/pwdmd)
+[pwd help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  pwdmd)
 
 pwd - print current working directory (= at what path the user currently located)
 
 
 ##  printf command
 
-[printf help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/printfmd)
+[printf help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  printfmd)
 
 Used to display the given string, number or any other format specifier on the terminal window
 
 ##  ranlib command
 
-[ranlib help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/ranlibmd)
+[ranlib help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  ranlibmd)
 
 Used to generate index to archive
 
@@ -1400,77 +1400,77 @@ Used to generate index to archive
 
 ##  rcp command
 
-[rcp help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/rcpmd)
+[rcp help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  rcpmd)
 
 Used to copy files from one computer to another computer
 
 ##  read command
 
-[read help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/readmd)
+[read help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  readmd)
 
 Reads up the total number of bytes from the specified file descriptor into the buffer
 
 ##  rmdir command
 
-[rmdir help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/rmdirmd)
+[rmdir help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  rmdirmd)
 
 ##  rm command
 
-[rm help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/rmtxt)
+[rm help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  rmtxt)
 
 rm - remove files and directories
 
 ##  readelf command
 
-[readelf help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/readelfmd)
+[readelf help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  readelfmd)
 
 Used to get information of ELF(Executable and Linkable Format) Files
 
 ##  readlink command
 
-[readlink help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/readlinkmd)
+[readlink help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  readlinkmd)
 
 Used to print resolved symbolic links or canonical file names
 
 ##  reboot command
 
-[reboot help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/rebootmd)
+[reboot help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  rebootmd)
 
 Instructs the system to rest or reboot
 
 ##  reset command
 
-[reset help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/resetmd)
+[reset help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  resetmd)
 
 Used to initialize the terminal This is useful once a program dies leaving a terminal in an abnormal state
 
 ##  restore command
 
-[restore help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/restoremd)
+[restore help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  restoremd)
 
 Used for restoring files from a backup created using dump
 
 ##  return command
 
-[return help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/returnmd)
+[return help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  returnmd)
 
 Used to exit from a shell function
 
 ##  rev command
 
-[rev help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/revmd)
+[rev help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  revmd)
 
 Used to reverse the lines characterwise
 
 ##  rmmod command
 
-[rmmod help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/rmmodmd)
+[rmmod help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  rmmodmd)
 
 Used to remove a module from the kernel
 
 ##  route command
 
-[route help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/routemd)
+[route help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  routemd)
 
 Used when you want to work with the IP/kernel routing table
 
@@ -1478,27 +1478,27 @@ Used when you want to work with the IP/kernel routing table
 
 ##  sar command
 
-[sar help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/sarmd)
+[sar help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  sarmd)
 
 ##  screen command
 
-[screen help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/screenmd)
+[screen help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  screenmd)
 
 Provides the ability to launch and use multiple shell sessions from a single ssh session
 
 ##  sudo command
 
-[sudo help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/sudomd)
+[sudo help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  sudomd)
 
 ##  script command
 
-[script help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/scriptmd)
+[script help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  scriptmd)
 
 Used to make typescript or record all the terminal activities
 
 ##  sdiff command
 
-[sdiff help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/sdiffmd)
+[sdiff help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  sdiffmd)
 
 Used to compare two files and then writes the results to standard output in a side-by-side format
 
@@ -1510,102 +1510,102 @@ Used for finding, filtering, text substitution, replacement and text manipulatio
 
 ##  select command
 
-[select help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/selectmd)
+[select help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  selectmd)
 
 Used to create a numbered menu from which a user can select an option
 
 ##  seq command
 
-[seq help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/seqmd)
+[seq help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  seqmd)
 
 Used to generate numbers from FIRST to LAST in steps of INCREMENT
 
 ##  setsid command
 
-[setsid help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/setsidmd)
+[setsid help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  setsidmd)
 
 Used to run a program in a new session
 
 ##  su command
 
-[su help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/sumd)
+[su help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  sumd)
 
 
 ##  shift command
 
-[shift help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/shiftmd)
+[shift help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  shiftmd)
 
 Shifts/moves the command line arguments to one position left
 
 ##  showkey command
 
-[showkey help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/showkeymd)
+[showkey help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  showkeymd)
 
 prints to standard output either the scan codes or the key code or the `ascii’ code of each key pressed
 
 ##  shred command
 
-[shred help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/shredmd)
+[shred help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  shredmd)
 
 Used in order to delete a file completely from hard disk
 
 ##  shutdown command
 
-[shutdown help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/shutdownmd)
+[shutdown help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  shutdownmd)
 
 Used to shutdown the system in a safe way
 
 ##  sleep command
 
-[sleep help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/sleepmd)
+[sleep help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  sleepmd)
 
 Used to create a dummy job A dummy job helps in delaying the execution
 
 ##  source command
 
-[source help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/sourcemd)
+[source help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  sourcemd)
 
 Used to read and execute the content of a file(generally set of commands), passed as an argument in the current shell script
 
 ##  sort command
 
-[sort help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/sortmd)
+[sort help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  sortmd)
 
 Used to sort a file, arranging the records in a particular order
 
 ##  split command
 
-[split help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/splitmd)
+[split help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  splitmd)
 
 Used to split large files into smaller files
 
 ##  ssh command
 
-[ssh help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/sshmd)
+[ssh help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  sshmd)
 
 Protocol used to securely connect to a remote server/system
 
 ##  strace command
 
-[strace help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/stracemd)
+[strace help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  stracemd)
 
 It is one of the most powerful process monitoring, diagnostic, instructional tool of Linux
 
 ##  stty command
 
-[stty help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/sttymd)
+[stty help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  sttymd)
 
 Used to change and print terminal line settings
 
 ##  sum command
 
-[sum help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/summd)
+[sum help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  summd)
 
 Used to find checksum and count the blocks in a file
 
 ##  sync command
 
-[sync help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/syncmd)
+[sync help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  syncmd)
 
 Used to synchronize cached writes to persistent storage
 
@@ -1656,7 +1656,7 @@ Used to create Archive and extract the Archive files
 
 ##  tee command
 
-[tee help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/teemd)
+[tee help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  teemd)
 
 ##  telnet command
 
@@ -1730,7 +1730,7 @@ Prints the route that a packet takes to reach the host
 
 ##  tty command
 
-[tty help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/ttymd)
+[tty help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  ttymd)
 
 It displays the information related to terminal It basically prints the file name of the terminal connected to standard input
 
@@ -1893,7 +1893,7 @@ Used to show who is logged on and what they are doing
 
 ##  wall command
 
-[wall help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/wallmd)
+[wall help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  wallmd)
 
 Displays a message, or the contents of a file, or otherwise its standard input, on the terminals of all currently logged in users
 
@@ -2094,13 +2094,13 @@ Used to search out expressions from a given a file even if it is compressed
 
 ##  zic command
 
-[zic help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/zic.md)
+[zic help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  zic.md)
 
 
 
 ##  zip command
 
-[zip help](https://githubcom/SamanKhalife/linux-Tutorial/blob/main/TXT%FILES/hostid.md)
+[zip help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md  hostid.md)
 
 It is a compression and file packaging utility for Unix Each file is stored in single zip {zip-filename} file with the extension zip
 
