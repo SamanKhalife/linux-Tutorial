@@ -1,3 +1,5 @@
+# accept
+
 The accept command in Linux is used to accept a connection on a socket. It is a system call that is used by network servers to accept connections from clients.
 
 The sockfd argument is the file descriptor of the socket that is listening for connections. The addr argument is a pointer to a sockaddr structure that will be filled in with the address of the client that connected. The addrlen argument is the size of the addr structure.
