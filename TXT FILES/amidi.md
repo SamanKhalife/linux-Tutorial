@@ -1,3 +1,5 @@
+# amidi
+
 The amidi command is used to send and receive MIDI messages in Linux. MIDI is a standard used to control digital instruments such as electronic keyboards and sequencers.
 
 Here are some examples of the amidi command:
