@@ -1,3 +1,6 @@
+# accton
+
+
 The accton command is a deprecated command in Linux. It was used to control the accounting system, which tracks the resources that a user or process uses. The accton command is no longer necessary, as the accounting system is now controlled by the /etc/acct file.
 
 The OPTION argument is a single option that can be used to control the accounting system. The following options are supported:
