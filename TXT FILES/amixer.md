@@ -1,3 +1,6 @@
+# amixer
+
+
 The amixer command in Linux is used to control the volume of sound cards. It is a powerful tool that can be used to adjust the volume of individual sound channels, as well as the overall volume of the sound card.
 
 Here are some examples of how to use the amixer command:
