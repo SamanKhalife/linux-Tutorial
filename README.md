@@ -1280,7 +1280,7 @@ PaaS provides a computing platform where the underlying infrastructure (such as 
 ### Software as a Service (SaaS)
 SaaS providers are cloud-based applications that users access on demand from the internet without needing to install or maintain the software. Examples include GitHub, Google Docs, Slack, and Adobe Creative Cloud. SaaS applications are popular among businesses and general users given that they’re often easy to adopt, accessible from any device, and have free, premium, and enterprise versions of their applications. Like PaaS, SaaS abstracts away the underlying infrastructure of the software application so that users are only exposed to the interface they interact with.
 
-
+![img](https://github.com/SamanKhalife/linux-Tutorial/blob/main/IMAGES/7777777777777777777.png)
 
 
 
@@ -1298,12 +1298,17 @@ The private cloud refers to cloud services that are owned and managed by the org
 
 Many organizations use a hybrid cloud environment which combines public and private cloud resources to support the organization’s computing needs while maintaining compliance with industry regulation. Multicloud environments are also common, which entail the use of more than one public cloud provider (for example, combining Amazon Web Services and DigitalOcean).
 
+### Managed cloud
 
+Managed cloud services refer to cloud computing solutions in which a third-party provider takes on the responsibility of managing various aspects of your cloud infrastructure, applications, and services.
 
+### Micro cloud
 
+Micro clouds are a new class of infrastructure for on-demand computing at the edge. They differ from the internet-of-things (IoT), which uses thousands of single machines or sensors to gather data, yet they perform computing tasks. Micro clouds reuse proven cloud primitives but with the unattended, autonomous and clustering features that resolve typical edge computing challenges.
 
+### Multi-cloud
 
-
+Multi-cloud (also referred to as multi cloud or multicloud) is a concept that refers to using multiple clouds from more than one cloud service provider at the same time. The term is also used to refer to the simultaneous running of bare metal, virtualised and containerised workloads.
 
 
 
