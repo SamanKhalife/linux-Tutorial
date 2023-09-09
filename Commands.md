@@ -464,13 +464,13 @@ Show or change the disk partition table.
  
 ##  chage command
 
-[chage help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md)
+[chage help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/chage.md)
 
 Used to view and change the user password expiry information
 
 ##  chattr command
 
-[chattr help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md)
+[chattr help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/chattr.md)
 
 It is a file system command which is used for changing the attributes of a file in a directory
 
@@ -1656,7 +1656,7 @@ Used to create Archive and extract the Archive files
 
 ##  tee command
 
-[tee help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md)
+[tee help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/tee.md)
 
 ##  telnet command
 
@@ -1730,7 +1730,7 @@ Prints the route that a packet takes to reach the host
 
 ##  tty command
 
-[tty help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md)
+[tty help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/tty.md)
 
 It displays the information related to terminal It basically prints the file name of the terminal connected to standard input
 
@@ -1893,7 +1893,7 @@ Used to show who is logged on and what they are doing
 
 ##  wall command
 
-[wall help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ .md wallmd)
+[wall help](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/wall.md)
 
 Displays a message, or the contents of a file, or otherwise its standard input, on the terminals of all currently logged in users
 
