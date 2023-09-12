@@ -680,6 +680,51 @@ This command is used when the user wants to search for the given regex term(s) i
 </b>
 </details>
 
+# wildcard characters for globbing
+
+Wildcard characters are used in globbing and regular expressions to represent patterns of text. While the exact set of wildcard characters can vary depending on the context and programming language, here are some common wildcard characters and their meanings:
+
+1. **Asterisk (`*`)**: Matches zero or more characters. It is often used as a wildcard for any sequence of characters.
+
+   - Example: `*.txt` matches all files ending with ".txt."
+
+2. **Question Mark (`?`)**: Matches a single character. It is used to represent any character in a specific position.
+
+   - Example: `file?.txt` matches "file1.txt" and "file2.txt."
+
+3. **Square Brackets (`[]`) and Dash (`-`) for Character Ranges**: Square brackets are used to define character classes, and the dash is used to specify character ranges within those classes.
+
+   - `[aeiou]` matches any one vowel.
+   - `[0-9]` matches any digit.
+   - `[A-Za-z]` matches any uppercase or lowercase letter.
+
+4. **Curly Braces (`{}`) for Alternatives**: Curly braces are used to specify alternative patterns or choices.
+
+   - `{jpg,jpeg,png}` matches either "jpg," "jpeg," or "png."
+
+5. **Exclamation Mark (`!`) or Caret (`^`) (Inside Square Brackets)**: When placed at the beginning of a character class, these symbols negate the class, matching any character not listed in the brackets.
+
+   - `[^0-9]` matches any character that is not a digit.
+
+6. **Period (`.`)**: In regular expressions, the period is a wildcard that matches any single character.
+
+   - Example: `a.c` matches "abc," "adc," etc.
+
+7. **Pipe (`|`) (In Regular Expressions)**: Represents the logical OR operation and is used to specify alternatives.
+
+   - Example: `apple|banana` matches either "apple" or "banana."
+
+8. **Backslash (`\`) (Escape Character)**: In some contexts, the backslash is used to escape special characters, so they are treated as literal characters rather than as wildcards or metacharacters.
+
+These wildcard characters provide flexible ways to match patterns in text and are commonly used in various programming languages, command-line utilities, and regular expressions for tasks such as text searching, text processing, and file manipulation. Keep in mind that the availability and behavior of these characters can vary depending on the specific environment or tool you're using.
+
+[more info wildcard characters for globbing](https://github.com/SamanKhalife/linux-Tutorial/blob/main/How%20to/wildcard%20characters%20for%20globbing%20.md)
+
+
+
+
+
+
 
 #  2 Ways to Download Files From Linux Terminal
 
