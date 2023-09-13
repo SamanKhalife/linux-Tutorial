@@ -1,3 +1,5 @@
+# alsactl 
+
 The alsactl command in Linux is used to control the Advanced Linux Sound Architecture (ALSA) sound system. It can be used to set the volume of sound cards, mute sound cards, and control other aspects of the ALSA sound system.
 
 Here are some examples of how to use the alsactl command:
