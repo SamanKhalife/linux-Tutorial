@@ -1,3 +1,5 @@
+# agetty
+
 The agetty command is a daemon that is used to manage virtual terminals on Linux systems. It is responsible for reading input from the terminal and sending it to the appropriate process.
 
 The agetty command can be configured using the /etc/default/agetty file. This file contains a list of options that can be used to configure the agetty daemon. Some of the most commonly used options in the `/etc/default/agetty` file are:
