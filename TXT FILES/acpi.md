@@ -1,3 +1,5 @@
+# acpi
+
 ACPI, or Advanced Configuration and Power Interface, is a set of specifications that define how the BIOS, operating system, and hardware interact to manage power consumption and thermal management on x86-based computers.
 
 The acpi command has a number of options that can be used to view and control ACPI-related settings. Some of the most commonly used acpi commands are:
