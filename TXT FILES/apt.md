@@ -1,3 +1,5 @@
+# apt
+
 The apt command is a command-line utility that can be used to manage software packages on Debian-based Linux distributions. It is a wrapper around the apt-get command, which provides a more user-friendly interface.
 
 command: This is the command that you want to run. Some of the most commonly used apt commands are:
