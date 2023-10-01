@@ -1,3 +1,5 @@
+# aplaymidi
+
 The aplaymidi command in Linux is used to play MIDI files on a MIDI device. MIDI is a standard that allows computers and electronic musical instruments to communicate with each other.
 
 Here are some examples of how to use the aplaymidi command:
