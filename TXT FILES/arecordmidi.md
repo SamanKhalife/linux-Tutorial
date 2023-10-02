@@ -1,3 +1,5 @@
+# arecordmidi
+
 `arecordmidi` is a command-line utility that can be used to record MIDI data on Linux systems. It is part of the `alsa-utils` package, which is installed by default on most Linux distributions.
 
 The `arecordmidi` command is used as follows:
