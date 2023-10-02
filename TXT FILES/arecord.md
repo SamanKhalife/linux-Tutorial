@@ -1,3 +1,5 @@
+# arecord 
+
 `arecord` is a command-line utility that can be used to record audio on Linux systems. It is part of the `alsa-utils` package, which is installed by default on most Linux distributions.
 
 The `arecord` command is used as follows:
