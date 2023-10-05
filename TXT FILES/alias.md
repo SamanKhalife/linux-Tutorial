@@ -1,3 +1,5 @@
+# alias
+
 In Linux, an alias is a command that is defined to be another command. This can be useful for shortening long commands or for creating shortcuts to commands that you use frequently.
 
 

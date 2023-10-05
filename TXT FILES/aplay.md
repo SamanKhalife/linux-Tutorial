@@ -1,3 +1,5 @@
+# aplay
+
 The aplay command in Linux is used to play audio files on a sound card.
 
 Here are some examples of how to use the aplay command:

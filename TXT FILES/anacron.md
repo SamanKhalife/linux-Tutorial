@@ -1,3 +1,5 @@
+# anacron
+
 Anacron is a daemon that is used to run periodic jobs on Linux systems. It is similar to the cron daemon, but it is designed to run jobs that are not time-critical, such as backups and system maintenance tasks.
 
 Anacron is started automatically when the system boots. It can be stopped and started using the following commands:

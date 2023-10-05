@@ -1,3 +1,5 @@
+# apmd
+
 The apmd command in Linux is used to control the Advanced Power Management (APM) daemon. The APM daemon is a service that manages the power consumption of your computer.
 
 Here are some examples of how to use the apmd command:

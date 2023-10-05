@@ -1,3 +1,5 @@
+# arp
+
 The arp command is used to display the Address Resolution Protocol (ARP) table. The ARP table is a list of IP addresses and their corresponding MAC addresses. MAC addresses are unique identifiers assigned to network interfaces. IP addresses are used to identify hosts on a network, while MAC addresses are used to identify specific devices on a network.
 
 For example, to display all entries in the ARP table, you would use the following command:

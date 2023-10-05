@@ -1,3 +1,5 @@
+# ar
+
 Sure, here is the English version of the `ar` command:
 
 The `ar` command is used to create and extract archives. An archive is a collection of files bundled into a single file. Archives can be used to easily transfer and store files.

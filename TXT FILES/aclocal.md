@@ -1,3 +1,5 @@
+# aclocal
+
 The aclocal command in Linux is used to generate the aclocal.m4 file, which is used by the autoconf command to configure software. The aclocal command is part of the autoconf suite of tools.
 
 Here are some examples of how to use the aclocal command:
