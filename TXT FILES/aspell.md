@@ -1,3 +1,4 @@
+# aspell
 Aspell is a free and open-source spell checker for Linux and other Unix-like operating systems. It is a powerful tool that can be used to check the spelling of words in documents, emails, and other text files.
 
 Aspell is a command-line tool, but it can also be used in a graphical mode. It is a versatile tool that can be used to check the spelling of words in any language.
