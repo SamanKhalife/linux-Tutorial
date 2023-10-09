@@ -202,6 +202,12 @@ In many cases, you need to resize your partitions or even install new disks and 
      + Volume Groups (VG): This is the collection of one or more PVs. OS will see the vg as one big disk. PVs in one VG, can have different sizes or even be on different physical disks.
      + Logical Volumes (LV): OS will see lvs as partitions. You can format an LV with your OS and use it.
 
+- To find a file with a larger size, you can use the du (Disk Usage) and sort commands. In the command line, run the following
+
+```
+du -h /path/to/directory | sort -rh
+```
+
 
  
 ## MBR and GPT
