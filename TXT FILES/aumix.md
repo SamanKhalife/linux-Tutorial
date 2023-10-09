@@ -1,3 +1,4 @@
+# aumix
 Aumix is a free, open-source, cross-platform, and powerful audio mixer for Linux and other Unix-like operating systems. It is a full featured audio mixer that can be used to control the volume, balance, and other aspects of audio playback.
 
 Aumix is a command-line tool, but it can also be used in a graphical mode. It is a versatile tool that can be used to control audio playback on any system.
