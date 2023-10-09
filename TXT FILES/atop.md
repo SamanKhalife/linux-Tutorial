@@ -1,3 +1,4 @@
+# atop
 The `atop` command in Linux is used to monitor system resources in real time. It can be used to see how much CPU, memory, disk, and network resources are being used by processes and by the system as a whole.
 
 The `atop` command is used in the following syntax:
