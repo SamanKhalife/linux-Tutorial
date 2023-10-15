@@ -1,3 +1,5 @@
+# 
+
 The `nameif` command in Linux is used to rename network interfaces based on their MAC addresses. It is a useful tool for organizing your network interfaces and for troubleshooting network problems.
 
 The syntax of the `nameif` command is as follows:

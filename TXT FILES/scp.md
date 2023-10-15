@@ -1,3 +1,5 @@
+# 
+
 The `scp` command in Linux is used to securely copy files between two hosts over a network. It is a versatile command that can be used to copy files between local and remote hosts, and between two remote hosts.
 
 The `scp` command is used in the following syntax:

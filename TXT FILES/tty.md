@@ -1,3 +1,5 @@
+# 
+
 The `tty` command in Linux is used to display the name of the current terminal. It is a useful command for troubleshooting and for identifying the terminal that you are currently using.
 
 The `tty` command is used as follows:

@@ -1,3 +1,5 @@
+# 
+
 The `mcd` command in Linux is used to calculate the greatest common divisor (GCD) of two numbers. It is a powerful command that can be used to solve mathematical problems, and to troubleshoot problems with code.
 
 The syntax of the `mcd` command is as follows:

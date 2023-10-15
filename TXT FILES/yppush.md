@@ -1,3 +1,5 @@
+# 
+
 The `yppush` command is a command-line utility that can be used to push changes to NIS (Network Information Service) maps to slave servers. NIS is a service that provides a central repository for user and group information.
 
 The `yppush` command is used as follows:

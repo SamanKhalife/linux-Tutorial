@@ -1,3 +1,5 @@
+# 
+
 The `lpadmin` command in Linux is used to configure printers and printer classes provided by the Common UNIX Printing System (CUPS). It can also be used to set the server default printer or class.
 
 The syntax for the `lpadmin` command is as follows:

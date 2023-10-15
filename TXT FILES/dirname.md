@@ -1,3 +1,5 @@
+# 
+
 The `dirname` command in Linux is used to extract the directory name from a given file path. The file path can be absolute or relative. The `dirname` command will remove the last component of the file path and print the remaining path to the standard output.
 
 The `dirname` command is used in the following syntax:

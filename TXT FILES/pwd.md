@@ -1,3 +1,5 @@
+# 
+
 The `pwd` command stands for "print working directory". It prints the absolute path of the current working directory. The current working directory is the directory that you are currently in.
 
 For example, if you are in the `/home/bard` directory, the `pwd` command will print `/home/bard`.

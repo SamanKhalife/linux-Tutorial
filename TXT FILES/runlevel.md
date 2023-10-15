@@ -1,3 +1,5 @@
+# 
+
 In Linux, a runlevel is a state that the system is in. It determines which services are running and what the system is capable of doing. There are seven standard runlevels, numbered 0 to 6.
 
 * **Runlevel 0:** This is the halt runlevel. The system is completely shut down.

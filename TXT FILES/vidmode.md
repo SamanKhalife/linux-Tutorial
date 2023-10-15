@@ -1,3 +1,5 @@
+# 
+
 The vidmode command in Linux is used to display the current video mode and to change the video mode.
 
 For example, the following command will display the current video mode:

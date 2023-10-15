@@ -1,3 +1,5 @@
+# 
+
 Emacs is a text editor that is highly customizable and extensible. It is one of the most popular text editors in the world, and is used by programmers, scientists, and writers alike.
 
 Emacs is a modal editor, which means that it has different modes for different tasks. For example, there is a mode for editing text, a mode for editing buffers, and a mode for editing macros. This can be daunting for beginners, but it also makes Emacs very powerful and flexible.

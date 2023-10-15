@@ -1,3 +1,5 @@
+# 
+
 The sysctl command is used to view and change kernel parameters. Kernel parameters are settings that control the behavior of the Linux kernel.
 
 For example, to view the value of the kernel parameter net.ipv4.tcp_syncookies, you would use the following command:

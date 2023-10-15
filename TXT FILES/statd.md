@@ -1,3 +1,5 @@
+# 
+
 Statd is a daemon that is used to manage and monitor file sharing between machines on a network. It is a part of the NFS (Network File System) service and is responsible for maintaining a database of shared files and their locations.
 
 Statd uses a protocol called NSM (Network Status Monitor) to communicate with other statd daemons on the network. This protocol allows statd to track the availability of shared files and to notify other statd daemons when a file becomes unavailable.

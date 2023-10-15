@@ -1,3 +1,5 @@
+# 
+
 Sure, here is the English version of the `shopt` command:
 
 The `shopt` command is a built-in command in the bash shell that is used to change the shell's configuration options. The `shopt` command is used as follows:

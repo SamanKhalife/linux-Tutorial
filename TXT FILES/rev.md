@@ -1,3 +1,5 @@
+# 
+
 The `rev` command in Linux is used to reverse the order of characters in a file or string. It is a simple command that can be used for a variety of tasks, such as reversing the order of words in a sentence or reversing the order of lines in a file.
 
 The `rev` command is used in the following syntax:

@@ -1,3 +1,5 @@
+# 
+
 The `scanimage` command in Linux is used to scan documents and images. It is a versatile command that can be used to scan documents to a variety of formats, including PDF, TIFF, and PNG.
 
 The `scanimage` command is used in the following syntax:

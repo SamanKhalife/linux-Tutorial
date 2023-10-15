@@ -1,3 +1,5 @@
+# 
+
 The `poweroff` command in Linux is used to power off the system. This command sends a signal to the kernel to initiate a graceful shutdown of the system.
 
 The syntax for the `poweroff` command is as follows:

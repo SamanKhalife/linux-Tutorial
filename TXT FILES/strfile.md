@@ -1,3 +1,5 @@
+# 
+
 The `strfile` command is a command-line utility that can be used to create a file that contains a list of strings. It is a simple and easy-to-use command that can be used to create files for a variety of purposes, such as creating configuration files or generating random passwords.
 
 The `strfile` command is used as follows:

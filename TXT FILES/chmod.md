@@ -1,3 +1,5 @@
+# 
+
 The `chmod` command in Linux is used to change the permissions of files and directories. The permissions of a file or directory determine who can read, write, and execute it.
 
 The `chmod` command is used in the following syntax:

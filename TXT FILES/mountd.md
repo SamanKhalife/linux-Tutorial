@@ -1,3 +1,5 @@
+# 
+
 The `mountd` command in Linux is a daemon that manages mount requests for NFS clients. It is responsible for mounting and unmounting NFS shares, as well as handling authentication and authorization requests.
 
 The `mountd` command is typically started automatically by the `rpcbind` daemon. It can also be started manually using the `systemctl` command.

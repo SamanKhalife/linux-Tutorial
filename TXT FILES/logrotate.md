@@ -1,3 +1,5 @@
+# 
+
 The `logrotate` command in Linux is used to rotate, compress, and archive system logs. It is a powerful tool that can be used to manage log files and to ensure that they are not taking up too much space on the system.
 
 The syntax for the `logrotate` command is as follows:

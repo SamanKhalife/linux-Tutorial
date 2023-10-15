@@ -1,3 +1,5 @@
+# 
+
 The `paste` command in Linux is used to merge lines of text from one or more files, separated by a delimiter. The default delimiter is a tab character.
 
 The syntax for the `paste` command is:

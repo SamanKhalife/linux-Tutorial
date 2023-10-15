@@ -1,3 +1,5 @@
+# 
+
 Yacc, which stands for "Yet Another Compiler Compiler," is a tool that can be used to generate parsers for programming languages. A parser is a program that takes a sequence of tokens and produces a parse tree, which is a representation of the syntactic structure of the program.
 
 Yacc is a powerful tool that can be used to generate parsers for a wide variety of programming languages. It is a popular choice for generating parsers for compilers, interpreters, and other language processing tools.

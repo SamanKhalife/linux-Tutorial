@@ -1,3 +1,5 @@
+# 
+
 The `fdformat` command in Linux is used to format floppy disks. It is a low-level formatting command that will erase all data on the floppy disk.
 
 The `fdformat` command is used in the following syntax:

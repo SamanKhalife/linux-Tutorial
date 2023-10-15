@@ -1,3 +1,5 @@
+# 
+
 The "stty" command in Linux is used to change and display terminal settings. It allows you to control various aspects of your terminal, such as line settings, input and output processing, control characters, and more.
 
 # help 

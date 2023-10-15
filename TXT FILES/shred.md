@@ -1,3 +1,5 @@
+# 
+
 The shred command is a Linux command that can be used to securely delete files. It does this by overwriting the file data with random data, making it impossible to recover the original data.
 
 Here are some examples of how to use the shred command:

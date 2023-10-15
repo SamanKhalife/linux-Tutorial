@@ -1,3 +1,5 @@
+# 
+
 The `case` command in Linux is a conditional statement that can be used to select from a set of possible values. It is a powerful tool that can be used to make decisions based on the value of a variable.
 
 The `case` command is used in the following syntax:

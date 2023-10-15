@@ -1,3 +1,5 @@
+# 
+
 The `false` command in Linux is a command that always returns an exit status of 1. This means that the command is considered to have failed, even if it does not actually do anything.
 
 The `false` command is often used in shell scripts to test conditions. For example, the following code will only run the command `echo "Hello, world!"` if the variable `name` is set:

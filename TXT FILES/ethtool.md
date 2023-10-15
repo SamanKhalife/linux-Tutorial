@@ -1,3 +1,5 @@
+# 
+
 The ethtool command is used to control and monitor network interfaces. It is a powerful tool that can be used to configure a wide range of network settings.
 
 For example, to display the current settings of the interface eth0, you would use the following command:

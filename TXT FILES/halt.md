@@ -1,3 +1,5 @@
+# 
+
 The `halt` command in Linux is used to shut down the system. It is a standard command that is available on most Unix-like operating systems.
 
 The syntax for the `halt` command is:

@@ -1,3 +1,5 @@
+# 
+
 The `chage` command in Linux is used to change the password aging information for user accounts. Password aging is a security feature that allows you to specify how often users must change their passwords and how long their passwords are valid before they expire.
 
 The `chage` command is used in the following syntax:

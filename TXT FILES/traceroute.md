@@ -1,3 +1,5 @@
+# 
+
 The traceroute command is used to trace the route that a packet takes from your computer to a destination. This can be useful for troubleshooting network problems, as it can help you to identify which routers or gateways are causing delays or packet loss.
 
 For example, to trace the route to the website www.google.com, you would use the following command:

@@ -1,3 +1,5 @@
+# 
+
 The `dmesg` command in Linux is used to display the kernel ring buffer. The kernel ring buffer is a circular buffer that contains messages from the kernel. These messages can be used to troubleshoot problems with the kernel or with hardware devices.
 
 The `dmesg` command is used in the following syntax:

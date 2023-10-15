@@ -1,3 +1,5 @@
+# 
+
 The `iptables-restore` command in Linux is used to restore iptables rules from a file. It is a useful command for backing up your iptables rules and for restoring them if they are accidentally deleted or modified.
 
 The syntax of the iptables-restore command is as follows:

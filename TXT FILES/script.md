@@ -1,3 +1,5 @@
+# 
+
 The `script` command in Linux is used to record the output of a terminal session. It is a versatile command that can be used to troubleshoot problems, learn from previous sessions, and create documentation.
 
 The `script` command is used in the following syntax:

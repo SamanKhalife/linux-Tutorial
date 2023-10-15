@@ -1,3 +1,5 @@
+# 
+
 The `sane-find-scanner` command in Linux is used to find and list all available scanners. It is a versatile command that can be used to troubleshoot scanner problems, and to select a scanner for use with a particular application.
 
 The `sane-find-scanner` command is used in the following syntax:

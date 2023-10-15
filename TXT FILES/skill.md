@@ -1,3 +1,5 @@
+# 
+
 There is no Linux command called `skill`. However, there is a command called `kill` that can be used to send a signal to a process. The `skill` command is a misspelling of the `kill` command.
 
 The `kill` command is used as follows:

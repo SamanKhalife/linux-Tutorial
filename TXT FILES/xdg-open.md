@@ -1,3 +1,5 @@
+# 
+
 Xinetd is a daemon that manages Internet services. It is a replacement for inetd, which was the standard Internet daemon in Unix-like operating systems for many years.
 
 Xinetd is more flexible and secure than inetd. It can be configured to start services on demand, rather than always listening for connections. This can help to improve security, as it reduces the attack surface of the system.

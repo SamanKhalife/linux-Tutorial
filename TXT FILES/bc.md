@@ -1,3 +1,5 @@
+# 
+
 The `bc` command in Linux is a simple calculator that can be used to perform basic and complex mathematical operations. It is a powerful command that can be used to perform any calculation that can be expressed in the C programming language.
 
 The `bc` command is used in the following syntax:

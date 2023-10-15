@@ -1,3 +1,5 @@
+# 
+
 The `newaliases` command in Linux is used to rebuild the alias database. It is a relatively simple command, but it is important to understand how it works if you are using aliases on your system.
 
 The alias database is a file that contains a list of all the aliases that have been defined on your system. When you use an alias, the shell looks up the alias in the alias database and then executes the command that is associated with the alias.

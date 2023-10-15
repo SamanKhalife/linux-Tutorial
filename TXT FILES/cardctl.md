@@ -1,3 +1,5 @@
+# 
+
 The `cardctl` command in Linux is used to control PCMCIA cards. PCMCIA cards are credit card-sized devices that can be inserted into a PCMCIA slot on a laptop computer. PCMCIA cards can be used for a variety of purposes, including storage, networking, and communications.
 
 The `cardctl` command is used in the following syntax:

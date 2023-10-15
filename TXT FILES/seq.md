@@ -1,3 +1,5 @@
+# 
+
 The `seq` command in Linux is used to print a sequence of numbers. It is a versatile command that can be used to print a range of numbers, a list of numbers, or a list of numbers with a specified step size.
 
 The `seq` command is used in the following syntax:

@@ -1,3 +1,5 @@
+# 
+
 Yes, the `yppasswdd` command is a daemon that is used to change passwords on NIS servers. NIS is a service that provides a central repository for storing user and group information.
 
 The `yppasswdd` daemon is started automatically when the system boots. It can be stopped and started using the following commands:

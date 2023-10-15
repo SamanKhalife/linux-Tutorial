@@ -1,3 +1,5 @@
+# 
+
 The `slocate` command is a command-line utility that can be used to find files on a Linux system. It is a faster alternative to the `find` command, but it is not as comprehensive.
 
 The `slocate` command is used as follows:

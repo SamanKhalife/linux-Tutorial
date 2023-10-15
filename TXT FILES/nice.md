@@ -1,3 +1,5 @@
+# 
+
 The `nice` command in Linux is used to change the priority of a process. It is a powerful command that can be used to make sure that important processes are given priority over less important processes.
 
 The syntax of the `nice` command is as follows:

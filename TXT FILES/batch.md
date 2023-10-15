@@ -1,3 +1,5 @@
+# 
+
 A batch file in Linux is a text file that contains a series of commands that are executed one after the other. Batch files are often used to automate tasks or to run a series of commands that would be time-consuming or repetitive to run manually.
 
 To create a batch file, you can use any text editor. The file extension for a batch file is `.bat`. Once you have created the batch file, you can run it by typing the name of the file in the terminal.

@@ -1,3 +1,5 @@
+# 
+
 The `column` command in Linux is used to format text into columns. It is a versatile command that can be used to format text in a variety of ways.
 
 The `column` command is used in the following syntax:

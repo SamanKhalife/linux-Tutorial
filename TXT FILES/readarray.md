@@ -1,3 +1,5 @@
+# 
+
 Sure. The `readarray` command in Linux is used to read the contents of an array into the shell. It is a built-in command that is supported by all Linux distributions.
 
 The `readarray` command is used in the following syntax:

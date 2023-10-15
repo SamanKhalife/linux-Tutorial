@@ -1,3 +1,5 @@
+# 
+
 The `lprm` command in Linux is used to remove jobs from the print queue. It can be used to remove individual jobs or to remove all of the jobs in the queue.
 
 The syntax for the `lprm` command is as follows:

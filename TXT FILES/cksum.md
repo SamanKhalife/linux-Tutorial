@@ -1,3 +1,5 @@
+# 
+
 The `cksum` command in Linux is used to calculate and print the checksum of a file or a stream of data. A checksum is a value that is calculated from the contents of a file or a stream of data. It can be used to verify the integrity of the file or data, as well as to compare two files or streams of data to see if they are identical.
 
 The `cksum` command is used in the following syntax:

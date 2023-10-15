@@ -1,3 +1,5 @@
+# 
+
 The `whatis` command is a Linux command that can be used to get a brief description of a command. It is a versatile command that can be used to quickly get a summary of a command's purpose and usage.
 
 The `whatis` command is used as follows:

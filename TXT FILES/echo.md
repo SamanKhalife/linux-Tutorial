@@ -1,3 +1,5 @@
+# 
+
 The `echo` command in Linux is used to display text on the console. It is a simple and easy-to-use command that can be used to display messages, variables, and other information.
 
 The `echo` command is used in the following syntax:

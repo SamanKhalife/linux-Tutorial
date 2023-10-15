@@ -1,3 +1,5 @@
+# 
+
 The `comm` command in Linux is used to compare two sorted files and display the lines that are common, different, and unique to each file. It is a powerful tool that can be used to find differences between files, or to find common lines in two files.
 
 The `comm` command is used in the following syntax:

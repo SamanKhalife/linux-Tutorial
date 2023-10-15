@@ -1,3 +1,5 @@
+# 
+
 The `export` command in Linux is used to make a variable available to child processes and subshells. This means that the variable can be used in the current shell and in any child processes that are created from the current shell.
 
 The `export` command is used in the following syntax:

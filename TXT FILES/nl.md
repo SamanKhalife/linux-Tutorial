@@ -1,3 +1,5 @@
+# 
+
 The `nl` command in Linux is used to number lines in a file. It is a simple command, but it can be very useful for debugging programs and for making files easier to read.
 
 The syntax of the `nl` command is as follows:

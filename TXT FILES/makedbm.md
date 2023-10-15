@@ -1,3 +1,5 @@
+# 
+
 
 The makedbm command in Linux is used to create a NIS (Network Information Service) map. NIS maps are used to store information about users, groups, and hosts.
 

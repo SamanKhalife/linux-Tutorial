@@ -1,3 +1,5 @@
+# 
+
 The `scanadf` command in Linux is used to scan documents and images using an ADF (automatic document feeder). It is a versatile command that can be used to scan documents to a variety of formats, including PDF, TIFF, and PNG.
 
 The `scanadf` command is used in the following syntax:

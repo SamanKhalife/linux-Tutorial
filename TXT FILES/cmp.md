@@ -1,3 +1,5 @@
+# 
+
 The `cmp` command in Linux is used to compare two files or directories. It is a simple command that can be used to quickly check if two files are identical.
 
 The `cmp` command is used in the following syntax:

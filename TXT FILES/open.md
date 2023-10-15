@@ -1,3 +1,5 @@
+# 
+
 The `open` command in Linux is used to open a file or URL in a specified application.
 
 The syntax for the `open` command is as follows:

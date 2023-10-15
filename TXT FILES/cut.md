@@ -1,3 +1,5 @@
+# 
+
 The `cut` command in Linux is used to extract parts of a text file. It is a powerful tool that can be used to extract specific columns, rows, or fields from a text file.
 
 The `cut` command is used in the following syntax:

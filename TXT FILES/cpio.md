@@ -1,3 +1,5 @@
+# 
+
 The `cpio` command in Linux is used to archive and restore files. It is a powerful tool that can be used to backup your files, transfer files between systems, and create bootable media.
 
 The `cpio` command is used in the following syntax:

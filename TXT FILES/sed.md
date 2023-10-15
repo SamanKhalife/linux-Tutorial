@@ -1,3 +1,5 @@
+# 
+
 The `sed` command in Linux is a stream editor. It is a versatile command that can be used to edit text files, replace text, and perform other text-processing tasks.
 
 The `sed` command is used in the following syntax:

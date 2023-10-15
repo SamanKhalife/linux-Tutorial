@@ -1,3 +1,5 @@
+# 
+
 The `service` command in Linux is used to manage system services. It is a versatile command that can be used to start, stop, restart, enable, and disable services.
 
 The `service` command is used in the following syntax:

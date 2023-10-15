@@ -1,3 +1,5 @@
+# 
+
 The `dmidecode` command in Linux is used to decode and display the contents of the system's DMI (Desktop Management Interface) table. The DMI table is a data structure that contains information about the system's hardware, such as the motherboard, CPU, memory, and disks.
 
 The `dmidecode` command is used in the following syntax:

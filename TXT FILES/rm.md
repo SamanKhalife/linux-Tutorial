@@ -1,3 +1,5 @@
+# 
+
 The `rm` command in Linux is used to remove files and directories. It is a powerful command that can be used to delete files that you no longer need.
 
 The syntax of the `rm` command is as follows:

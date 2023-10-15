@@ -1,3 +1,5 @@
+# 
+
 Sure, here is the English version of the `ypset` command:
 
 The `ypset` command is a command-line utility that can be used to change the settings of an NIS (Network Information Service) server. NIS is a service that provides a central repository for user and group information.

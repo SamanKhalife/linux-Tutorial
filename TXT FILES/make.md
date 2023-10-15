@@ -1,3 +1,5 @@
+# 
+
 The "make" command in Linux is a build automation tool used to compile and build software projects. It reads a file called "Makefile" that specifies how to build the project, including compilation instructions, dependencies, and other build rules.
 
 # help 

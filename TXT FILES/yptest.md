@@ -1,3 +1,5 @@
+# 
+
 Sure, here is the English version of the `yptest` command:
 
 Yes, the `yptest` command is used to test if you can communicate with a NIS (Network Information Service) server. NIS is a service that provides a central repository for storing user and group information.

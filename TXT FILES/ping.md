@@ -1,3 +1,5 @@
+# 
+
 The `ping` command in Linux is used to test the connectivity between your computer and another computer on the network. It sends a series of packets to the other computer and waits for a response. If the other computer responds, the ping command will display the round-trip time (RTT) for each packet.
 
 The syntax of the `ping` command is as follows:

@@ -1,3 +1,5 @@
+# 
+
 The `getent` command in Linux is used to display entries from databases supported by the Name Service Switch libraries. The databases that `getent` can access are:
 
 * `passwd`: This database contains user account information, such as the username, password, home directory, and shell.

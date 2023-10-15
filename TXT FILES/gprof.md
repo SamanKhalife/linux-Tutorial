@@ -1,3 +1,5 @@
+# 
+
 Gprof is a profiling tool for Unix applications. It can be used to collect information about the execution time of a program, as well as the number of times each function was called. This information can be used to identify performance bottlenecks in a program.
 
 Gprof works by inserting code into the program at strategic points to collect timing information. When the program is run, this code will collect information about the execution time of each function and the number of times each function was called. This information is then stored in a file called `gmon.out`.

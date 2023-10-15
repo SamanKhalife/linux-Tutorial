@@ -1,3 +1,5 @@
+# 
+
 The `ipcs` command in Linux is used to display information about inter-process communication (IPC) resources. IPC is a mechanism that allows processes to communicate with each other.
 
 The syntax of the `ipcs` command is as follows:

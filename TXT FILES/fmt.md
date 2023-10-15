@@ -1,3 +1,5 @@
+# 
+
 The `fmt` command in Linux is used to format text files. It is a simple and easy-to-use command that can be used to improve the readability of text files.
 
 The `fmt` command is used in the following syntax:

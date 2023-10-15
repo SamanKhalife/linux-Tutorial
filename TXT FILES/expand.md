@@ -1,3 +1,5 @@
+# 
+
 The `expand` command in Linux is used to convert tabs in text to spaces. This can be useful for making text more readable, or for preparing text for use in other programs that do not support tabs.
 
 The `expand` command is used in the following syntax:

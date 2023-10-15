@@ -1,3 +1,5 @@
+# 
+
 The `routed` command in Linux is a deprecated command that was used to configure and manage routing tables. Routing tables are used to determine the path that packets should take to reach their destination.
 
 The `routed` command is no longer recommended for use. It is a legacy protocol that is not secure and can be spoofed by attackers. Instead, you should use the `ip` command to configure and manage routing tables.

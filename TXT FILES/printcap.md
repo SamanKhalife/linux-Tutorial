@@ -1,3 +1,5 @@
+# 
+
 The `printcap` command in Linux is used to display the printer capabilities database. This database contains information about all of the printers that are configured on your system.
 
 The syntax of the `printcap` command is as follows:

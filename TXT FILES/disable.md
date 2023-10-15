@@ -1,3 +1,5 @@
+# 
+
 The `disable` command in Linux is used to disable a service. It is a powerful tool that can be used to prevent a service from starting automatically at boot and to stop a service that is currently running.
 
 The `disable` command is used in the following syntax:

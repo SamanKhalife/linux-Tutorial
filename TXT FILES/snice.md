@@ -1,3 +1,5 @@
+# 
+
 Sure, here is the English version of the `snice` command:
 
 The `snice` command is used to set the priority of a process running on Linux. The higher the priority, the more CPU time the process will be allocated.

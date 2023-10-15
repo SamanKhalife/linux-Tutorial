@@ -1,3 +1,5 @@
+# 
+
 The `dig` command in Linux is used to perform DNS lookups. It is a powerful tool that can be used to troubleshoot DNS problems, but it is also used to display DNS information.
 
 The `dig` command is used in the following syntax:

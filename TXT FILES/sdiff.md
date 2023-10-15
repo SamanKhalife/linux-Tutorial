@@ -1,3 +1,5 @@
+# 
+
 The `sdiff` command in Linux is a side-by-side diff tool. It is a versatile command that can be used to compare two text files, line by line.
 
 The `sdiff` command is used in the following syntax:

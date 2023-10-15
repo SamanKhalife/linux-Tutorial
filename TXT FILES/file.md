@@ -1,3 +1,5 @@
+# 
+
 The file command in Linux is used to determine the type of a file. It can be used to identify files that are executable, text files, binary files, and so on.
 
 The options argument is a list of options that you can use to customize the output of the file command.

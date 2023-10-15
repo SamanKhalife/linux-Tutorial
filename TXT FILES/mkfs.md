@@ -1,3 +1,5 @@
+# 
+
 The "mkfs" command in Linux is used to create a file system on a storage device or partition. It is typically used to format a disk or partition with a specific file system type, preparing it for use with the operating system.
 
 # help 

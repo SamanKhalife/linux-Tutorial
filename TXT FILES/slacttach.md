@@ -1,3 +1,5 @@
+# 
+
 The `slacttach` command is not a real command in Linux. It is a misspelling of the `slattach` command.
 
 The `slattach` command is used to attach a serial line to a network interface. It is used to connect a serial device, such as a modem or a serial console, to a network.

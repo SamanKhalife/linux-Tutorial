@@ -1,3 +1,5 @@
+# 
+
 The `netstat` command in Linux is used to display information about network connections, routing tables, and interface statistics. It is a powerful command that can be used to troubleshoot network problems, and to monitor network traffic.
 
 The syntax of the `netstat` command is as follows:

@@ -1,3 +1,5 @@
+# 
+
 The mbadblocks command in Linux is used to scan a block device for bad blocks. It can be used to identify bad blocks on a hard drive, SSD, or other storage device.
 
 The mbadblocks command takes the following arguments:

@@ -1,3 +1,5 @@
+# 
+
 The `ldconfig` command in Linux is used to update the dynamic linker's cache of shared libraries. The dynamic linker is a program that loads shared libraries into processes. The `ldconfig` command is typically run after installing or removing a shared library.
 
 The syntax for the `ldconfig` command is as follows:

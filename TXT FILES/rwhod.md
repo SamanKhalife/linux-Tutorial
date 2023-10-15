@@ -1,3 +1,5 @@
+# 
+
 The `rwhod` command in Linux is a daemon that maintains a database of who is currently logged on to the system. It is a versatile command that can be used to track who is logged on to the system, and to troubleshoot login problems.
 
 The `rwhod` command is used in the following syntax:

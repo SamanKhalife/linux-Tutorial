@@ -1,3 +1,5 @@
+# 
+
 The `openvt` command in Linux is used to open a new virtual terminal (VT). A VT is a logical terminal that can be used to run a command or application.
 
 The syntax for the `openvt` command is as follows:

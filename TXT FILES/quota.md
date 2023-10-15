@@ -1,3 +1,5 @@
+# 
+
 A quota is a limit on the amount of something that someone is allowed to have or is expected to do. Quotas can be used in a variety of contexts, including:
 
 * **Import quotas:** Governments can use import quotas to limit the amount of goods that can be imported into a country. This can be done to protect domestic industries from foreign competition.

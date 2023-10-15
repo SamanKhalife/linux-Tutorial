@@ -1,3 +1,5 @@
+# 
+
 The `mount` command in Linux is used to mount a filesystem on a specific directory. This allows the filesystem to be accessed as if it were a local filesystem.
 
 The syntax for the `mount` command is:

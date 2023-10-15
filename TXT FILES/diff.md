@@ -1,3 +1,5 @@
+# 
+
 The `diff` command in Linux is used to compare two files or directories and show the differences between them. It is a powerful tool that can be used to find differences between files, to check for changes in files, and to merge changes from one file into another.
 
 The `diff` command is used in the following syntax:

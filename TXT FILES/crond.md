@@ -1,3 +1,5 @@
+# 
+
 Crond is a daemon that runs in the background and executes scheduled tasks. It is a vital part of any Linux system, as it allows you to automate tasks that need to be run on a regular basis.
 
 Crond is configured using crontab files. Each user has their own crontab file, which is located in the `/var/spool/cron/crontabs` directory. The crontab file contains a list of tasks that the crond daemon will execute.

@@ -1,3 +1,5 @@
+# 
+
 The `fc-list` command in Linux is used to list the available fonts. It is a powerful tool that can be used to find fonts that are installed on your system and to select fonts for use in applications.
 
 The `fc-list` command is used in the following syntax:

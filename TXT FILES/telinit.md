@@ -1,3 +1,5 @@
+# 
+
 Sure, the `telinit` command in Linux is used to change the system runlevel. The runlevel is a state in which the system is operating. There are 7 runlevels in Linux, each with its own purpose.
 
 The `telinit` command is used as follows:

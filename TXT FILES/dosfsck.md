@@ -1,3 +1,5 @@
+# 
+
 The `dosfsck` command in Linux is used to check and repair FAT12, FAT16, and FAT32 filesystems. It is a powerful tool that can be used to fix a variety of problems that can occur with FAT filesystems.
 
 The `dosfsck` command is used in the following syntax:

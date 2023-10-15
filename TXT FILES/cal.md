@@ -1,3 +1,5 @@
+# 
+
 The `cal` command in Linux is used to display a calendar. It is a simple and easy-to-use command that can be used to quickly see the current month or year.
 
 The `cal` command is used in the following syntax:

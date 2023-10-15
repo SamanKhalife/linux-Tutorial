@@ -1,3 +1,5 @@
+# 
+
 Sure, here is the English version of the `uniq` command:
 
 The `uniq` command is a Linux command that is used to remove duplicate lines from a file. It offers various options to control how duplicate lines are removed.

@@ -1,3 +1,5 @@
+# 
+
 The `groupmod` command in Linux is used to modify the attributes of an existing group. The changes are made to the `/etc/group` file.
 
 The syntax for the `groupmod` command is:

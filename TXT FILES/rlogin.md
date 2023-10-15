@@ -1,3 +1,5 @@
+# 
+
 The `rlogin` command in Linux is a deprecated command that was used to log in to a remote system from a local system. It is a simple protocol that uses unencrypted passwords. This makes it vulnerable to attacks, such as password sniffing.
 
 Instead of using the `rlogin` command, you should use the `ssh` command to log in to a remote system from a local system. The `ssh` command is a more secure and efficient way to log in to a remote system from a local system. It is also supported by most Linux distributions.

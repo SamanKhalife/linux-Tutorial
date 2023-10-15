@@ -1,3 +1,5 @@
+# 
+
 The `modinfo` command in Linux is used to display information about kernel modules. Kernel modules are pieces of software that can be loaded into the Linux kernel to add new features or functionality.
 
 The syntax of the `modinfo` command is as follows:

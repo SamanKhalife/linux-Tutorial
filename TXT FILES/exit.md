@@ -1,3 +1,5 @@
+# 
+
 The exit command is used to terminate a shell session. It is typically used when you are finished using the shell and want to return to the operating system.
 
 For example, to exit the shell session with an exit status of 0, you would use the following command:

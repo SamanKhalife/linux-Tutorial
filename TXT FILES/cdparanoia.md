@@ -1,3 +1,5 @@
+# 
+
 cdparanoia is a command-line tool that can be used to rip audio CDs to a computer. It is a high-quality CD ripper that can compensate for and adjust to poor hardware to produce a flawless rip.
 
 cdparanoia is used in the following syntax:

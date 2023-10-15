@@ -1,3 +1,5 @@
+# 
+
 The init command is a Linux command that is used to initialize the system. It is the first command that is executed when the system boots up, and it is responsible for starting up all of the other system services.
 
 The init command is a special system process that has a unique PID of 1. This means that init is always the first process that is running, and it is responsible for starting up all of the other processes.

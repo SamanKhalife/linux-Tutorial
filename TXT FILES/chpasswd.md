@@ -1,3 +1,5 @@
+# 
+
 The `chpasswd` command in Linux is used to change the password for the current user or for a specified user.
 
 The `chpasswd` command is used in the following syntax:

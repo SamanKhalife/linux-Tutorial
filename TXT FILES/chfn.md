@@ -1,3 +1,5 @@
+# 
+
 The `chfn` command in Linux is used to change the finger information for the current user. Finger information is a set of data that is displayed by the `finger` command. It typically includes the user's name, real name, office number, and other contact information.
 
 The `chfn` command is used in the following syntax:

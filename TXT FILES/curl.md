@@ -1,3 +1,5 @@
+# 
+
 "curl" is a command-line tool that allows you to send and receive data over various protocols like HTTP, HTTPS, FTP, and more. It is commonly used to perform tasks such as downloading files, making API requests, and testing web services.
 
 Here are some common examples of using "curl":

@@ -1,3 +1,5 @@
+# 
+
 In Linux, the getopts function is used to parse command-line options. It is a built-in function that is available in most shells.
 
 The optstring argument is a string that specifies the options that you want to parse. The var argument is the name of the variable that will store the parsed options.

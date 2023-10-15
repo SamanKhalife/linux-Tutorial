@@ -1,3 +1,5 @@
+# 
+
 Sure, I can help you with that.
 
 The `popd` command in Linux is used to move to the previous directory in the directory stack. This command is used to manipulate the directory stack, which is a list of recently accessed directories. You can use the `pushd` command to add a directory to the stack and the `popd` command to remove a directory from the stack.

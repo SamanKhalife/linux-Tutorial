@@ -1,3 +1,5 @@
+# 
+
 The `dnsdomainname` command in Linux is used to display the domain name of the current host. The domain name is the part of a hostname that comes after the last dot. For example, the domain name of the host `www.example.com` is `example.com`.
 
 The `dnsdomainname` command is used in the following syntax:

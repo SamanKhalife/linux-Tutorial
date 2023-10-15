@@ -1,3 +1,5 @@
+# 
+
 The `unicode_stop` function in Python is used to remove all unicode control characters from a string. It is a useful function for cleaning up text that may contain unwanted control characters.
 
 The `unicode_stop` function is used as follows:

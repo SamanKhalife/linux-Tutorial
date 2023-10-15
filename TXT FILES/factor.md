@@ -1,3 +1,5 @@
+# 
+
 The `factor` command in Linux is used to find the prime factorization of a number. It is a simple and easy-to-use command that can be used to find the prime factors of any number.
 
 The `factor` command is used in the following syntax:

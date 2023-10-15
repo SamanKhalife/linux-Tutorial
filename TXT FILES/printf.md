@@ -1,3 +1,5 @@
+# 
+
 The `printf` command in Linux is used to print formatted output to the standard output stream. The `printf` command is a versatile command that can be used to print a variety of different types of output, including strings, numbers, and dates.
 
 The syntax for the `printf` command is as follows:

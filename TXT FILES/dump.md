@@ -1,3 +1,5 @@
+# 
+
 The `dump` command in Linux is used to back up a filesystem to a tape or other storage device. It is a powerful tool that can be used to protect your data from accidental deletion or corruption.
 
 The `dump` command is used in the following syntax:

@@ -1,3 +1,5 @@
+# 
+
 Cron is a time-based job scheduler in Unix-like operating systems. It allows users to schedule commands to run at specific times, dates, or intervals. Cron is often used to automate tasks such as backups, software updates, and email notifications.
 
 Cron jobs are defined in crontab files. Each user has their own crontab file, which is located in the `/var/spool/cron/crontabs` directory. The crontab file contains a list of tasks that the cron daemon will execute.

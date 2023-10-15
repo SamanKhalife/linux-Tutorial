@@ -1,3 +1,5 @@
+# 
+
 The `wc` command is a Linux command that can be used to count the number of lines, words, and characters in a file. It is a versatile command that can be used to quickly get a count of the number of lines, words, and characters in a file.
 
 The `wc` command is used as follows:

@@ -1,3 +1,5 @@
+# 
+
 The bzgrep command is a command-line utility that can be used to search for text in bzip2-compressed files. It is similar to the grep command, but it can be used to search for text in compressed files.
 
 The bzgrep command has a number of options that can be used to control the behavior of the command. Some of the most commonly used options are:

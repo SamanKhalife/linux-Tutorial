@@ -1,3 +1,5 @@
+# 
+
 The `scriptreplay` command in Linux is used to replay a terminal session. It is a versatile command that can be used to debug scripts, troubleshoot problems, and learn from previous sessions.
 
 The `scriptreplay` command is used in the following syntax:

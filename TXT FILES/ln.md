@@ -1,3 +1,5 @@
+# 
+
 In Linux, the `ln` command is used to create links to files or directories. There are two types of links that can be created with the `ln` command: hard links and symbolic links.
 
 * **Hard links** point to the same inode as the original file. This means that both the link and the original file occupy the same space on disk. Hard links are often used to create shortcuts to files or directories, or to make it easier to access files that are located on different partitions or filesystems.

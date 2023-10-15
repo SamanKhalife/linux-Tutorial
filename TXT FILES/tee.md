@@ -1,3 +1,5 @@
+# 
+
 The tee command in Linux is used to copy standard input to one or more files. It can also be used to pipe the output of a command to one or more files.
 
 For example, the following command will copy standard input to the file output.txt and to the standard output:

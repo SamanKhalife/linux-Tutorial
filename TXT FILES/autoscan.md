@@ -1,3 +1,5 @@
+# 
+
 The `autoscan` command in Linux is a deprecated command that was used to generate a preliminary `configure.in` file for a software package. It is no longer necessary to use this command, as `configure.in` files can now be generated automatically by the `autoconf` command.
 
 The `autoscan` command was used in the following syntax:

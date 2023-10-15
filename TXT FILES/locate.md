@@ -1,3 +1,5 @@
+# 
+
 The locate command is a Linux command that can be used to search for files by name. It is a simple command to use, but it can be very effective.
 
 To search for all files that contain the word "hello":

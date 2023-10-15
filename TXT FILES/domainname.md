@@ -1,3 +1,5 @@
+# 
+
 The `domainname` command in Linux is used to display or set the name of the current NIS domain. If you do not specify a parameter, the domainname command displays the name of the current NIS domain. A domain typically encompasses a group of hosts under the same administration. Only the root user can set the name of the domain by giving the domainname command an argument.
 
 The syntax of the domainname command is as follows:

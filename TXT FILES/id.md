@@ -1,3 +1,5 @@
+# 
+
 The "id" command is used in Linux systems to retrieve user and group identity information. By running the "id" command, you can obtain details about the current user or specify a username to retrieve information about a specific user.
 # help
 ```

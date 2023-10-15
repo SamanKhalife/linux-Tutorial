@@ -1,3 +1,5 @@
+# 
+
 The `readlink` command in Linux is used to print the target of a symbolic link. This can be useful to determine the actual file or directory that a symbolic link points to.
 
 The `readlink` command is used in the following syntax:

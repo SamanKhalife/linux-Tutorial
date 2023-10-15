@@ -1,3 +1,5 @@
+# 
+
 The `ptx` command in Linux is used to generate permuted indexes of words in one or more text files. A permuted index is a type of index that lists all the words in a text file in alphabetical order, with the words that appear in the same context grouped together.
 
 The syntax for the `ptx` command is as follows:

@@ -1,3 +1,5 @@
+# 
+
 Sure. The `useradd` command in Linux is used to create a new user account. The syntax for the `useradd` command is as follows:
 
 ```

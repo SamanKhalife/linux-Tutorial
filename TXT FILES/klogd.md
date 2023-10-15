@@ -1,3 +1,5 @@
+# 
+
 The klogd command in Linux is a system daemon that intercepts and logs kernel messages. It is a useful tool for troubleshooting kernel problems and for monitoring the health of your system.
 
 The syntax of the klogd command is as follows:

@@ -1,3 +1,5 @@
+# 
+
 The `shutdown` command in Linux is used to shut down or reboot the system. It is a versatile command that can be used to schedule a shutdown or reboot, or to shut down or reboot the system immediately.
 
 The `shutdown` command is used as follows:

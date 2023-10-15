@@ -1,3 +1,5 @@
+# 
+
 The cd utility is one of the system utilities that allows you to navigate to a specific directory.
 
 	this command changes the directory to the home dir from any where

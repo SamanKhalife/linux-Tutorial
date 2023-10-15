@@ -1,3 +1,5 @@
+# 
+
 The "ps" command in Linux is used to display information about active processes running on the system. It provides details such as the process ID (PID), CPU and memory usage, execution state, and other attributes of running processes.
 
 # help 

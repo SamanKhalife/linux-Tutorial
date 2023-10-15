@@ -1,3 +1,5 @@
+# 
+
 The `pidof` command in Linux is used to find the process ID (PID) of a running process. The PID is a unique number that identifies each process on the system.
 
 The syntax for the `pidof` command is:

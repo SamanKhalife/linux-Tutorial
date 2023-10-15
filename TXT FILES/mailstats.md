@@ -1,3 +1,5 @@
+# 
+
 The mailstats command in Linux is used to display statistics about the mail system. This includes information about the number of messages received, the number of messages sent, and the size of the mail queue.
 
 The syntax for the mailstats command is as follows:

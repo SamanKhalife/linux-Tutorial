@@ -1,3 +1,5 @@
+# 
+
 The `w` command is a Linux command that displays information about users who are currently logged in to the system. It is a versatile command that can be used to quickly get a snapshot of who is logged in and what they are doing.
 
 The `w` command is used as follows:

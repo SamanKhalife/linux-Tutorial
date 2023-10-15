@@ -1,3 +1,5 @@
+# 
+
 The `banner` command in Linux is used to print a large ASCII banner to the terminal. This can be useful for creating decorative banners or for displaying information in a large format.
 
 The `banner` command is used in the following syntax:

@@ -1,3 +1,5 @@
+# 
+
 The lsatb command in Linux is a deprecated command that is no longer supported in most modern distributions. It was used to audit the security of a Linux system.
 
 The syntax for the lsatb command is as follows:
