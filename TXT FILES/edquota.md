@@ -1,4 +1,4 @@
-# 
+# edquota
 
 The `edquota` command in Linux is used to edit disk quotas for users and groups. It is a powerful tool that can be used to control the amount of disk space that users and groups can use.
 
