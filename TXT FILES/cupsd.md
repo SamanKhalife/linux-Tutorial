@@ -1,4 +1,4 @@
-# 
+# cupsd
 
 Cupsd is the daemon that runs the Common Unix Printing System (CUPS) on a Linux system. CUPS is a printing system that allows you to print to printers connected to your computer or to printers on a network.
 
