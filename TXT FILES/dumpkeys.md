@@ -1,4 +1,4 @@
-# 
+# dumpkeys
 
 The `dumpkeys` command in Linux is used to dump the keyboard translation tables. It writes to the standard output, the current contents of the keyboard driver's translation tables, in the format specified by Keymaps.
 
