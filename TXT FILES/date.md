@@ -1,4 +1,4 @@
-# 
+# date
 
 The `date` command in Linux is used to display the current date and time. It can also be used to set the date and time.
 
