@@ -1,4 +1,4 @@
-# 
+# chown 
 
 The `chown` command in Linux can be used to change the owner of a file or directory.
 
