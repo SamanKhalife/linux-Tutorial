@@ -1,4 +1,4 @@
-# 
+# eject
 
 The `eject` command in Linux is used to eject a removable media device, such as a CD-ROM, DVD, or floppy disk. It is a simple and easy-to-use command that can be used by anyone.
 
