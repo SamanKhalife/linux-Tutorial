@@ -1,4 +1,4 @@
-# 
+# chroot
 
 The `chroot` command in Linux is used to change the root directory for a process. This can be useful for debugging or testing software in a controlled environment.
 
