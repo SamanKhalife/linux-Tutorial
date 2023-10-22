@@ -1,4 +1,4 @@
-# 
+# cron
 
 Cron is a time-based job scheduler in Unix-like operating systems. It allows users to schedule commands to run at specific times, dates, or intervals. Cron is often used to automate tasks such as backups, software updates, and email notifications.
 
