@@ -1,4 +1,4 @@
-# 
+# ddrescue
 
 ddrescue is a data recovery tool for Linux. It can be used to recover data from damaged or failing hard drives, CDs, DVDs, and other storage devices.
 
