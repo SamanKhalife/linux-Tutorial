@@ -1,4 +1,4 @@
-# 
+# e2label 
 
 The `e2label` command in Linux is used to set or display the label of an ext2, ext3, or ext4 filesystem. The label is a name that is assigned to a filesystem and can be used to identify it.
 
