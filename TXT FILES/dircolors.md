@@ -1,4 +1,4 @@
-# 
+# dircolors
 
 The `dircolors` command in Linux is used to generate a color scheme for the `ls` command. It reads a configuration file and generates a set of escape sequences that are used by the `ls` command to colorize the output.
 
