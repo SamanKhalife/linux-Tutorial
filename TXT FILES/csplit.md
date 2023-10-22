@@ -1,4 +1,4 @@
-# 
+# csplit
 
 The `csplit` command in Linux is used to split a file into multiple files based on patterns. It is a powerful tool that can be used to split files by line, by word, or by any other pattern that you can define.
 
