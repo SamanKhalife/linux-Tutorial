@@ -1,4 +1,4 @@
-# 
+# chsh
 
 The `chsh` command in Linux is used to change the login shell for the current user. The login shell is the program that is executed when you log in to your Linux system.
 
