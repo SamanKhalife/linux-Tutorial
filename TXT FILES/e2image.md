@@ -1,4 +1,4 @@
-# 
+# e2image
 
 The `e2image` command in Linux is used to create a raw image of an ext2, ext3, or ext4 filesystem. It is a powerful tool that can be used to create backups of filesystems, or to transfer filesystems to other systems.
 
