@@ -1,4 +1,4 @@
-# 
+# cardmgr
 
 The `cardmgr` command in Linux is used to control PC Cards and ExpressCards. PC Cards are credit card-sized devices that can be inserted into a PC Card slot on a laptop computer. ExpressCards are smaller than PC Cards and can be inserted into an ExpressCard slot on a laptop computer. PC Cards and ExpressCards can be used for a variety of purposes, including storage, networking, and communications.
 
