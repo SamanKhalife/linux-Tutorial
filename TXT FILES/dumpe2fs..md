@@ -1,4 +1,4 @@
-# 
+# dumpe2fs
 
 The `dumpe2fs` command in Linux is used to dump the contents of an ext2, ext3, or ext4 file system to a file. It is a useful tool for troubleshooting file systems and for recovering lost data.
 
