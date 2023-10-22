@@ -1,4 +1,4 @@
-# 
+# ctags
 
 The `ctags` command in Linux is used to generate tags for C and C++ source code. Tags are a way to quickly navigate to specific parts of a source code file.
 
