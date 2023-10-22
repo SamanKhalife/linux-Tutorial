@@ -1,4 +1,4 @@
-# 
+# bzip2
 
 The "bzip2" command is used in Linux systems to compress and decompress files using the bzip2 compression algorithm.
 
