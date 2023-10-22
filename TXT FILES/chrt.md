@@ -1,4 +1,4 @@
-# 
+# chrt
 
 The `chrt` command in Linux can be used to change the scheduling policy of a process. The scheduling policy is the way that the processor time is allocated to a process.
 
