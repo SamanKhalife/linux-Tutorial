@@ -1,4 +1,4 @@
-# 
+# continue 
 
 The `continue` command in Linux is used to skip the rest of the current iteration of a loop and go to the next iteration. This is useful if you want to skip a certain number of iterations of a loop, or if you want to skip an iteration based on the value of a variable.
 
