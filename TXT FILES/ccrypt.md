@@ -1,4 +1,4 @@
-# 
+# ccrypt
 
 The `ccrypt` command in Linux is used to encrypt and decrypt files. It is a command-line tool that uses the Rijndael cipher, which is a secure and efficient encryption algorithm.
 
