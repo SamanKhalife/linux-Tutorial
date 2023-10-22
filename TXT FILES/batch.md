@@ -1,4 +1,4 @@
-# 
+# batch
 
 A batch file in Linux is a text file that contains a series of commands that are executed one after the other. Batch files are often used to automate tasks or to run a series of commands that would be time-consuming or repetitive to run manually.
 
