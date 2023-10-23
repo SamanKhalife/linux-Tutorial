@@ -9,6 +9,11 @@ linux commands and any thing basic you need yo know for using linux (for cloud c
 # Commands in first place
 
 [Commands](https://github.com/SamanKhalife/linux-commands/blob/main/Commands.md)
+[Commands](https://github.com/SamanKhalife/linux-commands/blob/main/Commands.md)
+[Commands](https://github.com/SamanKhalife/linux-commands/blob/main/Commands.md)
+[Commands](https://github.com/SamanKhalife/linux-commands/blob/main/Commands.md)
+[Commands](https://github.com/SamanKhalife/linux-commands/blob/main/Commands.md)
+
 
 # Common commands preview
 
