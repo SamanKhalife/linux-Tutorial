@@ -1,4 +1,4 @@
-# 
+# formail
 
 The `formail` command in Linux is used to format mail messages. It is a powerful tool that can be used to change the format of mail messages, to add headers and footers to mail messages, and to create mail messages from templates.
 
