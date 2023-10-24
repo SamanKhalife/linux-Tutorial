@@ -1,4 +1,4 @@
-# 
+# format
 
 The `format` command in Linux is used to format floppy disks. It is a legacy command that is not commonly used anymore, as floppy disks are no longer widely used.
 
