@@ -1,4 +1,4 @@
-# 
+# getopts
 
 In Linux, the getopts function is used to parse command-line options. It is a built-in function that is available in most shells.
 
