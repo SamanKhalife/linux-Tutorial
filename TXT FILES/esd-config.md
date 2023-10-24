@@ -1,4 +1,4 @@
-# 
+# esd-config
 
 The `esd-config` command in Linux is used to configure the Enlightened Sound Daemon (ESD). ESD is a sound server that can be used to play audio on Linux systems.
 
