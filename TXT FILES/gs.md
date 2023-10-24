@@ -1,4 +1,4 @@
-# 
+# gs 
 
 The `gs` command in Linux is used to display or convert PostScript and PDF files. It is a powerful tool that can be used for a variety of tasks, such as viewing PostScript and PDF files, printing PostScript and PDF files, and converting PostScript and PDF files to other formats.
 
