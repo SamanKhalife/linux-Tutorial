@@ -1,4 +1,4 @@
-# 
+# esdsample
 
 The esdsample command is used to play a sample file using the Enlightened Sound Daemon (ESD). ESD is a sound server that can be used to play sound files on Linux and Unix-like systems.
 
