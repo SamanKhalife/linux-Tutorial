@@ -1,4 +1,4 @@
-# 
+# esd  
 
 ESD stands for Enlightened Sound Daemon. It is a sound server for Linux and Unix-like operating systems. It provides a sound API that can be used by applications to play audio. ESD is also a mixer, which means that it can be used to control the volume of different audio streams.
 
