@@ -1,4 +1,4 @@
-# 
+# fc-cache
 
 The `fc-cache` command in Linux is used to build font information cache files for applications that use fontconfig for their font handling. It scans the font directories on your system and builds a cache file that contains information about the fonts that are available. This cache file is then used by applications to quickly look up information about fonts, such as their names, sizes, and encodings.
 
