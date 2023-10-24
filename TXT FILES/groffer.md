@@ -1,4 +1,4 @@
-# 
+# groffer  
 
 Groffer is a command-line tool that can be used to display and format text files. It is a wrapper around the groff typesetting system, which means that it can be used to display files that are written in the groff language.
 
