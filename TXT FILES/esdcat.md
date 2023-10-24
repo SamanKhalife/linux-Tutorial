@@ -1,4 +1,4 @@
-# 
+# esdcat
 
 eject is a command-line utility that is used to eject removable media, such as optical discs and USB drives. It is typically used when you are finished using the media and want to remove it from your computer.
 
