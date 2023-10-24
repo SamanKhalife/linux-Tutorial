@@ -1,4 +1,4 @@
-# 
+# finger
 
 The finger command in Linux is a command-line utility that can be used to get information about users on a system. It can be used to display the user's name, real name, login name, shell, and other information.
 
