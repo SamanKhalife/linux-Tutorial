@@ -1,4 +1,4 @@
-# 
+# ftpd
 
 The ftpd command in Linux is a daemon that provides an FTP server. It allows users to connect to your computer and transfer files.
 
