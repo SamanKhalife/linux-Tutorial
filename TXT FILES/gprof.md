@@ -1,4 +1,4 @@
-# 
+# gprof
 
 Gprof is a profiling tool for Unix applications. It can be used to collect information about the execution time of a program, as well as the number of times each function was called. This information can be used to identify performance bottlenecks in a program.
 
