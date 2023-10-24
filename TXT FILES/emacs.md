@@ -1,4 +1,4 @@
-# 
+# emacs
 
 Emacs is a text editor that is highly customizable and extensible. It is one of the most popular text editors in the world, and is used by programmers, scientists, and writers alike.
 
