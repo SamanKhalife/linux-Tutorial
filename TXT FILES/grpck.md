@@ -1,4 +1,4 @@
-# 
+# grpck
 
 The `grpck` command in Linux is used to verify the integrity of the group database files. It is a useful tool for troubleshooting problems with group accounts.
 
