@@ -1,4 +1,4 @@
-# 
+# fgrep
 
 The `fgrep` command in Linux is a fast version of the `grep` command. It is used to search for a pattern in a file, but it does not read the entire file into memory. This makes it faster than `grep`, especially for large files.
 
