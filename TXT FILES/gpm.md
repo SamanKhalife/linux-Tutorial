@@ -1,4 +1,4 @@
-# 
+# gpm
 
 GPM stands for General Purpose Mouse. It is a daemon that provides mouse support for Linux virtual consoles. GPM is started automatically when you log in to a virtual console, and it provides a way for you to use the mouse to control the cursor and to select text.
 
