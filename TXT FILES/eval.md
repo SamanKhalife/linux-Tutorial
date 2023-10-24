@@ -1,3 +1,5 @@
+# eval 
+
 The eval command is used to evaluate a string as a command. It is typically used to execute commands that are stored in variables or to execute commands that are passed as arguments to other commands.
 
 For example, to evaluate the string echo "hello world", you would use the following command:
