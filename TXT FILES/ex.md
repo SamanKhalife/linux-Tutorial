@@ -1,4 +1,4 @@
-# 
+# ex
 
 The "ex" command is a text editor available in Unix-like systems, including Linux. It is the predecessor to the "vi" editor and provides a command-line interface for editing files. 
 
