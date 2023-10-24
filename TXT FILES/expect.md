@@ -1,4 +1,4 @@
-# 
+# expect
 
 The `expect` command in Linux is a scripting language that is used to automate interactions with interactive programs. It can be used to control programs that require user input, such as login prompts, interactive shells, and network protocols.
 
