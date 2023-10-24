@@ -1,4 +1,4 @@
-# 
+# envsubst
 
 The `envsubst` command in Linux is used to substitute environment variables in text. It is a powerful tool that can be used to automate tasks and to make scripts more portable.
 
