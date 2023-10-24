@@ -1,4 +1,4 @@
-# 
+# getent
 
 The `getent` command in Linux is used to display entries from databases supported by the Name Service Switch libraries. The databases that `getent` can access are:
 
