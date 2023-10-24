@@ -1,4 +1,4 @@
-# 
+# enable
 
 The `enable` command in Linux is used to enable a service or a feature. It is a powerful tool that can be used to control the availability of services and features on your system.
 
