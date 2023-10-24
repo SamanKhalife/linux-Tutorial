@@ -1,4 +1,4 @@
-# 
+# fg
 
 The `fg` command in Linux is used to bring a stopped or background job to the foreground. It is a simple and easy-to-use command that can be used to resume a job that you have paused or put in the background.
 
