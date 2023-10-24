@@ -1,4 +1,4 @@
-# 
+# grep
 
 The `grep` command in Linux is used to search for patterns in text files. It is a very powerful and versatile command that can be used for a variety of tasks.
 
