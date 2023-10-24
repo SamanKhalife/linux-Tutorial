@@ -1,4 +1,4 @@
-# 
+# etags
 
 The etags command is used to generate tags for C, C++, and Objective-C source files. Tags are markers that can be used to quickly navigate to specific locations in a source file.
 
