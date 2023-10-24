@@ -1,4 +1,4 @@
-# 
+# for
 
 The `for` loop in Linux is a control flow statement that allows you to execute a block of code repeatedly. The `for` loop takes the following arguments:
 
