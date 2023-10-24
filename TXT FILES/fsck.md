@@ -1,4 +1,4 @@
-# 
+# fsck
 
 Fsck is a tool that checks the integrity of a file system and repairs it if necessary. It is a standard tool used in Linux and Unix operating systems.
 
