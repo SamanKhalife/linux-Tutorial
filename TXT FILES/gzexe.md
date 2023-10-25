@@ -1,4 +1,4 @@
-# 
+# gzexe 
 
 The gzexe command is a Linux command that can be used to compress executable files. It does this by compressing the file with the gzip compression algorithm and then adding a shell script that will decompress the file and execute it.
 
