@@ -1,4 +1,4 @@
-# 
+# hash
 
 The hash command in Linux is used to maintain a hash table of recently executed commands. This can be useful for speeding up the execution of commands that you use frequently.
 
