@@ -1,4 +1,4 @@
-# 
+# host
 
 The "host" command is a Linux utility used to perform DNS (Domain Name System) lookups and retrieve information about hostnames, IP addresses, and other DNS records.
 
