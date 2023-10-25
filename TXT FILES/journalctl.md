@@ -1,4 +1,4 @@
-# 
+# journalctl 
 
 The `journalctl` command in Linux is used to view the systemd journal. The systemd journal is a centralized logging system that collects and stores log data from various sources, including system services, kernel events, and user applications.
 
