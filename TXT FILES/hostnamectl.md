@@ -1,4 +1,4 @@
-# 
+# hostnamectl
 
 The hostnamectl command is a Linux command that can be used to manage the hostname of a system. The hostname is the name that is used to identify a system on a network.
 
