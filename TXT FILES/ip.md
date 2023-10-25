@@ -1,4 +1,4 @@
-# 
+# ip
 
 The `ip` command in Linux is a versatile command that can be used to configure and manage network interfaces, routes, tunnels, and addresses. It is a powerful tool that can be used to troubleshoot network problems and to optimize your network performance.
 
