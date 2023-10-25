@@ -1,6 +1,6 @@
-# 
+# head
 
-help
+## help
 
 
 Usage: head [OPTION]... [FILE]...
@@ -29,7 +29,7 @@ Binary prefixes can be used, too: KiB=K, MiB=M, and so on.
 
 
 
-man
+## man
 
 
 NAME
