@@ -1,4 +1,4 @@
-# 
+# hwclock
 
 The `hwclock` command in Linux is used to access and modify the hardware clock. The hardware clock is a battery-backed clock that keeps track of the system time even when the machine is powered off.
 
