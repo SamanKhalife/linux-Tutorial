@@ -1,4 +1,4 @@
-# 
+# hdparm
 
 hdparm is a command-line tool for controlling the parameters of ATA and SATA hard disk drives. It can be used to change the drive's performance, power management, and other settings.
 
