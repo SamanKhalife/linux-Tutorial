@@ -1,4 +1,4 @@
-# 
+# jobs
 
 The `jobs` command in Linux is used to list the currently running jobs. It is a powerful command that can be used to manage background jobs, and to troubleshoot problems with running jobs.
 
