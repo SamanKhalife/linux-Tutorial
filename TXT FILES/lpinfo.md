@@ -1,4 +1,4 @@
-# 
+# lpinfo
 
 The `lpinfo` command in Linux is used to display information about printers and printer classes provided by the Common UNIX Printing System (CUPS). 
 
