@@ -1,4 +1,4 @@
-# 
+# ln
 
 In Linux, the `ln` command is used to create links to files or directories. There are two types of links that can be created with the `ln` command: hard links and symbolic links.
 
