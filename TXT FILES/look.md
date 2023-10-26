@@ -1,4 +1,4 @@
-# 
+# look
 
 The "look" command is a Linux utility that is used to search for lines in a sorted text file that match a specified prefix.
 
