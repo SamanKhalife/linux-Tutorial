@@ -1,4 +1,4 @@
-# 
+# logger 
 
 The `logger` command in Linux is used to write messages to the system log. The system log is a file that records all events that happen on the system, such as startup, shutdown, and errors.
 
