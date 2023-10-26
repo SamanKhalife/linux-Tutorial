@@ -1,4 +1,4 @@
-# 
+# lpstat
 
 The `lpstat` command in Linux is used to display information about the current status of the print queue. It can be used to display information about individual jobs, printers, or the entire print system.
 
