@@ -1,4 +1,4 @@
-# 
+# lpq
 
 The `lpq` command in Linux is used to examine the spooling area used by lpd(8) for printing files on the line printer, and reports the status of the specified jobs or all jobs associated with a user. lpq invoked without any arguments reports on any jobs currently in the queue.
 
