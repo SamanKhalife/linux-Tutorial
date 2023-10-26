@@ -1,4 +1,4 @@
-# 
+# lockfile
 
 The `lockfile` command in Linux is used to create and manage lock files. A lock file is a file that is used to prevent multiple processes from accessing a resource at the same time.
 
