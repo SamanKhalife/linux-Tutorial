@@ -1,4 +1,4 @@
-# 
+# lpc
 
 The "lpc" command in Linux is a tool used to control and manage line printer devices connected to the system. "lpc" stands for "Line Printer Control." This command allows you to send print jobs to printers, manage print queues, and monitor the status of print jobs.
 
