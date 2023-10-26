@@ -1,4 +1,4 @@
-# 
+# logout
 
 The `logout` command in Linux is used to log out of a shell session. The `logout` command is typically used when you are finished using the shell and want to return to the graphical user interface (GUI).
 
