@@ -1,4 +1,4 @@
-# 
+# Idd
 
 The `ldd` command in Linux is used to list the shared libraries that a program or shared library depends on. Shared libraries are libraries that are loaded into memory when a program starts. They contain code and data that can be used by multiple programs.
 
