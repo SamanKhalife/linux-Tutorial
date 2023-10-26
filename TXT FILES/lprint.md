@@ -1,4 +1,4 @@
-# 
+# lprint
 
 The lprint command in Linux is a deprecated command that is no longer supported in most modern distributions. It was used to print files using the CUPS printing system.
 
