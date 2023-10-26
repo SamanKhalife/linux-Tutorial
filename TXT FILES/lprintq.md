@@ -1,4 +1,4 @@
-# 
+# lprintq
 
 The lprintq command in Linux is a deprecated command that is no longer supported in most modern distributions. It was used to view the print queue using the CUPS printing system.
 
