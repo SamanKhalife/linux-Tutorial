@@ -1,4 +1,4 @@
-# 
+# link
 
 In Linux, a link is a file that points to another file. Links are often used to create shortcuts to files or directories, or to make it easier to access files that are located on different partitions or filesystems.
 
