@@ -1,4 +1,4 @@
-# 
+# lpr
 
 The lpr command in Linux is used to print a file to a printer. It sends the file to the printer spooler, which is a program that queues up print jobs and sends them to the printer when it is ready.
 
