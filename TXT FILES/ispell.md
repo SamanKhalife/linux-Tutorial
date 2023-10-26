@@ -1,4 +1,4 @@
-# 
+# ispell
 
 Ispell is a Unix-based spelling checker that supports most Western languages. It offers several interfaces, including a programmatic interface for use by editors such as Emacs.
 

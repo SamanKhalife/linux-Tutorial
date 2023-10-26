@@ -1,4 +1,5 @@
-# 
+# break
+
 
 The `break` command in Linux is used to exit a loop from within the loop. This is useful if you want to exit a loop early, for example if you find the condition that you are testing for is met.
 

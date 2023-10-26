@@ -1,4 +1,4 @@
-# 
+# du
 
 Yes, the `du` command in Linux is used to display the disk usage of a directory.
 

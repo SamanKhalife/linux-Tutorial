@@ -1,4 +1,4 @@
-# 
+# ed
 
 The `ed` command in Linux is a line-based text editor that is simple and easy to use. It is a popular choice for beginners because it is easy to learn and use.
 

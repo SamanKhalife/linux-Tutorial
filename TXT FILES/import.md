@@ -1,4 +1,4 @@
-# 
+# import
 
 There are two commands named "import" in Linux. One is a command-line tool for capturing screenshots, and the other is a command for importing modules into Bash and other Unix shells.
 

@@ -1,5 +1,4 @@
-# 
-
+# declare
 The `declare` command in Linux is used to declare variables and set their attributes. It is a builtin command in the Bash shell.
 
 The `declare` command is used in the following syntax:

@@ -1,4 +1,4 @@
-# 
+# groupdel
 
 The "groupdel" command in Linux systems is used to delete a group from the system. It allows administrators to remove a group and its associated information from the system's group database.
 

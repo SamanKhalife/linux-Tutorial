@@ -1,4 +1,4 @@
-# 
+# bg
 
 The `bg` command in Linux is used to put a stopped job in the background. This allows you to continue working on other tasks while the job continues to run in the background.
 

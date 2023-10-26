@@ -1,4 +1,4 @@
-# 
+# groups
 
 The `groups` command in Linux is used to list the groups that a user belongs to. It is a very useful command for understanding the permissions that a user has on a system.
 

@@ -1,4 +1,4 @@
-# 
+# devdump
 
 The `devdump` command in Linux is a crude utility to interactively display the contents of device or filesystem images. It is a spinoff from the original program distributed in the cdrtools package. However, the cdrtools developers are not involved in the development of this spinoff and therefore shall not be made responsible for any problem caused by it.
 

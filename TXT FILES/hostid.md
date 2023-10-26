@@ -1,4 +1,4 @@
-# 
+# hostid
 
 
 The hostid command is a command-line utility that can be used to get the host ID of a Linux system. The host ID is a unique identifier that is assigned to each system when it is booted up.

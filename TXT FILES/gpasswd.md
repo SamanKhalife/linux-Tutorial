@@ -1,4 +1,4 @@
-# 
+# gpasswd
 
 The `gpasswd` command in Linux is used to manage group membership. It is a very useful command for adding and removing users from groups, and for changing the password of a group.
 

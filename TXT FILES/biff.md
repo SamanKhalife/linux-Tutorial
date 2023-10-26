@@ -1,4 +1,4 @@
-# 
+# biff
 
 The `biff` command in Linux is used to control whether or not the system will notify you when you receive new mail. By default, the `biff` command is enabled, so you will be notified when you receive new mail.
 

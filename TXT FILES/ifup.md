@@ -1,4 +1,4 @@
-# 
+# ifup
 
 The "ifup" command in Linux is used to activate a network interface and bring it up. It allows you to initialize and configure a network interface, enabling network connectivity. 
 

@@ -1,4 +1,4 @@
-# 
+# inetd
 
 The inetd command is a superserver that listens for incoming connections on a variety of ports and then forks a child process to handle each connection. The child process then invokes the appropriate service to handle the connection.
 

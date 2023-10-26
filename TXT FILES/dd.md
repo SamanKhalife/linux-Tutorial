@@ -1,4 +1,4 @@
-# 
+# dd
 
 The `dd` command in Linux is a versatile command that can be used to copy files, create images, and convert between different file formats. It is a powerful tool that can be used to perform a variety of tasks on a Linux system.
 

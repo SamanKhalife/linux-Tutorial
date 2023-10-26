@@ -1,4 +1,4 @@
-# 
+# df
 
 The df command is a command-line utility that can be used to display the disk space usage of a Linux system. It can be used to see how much disk space is available, how much disk space is used, and how much disk space is used by each filesystem.
 

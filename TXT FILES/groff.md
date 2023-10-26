@@ -1,4 +1,4 @@
-# 
+# groff
 
 Groff is a typesetting system that can be used to create formatted text documents. It is a powerful tool that can be used for a variety of tasks, such as:
 

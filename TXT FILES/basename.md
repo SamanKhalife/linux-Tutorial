@@ -1,4 +1,5 @@
 # basename
+
 The `basename` command in Linux is used to print the base name of a file or directory. The base name is the last component of the file or directory path.
 
 The `basename` command is used in the following syntax:

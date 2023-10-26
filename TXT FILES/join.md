@@ -1,4 +1,4 @@
-# 
+# join
 
 The `join` command in Linux is used to combine two or more sorted files on a common field. The common field is called the join key. The join command outputs all records from the first file that have a matching record in the second file.
 

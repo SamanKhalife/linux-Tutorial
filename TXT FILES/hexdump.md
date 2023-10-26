@@ -1,4 +1,4 @@
-# 
+# hexdump
 
 The `hexdump` command in Linux is used to display the contents of a file in hexadecimal format. This can be useful for debugging software or for viewing the contents of binary files.
 

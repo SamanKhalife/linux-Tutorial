@@ -1,4 +1,4 @@
-# 
+# info
 
 The info command is a Linux command that can be used to display information about a variety of system topics. It is a powerful tool that can be used to troubleshoot problems, or to learn more about how the system works.
 

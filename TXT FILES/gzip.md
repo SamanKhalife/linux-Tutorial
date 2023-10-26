@@ -1,4 +1,4 @@
-# 
+# gzip 
 
 The gzip command is a Linux command that can be used to compress files. It does this by using the gzip compression algorithm, which is a lossless compression algorithm. This means that the original file can be uncompressed to exactly the same as the original file.
 

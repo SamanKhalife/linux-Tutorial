@@ -1,4 +1,4 @@
-# 
+# exit 
 
 The exit command is used to terminate a shell session. It is typically used when you are finished using the shell and want to return to the operating system.
 

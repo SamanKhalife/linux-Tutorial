@@ -1,4 +1,4 @@
-# 
+# bzcmp
 
 The `bzcmp` command in Linux is used to compare two bzip2 compressed files. It can be used to see if two files are identical, or to find differences between two files.
 

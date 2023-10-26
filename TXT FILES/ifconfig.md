@@ -1,4 +1,4 @@
-# 
+# ifconfig
 
 The ifconfig command in Linux is used to configure network interfaces. It can be used to display the current configuration of a network interface, to change the configuration of a network interface, or to bring a network interface up or down.
 

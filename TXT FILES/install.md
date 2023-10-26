@@ -1,4 +1,4 @@
-# 
+# install
 
 The "install" command in Linux is used to copy files and set their permissions. It provides a convenient way to install files from a source location to a destination location while preserving their attributes.
 

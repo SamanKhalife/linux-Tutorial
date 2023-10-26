@@ -1,4 +1,4 @@
-# 
+# ipcrm
 
 The `ipcrm` command in Linux is used to remove inter-process communication (IPC) resources. IPC is a mechanism that allows processes to communicate with each other.
 

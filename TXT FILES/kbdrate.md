@@ -1,4 +1,4 @@
-# 
+# kbdrate
 
 The "kbdrate" command in Linux is used to control the keyboard repeat rate and delay. It allows you to adjust the rate at which a key repeats when held down and the delay before repeating starts.
 

@@ -1,4 +1,5 @@
-# 
+# cat
+
 
 The `cat` command in Linux is used to concatenate and print files. It is a simple and easy-to-use command that can be used to view the contents of a file or to combine the contents of multiple files into one file.
 

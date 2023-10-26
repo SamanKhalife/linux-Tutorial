@@ -1,4 +1,4 @@
-# 
+# e2fsck
 
 The `e2fsck` command in Linux is used to check and repair ext2, ext3, and ext4 file systems. It is a powerful tool that can be used to fix errors in file systems, to recover lost data, and to prevent data loss.
 

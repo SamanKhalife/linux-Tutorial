@@ -1,4 +1,4 @@
-# 
+# false
 
 The `false` command in Linux is a command that always returns an exit status of 1. This means that the command is considered to have failed, even if it does not actually do anything.
 

@@ -1,4 +1,4 @@
-# 
+# crond
 
 Crond is a daemon that runs in the background and executes scheduled tasks. It is a vital part of any Linux system, as it allows you to automate tasks that need to be run on a regular basis.
 

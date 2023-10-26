@@ -1,4 +1,4 @@
-# 
+# iftop
 
 The "iftop" command in Linux is a network monitoring tool that provides real-time bandwidth usage information for network interfaces.
 

@@ -1,4 +1,4 @@
-# 
+# badblocks 
 
 The `badblocks` command in Linux is used to test a disk for bad blocks. Bad blocks are physical defects on a disk that can cause data corruption.
 

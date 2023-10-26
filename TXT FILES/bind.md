@@ -1,4 +1,4 @@
-# 
+# bind
 
 The `bind` command in Linux is used to configure the network interfaces on a system. It can be used to set the IP address, the netmask, the gateway, and other network settings.
 

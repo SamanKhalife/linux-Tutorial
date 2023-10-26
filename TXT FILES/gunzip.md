@@ -1,4 +1,5 @@
-# 
+# gunzip
+
 
 The `gunzip` command in Linux is used to unzip a gzip-compressed file. The compressed file is typically given the `.gz` extension.
 

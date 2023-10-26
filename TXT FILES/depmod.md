@@ -1,4 +1,4 @@
-# 
+# depmod
 
 The `depmod` command in Linux is used to generate a dependency file for kernel modules. This file is used by the `modprobe` command to load kernel modules.
 

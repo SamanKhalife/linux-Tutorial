@@ -1,4 +1,4 @@
-# 
+# getkeycodes
 
 `getkeycodes` is a command-line tool that can be used to list the keycodes for all of the keys on a keyboard. It is a useful tool for debugging keyboard input and for writing keyboard input handling code.
 

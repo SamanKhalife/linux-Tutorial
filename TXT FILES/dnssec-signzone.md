@@ -1,4 +1,4 @@
-# 
+# dnssec-signzone
 
 The `dnssec-signzone` command in Linux is used to sign a DNS zone file with DNSSEC. DNSSEC is a security extension for the Domain Name System (DNS) that protects against DNS spoofing and cache poisoning attacks.
 

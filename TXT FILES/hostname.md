@@ -1,4 +1,4 @@
-# 
+# hostname
 
 The `hostname` command in Linux is used to display or set the hostname of the current machine. It is a useful tool for troubleshooting network problems and for configuring servers.
 

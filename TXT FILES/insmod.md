@@ -1,4 +1,4 @@
-# 
+# insmod
 
 The insmod command is a Linux command that can be used to load kernel modules into the kernel. Kernel modules are pieces of code that can be added to the kernel to provide additional functionality.
 

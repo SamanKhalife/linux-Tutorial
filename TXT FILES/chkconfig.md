@@ -1,4 +1,4 @@
-# 
+# chkconfig
 
 The `chkconfig` command in Linux is used to manage the startup and shutdown of services. It is a powerful tool that can be used to control which services are started at boot time, and which services are stopped when the system is shut down.
 

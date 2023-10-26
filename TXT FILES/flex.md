@@ -1,4 +1,4 @@
-# 
+# flex
 
 Flex is a free and open-source software tool for generating lexical analyzers (also known as lexers or scanners). It is used to scan text input, identify patterns, and return tokens. Flex is a fast and efficient tool that can be used to parse a wide variety of text formats.
 

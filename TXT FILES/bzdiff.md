@@ -1,4 +1,4 @@
-# 
+# bzdiff 
 
 The `bzdiff` command in Linux is a tool that can be used to compare two bzip2 compressed files. It is a powerful tool that can be used to find differences between two files.
 

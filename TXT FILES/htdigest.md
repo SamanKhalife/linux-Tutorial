@@ -1,4 +1,4 @@
-# 
+# htdigest
 
 The `htdigest` command in Linux is used to create and update digest authentication files. Digest authentication is a more secure form of authentication than basic authentication.
 

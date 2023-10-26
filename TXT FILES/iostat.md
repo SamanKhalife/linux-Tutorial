@@ -1,4 +1,4 @@
-# 
+# iostat
 
 The `iostat` command in Linux is a monitoring tool that can be used to display the I/O (input/output) statistics of devices. It is a useful tool for troubleshooting I/O problems and for optimizing your system's performance.
 

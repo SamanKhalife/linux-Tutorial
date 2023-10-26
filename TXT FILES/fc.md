@@ -1,4 +1,4 @@
-# 
+# fc
 
 The `fc` command in Linux is used to edit and execute previous commands. It is a powerful tool that can be used to repeat commands, to correct mistakes, and to debug scripts.
 

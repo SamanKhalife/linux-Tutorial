@@ -1,4 +1,4 @@
-# 
+# file
 
 The file command in Linux is used to determine the type of a file. It can be used to identify files that are executable, text files, binary files, and so on.
 

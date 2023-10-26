@@ -1,4 +1,4 @@
-# 
+# kill
 
 The `kill` command in Linux is used to terminate a process. A process is a program that is currently running on the system.
 

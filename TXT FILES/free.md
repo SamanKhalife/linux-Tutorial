@@ -1,4 +1,4 @@
-# 
+# free
 
 The "free" command in Linux is used to display information about the system's memory usage and availability. It provides details about total, used, and free memory, as well as information about swap space usage.
 

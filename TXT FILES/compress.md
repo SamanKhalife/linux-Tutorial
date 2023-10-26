@@ -1,4 +1,4 @@
-# 
+# compress
 
 The `compress` command in Linux is used to compress files. It is a simple and easy-to-use command that can be used to reduce the size of files.
 

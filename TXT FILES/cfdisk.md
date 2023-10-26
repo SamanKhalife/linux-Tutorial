@@ -1,4 +1,4 @@
-# 
+# cfdisk
 
 Cfdisk is a command-line partitioning tool for Linux. It is a curses-based program, which means that it uses a text-based user interface that is easy to use. Cfdisk can be used to create, delete, and modify partitions on hard disks, floppy disks, and USB drives.
 

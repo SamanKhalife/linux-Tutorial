@@ -1,4 +1,4 @@
-# 
+# clorm
 
 There is no clorm command in Linux. The closest command is `colrm`.
 
