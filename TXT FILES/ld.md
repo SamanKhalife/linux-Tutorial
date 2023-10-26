@@ -1,4 +1,4 @@
-# 
+# ld
 
 The `ld` command in Linux is used to link object files into an executable file. It is a very important command for creating executable programs.
 
