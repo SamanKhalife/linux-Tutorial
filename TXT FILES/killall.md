@@ -1,4 +1,4 @@
-# 
+# killall
 
 The `killall` command in Linux is used to terminate all processes that match a given name. The `killall` command is a powerful tool that can be used to terminate multiple processes at once.
 
