@@ -1,4 +1,4 @@
-# 
+# lesskey
 
 The `lesskey` command in Linux is used to create or edit a keymap file for the `less` pager. A keymap file is a file that defines the keyboard shortcuts that are used by the `less` pager.
 
