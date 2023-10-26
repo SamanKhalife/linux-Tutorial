@@ -1,4 +1,4 @@
-# 
+# local
 
 The local keyword in Linux is used to declare a local variable. Local variables are variables that are only visible within the current function or scope. This means that they cannot be accessed from other functions or scopes.
 
