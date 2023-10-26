@@ -1,4 +1,4 @@
-# 
+# lftp
 
 lftp is a command-line file transfer program that allows sophisticated FTP, HTTP, and other connections to other hosts. It is designed for Unix and Unix-like operating systems. It was developed by Alexander Lukyanov, and is distributed under the GNU General Public License.
 
