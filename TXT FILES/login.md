@@ -1,4 +1,4 @@
-# 
+# login
 
 In Linux, the `login` command is used to log in to a system. It prompts the user for their username and password, and then authenticates them against the system's password file. If the authentication is successful, the user is logged in and the shell prompt is displayed.
 
