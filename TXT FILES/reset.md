@@ -1,4 +1,4 @@
-# 
+# reset
 
 In Linux, the `reset` command is used to reset the terminal to its default settings. This can be useful if the terminal has been customized or if it has been corrupted.
 
