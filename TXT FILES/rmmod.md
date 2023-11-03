@@ -1,4 +1,4 @@
-# 
+# rmmod
 
 The `rmmod` command in Linux is used to remove a kernel module. Kernel modules are pieces of software that are loaded into the kernel to provide additional functionality.
 
