@@ -1,4 +1,4 @@
-# 
+# rexecd
 
 The `rexecd` command in Linux is a deprecated command that was used to execute commands on a remote system. It is a simple protocol that is not secure and can be spoofed by attackers.
 
