@@ -1,4 +1,4 @@
-# 
+# rar
 
 The rar command is a powerful tool that can be used to create, modify, and extract RAR archives. It is a useful command to know if you are working with RAR archives.
 
