@@ -1,4 +1,4 @@
-# 
+# praliases
 
 The `praliases` command in Linux is used to display the current system aliases, one per line, in no particular order. The special internal @:@ alias will be displayed if present.
 
