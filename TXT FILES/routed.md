@@ -1,4 +1,4 @@
-# 
+# routed
 
 The `routed` command in Linux is a deprecated command that was used to configure and manage routing tables. Routing tables are used to determine the path that packets should take to reach their destination.
 
