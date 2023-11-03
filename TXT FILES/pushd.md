@@ -1,4 +1,4 @@
-# 
+# pushd
 
 The `pushd` command in Linux is used to push the current directory onto the directory stack. The directory stack is a list of directories that have been recently accessed. You can use the `pushd` command to save the current directory so that you can easily return to it later.
 
