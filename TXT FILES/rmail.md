@@ -1,3 +1,5 @@
+# rmail
+
 The `rmail` command in Linux is a deprecated command that was used to send mail to another user on the same system. It is a simple protocol that is not secure and can be spoofed by attackers.
 
 Instead of using the `rmail` command, you should use the `mail` command to send mail to another user on the same system. The `mail` command is a more secure and efficient way to send mail to another user on the same system. It is also supported by most Linux distributions.
