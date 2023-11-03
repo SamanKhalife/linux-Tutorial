@@ -1,4 +1,4 @@
-# 
+# rlogind
 
 The `rlogind` command in Linux is a deprecated command that was used to provide remote login access to a system. It is a simple protocol that is not secure and can be spoofed by attackers.
 
