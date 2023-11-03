@@ -1,4 +1,4 @@
-# 
+# rarpd
 
 The rarpd command is a daemon that responds to RARP requests. RARP is a protocol that is used to resolve Ethernet addresses to IP addresses.
 
