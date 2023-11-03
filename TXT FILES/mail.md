@@ -1,4 +1,4 @@
-# 
+# mail
 
 The mail command is a Linux command that can be used to send and receive email. It is a simple command to use, but it can be very effective.
 
