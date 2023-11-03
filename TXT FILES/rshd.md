@@ -1,4 +1,4 @@
-# 
+# rshd
 
 The `rshd` command in Linux is a deprecated command that was used to provide remote shell access to a system. It is a simple protocol that is not secure and can be spoofed by attackers.
 
