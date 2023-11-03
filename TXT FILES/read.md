@@ -1,4 +1,4 @@
-# 
+# read
 
 The `read` command in Linux is used to read a line of input from the user. It is a built-in command that is supported by all Linux distributions.
 
