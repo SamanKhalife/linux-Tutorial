@@ -1,4 +1,4 @@
-# 
+# nm
 
 The `nm` command in Linux is used to list the symbols in a file. It is a powerful command that can be used to troubleshoot problems with shared libraries, and to learn more about the symbols in a file.
 
