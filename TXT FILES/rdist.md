@@ -1,4 +1,4 @@
-# 
+# rdist
 
 The `rdist` command in Linux is used to distribute files and directories to multiple hosts. It is a powerful tool that can be used to synchronize files and directories across a network.
 
