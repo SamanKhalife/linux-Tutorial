@@ -1,4 +1,4 @@
-# 
+# rsync
 
 Rsync is a file synchronization tool that can be used to copy files and directories between hosts, or between local directories. It is a very versatile tool that can be used for a variety of purposes, including:
 
