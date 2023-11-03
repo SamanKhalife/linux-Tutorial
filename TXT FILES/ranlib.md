@@ -1,4 +1,4 @@
-# 
+# ranlib
 
 The ranlib command in Linux is used to generate an index for archive files. This index is used by the linker to quickly find symbols in the archive file.
 
