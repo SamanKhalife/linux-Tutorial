@@ -1,4 +1,4 @@
-# 
+# mmove
 
 The `mmove` command in Linux is used to move files from one directory to another. It is a more powerful alternative to the `mv` command, as it allows you to move multiple files at once and to specify the destination directory.
 
