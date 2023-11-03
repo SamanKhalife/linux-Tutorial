@@ -1,4 +1,4 @@
-# 
+# readelf
 
 The `readelf` command in Linux is used to display information about ELF (Executable and Linking Format) files. This can be useful for debugging, troubleshooting, and reverse engineering ELF files.
 
