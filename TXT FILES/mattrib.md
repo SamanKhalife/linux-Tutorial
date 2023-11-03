@@ -1,4 +1,4 @@
-# 
+# mattrib
 
 The mattrib command in Linux is used to change the attributes of MS-DOS file. It can be used to set or clear the read-only, hidden, system, and archive attributes of a file.
 
