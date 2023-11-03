@@ -1,4 +1,4 @@
-# 
+# printenv
 
 The `printenv` command in Linux is used to display the environment variables that are currently set. It is a useful command for debugging and for troubleshooting problems.
 
