@@ -1,4 +1,4 @@
-# 
+# pathchk
 
 The `pathchk` command is a Linux command that is used to check the validity of pathnames. A pathname is a string that specifies the location of a file or directory on a filesystem.
 
