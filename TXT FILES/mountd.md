@@ -1,4 +1,4 @@
-# 
+# mountd
 
 The `mountd` command in Linux is a daemon that manages mount requests for NFS clients. It is responsible for mounting and unmounting NFS shares, as well as handling authentication and authorization requests.
 
