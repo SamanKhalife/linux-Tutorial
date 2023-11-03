@@ -1,4 +1,4 @@
-# 
+# rcp
 
 The `rcp` command in Linux is used to copy files between hosts on a network. It is a simple and easy-to-use command that can be used to copy files between hosts without the need for a third-party tool.
 
