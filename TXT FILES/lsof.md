@@ -1,4 +1,4 @@
-# 
+# lsof
 
 The lsof command in Linux is used to list open files. This includes files that are opened by processes, sockets, and network connections.
 
