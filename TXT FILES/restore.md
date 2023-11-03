@@ -1,4 +1,4 @@
-# 
+# restore
 
 The `restore` command in Linux is used to restore a file or directory from a backup. It is a powerful command that can be used to recover data that has been deleted or corrupted.
 
