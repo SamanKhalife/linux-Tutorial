@@ -1,3 +1,5 @@
+# pr
+
 The "pr" command in Linux is used to prepare and format files for printing or for display purposes. It allows you to format text files, adding headers, footers, page breaks, and other formatting elements
 
 # help
