@@ -1,4 +1,4 @@
-# 
+# mpstat
 
 The `mpstat` command in Linux is used to display information about the CPUs in your system. It can be used to see how busy the CPUs are, what processes are using the CPUs, and how much time the CPUs are spending in different states.
 
