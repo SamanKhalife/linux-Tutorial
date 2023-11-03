@@ -1,4 +1,4 @@
-# 
+# quota
 
 A quota is a limit on the amount of something that someone is allowed to have or is expected to do. Quotas can be used in a variety of contexts, including:
 
