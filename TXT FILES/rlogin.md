@@ -1,4 +1,4 @@
-# 
+# rlogin
 
 The `rlogin` command in Linux is a deprecated command that was used to log in to a remote system from a local system. It is a simple protocol that uses unencrypted passwords. This makes it vulnerable to attacks, such as password sniffing.
 
