@@ -1,4 +1,4 @@
-# 
+# rpm
 
 The `rpm` command in Linux is used to install, remove, and manage software packages. It is a powerful tool that can be used to do a variety of things, including:
 
