@@ -1,4 +1,4 @@
-# 
+# mcat
 
 The "mcat" command is part of the "mtools" package in Linux, which provides utilities for working with MS-DOS filesystems from the command line. "mcat" specifically allows you to display the contents of files on an MS-DOS filesystem.
 
