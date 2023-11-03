@@ -1,4 +1,4 @@
-# 
+# nawaliases
 
 The `newaliases` command in Linux is used to rebuild the alias database. It is a relatively simple command, but it is important to understand how it works if you are using aliases on your system.
 
