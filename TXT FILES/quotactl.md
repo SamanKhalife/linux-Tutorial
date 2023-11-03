@@ -1,4 +1,4 @@
-# 
+# quotactl
 
 The `quotactl` command is a Linux system call that is used to manipulate disk quotas. Disk quotas are limits that can be placed on the amount of disk space that a user or group can use on a file system.
 
