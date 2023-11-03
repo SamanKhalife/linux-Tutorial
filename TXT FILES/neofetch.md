@@ -1,4 +1,4 @@
-# 
+# neofetch
 
 Neofetch is a command-line system information tool that displays information about your operating system, hardware, and software. It is a powerful tool that can be used to quickly and easily get a snapshot of your system's status.
 
