@@ -1,4 +1,4 @@
-# 
+# lsattr
 
 Sure, the lsattr command is a Linux command that can be used to list the attributes of files and directories. It is a simple command to use, but it can be very effective.
 
