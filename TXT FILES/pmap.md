@@ -1,4 +1,4 @@
-# 
+# pmap
 
 The "pmap" command in Linux is used to display the memory map of a process. It provides detailed information about the memory usage of a specific process, including the addresses, permissions, and mappings of the memory regions allocated to that process.
 
