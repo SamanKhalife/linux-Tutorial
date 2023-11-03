@@ -1,4 +1,4 @@
-# 
+# readonly
 
 The `readonly` command in Linux is used to make a file or directory read-only. This can be useful to protect a file or directory from being modified accidentally or maliciously.
 
