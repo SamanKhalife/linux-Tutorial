@@ -1,4 +1,4 @@
-# 
+# lsblk
 
 The lsblk command in Linux is used to list information about block devices. This includes disks, partitions, and logical volumes.
 
