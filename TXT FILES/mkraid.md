@@ -1,4 +1,4 @@
-# 
+# mkraid
 
 The `mkraid` command in Linux is used to create RAID devices. RAID stands for Redundant Array of Independent Disks. RAID devices are created by combining multiple disks into a single logical disk. RAID devices can be used to improve performance, provide redundancy, or increase storage capacity.
 
