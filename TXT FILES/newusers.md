@@ -1,4 +1,4 @@
-# 
+# newusers
 
 The `newusers` command in Linux is used to create new user accounts. It is a powerful command that can be used to create multiple user accounts at once, and to set the permissions for the new user accounts.
 
