@@ -1,4 +1,4 @@
-# 
+# return
 
 In Linux, the `return` command is used to exit a shell function or script. It is a built-in command that is supported by all Linux distributions.
 
