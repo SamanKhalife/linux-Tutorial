@@ -1,4 +1,4 @@
-# 
+# open
 
 The `open` command in Linux is used to open a file or URL in a specified application.
 
