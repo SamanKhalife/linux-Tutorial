@@ -1,4 +1,4 @@
-# 
+# pkill
 
 The `pkill` command in Linux is used to send a signal to processes that match a given pattern. The signal can be used to kill, suspend, or resume processes.
 
