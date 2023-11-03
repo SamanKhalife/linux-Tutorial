@@ -1,4 +1,4 @@
-# 
+# lshw
 
 The lshw command in Linux is used to list detailed information about the hardware configuration of the system. It can report exact memory configuration, firmware version, mainboard configuration, CPU version and speed, cache memory configuration, bus speed, etc. on DMI-capable x86 or IA-64(Itanium family of 64 microprocessors) system and some PowerPC machines.
 
