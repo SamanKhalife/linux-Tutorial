@@ -1,4 +1,4 @@
-# 
+# newgrp
 
 The `newgrp` command in Linux is used to change the current group. It is a powerful command that can be used to change the permissions that you have on files and directories, and to troubleshoot problems with permissions.
 
