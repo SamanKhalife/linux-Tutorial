@@ -1,4 +1,4 @@
-# 
+# ls
 
 The `ls` command in Linux is used to list the contents of a directory. It is a very useful command for navigating your filesystem.
 
