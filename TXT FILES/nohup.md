@@ -1,4 +1,4 @@
-# 
+# nohup
 
 The `nohup` command in Linux is used to run a command or script in the background, and to prevent it from being interrupted when you log out or when the terminal is closed.
 
