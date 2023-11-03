@@ -1,4 +1,4 @@
-# 
+# merge
 
 The merge command is a Linux command that can be used to merge two or more files. This can be useful for combining changes from different sources, or for creating a single file that contains the changes from multiple files.
 
