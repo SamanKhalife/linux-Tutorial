@@ -1,4 +1,4 @@
-# 
+# manpah
 
 The `manpath` command in Linux is used to display the search path for manual pages. The search path is a colon-separated list of directories that the `man` command will search for manual pages.
 
