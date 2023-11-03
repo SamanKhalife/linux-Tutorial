@@ -1,4 +1,4 @@
-# 
+# nslookup
 
 The nslookup command is a network administration command-line tool for querying the Domain Name System (DNS) to obtain the mapping between domain name and IP address, or other DNS records.
 
