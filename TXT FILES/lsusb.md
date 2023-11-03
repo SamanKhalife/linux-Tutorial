@@ -1,4 +1,4 @@
-# 
+# lsusb
 
 Sure, the lsusb command is a Linux command that can be used to list all of the USB devices that are connected to your system. It is a simple command to use, but it can be very effective.
 
