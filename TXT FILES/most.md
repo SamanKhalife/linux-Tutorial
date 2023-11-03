@@ -1,4 +1,4 @@
-# 
+# most
 
 The `most` command in Linux is a pager that allows you to view large files one screen at a time. It is a very versatile tool that can be used to view files in a variety of formats, including text, binary, and compressed files.
 
