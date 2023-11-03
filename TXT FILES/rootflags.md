@@ -1,4 +1,4 @@
-# 
+# rootflags
 
 The `rootflags` command in Linux is used to set the mount options for the root filesystem. The root filesystem is the filesystem that contains the kernel and the essential system files.
 
