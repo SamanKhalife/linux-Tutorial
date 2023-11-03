@@ -1,4 +1,4 @@
-# 
+# quotacheck
 
 The `quotacheck` command is a Linux system administration command that is used to check the disk quotas on a file system. Disk quotas are limits that can be placed on the amount of disk space that a user or group can use on a file system.
 
