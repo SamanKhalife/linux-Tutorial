@@ -1,4 +1,4 @@
-# 
+# mkdir
 
 The `mkdir` command in Linux is used to create a directory. It is a very useful command for organizing your files and folders.
 
