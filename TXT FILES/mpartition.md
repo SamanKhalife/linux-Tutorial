@@ -1,4 +1,4 @@
-# 
+# mpartition
 
 mpartition is a command-line tool for creating, resizing, and deleting partitions on a hard disk drive. It can be used to create primary and logical partitions, and to set the partition type and flags.
 
