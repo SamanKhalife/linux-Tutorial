@@ -1,4 +1,4 @@
-# 
+# reject
 
 The `reject` command in Linux is used to reject a connection from a remote host. It is a powerful command that can be used to protect your system from unauthorized access.
 
