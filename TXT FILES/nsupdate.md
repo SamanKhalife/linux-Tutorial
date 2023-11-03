@@ -1,4 +1,4 @@
-# 
+# nsupdate
 
 The `nsupdate` command in Linux is used to update records in a name server database. It is a powerful tool that can be used to manage DNS records on a Linux system.
 
