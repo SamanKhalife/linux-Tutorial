@@ -1,3 +1,5 @@
+# named
+
 The `named` command in Linux is used to start, stop, and restart the Berkeley Internet Name Daemon (BIND). BIND is a software application that translates domain names into IP addresses.
 
 The syntax of the `named` command is as follows:
