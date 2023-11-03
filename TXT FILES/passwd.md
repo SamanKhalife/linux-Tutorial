@@ -1,4 +1,4 @@
-# 
+# passwd
 
 The `passwd` command in Linux is used to change the password for a user account. It is a powerful command that can be used to secure your system by making sure that all users have strong passwords.
 
