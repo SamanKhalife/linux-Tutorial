@@ -1,4 +1,4 @@
-# 
+# while
 
 The `while` loop in Linux is a control flow statement that executes a block of code repeatedly as long as a specified condition is true. The syntax for the `while` loop is as follows:
 
