@@ -1,4 +1,4 @@
-# 
+# sort
 
 The `sort` command in Linux is a command-line utility that can be used to sort lines of text. It is a simple and easy-to-use command that can be used for a variety of purposes, such as sorting files, sorting output from other commands, and sorting data in a database.
 
