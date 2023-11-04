@@ -1,4 +1,4 @@
-# 
+# sum
 
 The "sum" command in Linux is used to compute checksums for files. It calculates a simple checksum value, often referred to as the "checksum" or "checksum-1," which is used to verify the integrity of files.
 
