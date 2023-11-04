@@ -1,4 +1,4 @@
-# 
+# tac
 
 The `tac` command in Linux is used to concatenate and print files in reverse order. It is a useful command for viewing files that are too long to fit on the screen in a single view.
 
