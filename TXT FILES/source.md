@@ -1,4 +1,4 @@
-# 
+# source 
 
 In Linux, the `source` command is used to read and execute commands from a file. It is a simple and easy-to-use command that can be used to automate tasks or to run commands that are not available in the current shell environment.
 
