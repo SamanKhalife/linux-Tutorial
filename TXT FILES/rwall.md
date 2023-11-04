@@ -1,4 +1,4 @@
-# 
+# rwall
 
 The rwall command is a Linux command that can be used to send a message to all users on a system. It is a powerful tool that can be used to notify users of important events or to broadcast messages to a large group of people.
 
