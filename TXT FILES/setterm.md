@@ -1,4 +1,4 @@
-# 
+# setterm
 
 The `setterm` command in Linux is used to set the terminal characteristics. It is a powerful command that can be used to change the appearance and behavior of your terminal.
 
