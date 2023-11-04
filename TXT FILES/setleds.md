@@ -1,4 +1,4 @@
-# 
+# setleds
 
 The `setleds` command in Linux is used to control the LEDs on a keyboard or other device. It is a versatile command that can be used to turn on, off, or flash the LEDs.
 
