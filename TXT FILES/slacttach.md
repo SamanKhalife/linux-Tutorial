@@ -1,4 +1,4 @@
-# 
+# slacttach
 
 The `slacttach` command is not a real command in Linux. It is a misspelling of the `slattach` command.
 
