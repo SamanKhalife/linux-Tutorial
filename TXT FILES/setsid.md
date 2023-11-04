@@ -1,4 +1,4 @@
-# 
+# setsid
 
 The `setsid` command in Linux is used to create a new session. A session is a group of processes that are all controlled by the same terminal. The `setsid` command is useful for running processes that you don't want to be affected by the current terminal, such as daemons.
 
