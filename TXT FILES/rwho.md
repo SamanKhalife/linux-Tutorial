@@ -1,4 +1,4 @@
-# 
+# rwho
 
 The `rwho` command in Linux is a deprecated command that was used to get information about who is logged on to the system. It is a versatile command that can be used to get information about a variety of things, including:
 
