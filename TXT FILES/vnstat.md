@@ -1,4 +1,4 @@
-# 
+# vnstat
 
 The vnstat command in Linux is a network traffic monitor. It can be used to track network traffic usage over time.
 
