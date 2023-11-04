@@ -1,4 +1,4 @@
-# 
+# tracepath
 
 
 The `tracepath` command is a command-line utility that can be used to trace the path that a packet takes from your computer to a remote host. It is similar to the `traceroute` command, but it uses the ICMP protocol instead of UDP.
