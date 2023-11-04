@@ -1,4 +1,4 @@
-# 
+# sh
 
 The `sh` command in Linux is a command-line interpreter that is used to execute shell scripts. It is a simple and easy-to-use command that can be used to automate tasks.
 
