@@ -1,4 +1,4 @@
-# 
+# screen
 
 The `screen` command in Linux is a terminal multiplexer. It is a versatile command that can be used to run multiple terminals in one window, detach and reattach to terminals, and create virtual screens.
 
