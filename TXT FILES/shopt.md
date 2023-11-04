@@ -1,4 +1,4 @@
-# 
+# shopt
 
 Sure, here is the English version of the `shopt` command:
 
