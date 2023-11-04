@@ -1,4 +1,4 @@
-# 
+# terminator
 
 Terminator is a terminal emulator for Linux. It is a powerful and versatile tool that can be used to manage multiple terminal sessions in a single window.
 
