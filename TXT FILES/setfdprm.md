@@ -1,4 +1,4 @@
-# 
+# setfdprm
 
 The `setfdprm` command in Linux is used to set the parameters for a floppy disk. It is a versatile command that can be used to change the geometry, speed, and other parameters of a floppy disk.
 
