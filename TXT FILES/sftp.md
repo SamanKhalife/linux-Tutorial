@@ -1,4 +1,4 @@
-# 
+# sfto
 
 SFTP stands for Secure File Transfer Protocol. It is a secure version of the File Transfer Protocol (FTP) that uses the SSH (Secure Shell) protocol to encrypt all data transfers. This makes SFTP a very secure way to transfer files between computers.
 
