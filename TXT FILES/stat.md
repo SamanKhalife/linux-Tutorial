@@ -1,4 +1,4 @@
-# 
+# stat
 
 The `stat` command is a command-line utility that can be used to display information about files and file systems. It is a simple and easy-to-use command that can be used to troubleshoot problems with files or file systems.
 
