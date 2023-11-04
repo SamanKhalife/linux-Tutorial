@@ -1,4 +1,4 @@
-# 
+# type
 
 The `type` command is a command-line utility that can be used to determine the type of a file or a variable. It is a simple and easy-to-use command that can be used to quickly find out what type of data a file or a variable contains.
 
