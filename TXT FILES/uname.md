@@ -1,4 +1,4 @@
-# 
+# uname
 
 The `uname` command in Linux is used to display information about the system, such as its name, version, architecture, and operating system.
 
