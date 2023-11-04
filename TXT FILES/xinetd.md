@@ -1,4 +1,4 @@
-# 
+# xinetd
 
 Xinetd is a daemon that manages Internet services. It is a replacement for inetd, which is a legacy daemon that is no longer recommended for use.
 
