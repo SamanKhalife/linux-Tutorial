@@ -1,4 +1,4 @@
-# 
+# showmount
 
 The `showmount` command in Linux is used to show the mount points of an NFS server. It is a simple and easy-to-use command that can be used to troubleshoot NFS problems.
 
