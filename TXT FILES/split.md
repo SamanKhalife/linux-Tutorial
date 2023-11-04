@@ -1,4 +1,4 @@
-# 
+# split
 
 The `split` command is a command-line utility that can be used to split a file into smaller files. It is a simple and easy-to-use command that can be used for a variety of purposes, such as splitting large files into smaller files for easier management or splitting files into multiple parts for archiving or sending over email.
 
