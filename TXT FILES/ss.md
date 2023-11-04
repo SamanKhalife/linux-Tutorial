@@ -1,4 +1,4 @@
-# 
+# ss
 
 The `ss` command is a command-line utility that can be used to display information about sockets on a Linux system. It is a newer and more versatile version of the `netstat` command.
 
