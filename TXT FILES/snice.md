@@ -1,4 +1,4 @@
-# 
+# snice
 
 Sure, here is the English version of the `snice` command:
 
