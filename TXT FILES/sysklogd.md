@@ -1,4 +1,4 @@
-# 
+# sysklogd
 
 Sysklogd is a system logging daemon that is used to collect and distribute system logs. It is a legacy system logging daemon that has been superseded by rsyslog.
 
