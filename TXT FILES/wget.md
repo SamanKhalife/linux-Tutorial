@@ -1,4 +1,4 @@
-# 
+# wget
 
 The `wget` command is a command-line utility that can be used to download files from the internet. It is a versatile tool that can be used to download files from a variety of sources, including HTTP, HTTPS, FTP, and FTPS.
 
