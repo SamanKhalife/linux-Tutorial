@@ -1,4 +1,4 @@
-# 
+# who
 
 The `who` command is a Linux command that displays a list of users who are currently logged in to the system. It is a versatile command that can be used to quickly get a list of users who are logged in and what they are doing.
 
