@@ -1,4 +1,4 @@
-# 
+# wall 
 
 The wall command in Linux is used to broadcast a message to all users who are logged into the system. The message is displayed in the terminal of each user.
 
