@@ -1,4 +1,4 @@
-# 
+# xargs
 
 The `xargs` command is a powerful utility that can be used to execute commands on the results of other commands. It is often used to process large amounts of data or to automate tasks.
 
