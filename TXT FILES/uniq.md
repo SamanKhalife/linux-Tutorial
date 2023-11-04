@@ -1,4 +1,4 @@
-# 
+# uniq
 
 Sure, here is the English version of the `uniq` command:
 
