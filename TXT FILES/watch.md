@@ -1,4 +1,4 @@
-# 
+# watch
 
 The `watch` command in Linux is used to repeatedly run a command and display its output. This can be useful for monitoring a process or for seeing the changes to a file over time.
 
