@@ -1,4 +1,4 @@
-# 
+# select
 
 The `select` command in Linux is used to create a menu from which the user can select an option. It is a versatile command that can be used to create menus for a variety of purposes, such as choosing a file, selecting a directory, or choosing an option from a list.
 
