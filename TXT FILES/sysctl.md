@@ -1,4 +1,4 @@
-# 
+# sysctl
 
 The sysctl command is used to view and change kernel parameters. Kernel parameters are settings that control the behavior of the Linux kernel.
 
