@@ -1,4 +1,4 @@
-# 
+# talkd
 
 The `talkd` command is a daemon that allows users to have real-time conversations with each other on a local network. It is a simple and easy-to-use tool that can be used to communicate with other users who are logged into the same system.
 
