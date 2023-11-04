@@ -1,4 +1,4 @@
-# 
+# tr
 
 The tr command in Linux is used to translate or delete characters. It can be used to replace one character with another, or to delete all occurrences of a particular character.
 
