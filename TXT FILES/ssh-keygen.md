@@ -1,4 +1,4 @@
-# 
+# ssh-keygen
 
 The `ssh-keygen` command is a command-line utility that can be used to generate SSH keys. SSH keys are used to authenticate users and machines when they connect to each other using SSH.
 
