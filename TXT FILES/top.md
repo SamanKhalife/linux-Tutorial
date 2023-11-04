@@ -1,4 +1,4 @@
-# 
+# top
 
 The top command in Linux is a command-line utility that displays a real-time view of the processes running on your system. It can be used to monitor the CPU usage, memory usage, and other resources that are being used by each process.
 
