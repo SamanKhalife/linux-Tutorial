@@ -1,4 +1,4 @@
-# 
+# unicode_start
 
 The `unicode_start` function is a Python function that returns the Unicode code point for the first character in a string. The function is defined as follows:
 
