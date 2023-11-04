@@ -1,4 +1,4 @@
-# 
+# ssh-keyscan
 
 The `ssh-keyscan` command is a command-line utility that can be used to scan a remote host for its SSH host keys. SSH host keys are used to authenticate hosts when you connect to them using SSH.
 
