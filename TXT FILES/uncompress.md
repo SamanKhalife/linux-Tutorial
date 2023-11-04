@@ -1,4 +1,4 @@
-# 
+# uncompress
 
 The `uncompress` command is a command-line utility that can be used to decompress files that have been compressed using the gzip or bzip2 formats. gzip and bzip2 are lossless compression formats that are often used to compress files for efficient storage and transmission.
 
