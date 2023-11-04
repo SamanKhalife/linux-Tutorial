@@ -1,4 +1,4 @@
-# 
+# ypbind
 
 Yes, the `ypbind` command is used to bind a client to a NIS server. NIS is a service that provides a central repository for storing user and group information.
 
