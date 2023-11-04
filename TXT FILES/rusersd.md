@@ -1,4 +1,4 @@
-# 
+# rusersd
 
 The `rusersd` daemon is a network service that provides information about who is logged on to a system. It is a deprecated service that is no longer recommended for use.
 
