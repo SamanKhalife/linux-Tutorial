@@ -1,4 +1,4 @@
-# 
+# whoami
 
 The `whoami` command is a command-line utility that is used to display the current user's username. It is a simple and easy-to-use command that can be used to quickly find out who you are logged in as.
 
