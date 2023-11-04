@@ -1,4 +1,4 @@
-# 
+# setmetamode
 
 The `setmetamode` command in Linux is used to set the meta mode for a terminal. The meta mode is a set of options that control how the terminal handles special characters.
 
