@@ -1,4 +1,4 @@
-# 
+# ypcat
 
 Sure. The `ypcat` command is a command-line utility that can be used to display the contents of a NIS (Network Information Service) map. NIS is a service that provides a central repository for user and group information.
 
