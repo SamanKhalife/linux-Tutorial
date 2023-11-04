@@ -1,4 +1,4 @@
-# 
+# xdg-open
 
 Xinetd is a daemon that manages Internet services. It is a replacement for inetd, which was the standard Internet daemon in Unix-like operating systems for many years.
 
