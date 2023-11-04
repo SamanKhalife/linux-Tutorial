@@ -1,4 +1,4 @@
-# 
+# statd
 
 Statd is a daemon that is used to manage and monitor file sharing between machines on a network. It is a part of the NFS (Network File System) service and is responsible for maintaining a database of shared files and their locations.
 
