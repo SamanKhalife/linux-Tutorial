@@ -1,4 +1,4 @@
-# 
+# tailf
 
 Sure, the `tailf` command in Linux is used to monitor the end of a file. The `tailf` command will continuously display the last lines of the file, as new lines are appended to the file.
 
