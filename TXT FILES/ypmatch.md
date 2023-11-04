@@ -1,4 +1,4 @@
-# 
+# ypmatch
 
 The `ypmatch` command is a command-line utility that can be used to look up values in NIS (Network Information Service) maps. NIS is a service that provides a central repository for user and group information.
 
