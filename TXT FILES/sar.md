@@ -1,4 +1,4 @@
-# 
+# sar
 
 The `sar` command in Linux is used to collect and display system activity statistics. It is a versatile command that can be used to monitor system performance, troubleshoot problems, and plan for capacity growth.
 
