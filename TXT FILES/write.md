@@ -1,4 +1,4 @@
-# 
+# write
 
 The `write` command is a command-line utility that can be used to send a message to another user on the same system. It is a simple and easy-to-use command, but it is not as secure as some other methods of sending messages.
 
