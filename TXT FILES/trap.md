@@ -1,4 +1,4 @@
-# 
+# trap
 
 The trap command in Linux is used to define what action should be taken when a certain signal is received. Signals are software interrupts that can be used to notify a process that something has happened, such as a keyboard interrupt or a termination signal.
 
