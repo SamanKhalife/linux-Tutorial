@@ -1,4 +1,4 @@
-# 
+# zgrep
 
 "zgrep" is a command-line utility on Linux systems that allows you to search for patterns within compressed or archived files. It is similar to the "grep" command, but specifically designed to work with files that have been compressed using the gzip compression algorithm.
 
