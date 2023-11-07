@@ -1,4 +1,4 @@
-# 
+# zless
 
 The zless command in Linux is a filter that can be used to display compressed files one screenful at a time. The zless command is a part of the gzip suite of tools.
 
