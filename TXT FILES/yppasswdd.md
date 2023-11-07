@@ -1,4 +1,4 @@
-# 
+# yppasswdd
 
 Yes, the `yppasswdd` command is a daemon that is used to change passwords on NIS servers. NIS is a service that provides a central repository for storing user and group information.
 
