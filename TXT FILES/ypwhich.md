@@ -1,4 +1,4 @@
-# 
+# ypwhich
 
 The `ypwhich` command is a command-line utility that can be used to find the NIS (Network Information Service) server for a particular map. NIS is a service that provides a central repository for user and group information.
 
