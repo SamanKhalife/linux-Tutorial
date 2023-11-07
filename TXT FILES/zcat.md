@@ -1,4 +1,4 @@
-# 
+# zcat
 
 There is no such command as zcat in Linux. However, there is a command called zcat that can be used to decompress files that have been compressed using the gzip compression algorithm.
 
