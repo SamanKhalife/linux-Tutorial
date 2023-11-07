@@ -1,4 +1,4 @@
-# 
+# znew
 
 The znew command in Linux is used to compress files using the zlib compression library. The znew command is a part of the zlib suite of tools.
 
