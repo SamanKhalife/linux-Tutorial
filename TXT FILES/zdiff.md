@@ -1,4 +1,4 @@
-# 
+# zdiff
 
 There is no such command as zdiff in Linux. However, there is a command called diff that can be used to compare two files.
 
