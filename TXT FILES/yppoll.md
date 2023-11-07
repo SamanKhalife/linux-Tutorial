@@ -1,4 +1,4 @@
-# 
+# yppoll
 
 The `yppoll` command is a command-line utility that can be used to poll a NIS (Network Information Service) server for changes to a map. NIS is a service that provides a central repository for user and group information.
 
