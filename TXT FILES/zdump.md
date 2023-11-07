@@ -1,4 +1,4 @@
-# 
+# zdump
 
 There is no such command as zdump in Linux. However, there is a command called gzip that can be used to compress files.
 
