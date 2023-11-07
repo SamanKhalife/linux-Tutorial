@@ -1,4 +1,4 @@
-# 
+# zip
 
 The zip command in Linux is used to create and manage zip archives. A zip archive is a compressed file that can contain multiple files. The zip command is a part of the zip suite of tools.
 
