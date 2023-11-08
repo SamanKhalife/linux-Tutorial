@@ -1,6 +1,4 @@
-# README
-
-## linux-Tutorial (with some SRE's info)
+# linux-Tutorial (with some SRE's info)
 
 linux commands and any thing basic you need yo know for using linux (for cloud computing) it is for my own Knowledge but if you want to use I try to make it very complex and from base so you can learn linux so easy and work on linux based systems.
 
