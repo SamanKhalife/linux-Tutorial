@@ -3,7 +3,6 @@
 * [Characters](README.md)
 * [Linux Commands](Commands.md)
 * [Quick review for commands](<Quick review for commands.md>)
-* [README](<README (1).md>)
 * [How to](<How to/README.md>)
   * [Clear the cache memory in Linux](<How to/Clear the cache memory in Linux.md>)
   * [Installing WordPress with Apache](<How to/Installing WordPress with Apache.md>)
