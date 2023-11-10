@@ -1,7 +1,7 @@
-Topic 200: Capacity Planning
-200.1 Measure and Troubleshoot Resource Usage (weight: 6)
-Weight	6
-Description	Candidates should be able to measure hardware resource and network bandwidth, identify and troubleshoot resource problems.
+## Topic 200: Capacity Planning
+### 200.1 Measure and Troubleshoot Resource Usage (weight: 6)
+#### Weight	6
+#### Description	Candidates should be able to measure hardware resource and network bandwidth, identify and troubleshoot resource problems.
 Key Knowledge Areas:
 
 Measure CPU usage.
@@ -33,9 +33,9 @@ blocks in
 blocks out
  
 
-200.2 Predict Future Resource Needs (weight: 2)
-Weight	2
-Description	Candidates should be able to monitor resource usage to predict future resource needs.
+### 200.2 Predict Future Resource Needs (weight: 2)
+#### Weight	2
+#### Description	Candidates should be able to monitor resource usage to predict future resource needs.
 Key Knowledge Areas:
 
 Use monitoring and measurement tools to monitor IT infrastructure usage.
@@ -50,10 +50,10 @@ predict growth
 resource exhaustion
  
 
-Topic 201: Linux Kernel
-201.1 Kernel components (weight: 2)
-Weight	2
-Description	Candidates should be able to utilise kernel components that are necessary to specific hardware, hardware drivers, system resources and requirements. This objective includes implementing different types of kernel images, understanding stable and longterm kernels and patches, as well as using kernel modules.
+## Topic 201: Linux Kernel
+### 201.1 Kernel components (weight: 2)
+#### Weight	2
+#### Description	Candidates should be able to utilise kernel components that are necessary to specific hardware, hardware drivers, system resources and requirements. This objective includes implementing different types of kernel images, understanding stable and longterm kernels and patches, as well as using kernel modules.
 Key Knowledge Areas:
 
 Kernel 2.6.x, 3.x and 4.x documentation
@@ -66,9 +66,9 @@ bzImage
 xz compression
  
 
-201.2 Compiling a Linux kernel (weight: 3)
-Weight	3
-Description	Candidates should be able to properly configure a kernel to include or disable specific features of the Linux kernel as necessary. This objective includes compiling and recompiling the Linux kernel as needed, updating and noting changes in a new kernel, creating an initrd image and installing new kernels.
+### 201.2 Compiling a Linux kernel (weight: 3)
+#### Weight	3
+#### Description	Candidates should be able to properly configure a kernel to include or disable specific features of the Linux kernel as necessary. This objective includes compiling and recompiling the Linux kernel as needed, updating and noting changes in a new kernel, creating an initrd image and installing new kernels.
 Key Knowledge Areas:
 
 /usr/src/linux/
@@ -96,9 +96,9 @@ depmod
 dkms
  
 
-201.3 Kernel runtime management and troubleshooting (weight: 4)
-Weight	4
-Description	Candidates should be able to manage and/or query a 2.6.x, 3.x or 4.x kernel and its loadable modules. Candidates should be able to identify and correct common boot and run time issues. Candidates should understand device detection and management using udev. This objective includes troubleshooting udev rules.
+### 201.3 Kernel runtime management and troubleshooting (weight: 4)
+#### Weight	4
+#### Description	Candidates should be able to manage and/or query a 2.6.x, 3.x or 4.x kernel and its loadable modules. Candidates should be able to identify and correct common boot and run time issues. Candidates should understand device detection and management using udev. This objective includes troubleshooting udev rules.
 Key Knowledge Areas:
 
 Use command-line utilities to get information about the currently running kernel and kernel modules.
@@ -133,10 +133,10 @@ udevadm monitor
 /etc/udev/
  
 
-Topic 202: System Startup
-202.1 Customising system startup (weight: 3)
-Weight	3
-Description	Candidates should be able to query and modify the behaviour of system services at various targets / run levels. A thorough understanding of the systemd, SysV Init and the Linux boot process is required. This objective includes interacting with systemd targets and SysV init run levels.
+## Topic 202: System Startup
+### 202.1 Customising system startup (weight: 3)
+#### Weight	3
+#### Description	Candidates should be able to query and modify the behaviour of system services at various targets / run levels. A thorough understanding of the systemd, SysV Init and the Linux boot process is required. This objective includes interacting with systemd targets and SysV init run levels.
 Key Knowledge Areas:
 
 Systemd
@@ -157,9 +157,9 @@ update-rc.d
 init and telinit
  
 
-202.2 System recovery (weight: 4)
-Weight	4
-Description	Candidates should be able to properly manipulate a Linux system during both the boot process and during recovery mode. This objective includes using both the init utility and init-related kernel options. Candidates should be able to determine the cause of errors in loading and usage of bootloaders. GRUB version 2 and GRUB Legacy are the bootloaders of interest. Both BIOS and UEFI systems are covered.
+### 202.2 System recovery (weight: 4)
+#### Weight	4
+#### Description	Candidates should be able to properly manipulate a Linux system during both the boot process and during recovery mode. This objective includes using both the init utility and init-related kernel options. Candidates should be able to determine the cause of errors in loading and usage of bootloaders. GRUB version 2 and GRUB Legacy are the bootloaders of interest. Both BIOS and UEFI systems are covered.
 Key Knowledge Areas:
 
 BIOS and UEFI
@@ -189,9 +189,9 @@ Master boot record
 systemctl
  
 
-202.3 Alternate Bootloaders (weight: 2)
-Weight	2
-Description	Candidates should be aware of other bootloaders and their major features.
+### 202.3 Alternate Bootloaders (weight: 2)
+#### Weight	2
+#### Description	Candidates should be aware of other bootloaders and their major features.
 Key Knowledge Areas:
 
 SYSLINUX, ISOLINUX, PXELINUX
@@ -211,10 +211,10 @@ uefi/shim.efi
 uefi/grubx64.efi
  
 
-Topic 203: Filesystem and Devices
-203.1 Operating the Linux filesystem (weight: 4)
-Weight	4
-Description	Candidates should be able to properly configure and navigate the standard Linux filesystem. This objective includes configuring and mounting various filesystem types.
+## Topic 203: Filesystem and Devices
+### 203.1 Operating the Linux filesystem (weight: 4)
+#### Weight	4
+#### Description	Candidates should be able to properly configure and navigate the standard Linux filesystem. This objective includes configuring and mounting various filesystem types.
 Key Knowledge Areas:
 
 The concept of the fstab configuration
@@ -233,9 +233,9 @@ swapon
 swapoff
  
 
-203.2 Maintaining a Linux filesystem (weight: 3)
-Weight	3
-Description	Candidates should be able to properly maintain a Linux filesystem using system utilities. This objective includes manipulating standard filesystems and monitoring SMART devices.
+### 203.2 Maintaining a Linux filesystem (weight: 3)
+#### Weight	3
+#### Description	Candidates should be able to properly maintain a Linux filesystem using system utilities. This objective includes manipulating standard filesystems and monitoring SMART devices.
 Key Knowledge Areas:
 
 Tools and utilities to manipulate and ext2, ext3 and ext4
@@ -253,9 +253,9 @@ xfs_info, xfs_check, xfs_repair, xfsdump and xfsrestore
 smartd, smartctl
  
 
-203.3 Creating and configuring filesystem options (weight: 2)
-Weight	2
-Description	Candidates should be able to configure automount filesystems using AutoFS. This objective includes configuring automount for network and device filesystems. Also included is creating filesystems for devices such as CD-ROMs and a basic feature knowledge of encrypted filesystems.
+### 203.3 Creating and configuring filesystem options (weight: 2)
+#### Weight	2
+#### Description	Candidates should be able to configure automount filesystems using AutoFS. This objective includes configuring automount for network and device filesystems. Also included is creating filesystems for devices such as CD-ROMs and a basic feature knowledge of encrypted filesystems.
 Key Knowledge Areas:
 
 autofs configuration files
@@ -272,10 +272,10 @@ mkisofs
 cryptsetup
  
 
-Topic 204: Advanced Storage Device Administration
-204.1 Configuring RAID (weight: 3)
-Weight	3
-Description	Candidates should be able to configure and implement software RAID. This objective includes using and configuring RAID 0, 1 and 5.
+## Topic 204: Advanced Storage Device Administration
+### 204.1 Configuring RAID (weight: 3)
+#### Weight	3
+#### Description	Candidates should be able to configure and implement software RAID. This objective includes using and configuring RAID 0, 1 and 5.
 Key Knowledge Areas:
 
 Software RAID configuration files and utilities
@@ -287,9 +287,9 @@ mdadm
 partition type 0xFD
  
 
-204.2 Adjusting Storage Device Access (weight: 2)
-Weight	2
-Description	Candidates should be able to configure kernel options to support various drives. This objective includes software tools to view & modify hard disk settings including iSCSI devices.
+### 204.2 Adjusting Storage Device Access (weight: 2)
+#### Weight	2
+#### Description	Candidates should be able to configure kernel options to support various drives. This objective includes software tools to view & modify hard disk settings including iSCSI devices.
 Key Knowledge Areas:
 
 Tools and utilities to configure DMA for IDE devices including ATAPI and SATA
@@ -310,9 +310,9 @@ iscsiadm, scsi_id, iscsid and iscsid.conf
 WWID, WWN, LUN numbers
  
 
-204.3 Logical Volume Manager (weight: 3)
-Weight	3
-Description	Candidates should be able to create and remove logical volumes, volume groups, and physical volumes. This objective includes snapshots and resizing logical volumes.
+### 204.3 Logical Volume Manager (weight: 3)
+#### Weight	3
+#### Description	Candidates should be able to create and remove logical volumes, volume groups, and physical volumes. This objective includes snapshots and resizing logical volumes.
 Key Knowledge Areas:
 
 Tools in the LVM suite
@@ -329,10 +329,10 @@ mount
 lvm.conf
  
 
-Topic 205: Networking Configuration
-205.1 Basic networking configuration (weight: 3)
-Weight	3
-Description	Candidates should be able to configure a network device to be able to connect to a local, wired or wireless, and a wide-area network. This objective includes being able to communicate between various subnets within a single network including both IPv4 and IPv6 networks.
+## Topic 205: Networking Configuration
+### 205.1 Basic networking configuration (weight: 3)
+#### Weight	3
+#### Description	Candidates should be able to configure a network device to be able to connect to a local, wired or wireless, and a wide-area network. This objective includes being able to communicate between various subnets within a single network including both IPv4 and IPv6 networks.
 Key Knowledge Areas:
 
 Utilities to configure and manipulate ethernet network interfaces
@@ -348,9 +348,9 @@ iwconfig
 iwlist
  
 
-205.2 Advanced Network Configuration (weight: 4)
-Weight	4
-Description	Candidates should be able to configure a network device to implement various network authentication schemes. This objective includes configuring a multi-homed network device and resolving communication problems.
+### 205.2 Advanced Network Configuration (weight: 4)
+#### Weight	4
+#### Description	Candidates should be able to configure a network device to implement various network authentication schemes. This objective includes configuring a multi-homed network device and resolving communication problems.
 Key Knowledge Areas:
 
 Utilities to manipulate routing tables
@@ -372,9 +372,9 @@ tcpdump
 nmap
  
 
-205.3 Troubleshooting network issues (weight: 4)
-Weight	4
-Description	Candidates should be able to identify and correct common network setup issues, to include knowledge of locations for basic configuration files and commands.
+### 205.3 Troubleshooting network issues (weight: 4)
+#### Weight	4
+#### Description	Candidates should be able to identify and correct common network setup issues, to include knowledge of locations for basic configuration files and commands.
 Key Knowledge Areas:
 
 Location and content of access restriction files
@@ -405,10 +405,10 @@ dmesg
 /etc/hosts.allow, /etc/hosts.deny
  
 
-Topic 206: System Maintenance
-206.1 Make and install programs from source (weight: 2)
-Weight	2
-Description	Candidates should be able to build and install an executable program from source. This objective includes being able to unpack a file of sources.
+## Topic 206: System Maintenance
+### 206.1 Make and install programs from source (weight: 2)
+#### Weight	2
+#### Description	Candidates should be able to build and install an executable program from source. This objective includes being able to unpack a file of sources.
 Key Knowledge Areas:
 
 Unpack source code using common compression and archive utilities.
@@ -430,9 +430,9 @@ install
 patch
  
 
-206.2 Backup operations (weight: 3)
-Weight	3
-Description	Candidates should be able to use system tools to back up important system data.
+### 206.2 Backup operations (weight: 3)
+#### Weight	3
+#### Description	Candidates should be able to use system tools to back up important system data.
 Key Knowledge Areas:
 
 Knowledge about directories that have to be included in backups
