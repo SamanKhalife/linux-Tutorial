@@ -19,11 +19,17 @@ Awareness of dnsmasq, djbdns and PowerDNS as alternate name servers
 The following is a partial list of the used files, terms and utilities:
 
 /etc/named.conf
+
 /var/named/
+
 rndc
+
 named-checkconf
+
 kill
+
 host
+
 dig
  
 
@@ -42,13 +48,21 @@ Various methods to add a new host in the zone files, including reverse zones
 The following is a partial list of the used files, terms and utilities:
 
 /var/named/
+
 zone file syntax
+
 resource record formats
+
 named-checkzone
+
 named-compilezone
+
 masterfile-format
+
 dig
+
 nslookup
+
 host
  
 
@@ -69,12 +83,16 @@ Awareness of DANE and related records
 The following is a partial list of the used files, terms and utilities:
 
 /etc/named.conf
-/etc/passwd
-DNSSEC
-dnssec-keygen
-dnssec-signzone
- 
 
+/etc/passwd
+
+DNSSEC
+
+dnssec-keygen
+
+dnssec-signzone
+
+ 
 ## Topic 208: HTTP Services
 
 ### 208.1 Basic Apache configuration
@@ -95,13 +113,21 @@ Apache 2.4 virtual host implementation (with and without dedicated IP addresses)
 Using redirect statements in Apache’s configuration files to customise file access
 The following is a partial list of the used files, terms and utilities:
 
+
 access logs and error logs
+
 .htaccess
+
 httpd.conf
+
 mod_auth_basic, mod_authz_host and mod_access_compat
+
 htpasswd
+
 AuthUserFile, AuthGroupFile
+
 apachectl, apache2ctl
+
 httpd, apache2
  
 
@@ -122,11 +148,17 @@ Awareness of the issues with Virtual Hosting and use of SSL
 Security issues in SSL use, disable insecure protocols and ciphers
 The following is a partial list of the used files, terms and utilities:
 
+
 Apache2 configuration files
+
 /etc/ssl/, /etc/pki/
+
 openssl, CA.pl
+
 SSLEngine, SSLCertificateKeyFile, SSLCertificateFile
+
 SSLCACertificateFile, SSLCACertificatePath
+
 SSLProtocol, SSLCipherSuite, ServerTokens, ServerSignature, TraceEnable
  
 
@@ -185,12 +217,19 @@ User-Level, Share-Level and AD security
 The following is a partial list of the used files, terms and utilities:
 
 smbd, nmbd, winbindd
+
 smbcontrol, smbstatus, testparm, smbpasswd, nmblookup
+
 samba-tool
+
 net
+
 smbclient
+
 mount.cifs
+
 /etc/samba/
+
 /var/log/samba/
  
 
@@ -211,14 +250,23 @@ Awareness of NFSv4
 The following is a partial list of the used files, terms and utilities:
 
 /etc/exports
+
 exportfs
+
 showmount
+
 nfsstat
+
 /proc/mounts
+
 /etc/fstab
+
 rpcinfo
+
 mountd
+
 portmapper
+
  
 
 ## Topic 210: Network Client Management
@@ -237,11 +285,17 @@ Awareness of DHCPv6 and IPv6 Router Advertisements
 The following is a partial list of the used files, terms and utilities:
 
 dhcpd.conf
+
 dhcpd.leases
+
 DHCP Log messages in syslog or systemd journal
+
 arp
+
 dhcpd
+
 radvd
+
 radvd.conf
  
 
@@ -259,9 +313,13 @@ Use sssd for LDAP authentication
 The following is a partial list of the used files, terms and utilities:
 
 /etc/pam.d/
+
 pam.conf
+
 nsswitch.conf
+
 pam_unix, pam_cracklib, pam_limits, pam_listfile, pam_sss
+
 sssd.conf
  
 
@@ -278,8 +336,11 @@ Querying the LDAP directory
 The following is a partial list of the used files, terms and utilities:
 
 ldapsearch
+
 ldappasswd
+
 ldapadd
+
 ldapdelete
  
 
@@ -302,12 +363,19 @@ Object IDs, Attributes and Classes
 The following is a partial list of the used files, terms and utilities:
 
 slapd
+
 slapd-config
+
 LDIF
+
 slapadd
+
 slapcat
+
 slapindex
+
 /var/lib/ldap/
+
 loglevel
  
 
@@ -328,10 +396,15 @@ Awareness of sendmail and exim
 The following is a partial list of the used files, terms and utilities:
 
 Configuration files and commands for postfix
+
 /etc/postfix/
+
 /var/spool/postfix/
+
 sendmail emulation layer commands
+
 /etc/aliases
+
 mail-related logs in /var/log/
  
 
@@ -367,8 +440,11 @@ Awareness of Courier
 The following is a partial list of the used files, terms and utilities:
 
 /etc/dovecot/
+
 dovecot.conf
+
 doveconf
+
 doveadm
  
 
@@ -391,9 +467,13 @@ Save and reload filtering configurations
 The following is a partial list of the used files, terms and utilities:
 
 /proc/sys/net/ipv4/
+
 /proc/sys/net/ipv6/
+
 /etc/services
+
 iptables
+
 ip6tables
  
 
@@ -410,6 +490,7 @@ Understanding of passive vs. active FTP connections
 The following is a partial list of the used files, terms and utilities:
 
 vsftpd.conf
+
 important Pure-FTPd command line options
  
 
@@ -428,10 +509,15 @@ Usage of multiple connections from multiple hosts to guard against loss of conne
 The following is a partial list of the used files, terms and utilities:
 
 ssh
+
 sshd
+
 /etc/ssh/sshd_config
+
 /etc/ssh/
+
 Private and public key files
+
 PermitRootLogin, PubKeyAuthentication, AllowUsers, PasswordAuthentication, Protocol
  
 
@@ -450,9 +536,13 @@ Awareness of OpenVAS and Snort
 The following is a partial list of the used files, terms and utilities:
 
 telnet
+
 nmap
+
 fail2ban
+
 nc
+
 iptables
  
 
@@ -468,5 +558,6 @@ OpenVPN
 The following is a partial list of the used files, terms and utilities:
 
 /etc/openvpn/
+
 openvpn
  
