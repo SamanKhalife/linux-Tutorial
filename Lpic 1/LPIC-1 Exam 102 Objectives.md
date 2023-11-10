@@ -3,7 +3,7 @@
 
 #### Weight	4
 
-Description	Candidates should be able to customize shell environments to meet users’ needs. Candidates should be able to modify global and user profiles.
+#### Description	Candidates should be able to customize shell environments to meet users’ needs. Candidates should be able to modify global and user profiles.
 Key Knowledge Areas:
 
 Set environment variables (e.g. PATH) at login or when spawning a new shell.
@@ -33,7 +33,7 @@ alias
 
 #### Weight	4
 
-Description	Candidates should be able to customize existing scripts, or write simple new Bash scripts.
+#### Description	Candidates should be able to customize existing scripts, or write simple new Bash scripts.
 Key Knowledge Areas:
 
 Use standard sh syntax (loops, tests).
@@ -62,7 +62,7 @@ exec
 
 #### Weight	2
 
-Description	Candidates should be able to install and configure X11.
+#### Description	Candidates should be able to install and configure X11.
 Key Knowledge Areas:
 
 Understanding of the X11 architecture.
@@ -86,7 +86,7 @@ X
 
 #### Weight	1
 
-Description	Candidates should be aware of major Linux desktops. Furthermore, candidates should be aware of protocols used to access remote desktop sessions.
+#### Description	Candidates should be aware of major Linux desktops. Furthermore, candidates should be aware of protocols used to access remote desktop sessions.
 Key Knowledge Areas:
 
 Awareness of major desktop environments
@@ -107,7 +107,7 @@ RDP
 
 #### Weight	1
 
-Description	Demonstrate knowledge and awareness of accessibility technologies.
+#### Description	Demonstrate knowledge and awareness of accessibility technologies.
 Key Knowledge Areas:
 
 Basic knowledge of visual settings and themes.
@@ -133,7 +133,7 @@ Voice recognition.
 
 #### Weight	5
 
-Description	Candidates should be able to add, remove, suspend and change user accounts.
+#### Description	Candidates should be able to add, remove, suspend and change user accounts.
 Key Knowledge Areas:
 
 Add, modify and remove users and groups.
@@ -160,7 +160,7 @@ usermod
 
 #### Weight	4
 
-Description	Candidates should be able to use cron and systemd timers to run jobs at regular intervals and to use at to run jobs at a specific time.
+#### Description	Candidates should be able to use cron and systemd timers to run jobs at regular intervals and to use at to run jobs at a specific time.
 Key Knowledge Areas:
 
 Manage cron and at jobs.
@@ -187,7 +187,7 @@ systemd-run
 
 #### Weight 3
 
-Description	Candidates should be able to localize a system in a different language than English. As well, an understanding of why LANG=C is useful when scripting.
+#### Description	Candidates should be able to localize a system in a different language than English. As well, an understanding of why LANG=C is useful when scripting.
 Key Knowledge Areas:
 
 Configure locale settings and environment variables.
@@ -218,7 +218,7 @@ Unicode
 
 #### Weight	3
 
-Description	Candidates should be able to properly maintain the system time and synchronize the clock via NTP.
+#### Description	Candidates should be able to properly maintain the system time and synchronize the clock via NTP.
 Key Knowledge Areas:
 
 Set the system date and time.
@@ -246,7 +246,7 @@ pool.ntp.org
 
 #### Weight	4
 
-Description	Candidates should be able to configure rsyslog. This objective also includes configuring the logging daemon to send log output to a central log server or accept log output as a central log server. Use of the systemd journal subsystem is covered. Also, awareness of syslog and syslog-ng as alternative logging systems is included.
+#### Description	Candidates should be able to configure rsyslog. This objective also includes configuring the logging daemon to send log output to a central log server or accept log output as a central log server. Use of the systemd journal subsystem is covered. Also, awareness of syslog and syslog-ng as alternative logging systems is included.
 Key Knowledge Areas:
 
 Basic configuration of rsyslog.
@@ -277,7 +277,7 @@ systemd-cat
 
 #### Weight	3
 
-Description	Candidates should be aware of the commonly available MTA programs and be able to perform basic forward and alias configuration on a client host. Other configuration files are not covered.
+#### Description	Candidates should be aware of the commonly available MTA programs and be able to perform basic forward and alias configuration on a client host. Other configuration files are not covered.
 Key Knowledge Areas:
 
 Create e-mail aliases.
@@ -299,7 +299,7 @@ exim
 
 #### Weight	2
 
-Description	Candidates should be able to manage print queues and user print jobs using CUPS and the LPD compatibility interface.
+#### Description	Candidates should be able to manage print queues and user print jobs using CUPS and the LPD compatibility interface.
 Key Knowledge Areas:
 
 Basic CUPS configuration (for local and remote printers).
@@ -319,7 +319,7 @@ lpd legacy interface (lpr, lprm, lpq)
 
 #### Weight	4
 
-Description	Candidates should demonstrate a proper understanding of TCP/IP network fundamentals.
+#### Description	Candidates should demonstrate a proper understanding of TCP/IP network fundamentals.
 Key Knowledge Areas:
 
 Demonstrate an understanding of network masks and CIDR notation.
@@ -340,7 +340,7 @@ TCP, UDP, ICMP
 
 #### Weight	4
 
-Description	Candidates should be able to manage the persistent network configuration of a Linux host.
+#### Description	Candidates should be able to manage the persistent network configuration of a Linux host.
 Key Knowledge Areas:
 
 Understand basic TCP/IP host configuration
@@ -362,7 +362,7 @@ ifdown
 
 #### Weight	4
 
-Description	Candidates should be able to troubleshoot networking issues on client hosts.
+#### Description	Candidates should be able to troubleshoot networking issues on client hosts.
 Key Knowledge Areas:
 
 Manually configure network interfaces, including viewing and changing the configuration of network interfaces using iproute2.
@@ -390,7 +390,7 @@ route
 
 #### Weight	2
 
-Description	Candidates should be able to configure DNS on a client host.
+#### Description	Candidates should be able to configure DNS on a client host.
 Key Knowledge Areas:
 
 Query remote DNS servers.
@@ -414,7 +414,7 @@ getent
 
 #### Weight	3
 
-Description	Candidates should know how to review system configuration to ensure host security in accordance with local security policies.
+#### Description	Candidates should know how to review system configuration to ensure host security in accordance with local security policies.
 Key Knowledge Areas:
 
 Audit a system to find files with the suid/sgid bit set.
@@ -444,7 +444,7 @@ who, w, last
 
 #### Weight	3
 
-Description	Candidates should know how to set up a basic level of host security.
+#### Description	Candidates should know how to set up a basic level of host security.
 Key Knowledge Areas:
 
 Awareness of shadow passwords and how they work.
@@ -468,7 +468,7 @@ systemd.socket
 
 #### Weight	4
 
-Description	The candidate should be able to use public key techniques to secure data and communication.
+#### Description	The candidate should be able to use public key techniques to secure data and communication.
 Key Knowledge Areas:
 
 Perform basic OpenSSH 2 client configuration and usage.
