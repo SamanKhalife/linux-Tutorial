@@ -1,7 +1,15 @@
-Topic 207: Domain Name Server
-207.1 Basic DNS server configuration (weight: 3)
-Weight	3
-Description	Candidates should be able to configure BIND to function as an authoritative and as a recursive, caching-only DNS server. This objective includes the ability to manage a running server and configuring logging.
+# LPIC-2 Exam 202 Objectives
+
+
+
+## Topic 207: Domain Name Server
+
+### 207.1 Basic DNS server configuration 
+
+#### Weight	3
+
+#### Description	Candidates should be able to configure BIND to function as an authoritative and as a recursive, caching-only DNS server. This objective includes the ability to manage a running server and configuring logging.
+
 Key Knowledge Areas:
 
 BIND 9.x configuration files, terms and utilities
@@ -19,9 +27,12 @@ host
 dig
  
 
-207.2 Create and maintain DNS zones (weight: 3)
-Weight	3
-Description	Candidates should be able to create a zone file for a forward or reverse zone and hints for root level servers. This objective includes setting appropriate values for records, adding hosts in zones and adding zones to the DNS. A candidate should also be able to delegate zones to another DNS server.
+### 207.2 Create and maintain DNS zones 
+
+#### Weight	3
+
+#### Description	Candidates should be able to create a zone file for a forward or reverse zone and hints for root level servers. This objective includes setting appropriate values for records, adding hosts in zones and adding zones to the DNS. A candidate should also be able to delegate zones to another DNS server.
+
 Key Knowledge Areas:
 
 BIND 9 configuration files, terms and utilities
@@ -41,9 +52,12 @@ nslookup
 host
  
 
-207.3 Securing a DNS server (weight: 2)
-Weight	2
-Description	Candidates should be able to configure a DNS server to run as a non-root user and run in a chroot jail. This objective includes secure exchange of data between DNS servers.
+### 207.3 Securing a DNS server 
+
+#### Weight	2
+
+#### Description	Candidates should be able to configure a DNS server to run as a non-root user and run in a chroot jail. This objective includes secure exchange of data between DNS servers.
+
 Key Knowledge Areas:
 
 BIND 9 configuration files
@@ -61,10 +75,14 @@ dnssec-keygen
 dnssec-signzone
  
 
-Topic 208: HTTP Services
-208.1 Basic Apache configuration (weight: 4)
-Weight	4
-Description	Candidates should be able to install and configure a web server. This objective includes monitoring the server’s load and performance, restricting client user access, configuring support for scripting languages as modules and setting up client user authentication. Also included is configuring server options to restrict usage of resources. Candidates should be able to configure a web server to use virtual hosts and customise file access.
+## Topic 208: HTTP Services
+
+### 208.1 Basic Apache configuration
+
+#### Weight	4
+
+#### Description	Candidates should be able to install and configure a web server. This objective includes monitoring the server’s load and performance, restricting client user access, configuring support for scripting languages as modules and setting up client user authentication. Also included is configuring server options to restrict usage of resources. Candidates should be able to configure a web server to use virtual hosts and customise file access.
+
 Key Knowledge Areas:
 
 Apache 2.4 configuration files, terms and utilities
@@ -87,9 +105,12 @@ apachectl, apache2ctl
 httpd, apache2
  
 
-208.2 Apache configuration for HTTPS (weight: 3)
-Weight	3
-Description	Candidates should be able to configure a web server to provide HTTPS.
+### 208.2 Apache configuration for HTTPS
+
+#### Weight	3
+
+#### Description	Candidates should be able to configure a web server to provide HTTPS.
+
 Key Knowledge Areas:
 
 SSL configuration files, tools and utilities
@@ -109,9 +130,12 @@ SSLCACertificateFile, SSLCACertificatePath
 SSLProtocol, SSLCipherSuite, ServerTokens, ServerSignature, TraceEnable
  
 
-208.3 Implementing Squid as a caching proxy (weight: 2)
-Weight	2
-Description	Candidates should be able to install and configure a proxy server, including access policies, authentication and resource usage.
+### 208.3 Implementing Squid as a caching proxy 
+
+#### Weight	2
+
+#### Description	Candidates should be able to install and configure a proxy server, including access policies, authentication and resource usage.
+
 Key Knowledge Areas:
 
 Squid 3.x configuration files, terms and utilities
@@ -125,9 +149,12 @@ acl
 http_access
  
 
-208.4 Implementing Nginx as a web server and a reverse proxy (weight: 2)
-Weight	2
-Description	Candidates should be able to install and configure a reverse proxy server, Nginx. Basic configuration of Nginx as a HTTP server is included.
+### 208.4 Implementing Nginx as a web server and a reverse proxy 
+
+#### Weight	2
+
+#### Description	Candidates should be able to install and configure a reverse proxy server, Nginx. Basic configuration of Nginx as a HTTP server is included.
+
 Key Knowledge Areas:
 
 Nginx
@@ -139,10 +166,14 @@ The following is a partial list of the used files, terms and utilities:
 nginx
  
 
-Topic 209: File Sharing
-209.1 Samba Server Configuration (weight: 5)
-Weight	5
-Description	Candidates should be able to set up a Samba server for various clients. This objective includes setting up Samba as a standalone server as well as integrating Samba as a member in an Active Directory. Furthermore, the configuration of simple CIFS and printer shares is covered. Also covered is a configuring a Linux client to use a Samba server. Troubleshooting installations is also tested.
+## Topic 209: File Sharing
+
+### 209.1 Samba Server Configuration 
+
+#### Weight	5
+
+#### Description	Candidates should be able to set up a Samba server for various clients. This objective includes setting up Samba as a standalone server as well as integrating Samba as a member in an Active Directory. Furthermore, the configuration of simple CIFS and printer shares is covered. Also covered is a configuring a Linux client to use a Samba server. Troubleshooting installations is also tested.
+
 Key Knowledge Areas:
 
 Samba 4 documentation
@@ -163,9 +194,12 @@ mount.cifs
 /var/log/samba/
  
 
-209.2 NFS Server Configuration (weight: 3)
-Weight	3
-Description	Candidates should be able to export filesystems using NFS. This objective includes access restrictions, mounting an NFS filesystem on a client and securing NFS.
+### 209.2 NFS Server Configuration 
+
+#### Weight	3
+
+#### Description	Candidates should be able to export filesystems using NFS. This objective includes access restrictions, mounting an NFS filesystem on a client and securing NFS.
+
 Key Knowledge Areas:
 
 NFS version 3 configuration files
@@ -187,10 +221,14 @@ mountd
 portmapper
  
 
-Topic 210: Network Client Management
-210.1 DHCP configuration (weight: 2)
-Weight	2
-Description	Candidates should be able to configure a DHCP server. This objective includes setting default and per client options, adding static hosts and BOOTP hosts. Also included is configuring a DHCP relay agent and maintaining the DHCP server.
+## Topic 210: Network Client Management
+
+### 210.1 DHCP configuration 
+
+#### Weight	2
+
+#### Description	Candidates should be able to configure a DHCP server. This objective includes setting default and per client options, adding static hosts and BOOTP hosts. Also included is configuring a DHCP relay agent and maintaining the DHCP server.
+
 Key Knowledge Areas:
 
 DHCP configuration files, terms and utilities
@@ -207,9 +245,12 @@ radvd
 radvd.conf
  
 
-210.2 PAM authentication (weight: 3)
-Weight	3
-Description	The candidate should be able to configure PAM to support authentication using various available methods. This includes basic SSSD functionality.
+### 210.2 PAM authentication 
+
+#### Weight	3
+
+#### Description	The candidate should be able to configure PAM to support authentication using various available methods. This includes basic SSSD functionality.
+
 Key Knowledge Areas:
 
 PAM configuration files, terms and utilities
@@ -224,9 +265,11 @@ pam_unix, pam_cracklib, pam_limits, pam_listfile, pam_sss
 sssd.conf
  
 
-210.3 LDAP client usage (weight: 2)
-Weight	2
-Description	Candidates should be able to perform queries and updates to an LDAP server. Also included is importing and adding items, as well as adding and managing users.
+### 210.3 LDAP client usage 
+#### Weight	2
+
+#### Description	Candidates should be able to perform queries and updates to an LDAP server. Also included is importing and adding items, as well as adding and managing users.
+
 Key Knowledge Areas:
 
 LDAP utilities for data management and queries
@@ -240,9 +283,12 @@ ldapadd
 ldapdelete
  
 
-210.4 Configuring an OpenLDAP server (weight: 4)
-Weight	4
-Description	Candidates should be able to configure a basic OpenLDAP server including knowledge of LDIF format and essential access controls.
+### 210.4 Configuring an OpenLDAP server 
+
+#### Weight	4
+
+#### Description	Candidates should be able to configure a basic OpenLDAP server including knowledge of LDIF format and essential access controls.
+
 Key Knowledge Areas:
 
 OpenLDAP
@@ -265,10 +311,14 @@ slapindex
 loglevel
  
 
-Topic 211: E-Mail Services
-211.1 Using e-mail servers (weight: 4)
-Weight	4
-Description	Candidates should be able to manage an e-mail server, including the configuration of e-mail aliases, e-mail quotas and virtual e-mail domains. This objective includes configuring internal e-mail relays and monitoring e-mail servers.
+## Topic 211: E-Mail Services
+
+### 211.1 Using e-mail servers 
+
+#### Weight	4
+
+#### Description	Candidates should be able to manage an e-mail server, including the configuration of e-mail aliases, e-mail quotas and virtual e-mail domains. This objective includes configuring internal e-mail relays and monitoring e-mail servers.
+
 Key Knowledge Areas:
 
 Configuration files for postfix
@@ -285,9 +335,12 @@ sendmail emulation layer commands
 mail-related logs in /var/log/
  
 
-211.2 Managing E-Mail Delivery (weight: 2)
-Weight	2
-Description	Candidates should be able to implement client e-mail management software to filter, sort and monitor incoming user e-mail.
+### 211.2 Managing E-Mail Delivery 
+
+#### Weight	2
+
+#### Description	Candidates should be able to implement client e-mail management software to filter, sort and monitor incoming user e-mail.
+
 Key Knowledge Areas:
 
 Understanding of Sieve functionality, syntax and operators
@@ -300,9 +353,12 @@ keep, fileinto, redirect, reject, discard, stop
 Dovecot vacation extension
  
 
-211.3 Managing Mailbox Access (weight: 2)
-Weight	2
-Description	Candidates should be able to install and configure POP and IMAP daemons.
+### 211.3 Managing Mailbox Access
+
+#### Weight	2
+
+#### Description	Candidates should be able to install and configure POP and IMAP daemons.
+
 Key Knowledge Areas:
 
 Dovecot IMAP and POP3 configuration and administration
@@ -316,10 +372,14 @@ doveconf
 doveadm
  
 
-Topic 212: System Security
-212.1 Configuring a router (weight: 3)
-Weight	3
-Description	Candidates should be able to configure a system to forward IP packet and perform network address translation (NAT, IP masquerading) and state its significance in protecting a network. This objective includes configuring port redirection, managing filter rules and averting attacks.
+## Topic 212: System Security
+
+### 212.1 Configuring a router 
+
+#### Weight	3
+
+#### Description	Candidates should be able to configure a system to forward IP packet and perform network address translation (NAT, IP masquerading) and state its significance in protecting a network. This objective includes configuring port redirection, managing filter rules and averting attacks.
+
 Key Knowledge Areas:
 
 iptables and ip6tables configuration files, tools and utilities
@@ -337,9 +397,11 @@ iptables
 ip6tables
  
 
-212.2 Managing FTP servers (weight: 2)
-Weight	2
-Description	Candidates should be able to configure an FTP server for anonymous downloads and uploads. This objective includes precautions to be taken if anonymous uploads are permitted and configuring user access.
+### 212.2 Managing FTP servers
+
+#### Weight	2
+
+#### Description	Candidates should be able to configure an FTP server for anonymous downloads and uploads. This objective includes precautions to be taken if anonymous uploads are permitted and configuring user access.
 Key Knowledge Areas:
 
 Configuration files, tools and utilities for Pure-FTPd and vsftpd
@@ -351,9 +413,12 @@ vsftpd.conf
 important Pure-FTPd command line options
  
 
-212.3 Secure shell (SSH) (weight: 4)
-Weight	4
-Description	Candidates should be able to configure and secure an SSH daemon. This objective includes managing keys and configuring SSH for users. Candidates should also be able to forward an application protocol over SSH and manage the SSH login.
+### 212.3 Secure shell (SSH) 
+
+#### Weight	4
+
+#### Description	Candidates should be able to configure and secure an SSH daemon. This objective includes managing keys and configuring SSH for users. Candidates should also be able to forward an application protocol over SSH and manage the SSH login.
+
 Key Knowledge Areas:
 
 OpenSSH configuration files, tools and utilities
@@ -370,9 +435,12 @@ Private and public key files
 PermitRootLogin, PubKeyAuthentication, AllowUsers, PasswordAuthentication, Protocol
  
 
-212.4 Security tasks (weight: 3)
-Weight	3
-Description	Candidates should be able to receive security alerts from various sources, install, configure and run intrusion detection systems and apply security patches and bugfixes.
+### 212.4 Security tasks 
+
+#### Weight	3
+
+#### Description	Candidates should be able to receive security alerts from various sources, install, configure and run intrusion detection systems and apply security patches and bugfixes.
+
 Key Knowledge Areas:
 
 Tools and utilities to scan and test ports on a server
@@ -388,9 +456,12 @@ nc
 iptables
  
 
-212.5 OpenVPN (weight: 2)
-Weight	2
-Description	Candidates should be able to configure a VPN (Virtual Private Network) and create secure point-to-point or site-to-site connections.
+### 212.5 OpenVPN 
+
+#### Weight	2
+
+#### Description	Candidates should be able to configure a VPN (Virtual Private Network) and create secure point-to-point or site-to-site connections.
+
 Key Knowledge Areas:
 
 OpenVPN
