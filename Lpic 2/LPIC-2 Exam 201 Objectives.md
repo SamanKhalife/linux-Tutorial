@@ -21,25 +21,44 @@ Estimate throughput and identify bottlenecks in a system including networking.
 The following is a partial list of the used files, terms and utilities:
 
 iostat
+
 iotop
+
 vmstat
+
 netstat
+
 ss
+
 iptraf
+
 pstree, ps
+
 w
+
 lsof
+
 top
+
 htop
+
 uptime
+
 sar
+
 swap
+
 processes blocked on I/O
+
 blocks in
+
 blocks out
- 
+
+
 
 ### 200.2 Predict Future Resource Needs (weight: 2)
+
+
 
 #### Weight	2
 
@@ -55,10 +74,12 @@ Awareness of monitoring solutions such as Icinga2, Nagios, collectd, MRTG and Ca
 The following is a partial list of the used files, terms and utilities:
 
 diagnose
-predict growth
-resource exhaustion
- 
 
+predict growth
+
+resource exhaustion
+
+ 
 ## Topic 201: Linux Kernel
 
 ### 201.1 Kernel components (weight: 2)
@@ -72,10 +93,15 @@ Key Knowledge Areas:
 Kernel 2.6.x, 3.x and 4.x documentation
 The following is a partial list of the used files, terms and utilities:
 
+
 /usr/src/linux/
+
 /usr/src/linux/Documentation/
+
 zImage
+
 bzImage
+
 xz compression
  
 
@@ -100,15 +126,25 @@ Awareness of dracut
 The following is a partial list of the used files, terms and utilities:
 
 mkinitrd
+
 mkinitramfs
+
 make
+
 make targets (all, config, xconfig, menuconfig, gconfig, oldconfig, mrproper, zImage, bzImage, modules, modules_install, rpm-pkg, binrpm-pkg, deb-pkg)
+
 gzip
+
 bzip2
+
 module tools
+
 /usr/src/linux/.config
+
 /lib/modules/kernel-version/
+
 depmod
+
 dkms
  
 
@@ -130,24 +166,43 @@ Tools and utilities to analyse information about the available hardware
 udev rules
 The following is a partial list of the used files, terms and utilities:
 
+
 /lib/modules/kernel-version/modules.dep
+
 module configuration files in /etc/
+
 /proc/sys/kernel/
+
 /sbin/depmod
+
 /sbin/rmmod
+
 /sbin/modinfo
+
 /bin/dmesg
+
 /sbin/lspci
+
 /usr/bin/lsdev
+
 /sbin/lsmod
+
 /sbin/modprobe
+
 /sbin/insmod
+
 /bin/uname
+
 /usr/bin/lsusb
+
 /etc/sysctl.conf, /etc/sysctl.d/
+
 /sbin/sysctl
+
 udevmonitor
+
 udevadm monitor
+
 /etc/udev/
  
 
@@ -166,16 +221,27 @@ SysV init
 Linux Standard Base Specification (LSB)
 The following is a partial list of the used files, terms and utilities:
 
+
 /usr/lib/systemd/
+
 /etc/systemd/
+
 /run/systemd/
+
 systemctl
+
 systemd-delta
+
 /etc/inittab
+
 /etc/init.d/
+
 /etc/rc.d/
+
 chkconfig
+
 update-rc.d
+
 init and telinit
  
 
@@ -199,17 +265,29 @@ Overwrite standard boot loader options and using boot loader shells.
 Use systemd rescue and emergency modes.
 The following is a partial list of the used files, terms and utilities:
 
+
 mount
+
 fsck
+
 inittab, telinit and init with SysV init
+
 The contents of /boot/, /boot/grub/ and /boot/efi/
+
 EFI System Partition (ESP)
+
 GRUB
+
 grub-install
+
 efibootmgr
+
 UEFI shell
+
 initrd, initramfs
+
 Master boot record
+
 systemctl
  
 
@@ -226,15 +304,25 @@ Understanding of PXE for both BIOS and UEFI
 Awareness of systemd-boot and U-Boot
 The following is a partial list of the used files, terms and utilities:
 
+
 syslinux
+
 extlinux
+
 isolinux.bin
+
 isolinux.cfg
+
 isohdpfx.bin
+
 efiboot.img
+
 pxelinux.0
+
 pxelinux.cfg/
+
 uefi/shim.efi
+
 uefi/grubx64.efi
  
 
@@ -254,13 +342,21 @@ Use of UUIDs for identifying and mounting file systems
 Understanding of systemd mount units
 The following is a partial list of the used files, terms and utilities:
 
+
 /etc/fstab
+
 /etc/mtab
+
 /proc/mounts
+
 mount and umount
+
 blkid
+
 sync
+
 swapon
+
 swapoff
  
 
@@ -279,11 +375,17 @@ Awareness of ZFS
 The following is a partial list of the used files, terms and utilities:
 
 mkfs (mkfs.*)
+
 mkswap
+
 fsck (fsck.*)
+
 tune2fs, dumpe2fs and debugfs
+
 btrfs, btrfs-convert
+
 xfs_info, xfs_check, xfs_repair, xfsdump and xfsrestore
+
 smartd, smartctl
  
 
@@ -304,8 +406,11 @@ Basic feature knowledge of data encryption (dm-crypt / LUKS)
 The following is a partial list of the used files, terms and utilities:
 
 /etc/auto.master
+
 /etc/auto.[dir]
+
 mkisofs
+
 cryptsetup
  
 
@@ -322,9 +427,13 @@ Key Knowledge Areas:
 Software RAID configuration files and utilities
 The following is a partial list of the used files, terms and utilities:
 
+
 mdadm.conf
+
 mdadm
+
 /proc/mdstat
+
 partition type 0xFD
  
 
@@ -344,13 +453,21 @@ Tools and utilities for iSCSI
 Awareness of SAN, including relevant protocols (AoE, FCoE)
 The following is a partial list of the used files, terms and utilities:
 
+
 hdparm, sdparm
+
 nvme
+
 tune2fs
+
 fstrim
+
 sysctl
+
 /dev/hd*, /dev/sd*, /dev/nvme*
+
 iscsiadm, scsi_id, iscsid and iscsid.conf
+
 WWID, WWN, LUN numbers
  
 
@@ -368,11 +485,17 @@ Creating and maintaining snapshots
 Activating volume groups
 The following is a partial list of the used files, terms and utilities:
 
+
 /sbin/pv*
+
 /sbin/lv*
+
 /sbin/vg*
+
 mount
+
 /dev/mapper/
+
 lvm.conf
  
 
@@ -390,12 +513,19 @@ Utilities to configure and manipulate ethernet network interfaces
 Configuring basic access to wireless networks
 The following is a partial list of the used files, terms and utilities:
 
+
 ip
+
 ifconfig
+
 route
+
 arp
+
 iw
+
 iwconfig
+
 iwlist
  
 
@@ -414,15 +544,25 @@ Utilities to monitor and analyse the TCP/IP traffic
 The following is a partial list of the used files, terms and utilities:
 
 ip
+
 ifconfig
+
 route
+
 arp
+
 ss
+
 netstat
+
 lsof
+
 ping, ping6
+
 nc
+
 tcpdump
+
 nmap
  
 
@@ -445,20 +585,35 @@ Awareness of NetworkManager and its impact on network configuration
 The following is a partial list of the used files, terms and utilities:
 
 ip
+
 ifconfig
+
 route
+
 ss
+
 netstat
+
 /etc/network/, /etc/sysconfig/network-scripts/
+
 ping, ping6
+
 traceroute, traceroute6
+
 mtr
+
 hostname
+
 System log files such as /var/log/syslog, /var/log/messages and the systemd journal
+
 dmesg
+
 /etc/resolv.conf
+
 /etc/hosts
+
 /etc/hostname, /etc/HOSTNAME
+
 /etc/hosts.allow, /etc/hosts.deny
  
 
@@ -478,16 +633,27 @@ Apply parameters to a configure script.
 Know where sources are stored by default.
 The following is a partial list of the used files, terms and utilities:
 
+
 /usr/src/
+
 gunzip
+
 gzip
+
 bzip2
+
 xz
+
 tar
+
 configure
+
 make
+
 uname
+
 install
+
 patch
  
 
