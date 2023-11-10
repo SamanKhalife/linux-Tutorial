@@ -16,11 +16,17 @@ Conceptual understanding of sysfs, udev and dbus.
 The following is a partial list of the used files, terms and utilities:
 
 /sys/
+
 /proc/
+
 /dev/
+
 modprobe
+
 lsmod
+
 lspci
+
 lsusb
  
 
@@ -39,14 +45,23 @@ Check boot events in the log files.
 The following is a partial list of the used files, terms and utilities:
 
 dmesg
+
 journalctl
+
 BIOS
+
 UEFI
+
 bootloader
+
 kernel
+
 initramfs
+
 init
+
 SysVinit
+
 systemd
  
 
@@ -66,14 +81,23 @@ Awareness of acpid.
 The following is a partial list of the used files, terms and utilities:
 
 /etc/inittab
+
 shutdown
+
 init
+
 /etc/init.d/
+
 telinit
+
 systemd
+
 systemctl
+
 /etc/systemd/
+
 /usr/lib/systemd/
+
 wall
  
 
@@ -93,12 +117,19 @@ Knowledge of basic features of LVM.
 The following is a partial list of the used files, terms and utilities:
 
 / (root) filesystem
+
 /var filesystem
+
 /home filesystem
+
 /boot filesystem
+
 EFI System Partition (ESP)
+
 swap space
+
 mount points
+
 partitions
  
 
@@ -126,6 +157,7 @@ MBR
 #### Weight	1
 
 #### Description	Candidates should be able to determine the shared libraries that executable programs depend on and install them when necessary.
+
 Key Knowledge Areas:
 
 Identify shared libraries.
@@ -134,8 +166,11 @@ Load shared libraries.
 The following is a partial list of the used files, terms and utilities:
 
 ldd
+
 ldconfig
+
 /etc/ld.so.conf
+
 LD_LIBRARY_PATH
  
 
@@ -153,9 +188,13 @@ Awareness of apt.
 The following is a partial list of the used files, terms and utilities:
 
 /etc/apt/sources.list
+
 dpkg
+
 dpkg-reconfigure
+
 apt-get
+
 apt-cache
  
 
@@ -173,10 +212,15 @@ Awareness of dnf.
 The following is a partial list of the used files, terms and utilities:
 
 rpm
+
 rpm2cpio
+
 /etc/yum.conf
+
 /etc/yum.repos.d/
+
 yum
+
 zypper
  
 
@@ -196,10 +240,15 @@ Awareness of cloud-init
 The following is a partial list of the used files, terms and utilities:
 
 Virtual machine
+
 Linux container
+
 Application container
+
 Guest drivers
+
 SSH host keys
+
 D-Bus machine id
  
 
@@ -219,18 +268,31 @@ Invoke commands inside and outside the defined path.
 The following is a partial list of the used files, terms and utilities:
 
 bash
+
 echo
+
 env
+
 export
+
 pwd
+
 set
+
 unset
+
 type
+
 which
+
 man
+
 uname
+
 history
+
 .bash_history
+
 Quoting
  
 
@@ -245,24 +307,43 @@ Send text files and output streams through text utility filters to modify the ou
 The following is a partial list of the used files, terms and utilities:
 
 bzcat
+
 cat
+
 cut
+
 head
+
 less
+
 md5sum
+
 nl
+
 od
+
 paste
+
 sed
+
 sha256sum
+
 sha512sum
+
 sort
+
 split
+
 tail
+
 tr
+
 uniq
+
 wc
+
 xzcat
+
 zcat
  
 
@@ -282,23 +363,41 @@ Usage of tar, cpio and dd.
 The following is a partial list of the used files, terms and utilities:
 
 cp
+
 find
+
 mkdir
+
 mv
+
 ls
+
 rm
+
 rmdir
+
 touch
+
 tar
+
 cpio
+
 dd
+
 file
+
 gzip
+
 gunzip
+
 bzip2
+
 bunzip2
+
 xz
+
 unxz
+
 file globbing
  
 
@@ -316,7 +415,9 @@ Send output to both stdout and a file.
 The following is a partial list of the used files, terms and utilities:
 
 tee
+
 xargs
+
  
 
 ### 103.5 Create, monitor and kill processes
@@ -334,20 +435,35 @@ Send signals to processes.
 The following is a partial list of the used files, terms and utilities:
 
 &
+
 bg
+
 fg
+
 jobs
+
 kill
+
 nohup
+
 ps
+
 top
+
 free
+
 uptime
+
 pgrep
+
 pkill
+
 killall
+
 watch
+
 screen
+
 tmux
  
 
@@ -364,8 +480,11 @@ Change the priority of a running process.
 The following is a partial list of the used files, terms and utilities:
 
 nice
+
 ps
+
 renice
+
 top
  
 
@@ -384,9 +503,13 @@ Use regular expressions to delete, change and substitute text.
 The following is a partial list of the used files, terms and utilities:
 
 grep
+
 egrep
+
 fgrep
+
 sed
+
 regex(7)
  
 
@@ -405,11 +528,17 @@ Configure the standard editor.
 The following is a partial list of the used files, terms and utilities:
 
 vi
+
 /, ?
+
 h,j,k,l
+
 i, o, a
+
 d, p, y, dd, yy
+
 ZZ, :w!, :q!
+
 EDITOR
  
 
@@ -424,17 +553,27 @@ Key Knowledge Areas:
 
 Manage MBR and GPT partition tables
 Use various mkfs commands to create various filesystems such as:
+
 ext2/ext3/ext4
+
 XFS
+
 VFAT
+
 exFAT
+
 Basic feature knowledge of Btrfs, including multi-device filesystems, compression and subvolumes.
+
 The following is a partial list of the used files, terms and utilities:
 
 fdisk
+
 gdisk
+
 parted
+
 mkfs
+
 mkswap
  
 
@@ -451,13 +590,21 @@ Repair simple filesystem problems.
 The following is a partial list of the used files, terms and utilities:
 
 du
+
 df
+
 fsck
+
 e2fsck
+
 mke2fs
+
 tune2fs
+
 xfs_repair
+
 xfs_fsr
+
 xfs_db
  
 
@@ -476,10 +623,15 @@ Awareness of systemd mount units.
 The following is a partial list of the used files, terms and utilities:
 
 /etc/fstab
+
 /media/
+
 mount
+
 umount
+
 blkid
+
 lsblk
  
 
@@ -499,8 +651,11 @@ Use the group field to grant file access to group members.
 The following is a partial list of the used files, terms and utilities:
 
 chmod
+
 umask
+
 chown
+
 chgrp
  
 
@@ -518,6 +673,7 @@ Use links to support system administration tasks.
 The following is a partial list of the used files, terms and utilities:
 
 ln
+
 ls
  
 
@@ -534,8 +690,13 @@ Know the location and purpose of important file and directories as defined in th
 The following is a partial list of the used files, terms and utilities:
 
 find
+
 locate
+
 updatedb
+
 whereis
+
 which
+
 type
