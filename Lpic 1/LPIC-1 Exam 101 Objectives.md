@@ -4,7 +4,7 @@
 
 #### Weight	2
 
-Description	Candidates should be able to determine and configure fundamental system hardware.
+#### Description	Candidates should be able to determine and configure fundamental system hardware.
 Key Knowledge Areas:
 
 Enable and disable integrated peripherals.
@@ -28,10 +28,7 @@ lsusb
 
 #### Weight	3
 
-Description
- 
-
-Candidates should be able to guide the system through the booting process.
+#### Description Candidates should be able to guide the system through the booting process.
 Key Knowledge Areas:
 
 Provide common commands to the boot loader and options to the kernel at boot time.
@@ -57,7 +54,7 @@ systemd
 
 ##### Weight	3
 
-Description	Candidates should be able to manage the SysVinit runlevel or systemd boot target of the system. This objective includes changing to single user mode, shutdown or rebooting the system. Candidates should be able to alert users before switching runlevels / boot targets and properly terminate processes. This objective also includes setting the default SysVinit runlevel or systemd boot target. It also includes awareness of Upstart as an alternative to SysVinit or systemd.
+#### Description	Candidates should be able to manage the SysVinit runlevel or systemd boot target of the system. This objective includes changing to single user mode, shutdown or rebooting the system. Candidates should be able to alert users before switching runlevels / boot targets and properly terminate processes. This objective also includes setting the default SysVinit runlevel or systemd boot target. It also includes awareness of Upstart as an alternative to SysVinit or systemd.
 Key Knowledge Areas:
 
 Set the default runlevel or boot target.
@@ -86,7 +83,7 @@ wall
 
 #### Weight	2
 
-Description	Candidates should be able to design a disk partitioning scheme for a Linux system.
+#### Description	Candidates should be able to design a disk partitioning scheme for a Linux system.
 Key Knowledge Areas:
 
 Allocate filesystems and swap space to separate partitions or disks.
@@ -109,7 +106,7 @@ partitions
 
 #### Weight	2
 
-Description	Candidates should be able to select, install and configure a boot manager.
+#### Description	Candidates should be able to select, install and configure a boot manager.
 Key Knowledge Areas:
 
 Providing alternative boot locations and backup boot options.
@@ -128,7 +125,7 @@ MBR
 
 #### Weight	1
 
-Description	Candidates should be able to determine the shared libraries that executable programs depend on and install them when necessary.
+#### Description	Candidates should be able to determine the shared libraries that executable programs depend on and install them when necessary.
 Key Knowledge Areas:
 
 Identify shared libraries.
@@ -146,7 +143,7 @@ LD_LIBRARY_PATH
 
 #### Weight	3
 
-Description	Candidates should be able to perform package management using the Debian package tools.
+#### Description	Candidates should be able to perform package management using the Debian package tools.
 Key Knowledge Areas:
 
 Install, upgrade and uninstall Debian binary packages.
@@ -166,7 +163,7 @@ apt-cache
 
 #### Weight	3
 
-Description	Candidates should be able to perform package management using RPM, YUM and Zypper.
+#### Description	Candidates should be able to perform package management using RPM, YUM and Zypper.
 Key Knowledge Areas:
 
 Install, re-install, upgrade and remove packages using RPM, YUM and Zypper.
@@ -187,7 +184,7 @@ zypper
 
 #### Weight	1
 
-Description	Candidates should understand the implications of virtualization and cloud computing on a Linux guest system.
+#### Description	Candidates should understand the implications of virtualization and cloud computing on a Linux guest system.
 Key Knowledge Areas:
 
 Understand the general concept of virtual machines and containers
@@ -212,7 +209,7 @@ D-Bus machine id
 
 #### Weight	4
 
-Description	Candidates should be able to interact with shells and commands using the command line. The objective assumes the Bash shell.
+#### Description	Candidates should be able to interact with shells and commands using the command line. The objective assumes the Bash shell.
 Key Knowledge Areas:
 
 Use single shell commands and one line command sequences to perform basic tasks on the command line.
@@ -241,7 +238,7 @@ Quoting
 
 #### Weight	2
 
-Description	Candidates should should be able to apply filters to text streams.
+#### Description	Candidates should should be able to apply filters to text streams.
 Key Knowledge Areas:
 
 Send text files and output streams through text utility filters to modify the output using standard UNIX commands found in the GNU textutils package.
@@ -273,7 +270,7 @@ zcat
 
 #### Weight	4
 
-Description	Candidates should be able to use the basic Linux commands to manage files and directories.
+#### Description	Candidates should be able to use the basic Linux commands to manage files and directories.
 Key Knowledge Areas:
 
 Copy, move and remove files and directories individually.
@@ -309,7 +306,7 @@ file globbing
 
 #### Weight	4
 
-Description	Candidates should be able to redirect streams and connect them in order to efficiently process textual data. Tasks include redirecting standard input, standard output and standard error, piping the output of one command to the input of another command, using the output of one command as arguments to another command and sending output to both stdout and a file.
+#### Description	Candidates should be able to redirect streams and connect them in order to efficiently process textual data. Tasks include redirecting standard input, standard output and standard error, piping the output of one command to the input of another command, using the output of one command as arguments to another command and sending output to both stdout and a file.
 Key Knowledge Areas:
 
 Redirecting standard input, standard output and standard error.
@@ -326,7 +323,7 @@ xargs
 
 #### Weight	4
 
-Description	Candidates should be able to perform basic process management.
+#### Description	Candidates should be able to perform basic process management.
 Key Knowledge Areas:
 
 Run jobs in the foreground and background.
@@ -358,7 +355,7 @@ tmux
 
 #### Weight	2
 
-Description	Candidates should should be able to manage process execution priorities.
+#### Description	Candidates should should be able to manage process execution priorities.
 Key Knowledge Areas:
 
 Know the default priority of a job that is created.
@@ -376,7 +373,7 @@ top
 
 #### Weight	3
 
-Description	Candidates should be able to manipulate files and text data using regular expressions. This objective includes creating simple regular expressions containing several notational elements as well as understanding the differences between basic and extended regular expressions. It also includes using regular expression tools to perform searches through a filesystem or file content.
+#### Description	Candidates should be able to manipulate files and text data using regular expressions. This objective includes creating simple regular expressions containing several notational elements as well as understanding the differences between basic and extended regular expressions. It also includes using regular expression tools to perform searches through a filesystem or file content.
 Key Knowledge Areas:
 
 Create simple regular expressions containing several notational elements.
@@ -397,7 +394,7 @@ regex(7)
 
 #### Weight	3
 
-Description	Candidates should be able to edit text files using vi. This objective includes vi navigation, vi modes, inserting, editing, deleting, copying and finding text. It also includes awareness of other common editors and setting the default editor.
+#### Description	Candidates should be able to edit text files using vi. This objective includes vi navigation, vi modes, inserting, editing, deleting, copying and finding text. It also includes awareness of other common editors and setting the default editor.
 Key Knowledge Areas:
 
 Navigate a document using vi.
@@ -422,7 +419,7 @@ EDITOR
 
 #### Weight	2
 
-Description	Candidates should be able to configure disk partitions and then create filesystems on media such as hard disks. This includes the handling of swap partitions.
+#### Description	Candidates should be able to configure disk partitions and then create filesystems on media such as hard disks. This includes the handling of swap partitions.
 Key Knowledge Areas:
 
 Manage MBR and GPT partition tables
@@ -445,7 +442,7 @@ mkswap
 
 #### Weight	2
 
-Description	Candidates should be able to maintain a standard filesystem, as well as the extra data associated with a journaling filesystem.
+#### Description	Candidates should be able to maintain a standard filesystem, as well as the extra data associated with a journaling filesystem.
 Key Knowledge Areas:
 
 Verify the integrity of filesystems.
@@ -468,7 +465,7 @@ xfs_db
 
 #### Weight	3
 
-Description	Candidates should be able to configure the mounting of a filesystem.
+#### Description	Candidates should be able to configure the mounting of a filesystem.
 Key Knowledge Areas:
 
 Manually mount and unmount filesystems.
@@ -492,7 +489,7 @@ lsblk
 
 #### Weight	3
 
-Description	Candidates should be able to control file access through the proper use of permissions and ownerships.
+#### Description	Candidates should be able to control file access through the proper use of permissions and ownerships.
 Key Knowledge Areas:
 
 Manage access permissions on regular and special files as well as directories.
@@ -511,7 +508,7 @@ chgrp
 
 #### Weight	2
 
-Description	Candidates should be able to create and manage hard and symbolic links to a file.
+#### Description	Candidates should be able to create and manage hard and symbolic links to a file.
 Key Knowledge Areas:
 
 Create links.
@@ -528,7 +525,7 @@ ls
 
 #### Weight	2
 
-Description	Candidates should be thoroughly familiar with the Filesystem Hierarchy Standard (FHS), including typical file locations and directory classifications.
+#### Description	Candidates should be thoroughly familiar with the Filesystem Hierarchy Standard (FHS), including typical file locations and directory classifications.
 Key Knowledge Areas:
 
 Understand the correct locations of files under the FHS.
