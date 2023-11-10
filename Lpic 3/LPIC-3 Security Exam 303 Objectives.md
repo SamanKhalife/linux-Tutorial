@@ -21,10 +21,15 @@ Basic feature knowledge of CFSSL
 Partial list of the used files, terms and utilities:
 
 openssl (including relevant subcommands)
+
 OpenSSL configuration
+
 PEM, DER, PKCS
+
 CSR
+
 CRL
+
 OCSP
  
 
@@ -45,7 +50,9 @@ Use OpenSSL for SSL/TLS client and server tests
 Partial list of the used files, terms and utilities:
 
 httpd.conf
+
 mod_ssl
+
 openssl (including relevant subcommands)
  
 
@@ -66,11 +73,17 @@ Conceptual understanding of Clevis for LUKS devices and Clevis PINs for TMP2 and
 The following is a partial list of the used files, terms and utilities:
 
 cryptsetup (including relevant subcommands)
+
 cryptmount
+
 /etc/crypttab
+
 ecryptfsd
+
 ecryptfs-* commands
+
 mount.ecryptfs, umount.ecryptfs
+
 pam_ecryptfs
  
 
@@ -97,13 +110,21 @@ Awareness of Multicast DNS
 Partial list of the used files, terms and utilities:
 
 named.conf
+
 dnssec-keygen
+
 dnssec-signzone
+
 dnssec-settime
+
 dnssec-dsfromkey
+
 rndc (including relevant subcommands)
+
 dig
+
 delv
+
 openssl (including relevant subcommands)
  
 
@@ -133,19 +154,33 @@ Awareness of the security advantages of virtualization and containerization
 The following is a partial list of the used files, terms and utilities:
 
 grub.cfg
+
 systemctl
+
 getcap
+
 setcap
+
 capsh
+
 sysctl
+
 /etc/sysctl.conf
+
 /etc/usbguard/usbguard-daemon.conf
+
 /etc/usbguard/rules.conf
+
 usbguard
+
 ssh-keygen
+
 /etc/ssh/
+
 ~/.ssh/
+
 /etc/ssh/sshd_config
+
 chroot
  
 
@@ -169,19 +204,33 @@ Awareness of OpenSCAP
 Partial list of the used files, terms and utilities:
 
 auditd
+
 auditctl
+
 ausearch, aureport
+
 auditd.conf
+
 audit.rules
+
 pam_tty_audit.so
+
 chkrootkit
+
 rkhunter
+
 /etc/rkhunter.conf
+
 maldet
+
 conf.maldet
+
 rpm
+
 dpkg
+
 aide
+
 /etc/aide/aide.conf
  
 
@@ -202,12 +251,19 @@ Awareness of cgmanager and libcgroup utilities
 Partial list of the used files, terms and utilities:
 
 ulimit
+
 /etc/security/limits.conf
+
 pam_limits.so
+
 /sys/fs/group/
+
 /proc/cgroups
+
 systemd-cgls
+
 systemd-cgtop
+
  
 
 ## Topic 333: Access Control
@@ -226,8 +282,11 @@ Understand and manage extended attributes and attribute classes
 Partial list of the used files, terms and utilities:
 
 getfacl
+
 setfacl
+
 getfattr
+
 setfattr
  
 
@@ -245,25 +304,45 @@ Awareness of AppArmor and Smack
 Partial list of the used files, terms and utilities:
 
 getenforce
+
 setenforce
+
 selinuxenabled
+
 getsebool
+
 setsebool
+
 togglesebool
+
 fixfiles
+
 restorecon
+
 setfiles
+
 newrole
+
 setcon
+
 runcon
+
 chcon
+
 semanage
+
 sestatus
+
 seinfo
+
 apol
+
 seaudit
+
 audit2why
+
 audit2allow
+
 /etc/selinux/*
  
 
@@ -288,17 +367,29 @@ Awareness of aircrack-ng and bettercap
 The following is a partial list of the used files, terms and utilities:
 
 radiusd
+
 radmin
+
 radtest
+
 radclient
+
 radlast
+
 radwho
+
 radiusd.conf
+
 /etc/raddb/*
+
 wireshark
+
 tshark
+
 tcpdump
+
 kismet
+
 ndpmon
  
 
@@ -316,17 +407,29 @@ Configure and use OpenVAS, including NASL
 Partial list of the used files, terms and utilities:
 
 ntop
+
 snort
+
 snort-stat
+
 pulledpork.pl
+
 /etc/snort/*
+
 openvas-adduser
+
 openvas-rmuser
+
 openvas-nvt-sync
+
 openvassd
+
 openvas-mkcert
+
 openvas-feed-update
+
 /etc/openvas/*
+
  
 
 ### 334.3 Packet Filtering (weight: 5)
@@ -348,11 +451,17 @@ Awareness of conntrackd
 Partial list of the used files, terms and utilities:
 
 iptables
+
 ip6tables
+
 iptables-save
+
 iptables-restore
+
 ip6tables-save
+
 ip6tables-restore
+
 ipset
  
 
@@ -373,15 +482,25 @@ Awareness of L2TP
 Partial list of the used files, terms and utilities:
 
 /etc/openvpn/
+
 openvpn
+
 /etc/strongswan.conf
+
 /etc/strongswan.d/
+
 /etc/swanctl/swanctl.conf
+
 /etc/swanctl/
+
 swanctl
+
 /etc/wireguard/
+
 wg
+
 wg-quick
+
 ip
  
 
@@ -403,22 +522,39 @@ Conceptual understanding of honeypots
 The following is a partial list of the used files, terms and utilities:
 
 Trojans
+
 Viruses
+
 Rootkits
+
 Keylogger
+
 DoS and DDoS
+
 Man in the Middle
+
 ARP and NDP forgery
+
 Rogue Access Points, Routers and DHCP servers
+
 Link layer address and IP address spoofing
+
 Buffer Overflows
+
 SQL and Code Injections
+
 Cross Site Scripting
+
 Cross Site Request Forgery
+
 Privilege escalation
+
 Brute Force Attacks
+
 Rainbow tables
+
 Phishing
+
 Social Engineering
  
 
