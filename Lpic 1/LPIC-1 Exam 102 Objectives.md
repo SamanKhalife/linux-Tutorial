@@ -13,19 +13,33 @@ Set command search path with the proper directory.
 The following is a partial list of the used files, terms and utilities:
 
 .
+
 source
+
 /etc/bash.bashrc
+
 /etc/profile
+
 env
+
 export
+
 set
+
 unset
+
 ~/.bash_profile
+
 ~/.bash_login
+
 ~/.profile
+
 ~/.bashrc
+
 ~/.bash_logout
+
 function
+
 alias
  
 
@@ -46,13 +60,21 @@ Manage the location, ownership, execution and suid-rights of scripts.
 The following is a partial list of the used files, terms and utilities:
 
 for
+
 while
+
 test
+
 if
+
 read
+
 seq
+
 exec
+
 ||
+
 &&
  
 
@@ -74,11 +96,17 @@ Awareness of Wayland.
 The following is a partial list of the used files, terms and utilities:
 
 /etc/X11/xorg.conf
+
 /etc/X11/xorg.conf.d/
+
 ~/.xsession-errors
+
 xhost
+
 xauth
+
 DISPLAY
+
 X
  
 
@@ -94,12 +122,19 @@ Awareness of protocols to access remote desktop sessions
 The following is a partial list of the used files, terms and utilities:
 
 KDE
+
 Gnome
+
 Xfce
+
 X11
+
 XDMCP
+
 VNC
+
 Spice
+
 RDP
  
 
@@ -115,14 +150,23 @@ Basic knowledge of assistive technology.
 The following is a partial list of the used files, terms and utilities:
 
 High Contrast/Large Print Desktop Themes.
+
 Screen Reader.
+
 Braille Display.
+
 Screen Magnifier.
+
 On-Screen Keyboard.
+
 Sticky/Repeat keys.
+
 Slow/Bounce/Toggle keys.
+
 Mouse keys.
+
 Gestures.
+
 Voice recognition.
  
 
@@ -142,17 +186,29 @@ Create and manage special purpose and limited accounts.
 The following is a partial list of the used files, terms and utilities:
 
 /etc/passwd
+
 /etc/shadow
+
 /etc/group
+
 /etc/skel/
+
 chage
+
 getent
+
 groupadd
+
 groupdel
+
 groupmod
+
 passwd
+
 useradd
+
 userdel
+
 usermod
  
 
@@ -169,17 +225,29 @@ Understand systemd timer units.
 The following is a partial list of the used files, terms and utilities:
 
 /etc/cron.{d,daily,hourly,monthly,weekly}/
+
 /etc/at.deny
+
 /etc/at.allow
+
 /etc/crontab
+
 /etc/cron.allow
+
 /etc/cron.deny
+
 /var/spool/cron/
+
 crontab
+
 at
+
 atq
+
 atrm
+
 systemctl
+
 systemd-run
  
 
@@ -195,20 +263,35 @@ Configure timezone settings and environment variables.
 The following is a partial list of the used files, terms and utilities:
 
 /etc/timezone
+
 /etc/localtime
+
 /usr/share/zoneinfo/
+
 LC_*
+
 LC_ALL
+
 LANG
+
 TZ
+
 /usr/bin/locale
+
 tzselect
+
 timedatectl
+
 date
+
 iconv
+
 UTF-8
+
 ISO-8859
+
 ASCII
+
 Unicode
  
 
@@ -230,17 +313,29 @@ Awareness of the ntpq command.
 The following is a partial list of the used files, terms and utilities:
 
 /usr/share/zoneinfo/
+
 /etc/timezone
+
 /etc/localtime
+
 /etc/ntp.conf
+
 /etc/chrony.conf
+
 date
+
 hwclock
+
 timedatectl
+
 ntpd
+
 ntpdate
+
 chronyc
+
 pool.ntp.org
+
  
 ### 108.2 System logging
 
@@ -262,15 +357,25 @@ Awareness of syslog and syslog-ng.
 The following is a partial list of the used files, terms and utilities:
 
 /etc/rsyslog.conf
+
 /var/log/
+
 logger
+
 logrotate
+
 /etc/logrotate.conf
+
 /etc/logrotate.d/
+
 journalctl
+
 systemd-cat
+
 /etc/systemd/journald.conf
+
 /var/log/journal/
+
  
 
 ### 108.3 Mail Transfer Agent (MTA) basics
@@ -286,12 +391,19 @@ Knowledge of commonly available MTA programs (postfix, sendmail, exim) (no confi
 The following is a partial list of the used files, terms and utilities:
 
 ~/.forward
+
 sendmail emulation layer commands
+
 newaliases
+
 mail
+
 mailq
+
 postfix
+
 sendmail
+
 exim
  
 
@@ -309,8 +421,11 @@ Add and remove jobs from configured printer queues.
 The following is a partial list of the used files, terms and utilities:
 
 CUPS configuration files, tools and utilities
+
 /etc/cups/
+
 lpd legacy interface (lpr, lprm, lpq)
+
  
 
 ## Topic 109: Networking Fundamentals
@@ -331,9 +446,13 @@ Knowledge of the basic features of IPv6.
 The following is a partial list of the used files, terms and utilities:
 
 /etc/services
+
 IPv4, IPv6
+
 Subnetting
+
 TCP, UDP, ICMP
+
  
 
 ### 109.2 Persistent network configuration
@@ -349,12 +468,19 @@ Awareness of systemd-networkd
 The following is a partial list of the used files, terms and utilities:
 
 /etc/hostname
+
 /etc/hosts
+
 /etc/nsswitch.conf
+
 /etc/resolv.conf
+
 nmcli
+
 hostnamectl
+
 ifup
+
 ifdown
  
 
@@ -372,17 +498,29 @@ Awareness of legacy net-tools commands.
 The following is a partial list of the used files, terms and utilities:
 
 ip
+
 hostname
+
 ss
+
 ping
+
 ping6
+
 traceroute
+
 traceroute6
+
 tracepath
+
 tracepath6
+
 netcat
+
 ifconfig
+
 netstat
+
 route
  
 
@@ -401,10 +539,15 @@ Awareness of systemd-resolved
 The following is a partial list of the used files, terms and utilities:
 
 /etc/hosts
+
 /etc/resolv.conf
+
 /etc/nsswitch.conf
+
 host
+
 dig
+
 getent
  
 
@@ -426,18 +569,31 @@ Basic sudo configuration and usage.
 The following is a partial list of the used files, terms and utilities:
 
 find
+
 passwd
+
 fuser
+
 lsof
+
 nmap
+
 chage
+
 netstat
+
 sudo
+
 /etc/sudoers
+
 su
+
 usermod
+
 ulimit
+
 who, w, last
+
  
 
 ### 110.2 Setup host security
@@ -453,15 +609,25 @@ Understand the role of TCP wrappers.
 The following is a partial list of the used files, terms and utilities:
 
 /etc/nologin
+
 /etc/passwd
+
 /etc/shadow
+
 /etc/xinetd.d/
+
 /etc/xinetd.conf
+
 systemd.socket
+
 /etc/inittab
+
 /etc/init.d/
+
 /etc/hosts.allow
+
 /etc/hosts.deny
+
  
 
 ### 110.3 Securing data with encryption
@@ -479,20 +645,38 @@ Understand SSH port tunnels (including X11 tunnels).
 The following is a partial list of the used files, terms and utilities:
 
 ssh
+
 ssh-keygen
+
 ssh-agent
+
 ssh-add
+
 ~/.ssh/id_rsa and id_rsa.pub
+
 ~/.ssh/id_dsa and id_dsa.pub
+
 ~/.ssh/id_ecdsa and id_ecdsa.pub
+
 ~/.ssh/id_ed25519 and id_ed25519.pub
+
 /etc/ssh/ssh_host_rsa_key and ssh_host_rsa_key.pub
+
 /etc/ssh/ssh_host_dsa_key and ssh_host_dsa_key.pub
+
 /etc/ssh/ssh_host_ecdsa_key and ssh_host_ecdsa_key.pub
+
 /etc/ssh/ssh_host_ed25519_key and ssh_host_ed25519_key.pub
+
 ~/.ssh/authorized_keys
+
 ssh_known_hosts
+
 gpg
+
 gpg-agent
+
 ~/.gnupg/
+
 /etc/updatedb.conf
+
