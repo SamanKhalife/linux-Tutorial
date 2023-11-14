@@ -23,11 +23,11 @@ The following is a partial list of the used files, terms and utilities:
 
 modprobe
 
-lsmod
+[lsmod]()
 
-lspci
+[lspci]()
 
-lsusb
+[lsusb]()
  
 
 ### 101.2 Boot the system
@@ -58,11 +58,11 @@ kernel
 
 initramfs
 
-init
+[init]()
 
 SysVinit
 
-systemd
+[systemd]()
  
 
 ### 101.3 Change runlevels / boot targets and shutdown or reboot system
@@ -82,23 +82,23 @@ The following is a partial list of the used files, terms and utilities:
 
 /etc/inittab
 
-shutdown
+shutdown]()
 
-init
+init]()
 
 /etc/init.d/
 
-telinit
+[telinit]()
 
-systemd
+[systemd]()
 
-systemctl
+[systemctl]()
 
 /etc/systemd/
 
 /usr/lib/systemd/
 
-wall
+[wall]()
  
 
 ## Topic 102: Linux Installation and Package Management
@@ -147,8 +147,11 @@ Interact with the boot loader.
 The following is a partial list of the used files, terms and utilities:
 
 menu.lst, grub.cfg and grub.conf
+
 grub-install
+
 grub-mkconfig
+
 MBR
  
 
@@ -193,9 +196,9 @@ dpkg
 
 dpkg-reconfigure
 
-apt-get
+[apt-get]()
 
-apt-cache
+[apt-cache]()
  
 
 ### 102.5 Use RPM and YUM package management
@@ -211,7 +214,7 @@ Determine what files a package provides, as well as find which package a specifi
 Awareness of dnf.
 The following is a partial list of the used files, terms and utilities:
 
-rpm
+[rpm]()
 
 rpm2cpio
 
@@ -219,9 +222,9 @@ rpm2cpio
 
 /etc/yum.repos.d/
 
-yum
+[yum]()
 
-zypper
+[zypper]()
  
 
 ### 102.6 Linux as a virtualization guest
@@ -267,29 +270,29 @@ Use and edit command history.
 Invoke commands inside and outside the defined path.
 The following is a partial list of the used files, terms and utilities:
 
-bash
+[bash]()
 
-echo
+[echo]()
 
-env
+[env]()
 
-export
+[export]()
 
-pwd
+[pwd]()
 
-set
+[set]()
 
-unset
+[unset]()
 
-type
+[type]()
 
-which
+[which]()
 
-man
+[man]()
 
-uname
+[uname]()
 
-history
+[history]()
 
 .bash_history
 
@@ -306,45 +309,45 @@ Key Knowledge Areas:
 Send text files and output streams through text utility filters to modify the output using standard UNIX commands found in the GNU textutils package.
 The following is a partial list of the used files, terms and utilities:
 
-bzcat
+[bzcat]()
 
-cat
+[cat]()
 
-cut
+[cut]()
 
-head
+[head]()
 
-less
+[less]()
 
-md5sum
+md5sum]()
 
-nl
+[nl]()
 
-od
+[od]()
 
-paste
+[paste]()
 
-sed
+[sed]()
 
 sha256sum
 
 sha512sum
 
-sort
+[sort]()
 
-split
+[split]()
 
-tail
+[tail]()
 
-tr
+[tr]()
 
-uniq
+[uniq]()
 
-wc
+[wc]()
 
-xzcat
+[xzcat]()
 
-zcat
+[zcat]()
  
 
 ### 103.3 Perform basic file management
@@ -362,43 +365,43 @@ Using find to locate and act on files based on type, size, or time.
 Usage of tar, cpio and dd.
 The following is a partial list of the used files, terms and utilities:
 
-cp
+[cp]()
 
-find
+[find]()
 
-mkdir
+[mkdir]()
 
-mv
+[mv]()
 
-ls
+[ls]()
 
-rm
+[rm]()
 
-rmdir
+[rmdir]()
 
-touch
+[touch]()
 
-tar
+[tar]()
 
-cpio
+[cpio]()
 
-dd
+[dd]()
 
-file
+[file]()
 
-gzip
+[gzip]()
 
-gunzip
+[gunzip]()
 
-bzip2
+[bzip2]()
 
-bunzip2
+[bunzip2]()
 
-xz
+[xz]()
 
-unxz
+[unxz]()
 
-file globbing
+[file globbing]()
  
 
 ### 103.4 Use streams, pipes and redirects
