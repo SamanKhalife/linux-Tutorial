@@ -22,15 +22,15 @@ The following is a partial list of the used files, terms and utilities:
 
 /var/named/
 
-rndc
+[rndc]()
 
 named-checkconf
 
-kill
+[kill]()
 
-host
+[host]()
 
-dig
+[dig]()
  
 
 ### 207.2 Create and maintain DNS zones 
@@ -59,11 +59,11 @@ named-compilezone
 
 masterfile-format
 
-dig
+[dig]()
 
-nslookup
+[nslookup]()
 
-host
+[host]()
  
 
 ### 207.3 Securing a DNS server 
@@ -177,7 +177,9 @@ Layout and content of ACL in the Squid configuration files
 The following is a partial list of the used files, terms and utilities:
 
 squid.conf
+
 acl
+
 http_access
  
 
@@ -195,7 +197,8 @@ Basic Web Server
 The following is a partial list of the used files, terms and utilities:
 
 /etc/nginx/
-nginx
+
+[nginx]()
  
 
 ## Topic 209: File Sharing
@@ -222,7 +225,7 @@ smbcontrol, smbstatus, testparm, smbpasswd, nmblookup
 
 samba-tool
 
-net
+[net]()
 
 smbclient
 
@@ -253,9 +256,9 @@ The following is a partial list of the used files, terms and utilities:
 
 exportfs
 
-showmount
+[showmount]()
 
-nfsstat
+[nfsstat]()
 
 /proc/mounts
 
@@ -263,7 +266,7 @@ nfsstat
 
 rpcinfo
 
-mountd
+[mountd]()
 
 portmapper
 
@@ -335,13 +338,13 @@ Change user passwords
 Querying the LDAP directory
 The following is a partial list of the used files, terms and utilities:
 
-ldapsearch
+[ldapsearch]()
 
-ldappasswd
+[ldappasswd]()
 
-ldapadd
+[ldapadd]()
 
-ldapdelete
+[ldapdelete]()
  
 
 ### 210.4 Configuring an OpenLDAP server 
@@ -362,21 +365,21 @@ Directories
 Object IDs, Attributes and Classes
 The following is a partial list of the used files, terms and utilities:
 
-slapd
+[slapd]()
 
 slapd-config
 
 LDIF
 
-slapadd
+[slapadd]()
 
-slapcat
+[slapcat]()
 
-slapindex
+[slapindex]()
 
 /var/lib/ldap/
 
-loglevel
+[loglevel]()
  
 
 ## Topic 211: E-Mail Services
@@ -441,11 +444,11 @@ The following is a partial list of the used files, terms and utilities:
 
 /etc/dovecot/
 
-dovecot.conf
+[dovecot.conf]()
 
-doveconf
+[doveconf]()
 
-doveadm
+[doveadm]()
  
 
 ## Topic 212: System Security
@@ -472,7 +475,7 @@ The following is a partial list of the used files, terms and utilities:
 
 /etc/services
 
-iptables
+[iptables]()
 
 ip6tables
  
@@ -508,9 +511,9 @@ Managing and using server and client keys to login with and without password
 Usage of multiple connections from multiple hosts to guard against loss of connection to remote host following configuration changes
 The following is a partial list of the used files, terms and utilities:
 
-ssh
+[ssh]()
 
-sshd
+[sshd]()
 
 /etc/ssh/sshd_config
 
@@ -535,15 +538,15 @@ Tools and utilities to implement an intrusion detection system (IDS)
 Awareness of OpenVAS and Snort
 The following is a partial list of the used files, terms and utilities:
 
-telnet
+[telnet]()
 
-nmap
+[nmap]()
 
-fail2ban
+[fail2ban]()
 
-nc
+[nc]()
 
-iptables
+[iptables]()
  
 
 ### 212.5 OpenVPN 
