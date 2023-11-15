@@ -14,19 +14,19 @@ The following is a partial list of the used files, terms and utilities:
 
 .
 
-source
+[source]()
 
 /etc/bash.bashrc
 
 /etc/profile
 
-env
+[env]()
 
-export
+[export]()
 
-set
+[set]()
 
-unset
+[unset]()
 
 ~/.bash_profile
 
@@ -38,9 +38,9 @@ unset
 
 ~/.bash_logout
 
-function
+[function]()
 
-alias
+[alias]()
  
 
 ### 105.2 Customize or write simple scripts
@@ -59,19 +59,19 @@ Correctly select the script interpreter through the shebang (#!) line.
 Manage the location, ownership, execution and suid-rights of scripts.
 The following is a partial list of the used files, terms and utilities:
 
-for
+[for]()
 
-while
+[while]()
 
-test
+[test]()
 
-if
+[if]()
 
-read
+[read]()
 
-seq
+[seq]()
 
-exec
+[exec]()
 
 ||
 
@@ -193,23 +193,23 @@ The following is a partial list of the used files, terms and utilities:
 
 /etc/skel/
 
-chage
+[chage]()
 
-getent
+[getent]()
 
-groupadd
+[groupadd]()
 
-groupdel
+[groupdel]()
 
-groupmod
+[groupmod]()
 
-passwd
+[passwd]()
 
-useradd
+[useradd]()
 
-userdel
+[userdel]()
 
-usermod
+[usermod]()
  
 
 ### 107.2 Automate system administration tasks by scheduling jobs
@@ -238,17 +238,17 @@ The following is a partial list of the used files, terms and utilities:
 
 /var/spool/cron/
 
-crontab
+[crontab]()
 
-at
+[at]()
 
-atq
+[atq]()
 
-atrm
+[atrm]()
 
-systemctl
+[systemctl]()
 
-systemd-run
+[systemd-run]()
  
 
 ### 107.3 Localisation and internationalisation
@@ -278,13 +278,13 @@ TZ
 
 /usr/bin/locale
 
-tzselect
+tzselect]()
 
-timedatectl
+timedatectl]()
 
-date
+[date]()
 
-iconv
+[iconv]()
 
 UTF-8
 
@@ -322,17 +322,17 @@ The following is a partial list of the used files, terms and utilities:
 
 /etc/chrony.conf
 
-date
+[date]()
 
-hwclock
+[hwclock]()
 
-timedatectl
+[timedatectl]()
 
-ntpd
+[ntpd]()
 
-ntpdate
+[ntpdate]()
 
-chronyc
+[chronyc]()
 
 pool.ntp.org
 
@@ -360,17 +360,17 @@ The following is a partial list of the used files, terms and utilities:
 
 /var/log/
 
-logger
+[logger]()
 
-logrotate
+[logrotate]()
 
 /etc/logrotate.conf
 
 /etc/logrotate.d/
 
-journalctl
+[journalctl]()
 
-systemd-cat
+[systemd-cat]()
 
 /etc/systemd/journald.conf
 
@@ -394,17 +394,17 @@ The following is a partial list of the used files, terms and utilities:
 
 sendmail emulation layer commands
 
-newaliases
+[newaliases]()
 
-mail
+[mail]()
 
-mailq
+[mailq]()
 
-postfix
+[postfix]()
 
-sendmail
+[sendmail]()
 
-exim
+[exim]()
  
 
 ### 108.4 Manage printers and printing
@@ -475,13 +475,13 @@ The following is a partial list of the used files, terms and utilities:
 
 /etc/resolv.conf
 
-nmcli
+[nmcli]()
 
-hostnamectl
+[hostnamectl]()
 
-ifup
+[ifup]()
 
-ifdown
+[ifdown]()
  
 
 ### 109.3 Basic network troubleshooting
@@ -497,31 +497,31 @@ Debug problems associated with the network configuration.
 Awareness of legacy net-tools commands.
 The following is a partial list of the used files, terms and utilities:
 
-ip
+[ip]()
 
-hostname
+[hostname]()
 
-ss
+[ss]()
 
-ping
+[ping]()
 
-ping6
+[ping6]()
 
-traceroute
+[traceroute]()
 
-traceroute6
+[traceroute6]()
 
-tracepath
+[tracepath]()
 
-tracepath6
+[tracepath6]()
 
-netcat
+[netcat]()
 
-ifconfig
+[ifconfig]()
 
-netstat
+[netstat]()
 
-route
+[route]()
  
 
 ### 109.4 Configure client side DNS
@@ -544,11 +544,11 @@ The following is a partial list of the used files, terms and utilities:
 
 /etc/nsswitch.conf
 
-host
+[host]()
 
-dig
+[dig]()
 
-getent
+[getent]()
  
 
 ## Topic 110: Security
@@ -568,29 +568,29 @@ Determine which users have logged in to the system or are currently logged in.
 Basic sudo configuration and usage.
 The following is a partial list of the used files, terms and utilities:
 
-find
+[find]()
 
-passwd
+[passwd]()
 
-fuser
+[fuser]()
 
-lsof
+[lsof]()
 
-nmap
+[nmap]()
 
-chage
+[chage]()
 
-netstat
+[netstat]()
 
-sudo
+[sudo]()
 
 /etc/sudoers
 
-su
+[su]()
 
-usermod
+[usermod]()
 
-ulimit
+[ulimit]()
 
 who, w, last
 
@@ -644,13 +644,13 @@ Use GPG to encrypt, decrypt, sign and verify files.
 Understand SSH port tunnels (including X11 tunnels).
 The following is a partial list of the used files, terms and utilities:
 
-ssh
+[ssh]()
 
-ssh-keygen
+[ssh-keygen]()
 
-ssh-agent
+[ssh-agent]()
 
-ssh-add
+[ssh-add]()
 
 ~/.ssh/id_rsa and id_rsa.pub
 
