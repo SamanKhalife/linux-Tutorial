@@ -44,19 +44,19 @@ Awareness of Upstart.
 Check boot events in the log files.
 The following is a partial list of the used files, terms and utilities:
 
-dmesg
+[dmesg]()
 
-journalctl
+[journalctl]()
 
-BIOS
+[BIOS]()
 
-UEFI
+[UEFI]()
 
-bootloader
+[bootloader]()
 
-kernel
+[kernel]()
 
-initramfs
+[initramfs]()
 
 [init]()
 
@@ -84,7 +84,7 @@ The following is a partial list of the used files, terms and utilities:
 
 shutdown]()
 
-init]()
+[init]()
 
 /etc/init.d/
 
@@ -168,9 +168,9 @@ Identify the typical locations of system libraries.
 Load shared libraries.
 The following is a partial list of the used files, terms and utilities:
 
-ldd
+[ldd]()
 
-ldconfig
+[ldconfig]()
 
 /etc/ld.so.conf
 
@@ -192,7 +192,7 @@ The following is a partial list of the used files, terms and utilities:
 
 /etc/apt/sources.list
 
-dpkg
+[dpkg]()
 
 dpkg-reconfigure
 
@@ -417,9 +417,9 @@ Use the output of one command as arguments to another command.
 Send output to both stdout and a file.
 The following is a partial list of the used files, terms and utilities:
 
-tee
+[tee]()
 
-xargs
+[xargs]()
 
  
 
@@ -439,35 +439,35 @@ The following is a partial list of the used files, terms and utilities:
 
 &
 
-bg
+[bg]()
 
-fg
+[fg]()
 
-jobs
+[jobs]()
 
-kill
+[kill]()
 
-nohup
+[nohup]()
 
-ps
+[ps]()
 
-top
+[top]()
 
-free
+[free]()
 
-uptime
+[uptime]()
 
-pgrep
+[pgrep]()
 
-pkill
+[pkill]()
 
-killall
+[killall]()
 
-watch
+[watch]()
 
-screen
+[screen]()
 
-tmux
+[tmux]()
  
 
 ### 103.6 Modify process execution priorities
@@ -482,13 +482,13 @@ Run a program with higher or lower priority than the default.
 Change the priority of a running process.
 The following is a partial list of the used files, terms and utilities:
 
-nice
+[nice]()
 
-ps
+[ps]()
 
-renice
+[renice]()
 
-top
+[top]()
  
 
 ### 103.7 Search text files using regular expressions
@@ -505,13 +505,13 @@ Use regular expression tools to perform searches through a filesystem or file co
 Use regular expressions to delete, change and substitute text.
 The following is a partial list of the used files, terms and utilities:
 
-grep
+[grep]()
 
-egrep
+[egrep]()
 
-fgrep
+[fgrep]()
 
-sed
+[sed]()
 
 regex(7)
  
@@ -569,15 +569,15 @@ Basic feature knowledge of Btrfs, including multi-device filesystems, compressio
 
 The following is a partial list of the used files, terms and utilities:
 
-fdisk
+[fdisk]()
 
-gdisk
+[gdisk]()
 
-parted
+[parted]()
 
-mkfs
+[mkfs]()
 
-mkswap
+[mkswap]()
  
 
 ### 104.2 Maintain the integrity of filesystems
@@ -592,17 +592,17 @@ Monitor free space and inodes.
 Repair simple filesystem problems.
 The following is a partial list of the used files, terms and utilities:
 
-du
+[du]()
 
-df
+[df]()
 
-fsck
+[fsck]()
 
-e2fsck
+[e2fsck]()
 
-mke2fs
+[mke2fs]()
 
-tune2fs
+[tune2fs]()
 
 xfs_repair
 
@@ -629,13 +629,13 @@ The following is a partial list of the used files, terms and utilities:
 
 /media/
 
-mount
+[mount]()
 
-umount
+[umount]()
 
-blkid
+[blkid]()
 
-lsblk
+[lsblk]()
  
 
 ### 104.4 Removed
@@ -653,13 +653,13 @@ Know how to change the file creation mask.
 Use the group field to grant file access to group members.
 The following is a partial list of the used files, terms and utilities:
 
-chmod
+[chmod]()
 
-umask
+[umask]()
 
-chown
+[chown]()
 
-chgrp
+[chgrp]()
  
 
 ### 104.6 Create and change hard and symbolic links
@@ -675,9 +675,9 @@ Copying versus linking files.
 Use links to support system administration tasks.
 The following is a partial list of the used files, terms and utilities:
 
-ln
+[ln]()
 
-ls
+[ls]()
  
 
 ### 104.7 Find system files and place files in the correct location
@@ -692,14 +692,14 @@ Find files and commands on a Linux system.
 Know the location and purpose of important file and directories as defined in the FHS.
 The following is a partial list of the used files, terms and utilities:
 
-find
+[find]()
 
-locate
+[locate]()
 
-updatedb
+[updatedb]()
 
-whereis
+[whereis]()
 
-which
+[which]()
 
-type
+[type]()
