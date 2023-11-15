@@ -20,33 +20,33 @@ Match / correlate system symptoms with likely problems.
 Estimate throughput and identify bottlenecks in a system including networking.
 The following is a partial list of the used files, terms and utilities:
 
-iostat
+[iostat]()
 
-iotop
+[iotop]()
 
-vmstat
+[vmstat]()
 
-netstat
+[netstat]()
 
-ss
+[ss]()
 
-iptraf
+[iptraf]()
 
-pstree, ps
+[pstree, ps]()
 
-w
+[w]()
 
-lsof
+[lsof]()
 
-top
+[top]()
 
-htop
+[htop]()
 
-uptime
+[uptime]()
 
-sar
+[sar]()
 
-swap
+[swap]()
 
 processes blocked on I/O
 
@@ -129,13 +129,13 @@ mkinitrd
 
 mkinitramfs
 
-make
+[make]()
 
 make targets (all, config, xconfig, menuconfig, gconfig, oldconfig, mrproper, zImage, bzImage, modules, modules_install, rpm-pkg, binrpm-pkg, deb-pkg)
 
-gzip
+[gzip]()
 
-bzip2
+[bzip2]()
 
 module tools
 
@@ -143,9 +143,9 @@ module tools
 
 /lib/modules/kernel-version/
 
-depmod
+[depmod]()
 
-dkms
+[dkms]()
  
 
 ### 201.3 Kernel runtime management and troubleshooting (weight: 4)
@@ -353,7 +353,7 @@ mount and umount
 
 blkid
 
-sync
+[sync]()
 
 swapon
 
@@ -376,7 +376,7 @@ The following is a partial list of the used files, terms and utilities:
 
 mkfs (mkfs.*)
 
-mkswap
+[mkswap]()
 
 fsck (fsck.*)
 
@@ -492,7 +492,7 @@ The following is a partial list of the used files, terms and utilities:
 
 /sbin/vg*
 
-mount
+[mount]()
 
 /dev/mapper/
 
@@ -514,19 +514,19 @@ Configuring basic access to wireless networks
 The following is a partial list of the used files, terms and utilities:
 
 
-ip
+[ip]()
 
-ifconfig
+[ifconfig]()
 
-route
+[route]()
 
-arp
+[arp]()
 
-iw
+[iw]()
 
-iwconfig
+[iwconfig]()
 
-iwlist
+[iwlist]()
  
 
 ### 205.2 Advanced Network Configuration (weight: 4)
@@ -543,27 +543,27 @@ Utilities to analyse the status of the network devices
 Utilities to monitor and analyse the TCP/IP traffic
 The following is a partial list of the used files, terms and utilities:
 
-ip
+[ip]()
 
-ifconfig
+[ifconfig]()
 
-route
+[route]()
 
-arp
+[arp]()
 
-ss
+[ss]()
 
-netstat
+[netstat]()
 
-lsof
+[lsof]()
 
-ping, ping6
+[ping, ping6]()
 
-nc
+[nc]()
 
-tcpdump
+[tcpdump]()
 
-nmap
+[nmap]()
  
 
 ### 205.3 Troubleshooting network issues (weight: 4)
@@ -584,29 +584,29 @@ System initialisation files and their contents (Systemd and SysV init)
 Awareness of NetworkManager and its impact on network configuration
 The following is a partial list of the used files, terms and utilities:
 
-ip
+[ip]()
 
-ifconfig
+[ifconfig]()
 
-route
+[route]()
 
-ss
+[ss]()
 
-netstat
+[netstat]()
 
 /etc/network/, /etc/sysconfig/network-scripts/
 
-ping, ping6
+[ping, ping6]()
 
 traceroute, traceroute6
 
-mtr
+[mtr]()
 
-hostname
+[hostname]()
 
 System log files such as /var/log/syslog, /var/log/messages and the systemd journal
 
-dmesg
+[dmesg]()
 
 /etc/resolv.conf
 
@@ -636,25 +636,25 @@ The following is a partial list of the used files, terms and utilities:
 
 /usr/src/
 
-gunzip
+[gunzip]()
 
-gzip
+[gzip]()
 
-bzip2
+[bzip2]()
 
-xz
+[xz]()
 
-tar
+[tar]()
 
-configure
+[configure]()
 
-make
+[make]()
 
-uname
+[uname]()
 
-install
+[install]()
 
-patch
+[patch]()
  
 
 ### 206.2 Backup operations (weight: 3)
