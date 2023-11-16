@@ -15,19 +15,19 @@ Tools and utilities to manipulate USB devices.
 Conceptual understanding of sysfs, udev and dbus.
 The following is a partial list of the used files, terms and utilities:
 
-/sys/
+[/sys/]()
 
-/proc/
+[/proc/]()
 
-/dev/
+[/dev/]()
 
-modprobe
+[modprobe]()
 
 [lsmod]()
 
 [lspci]()
 
-[lsusb]()
+[lsusb](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/lsusb.md)
  
 
 ### 101.2 Boot the system
@@ -44,9 +44,9 @@ Awareness of Upstart.
 Check boot events in the log files.
 The following is a partial list of the used files, terms and utilities:
 
-[dmesg]()
+[dmesg](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/dmesg.md)
 
-[journalctl]()
+[journalctl](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/journalctl.md)
 
 [BIOS]()
 
@@ -60,7 +60,7 @@ The following is a partial list of the used files, terms and utilities:
 
 [init]()
 
-SysVinit
+[SysVinit]()
 
 [systemd]()
  
@@ -82,21 +82,21 @@ The following is a partial list of the used files, terms and utilities:
 
 /etc/inittab
 
-shutdown]()
+[shutdown]()
 
 [init]()
 
-/etc/init.d/
+[/etc/init.d/]()
 
-[telinit]()
+[telinit](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/telinit.md)
 
 [systemd]()
 
 [systemctl]()
 
-/etc/systemd/
+[/etc/systemd/]()
 
-/usr/lib/systemd/
+[/usr/lib/systemd/]()
 
 [wall]()
  
@@ -116,21 +116,21 @@ Ensure the /boot partition conforms to the hardware architecture requirements fo
 Knowledge of basic features of LVM.
 The following is a partial list of the used files, terms and utilities:
 
-/ (root) filesystem
+[/ (root) filesystem  ]()
 
-/var filesystem
+[/var filesystem]()
 
-/home filesystem
+[/home filesystem]()
 
-/boot filesystem
+[/boot filesystem]()
 
-EFI System Partition (ESP)
+[EFI System Partition (ESP)]()
 
-swap space
+[swap space]()
 
-mount points
+[mount points]()
 
-partitions
+[partitions]()
  
 
 ### 102.2 Install a boot manager
@@ -146,13 +146,13 @@ Perform basic configuration changes for GRUB 2.
 Interact with the boot loader.
 The following is a partial list of the used files, terms and utilities:
 
-menu.lst, grub.cfg and grub.conf
+[menu.lst, grub.cfg and grub.conf]()
 
-grub-install
+[grub-install]()
 
-grub-mkconfig
+[grub-mkconfig]()
 
-MBR
+[MBR]()
  
 
 ### 102.3 Manage shared libraries
@@ -172,9 +172,9 @@ The following is a partial list of the used files, terms and utilities:
 
 [ldconfig]()
 
-/etc/ld.so.conf
+[/etc/ld.so.conf]()
 
-LD_LIBRARY_PATH
+[LD_LIBRARY_PATH]()
  
 
 ### 102.4 Use Debian package management
@@ -190,11 +190,11 @@ Obtain package information like version, content, dependencies, package integrit
 Awareness of apt.
 The following is a partial list of the used files, terms and utilities:
 
-/etc/apt/sources.list
+[/etc/apt/sources.list]()
 
 [dpkg]()
 
-dpkg-reconfigure
+[dpkg-reconfigure]()
 
 [apt-get]()
 
@@ -216,11 +216,11 @@ The following is a partial list of the used files, terms and utilities:
 
 [rpm]()
 
-rpm2cpio
+[rpm2cpio]()
 
-/etc/yum.conf
+[/etc/yum.conf]()
 
-/etc/yum.repos.d/
+[/etc/yum.repos.d/]()
 
 [yum]()
 
@@ -242,17 +242,17 @@ Understand Linux extensions which integrate Linux with a virtualization product
 Awareness of cloud-init
 The following is a partial list of the used files, terms and utilities:
 
-Virtual machine
+[Virtual machine]()
 
-Linux container
+[Linux container]()
 
-Application container
+[Application container]()
 
-Guest drivers
+[Guest drivers]()
 
-SSH host keys
+[SSH host keys]()
 
-D-Bus machine id
+[D-Bus machine id]()
  
 
 ## Topic 103: GNU and Unix Commands
@@ -294,9 +294,9 @@ The following is a partial list of the used files, terms and utilities:
 
 [history]()
 
-.bash_history
+[.bash_history]()
 
-Quoting
+[Quoting]()
  
 
 ### 103.2 Process text streams using filters
@@ -319,7 +319,7 @@ The following is a partial list of the used files, terms and utilities:
 
 [less]()
 
-md5sum]()
+[md5sum]()
 
 [nl]()
 
@@ -329,9 +329,9 @@ md5sum]()
 
 [sed]()
 
-sha256sum
+[sha256sum]()
 
-sha512sum
+[sha512sum]()
 
 [sort]()
 
@@ -513,7 +513,7 @@ The following is a partial list of the used files, terms and utilities:
 
 [sed]()
 
-regex(7)
+[regex(7)]()
  
 
 ### 103.8 Basic file editing
@@ -557,13 +557,13 @@ Key Knowledge Areas:
 Manage MBR and GPT partition tables
 Use various mkfs commands to create various filesystems such as:
 
-ext2/ext3/ext4
+[ext2/ext3/ext4]()
 
-XFS
+[XFS]()
 
-VFAT
+[VFAT]()
 
-exFAT
+[exFAT]()
 
 Basic feature knowledge of Btrfs, including multi-device filesystems, compression and subvolumes.
 
@@ -604,11 +604,11 @@ The following is a partial list of the used files, terms and utilities:
 
 [tune2fs]()
 
-xfs_repair
+[xfs_repair]()
 
-xfs_fsr
+[xfs_fsr]()
 
-xfs_db
+[xfs_db]()
  
 
 ### 104.3 Control mounting and unmounting of filesystems
@@ -625,9 +625,9 @@ Use of labels and UUIDs for identifying and mounting file systems.
 Awareness of systemd mount units.
 The following is a partial list of the used files, terms and utilities:
 
-/etc/fstab
+[/etc/fstab]()
 
-/media/
+[/media/]()
 
 [mount]()
 
