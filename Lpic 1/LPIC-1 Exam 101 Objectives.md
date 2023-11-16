@@ -15,19 +15,19 @@ Tools and utilities to manipulate USB devices.
 Conceptual understanding of sysfs, udev and dbus.
 The following is a partial list of the used files, terms and utilities:
 
-/sys/
+[/sys/]()
 
-/proc/
+[/proc/]()
 
-/dev/
+[/dev/]()
 
-modprobe
+[modprobe]()
 
 [lsmod]()
 
 [lspci]()
 
-[lsusb]()
+[lsusb](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/lsusb.md)
  
 
 ### 101.2 Boot the system
@@ -44,9 +44,9 @@ Awareness of Upstart.
 Check boot events in the log files.
 The following is a partial list of the used files, terms and utilities:
 
-[dmesg]()
+[dmesg](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/dmesg.md)
 
-[journalctl]()
+[journalctl](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/journalctl.md)
 
 [BIOS]()
 
@@ -82,13 +82,13 @@ The following is a partial list of the used files, terms and utilities:
 
 /etc/inittab
 
-shutdown]()
+[shutdown]()
 
 [init]()
 
 /etc/init.d/
 
-[telinit]()
+[telinit](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/telinit.md)
 
 [systemd]()
 
