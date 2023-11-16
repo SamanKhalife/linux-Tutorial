@@ -121,7 +121,7 @@ dnssec-dsfromkey
 
 rndc (including relevant subcommands)
 
-dig
+[dig]()
 
 delv
 
@@ -225,11 +225,11 @@ maldet
 
 conf.maldet
 
-rpm
+[rpm]()
 
-dpkg
+[dpkg]()
 
-aide
+[aide]()
 
 /etc/aide/aide.conf
  
@@ -450,19 +450,19 @@ Awareness of ebtables
 Awareness of conntrackd
 Partial list of the used files, terms and utilities:
 
-iptables
+[iptables]()
 
-ip6tables
+[ip6tables]()
 
-iptables-save
+[iptables-save]()
 
-iptables-restore
+[iptables-restore]()
 
-ip6tables-save
+[ip6tables-save]()
 
-ip6tables-restore
+[ip6tables-restore]()
 
-ipset
+[ipset]()
  
 
 ### 334.4 Virtual Private Networks (weight: 4)
@@ -497,11 +497,11 @@ swanctl
 
 /etc/wireguard/
 
-wg
+[wg]()
 
 wg-quick
 
-ip
+[ip]()
  
 
 ## Topic 335: Threats and Vulnerability Assessment
@@ -576,4 +576,4 @@ Understand the concepts of Nmap Scripting Engine and execute existing scripts
 Awareness of Kali Linux, Armitage and the Social Engineer Toolkit (SET)
 Partial list of the used files, terms and utilities:
 
-nmap
+[nmap]()
