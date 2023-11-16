@@ -392,7 +392,7 @@ The following is a partial list of the used files, terms and utilities:
 
 [~/.forward]()
 
-[sendmail emulation layer commands
+[sendmail emulation layer commands]()
 
 [newaliases]()
 
