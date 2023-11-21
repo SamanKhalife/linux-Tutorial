@@ -16,9 +16,9 @@ The following is a partial list of the used files, terms and utilities:
 
 [source]()
 
-/etc/bash.bashrc
+[/etc/bash.bashrc]()
 
-/etc/profile
+[/etc/profile]()
 
 [env]()
 
@@ -28,15 +28,15 @@ The following is a partial list of the used files, terms and utilities:
 
 [unset]()
 
-~/.bash_profile
+[~/.bash_profile]()
 
-~/.bash_login
+[~/.bash_login]()
 
-~/.profile
+[~/.profile]()
 
-~/.bashrc
+[~/.bashrc]()
 
-~/.bash_logout
+[~/.bash_logout]()
 
 [function]()
 
@@ -73,9 +73,9 @@ The following is a partial list of the used files, terms and utilities:
 
 [exec]()
 
-||
+[||]()
 
-&&
+[&&]()
  
 
 ## Topic 106: User Interfaces and Desktops
@@ -95,19 +95,19 @@ Manage access to the X server and display applications on remote X servers.
 Awareness of Wayland.
 The following is a partial list of the used files, terms and utilities:
 
-/etc/X11/xorg.conf
+[/etc/X11/xorg.conf]()
 
-/etc/X11/xorg.conf.d/
+[/etc/X11/xorg.conf.d/]()
 
-~/.xsession-errors
+[~/.xsession-errors]()
 
-xhost
+[xhost]()
 
-xauth
+[xauth]()
 
-DISPLAY
+[DISPLAY]()
 
-X
+[X]()
  
 
 ### 106.2 Graphical Desktops
@@ -121,21 +121,21 @@ Awareness of major desktop environments
 Awareness of protocols to access remote desktop sessions
 The following is a partial list of the used files, terms and utilities:
 
-KDE
+[KDE]()
 
-Gnome
+[Gnome]()
 
-Xfce
+[Xfce]()
 
-X11
+[X11]()
 
-XDMCP
+[XDMCP]()
 
-VNC
+[VNC]()
 
-Spice
+[Spice]()
 
-RDP
+[RDP]()
  
 
 ### 106.3 Accessibility
@@ -149,25 +149,25 @@ Basic knowledge of visual settings and themes.
 Basic knowledge of assistive technology.
 The following is a partial list of the used files, terms and utilities:
 
-High Contrast/Large Print Desktop Themes.
+[High Contrast/Large Print Desktop Themes]()
 
-Screen Reader.
+[Screen Reader]()
 
-Braille Display.
+[Braille Display]()
 
-Screen Magnifier.
+[Screen Magnifier]()
 
-On-Screen Keyboard.
+[On-Screen Keyboard]()
 
-Sticky/Repeat keys.
+[Sticky/Repeat keys]()
 
-Slow/Bounce/Toggle keys.
+[Slow/Bounce/Toggle keys]()
 
-Mouse keys.
+[Mouse keys.]()
 
-Gestures.
+[Gestures.]()
 
-Voice recognition.
+[Voice recognition.]()
  
 
 
@@ -185,13 +185,13 @@ Manage user/group info in password/group databases.
 Create and manage special purpose and limited accounts.
 The following is a partial list of the used files, terms and utilities:
 
-/etc/passwd
+[/etc/passwd]()
 
-/etc/shadow
+[/etc/shadow]()
 
-/etc/group
+[/etc/group]()
 
-/etc/skel/
+[/etc/skel/]()
 
 [chage]()
 
@@ -224,19 +224,19 @@ Configure user access to cron and at services.
 Understand systemd timer units.
 The following is a partial list of the used files, terms and utilities:
 
-/etc/cron.{d,daily,hourly,monthly,weekly}/
+[/etc/cron.{d,daily,hourly,monthly,weekly}/]()
 
-/etc/at.deny
+[/etc/at.deny]()
 
-/etc/at.allow
+[/etc/at.allow]()
 
-/etc/crontab
+[/etc/crontab]()
 
-/etc/cron.allow
+[/etc/cron.allow]()
 
-/etc/cron.deny
+[/etc/cron.deny]()
 
-/var/spool/cron/
+[/var/spool/cron/]()
 
 [crontab]()
 
@@ -262,37 +262,37 @@ Configure locale settings and environment variables.
 Configure timezone settings and environment variables.
 The following is a partial list of the used files, terms and utilities:
 
-/etc/timezone
+[/etc/timezone]()
 
-/etc/localtime
+[/etc/localtime]()
 
-/usr/share/zoneinfo/
+[/usr/share/zoneinfo/]()
 
-LC_*
+[LC_*]()
 
-LC_ALL
+[LC_ALL]()
 
-LANG
+[LANG]()
 
-TZ
+[TZ]()
 
-/usr/bin/locale
+[/usr/bin/locale]()
 
-tzselect]()
+[tzselect]()
 
-timedatectl]()
+[timedatectl]()
 
 [date]()
 
 [iconv]()
 
-UTF-8
+[UTF-8]()
 
-ISO-8859
+[ISO-8859]()
 
-ASCII
+[ASCII]()
 
-Unicode
+[Unicode]()
  
 
 ## Topic 108: Essential System Services
@@ -312,15 +312,15 @@ Knowledge of using the pool.ntp.org service.
 Awareness of the ntpq command.
 The following is a partial list of the used files, terms and utilities:
 
-/usr/share/zoneinfo/
+[/usr/share/zoneinfo/]()
 
-/etc/timezone
+[/etc/timezone]()
 
-/etc/localtime
+[/etc/localtime]()
 
-/etc/ntp.conf
+[/etc/ntp.conf]()
 
-/etc/chrony.conf
+[/etc/chrony.conf]()
 
 [date]()
 
@@ -334,7 +334,7 @@ The following is a partial list of the used files, terms and utilities:
 
 [chronyc]()
 
-pool.ntp.org
+[pool.ntp.org]()
 
  
 ### 108.2 System logging
@@ -356,25 +356,25 @@ Configuration of logrotate.
 Awareness of syslog and syslog-ng.
 The following is a partial list of the used files, terms and utilities:
 
-/etc/rsyslog.conf
+[/etc/rsyslog.conf]()
 
-/var/log/
+[/var/log/]()
 
 [logger]()
 
 [logrotate]()
 
-/etc/logrotate.conf
+[/etc/logrotate.conf]()
 
-/etc/logrotate.d/
+[/etc/logrotate.d/]()
 
 [journalctl]()
 
 [systemd-cat]()
 
-/etc/systemd/journald.conf
+[/etc/systemd/journald.conf]()
 
-/var/log/journal/
+[/var/log/journal/]()
 
  
 
@@ -390,9 +390,9 @@ Configure e-mail forwarding.
 Knowledge of commonly available MTA programs (postfix, sendmail, exim) (no configuration)
 The following is a partial list of the used files, terms and utilities:
 
-~/.forward
+[~/.forward]()
 
-sendmail emulation layer commands
+[sendmail emulation layer commands]()
 
 [newaliases]()
 
@@ -420,11 +420,11 @@ Troubleshoot general printing problems.
 Add and remove jobs from configured printer queues.
 The following is a partial list of the used files, terms and utilities:
 
-CUPS configuration files, tools and utilities
+[CUPS configuration files, tools and utilities]()
 
-/etc/cups/
+[/etc/cups/]()
 
-lpd legacy interface (lpr, lprm, lpq)
+[lpd legacy interface (lpr, lprm, lpq)]()
 
  
 
@@ -445,13 +445,13 @@ Knowledge of the major differences between IPv4 and IPv6.
 Knowledge of the basic features of IPv6.
 The following is a partial list of the used files, terms and utilities:
 
-/etc/services
+[/etc/services]()
 
-IPv4, IPv6
+[IPv4, IPv6]()
 
-Subnetting
+[Subnetting]()
 
-TCP, UDP, ICMP
+[TCP, UDP, ICMP]()
 
  
 
@@ -467,13 +467,13 @@ Configure ethernet and wi-fi network configuration using NetworkManager
 Awareness of systemd-networkd
 The following is a partial list of the used files, terms and utilities:
 
-/etc/hostname
+[/etc/hostname]()
 
-/etc/hosts
+[/etc/hosts]()
 
-/etc/nsswitch.conf
+[/etc/nsswitch.conf]()
 
-/etc/resolv.conf
+[/etc/resolv.conf]()
 
 [nmcli]()
 
@@ -538,11 +538,11 @@ Debug errors related to name resolution.
 Awareness of systemd-resolved
 The following is a partial list of the used files, terms and utilities:
 
-/etc/hosts
+[/etc/hosts]()
 
-/etc/resolv.conf
+[/etc/resolv.conf]()
 
-/etc/nsswitch.conf
+[/etc/nsswitch.conf]()
 
 [host]()
 
@@ -584,7 +584,7 @@ The following is a partial list of the used files, terms and utilities:
 
 [sudo]()
 
-/etc/sudoers
+[/etc/sudoers]()
 
 [su]()
 
@@ -592,7 +592,7 @@ The following is a partial list of the used files, terms and utilities:
 
 [ulimit]()
 
-who, w, last
+[who, w, last]()
 
  
 
@@ -608,25 +608,25 @@ Turn off network services not in use.
 Understand the role of TCP wrappers.
 The following is a partial list of the used files, terms and utilities:
 
-/etc/nologin
+[/etc/nologin]()
 
-/etc/passwd
+[/etc/passwd]()
 
-/etc/shadow
+[/etc/shadow]()
 
-/etc/xinetd.d/
+[/etc/xinetd.d/]()
 
-/etc/xinetd.conf
+[/etc/xinetd.conf]()
 
-systemd.socket
+[systemd.socket]()
 
-/etc/inittab
+[/etc/inittab]()
 
-/etc/init.d/
+[/etc/init.d/]()
 
-/etc/hosts.allow
+[/etc/hosts.allow]()
 
-/etc/hosts.deny
+[/etc/hosts.deny]()
 
  
 
@@ -652,31 +652,31 @@ The following is a partial list of the used files, terms and utilities:
 
 [ssh-add]()
 
-~/.ssh/id_rsa and id_rsa.pub
+[~/.ssh/id_rsa and id_rsa.pub]()
 
-~/.ssh/id_dsa and id_dsa.pub
+[~/.ssh/id_dsa and id_dsa.pub]()
 
-~/.ssh/id_ecdsa and id_ecdsa.pub
+[~/.ssh/id_ecdsa and id_ecdsa.pub]()
 
-~/.ssh/id_ed25519 and id_ed25519.pub
+[~/.ssh/id_ed25519 and id_ed25519.pub]()
 
-/etc/ssh/ssh_host_rsa_key and ssh_host_rsa_key.pub
+[/etc/ssh/ssh_host_rsa_key and ssh_host_rsa_key.pub]()
 
-/etc/ssh/ssh_host_dsa_key and ssh_host_dsa_key.pub
+[/etc/ssh/ssh_host_dsa_key and ssh_host_dsa_key.pub]()
 
-/etc/ssh/ssh_host_ecdsa_key and ssh_host_ecdsa_key.pub
+[/etc/ssh/ssh_host_ecdsa_key and ssh_host_ecdsa_key.pub]()
 
-/etc/ssh/ssh_host_ed25519_key and ssh_host_ed25519_key.pub
+[/etc/ssh/ssh_host_ed25519_key and ssh_host_ed25519_key.pub]()
 
-~/.ssh/authorized_keys
+[~/.ssh/authorized_keys]()
 
-ssh_known_hosts
+[ssh_known_hosts]()
 
-gpg
+[gpg]()
 
-gpg-agent
+[gpg-agent]()
 
-~/.gnupg/
+[~/.gnupg/]()
 
-/etc/updatedb.conf
+[/etc/updatedb.conf]()
 
