@@ -48,11 +48,11 @@ The following is a partial list of the used files, terms and utilities:
 
 [swap]()
 
-processes blocked on I/O
+[processes blocked on I/O]()
 
-blocks in
+[blocks in]()
 
-blocks out
+[blocks out]()
 
 
 
@@ -73,11 +73,11 @@ Graph the trend of capacity usage.
 Awareness of monitoring solutions such as Icinga2, Nagios, collectd, MRTG and Cacti
 The following is a partial list of the used files, terms and utilities:
 
-diagnose
+[diagnose]()
 
-predict growth
+[predict growth]()
 
-resource exhaustion
+[resource exhaustion]()
 
  
 ## Topic 201: Linux Kernel
@@ -94,15 +94,15 @@ Kernel 2.6.x, 3.x and 4.x documentation
 The following is a partial list of the used files, terms and utilities:
 
 
-/usr/src/linux/
+[/usr/src/linux/]()
 
-/usr/src/linux/Documentation/
+[/usr/src/linux/Documentation/]()
 
-zImage
+[zImage]()
 
-bzImage
+[bzImage]()
 
-xz compression
+[xz compression]()
  
 
 ### 201.2 Compiling a Linux kernel (weight: 3)
@@ -125,23 +125,23 @@ Use DKMS to compile kernel modules.
 Awareness of dracut
 The following is a partial list of the used files, terms and utilities:
 
-mkinitrd
+[mkinitrd]()
 
-mkinitramfs
+[mkinitramfs]()
 
 [make]()
 
-make targets (all, config, xconfig, menuconfig, gconfig, oldconfig, mrproper, zImage, bzImage, modules, modules_install, rpm-pkg, binrpm-pkg, deb-pkg)
+[make targets (all, config, xconfig, menuconfig, gconfig, oldconfig, mrproper, zImage, bzImage, modules, modules_install, rpm-pkg, binrpm-pkg, deb-pkg)]()
 
 [gzip]()
 
 [bzip2]()
 
-module tools
+[module tools]()
 
-/usr/src/linux/.config
+[/usr/src/linux/.config]()
 
-/lib/modules/kernel-version/
+[/lib/modules/kernel-version/]()
 
 [depmod]()
 
@@ -167,43 +167,43 @@ udev rules
 The following is a partial list of the used files, terms and utilities:
 
 
-/lib/modules/kernel-version/modules.dep
+[/lib/modules/kernel-version/modules.dep]()
 
-module configuration files in /etc/
+[module configuration files in /etc/]()
 
-/proc/sys/kernel/
+[/proc/sys/kernel/]()
 
-/sbin/depmod
+[/sbin/depmod]()
 
-/sbin/rmmod
+[/sbin/rmmod]()
 
-/sbin/modinfo
+[/sbin/modinfo]()
 
-/bin/dmesg
+[/bin/dmesg]()
 
-/sbin/lspci
+[/sbin/lspci]()
 
-/usr/bin/lsdev
+[/usr/bin/lsdev]()
 
-/sbin/lsmod
+[/sbin/lsmod]()
 
-/sbin/modprobe
+[/sbin/modprobe]()
 
-/sbin/insmod
+[/sbin/insmod]()
 
-/bin/uname
+[/bin/uname]()
 
-/usr/bin/lsusb
+[/usr/bin/lsusb]()
 
-/etc/sysctl.conf, /etc/sysctl.d/
+[/etc/sysctl.conf, /etc/sysctl.d/]()
 
-/sbin/sysctl
+[/sbin/sysctl]()
 
-udevmonitor
+[udevmonitor]()
 
-udevadm monitor
+[udevadm monitor]()
 
-/etc/udev/
+[/etc/udev/]()
  
 
 ## Topic 202: System Startup
@@ -222,27 +222,27 @@ Linux Standard Base Specification (LSB)
 The following is a partial list of the used files, terms and utilities:
 
 
-/usr/lib/systemd/
+[/usr/lib/systemd/]()
 
-/etc/systemd/
+[/etc/systemd/]()
 
-/run/systemd/
+[/run/systemd/]()
 
-systemctl
+[systemctl]()
 
-systemd-delta
+[systemd-delta]()
 
-/etc/inittab
+[/etc/inittab]()
 
-/etc/init.d/
+[/etc/init.d/]()
 
-/etc/rc.d/
+[/etc/rc.d/]()
 
-chkconfig
+[chkconfig]()
 
-update-rc.d
+[update-rc.d]()
 
-init and telinit
+[init and telinit]()
  
 
 ### 202.2 System recovery (weight: 4)
@@ -266,29 +266,29 @@ Use systemd rescue and emergency modes.
 The following is a partial list of the used files, terms and utilities:
 
 
-mount
+[mount]()
 
-fsck
+[fsck]()
 
-inittab, telinit and init with SysV init
+[inittab, telinit and init with SysV init]()
 
-The contents of /boot/, /boot/grub/ and /boot/efi/
+[The contents of /boot/, /boot/grub/ and /boot/efi/]()
 
-EFI System Partition (ESP)
+[EFI System Partition (ESP)]()
 
-GRUB
+[GRUB]()
 
-grub-install
+[grub-install]()
 
-efibootmgr
+[efibootmgr]()
 
-UEFI shell
+[UEFI shell]()
 
-initrd, initramfs
+[initrd, initramfs]()
 
-Master boot record
+[Master boot record]()
 
-systemctl
+[systemctl]()
  
 
 ### 202.3 Alternate Bootloaders (weight: 2)
@@ -305,25 +305,25 @@ Awareness of systemd-boot and U-Boot
 The following is a partial list of the used files, terms and utilities:
 
 
-syslinux
+[syslinux]()
 
-extlinux
+[extlinux]()
 
-isolinux.bin
+[isolinux.bin]()
 
-isolinux.cfg
+[isolinux.cfg]()
 
-isohdpfx.bin
+[isohdpfx.bin]()
 
-efiboot.img
+[efiboot.img]()
 
-pxelinux.0
+[pxelinux.0]()
 
-pxelinux.cfg/
+[pxelinux.cfg/]()
 
-uefi/shim.efi
+[uefi/shim.efi]()
 
-uefi/grubx64.efi
+[uefi/grubx64.efi]()
  
 
 ## Topic 203: Filesystem and Devices
@@ -343,21 +343,21 @@ Understanding of systemd mount units
 The following is a partial list of the used files, terms and utilities:
 
 
-/etc/fstab
+[/etc/fstab]()
 
-/etc/mtab
+[/etc/mtab]()
 
-/proc/mounts
+[/proc/mounts]()
 
-mount and umount
+[mount and umount]()
 
-blkid
+[blkid]()
 
 [sync]()
 
-swapon
+[swapon]()
 
-swapoff
+[swapoff]()
  
 
 ### 203.2 Maintaining a Linux filesystem (weight: 3)
@@ -374,19 +374,19 @@ Tools and utilities to manipulate XFS
 Awareness of ZFS
 The following is a partial list of the used files, terms and utilities:
 
-mkfs (mkfs.*)
+[mkfs (mkfs.*)]()
 
 [mkswap]()
 
-fsck (fsck.*)
+[fsck (fsck.*)]()
 
-tune2fs, dumpe2fs and debugfs
+[tune2fs, dumpe2fs and debugfs]()
 
-btrfs, btrfs-convert
+[btrfs, btrfs-convert]()
 
-xfs_info, xfs_check, xfs_repair, xfsdump and xfsrestore
+[xfs_info, xfs_check, xfs_repair, xfsdump and xfsrestore]()
 
-smartd, smartctl
+[smartd, smartctl]()
  
 
 ### 203.3 Creating and configuring filesystem options (weight: 2)
@@ -405,13 +405,13 @@ Awareness of CD-ROM filesystem extensions (Joliet, Rock Ridge, El Torito)
 Basic feature knowledge of data encryption (dm-crypt / LUKS)
 The following is a partial list of the used files, terms and utilities:
 
-/etc/auto.master
+[/etc/auto.master]()
 
-/etc/auto.[dir]
+[/etc/auto.[dir]]()
 
-mkisofs
+[mkisofs]()
 
-cryptsetup
+[cryptsetup]()
  
 
 ## Topic 204: Advanced Storage Device Administration
@@ -428,13 +428,13 @@ Software RAID configuration files and utilities
 The following is a partial list of the used files, terms and utilities:
 
 
-mdadm.conf
+[mdadm.conf]()
 
-mdadm
+[mdadm]()
 
-/proc/mdstat
+[/proc/mdstat]()
 
-partition type 0xFD
+[partition type 0xFD]()
  
 
 ### 204.2 Adjusting Storage Device Access (weight: 2)
@@ -454,21 +454,21 @@ Awareness of SAN, including relevant protocols (AoE, FCoE)
 The following is a partial list of the used files, terms and utilities:
 
 
-hdparm, sdparm
+[hdparm, sdparm]()
 
-nvme
+[nvme]()
 
-tune2fs
+[tune2fs]()
 
-fstrim
+[fstrim]()
 
-sysctl
+[sysctl]()
 
-/dev/hd*, /dev/sd*, /dev/nvme*
+[/dev/hd*, /dev/sd*, /dev/nvme*]()
 
-iscsiadm, scsi_id, iscsid and iscsid.conf
+[iscsiadm, scsi_id, iscsid and iscsid.conf]()
 
-WWID, WWN, LUN numbers
+[WWID, WWN, LUN numbers]()
  
 
 ### 204.3 Logical Volume Manager (weight: 3)
@@ -486,17 +486,17 @@ Activating volume groups
 The following is a partial list of the used files, terms and utilities:
 
 
-/sbin/pv*
+[/sbin/pv*]()
 
-/sbin/lv*
+[/sbin/lv*]()
 
-/sbin/vg*
+[/sbin/vg*]()
 
 [mount]()
 
-/dev/mapper/
+[/dev/mapper/]()
 
-lvm.conf
+[lvm.conf]()
  
 
 ## Topic 205: Networking Configuration
@@ -594,27 +594,27 @@ The following is a partial list of the used files, terms and utilities:
 
 [netstat]()
 
-/etc/network/, /etc/sysconfig/network-scripts/
+[/etc/network/, /etc/sysconfig/network-scripts/]()
 
 [ping, ping6]()
 
-traceroute, traceroute6
+traceroute, traceroute6]()
 
 [mtr]()
 
 [hostname]()
 
-System log files such as /var/log/syslog, /var/log/messages and the systemd journal
+[System log files such as /var/log/syslog, /var/log/messages and the systemd journal]()
 
 [dmesg]()
 
-/etc/resolv.conf
+[/etc/resolv.conf]()
 
-/etc/hosts
+[/etc/hosts]()
 
-/etc/hostname, /etc/HOSTNAME
+[/etc/hostname, /etc/HOSTNAME]()
 
-/etc/hosts.allow, /etc/hosts.deny
+[/etc/hosts.allow, /etc/hosts.deny]()
  
 
 ## Topic 206: System Maintenance
@@ -634,7 +634,7 @@ Know where sources are stored by default.
 The following is a partial list of the used files, terms and utilities:
 
 
-/usr/src/
+[/usr/src/]()
 
 [gunzip]()
 
