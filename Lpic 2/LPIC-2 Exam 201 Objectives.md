@@ -598,7 +598,7 @@ The following is a partial list of the used files, terms and utilities:
 
 [ping, ping6]()
 
-traceroute, traceroute6]()
+[traceroute, traceroute6]()
 
 [mtr]()
 
