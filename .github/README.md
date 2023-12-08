@@ -40,6 +40,10 @@ linux commands and any thing basic you need yo know for using linux (for cloud c
 
 ![img](https://github.com/SamanKhalife/linux-commands/blob/main/IMAGES/2222222222222222222.png)
 
+## More info about Linux kernel 
+
+[Linux kernel map](https://makelinux.github.io/kernel/map/)
+
 ## Linux Boot Process
 
 * There are 6 stages of the Linux boot process
