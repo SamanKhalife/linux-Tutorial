@@ -18,13 +18,13 @@ Reloading modified configuration and zone files
 Awareness of dnsmasq, djbdns and PowerDNS as alternate name servers
 The following is a partial list of the used files, terms and utilities:
 
-/etc/named.conf
+[/etc/named.conf]()
 
-/var/named/
+[/var/named/]()
 
 [rndc]()
 
-named-checkconf
+[named-checkconf]()
 
 [kill]()
 
@@ -47,17 +47,17 @@ Layout, content and file location of the BIND zone files
 Various methods to add a new host in the zone files, including reverse zones
 The following is a partial list of the used files, terms and utilities:
 
-/var/named/
+[/var/named/]()
 
-zone file syntax
+[zone file syntax]()
 
-resource record formats
+[resource record formats]()
 
-named-checkzone
+[named-checkzone]()
 
-named-compilezone
+[named-compilezone]()
 
-masterfile-format
+[masterfile-format]()
 
 [dig]()
 
@@ -82,15 +82,15 @@ Awareness of DNSSEC and basic tools
 Awareness of DANE and related records
 The following is a partial list of the used files, terms and utilities:
 
-/etc/named.conf
+[/etc/named.conf]()
 
-/etc/passwd
+[/etc/passwd]()
 
-DNSSEC
+[DNSSEC]()
+ 
+[dnssec-keygen]()
 
-dnssec-keygen
-
-dnssec-signzone
+[dnssec-signzone]()
 
  
 ## Topic 208: HTTP Services
@@ -114,21 +114,21 @@ Using redirect statements in Apache’s configuration files to customise file ac
 The following is a partial list of the used files, terms and utilities:
 
 
-access logs and error logs
+[access logs and error logs]()
 
-.htaccess
+[.htaccess]()
 
-httpd.conf
+[httpd.conf]()
 
-mod_auth_basic, mod_authz_host and mod_access_compat
+[mod_auth_basic, mod_authz_host and mod_access_compat]()
 
-htpasswd
+[htpasswd]()
 
-AuthUserFile, AuthGroupFile
+[AuthUserFile, AuthGroupFile]()
 
-apachectl, apache2ctl
+[apachectl, apache2ctl]()
 
-httpd, apache2
+[httpd, apache2]()
  
 
 ### 208.2 Apache configuration for HTTPS
@@ -149,17 +149,17 @@ Security issues in SSL use, disable insecure protocols and ciphers
 The following is a partial list of the used files, terms and utilities:
 
 
-Apache2 configuration files
+[Apache2 configuration files]()
 
-/etc/ssl/, /etc/pki/
+[/etc/ssl/, /etc/pki/]()
 
-openssl, CA.pl
+[openssl, CA.pl]()
 
-SSLEngine, SSLCertificateKeyFile, SSLCertificateFile
+[SSLEngine, SSLCertificateKeyFile, SSLCertificateFile]()
 
-SSLCACertificateFile, SSLCACertificatePath
+[SSLCACertificateFile, SSLCACertificatePath]()
 
-SSLProtocol, SSLCipherSuite, ServerTokens, ServerSignature, TraceEnable
+[SSLProtocol, SSLCipherSuite, ServerTokens, ServerSignature, TraceEnable]()
  
 
 ### 208.3 Implementing Squid as a caching proxy 
@@ -176,11 +176,11 @@ Client user authentication methods
 Layout and content of ACL in the Squid configuration files
 The following is a partial list of the used files, terms and utilities:
 
-squid.conf
+[squid.conf]()
 
-acl
+[acl]()
 
-http_access
+[http_access]()
  
 
 ### 208.4 Implementing Nginx as a web server and a reverse proxy 
@@ -196,7 +196,7 @@ Reverse Proxy
 Basic Web Server
 The following is a partial list of the used files, terms and utilities:
 
-/etc/nginx/
+[/etc/nginx/]()
 
 [nginx]()
  
@@ -219,21 +219,21 @@ Mapping Windows user names to Linux user names
 User-Level, Share-Level and AD security
 The following is a partial list of the used files, terms and utilities:
 
-smbd, nmbd, winbindd
+[smbd, nmbd, winbindd]()
 
-smbcontrol, smbstatus, testparm, smbpasswd, nmblookup
+[smbcontrol, smbstatus, testparm, smbpasswd, nmblookup]()
 
-samba-tool
+[samba-tool]()
 
 [net]()
 
-smbclient
+[smbclient]()
 
-mount.cifs
+[mount.cifs]()
 
-/etc/samba/
+[/etc/samba/]()
 
-/var/log/samba/
+[/var/log/samba/]()
  
 
 ### 209.2 NFS Server Configuration 
@@ -252,23 +252,23 @@ TCP Wrappers
 Awareness of NFSv4
 The following is a partial list of the used files, terms and utilities:
 
-/etc/exports
+[/etc/exports]()
 
-exportfs
+[exportfs]()
 
 [showmount]()
 
 [nfsstat]()
 
-/proc/mounts
+[/proc/mounts]()
 
-/etc/fstab
+[/etc/fstab]()
 
-rpcinfo
+[rpcinfo]()
 
 [mountd]()
 
-portmapper
+[portmapper]()
 
  
 
@@ -287,19 +287,19 @@ Subnet and dynamically-allocated range setup
 Awareness of DHCPv6 and IPv6 Router Advertisements
 The following is a partial list of the used files, terms and utilities:
 
-dhcpd.conf
+[dhcpd.conf]()
 
-dhcpd.leases
+[dhcpd.leases]()
 
-DHCP Log messages in syslog or systemd journal
+[DHCP Log messages in syslog or systemd journal]()
 
-arp
+[arp]()
 
-dhcpd
+[dhcpd]()
 
-radvd
+[radvd]()
 
-radvd.conf
+[radvd.conf]()
  
 
 ### 210.2 PAM authentication 
@@ -315,15 +315,15 @@ passwd and shadow passwords
 Use sssd for LDAP authentication
 The following is a partial list of the used files, terms and utilities:
 
-/etc/pam.d/
+[/etc/pam.d/]()
 
-pam.conf
+[pam.conf]()
 
-nsswitch.conf
+[nsswitch.conf]()
 
-pam_unix, pam_cracklib, pam_limits, pam_listfile, pam_sss
+[pam_unix, pam_cracklib, pam_limits, pam_listfile, pam_sss]()
 
-sssd.conf
+[sssd.conf]()
  
 
 ### 210.3 LDAP client usage 
@@ -367,9 +367,9 @@ The following is a partial list of the used files, terms and utilities:
 
 [slapd]()
 
-slapd-config
+[slapd-config]()
 
-LDIF
+[LDIF]()
 
 [slapadd]()
 
@@ -377,7 +377,7 @@ LDIF
 
 [slapindex]()
 
-/var/lib/ldap/
+[/var/lib/ldap/]()
 
 [loglevel]()
  
@@ -398,17 +398,17 @@ Basic knowledge of the SMTP protocol
 Awareness of sendmail and exim
 The following is a partial list of the used files, terms and utilities:
 
-Configuration files and commands for postfix
+[Configuration files and commands for postfix]()
 
-/etc/postfix/
+[/etc/postfix/]()
 
-/var/spool/postfix/
+[/var/spool/postfix/]()
 
-sendmail emulation layer commands
+[sendmail emulation layer commands]()
 
-/etc/aliases
+[/etc/aliases]()
 
-mail-related logs in /var/log/
+mail-related logs in /var/log/]()
  
 
 ### 211.2 Managing E-Mail Delivery 
@@ -424,9 +424,9 @@ Use Sieve to filter and sort mail with respect to sender, recipient(s), headers 
 Awareness of procmail
 The following is a partial list of the used files, terms and utilities:
 
-Conditions and comparison operators
-keep, fileinto, redirect, reject, discard, stop
-Dovecot vacation extension
+[Conditions and comparison operators]()
+[keep, fileinto, redirect, reject, discard, stop]()
+[Dovecot vacation extension]()
  
 
 ### 211.3 Managing Mailbox Access
@@ -442,7 +442,7 @@ Basic TLS configuration for Dovecot
 Awareness of Courier
 The following is a partial list of the used files, terms and utilities:
 
-/etc/dovecot/
+[/etc/dovecot/]()
 
 [dovecot.conf]()
 
@@ -469,15 +469,15 @@ List and write filtering and rules that accept or block IP packets based on sour
 Save and reload filtering configurations
 The following is a partial list of the used files, terms and utilities:
 
-/proc/sys/net/ipv4/
+[/proc/sys/net/ipv4/]()
 
-/proc/sys/net/ipv6/
+[/proc/sys/net/ipv6/]()
 
-/etc/services
+[/etc/services]()
 
 [iptables]()
 
-ip6tables
+[ip6tables]()
  
 
 ### 212.2 Managing FTP servers
@@ -492,9 +492,9 @@ Awareness of ProFTPd
 Understanding of passive vs. active FTP connections
 The following is a partial list of the used files, terms and utilities:
 
-vsftpd.conf
+[vsftpd.conf]()
 
-important Pure-FTPd command line options
+[important Pure-FTPd command line options]()
  
 
 ### 212.3 Secure shell (SSH) 
@@ -515,13 +515,13 @@ The following is a partial list of the used files, terms and utilities:
 
 [sshd]()
 
-/etc/ssh/sshd_config
+[/etc/ssh/sshd_config]()
 
-/etc/ssh/
+[/etc/ssh/]()
 
-Private and public key files
+Private and public key files]()
 
-PermitRootLogin, PubKeyAuthentication, AllowUsers, PasswordAuthentication, Protocol
+PermitRootLogin, PubKeyAuthentication, AllowUsers, PasswordAuthentication, Protocol]()
  
 
 ### 212.4 Security tasks 
@@ -560,7 +560,7 @@ Key Knowledge Areas:
 OpenVPN
 The following is a partial list of the used files, terms and utilities:
 
-/etc/openvpn/
+[/etc/openvpn/]()
 
-openvpn
+[openvpn]()
  
