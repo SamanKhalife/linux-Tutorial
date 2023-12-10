@@ -519,9 +519,9 @@ The following is a partial list of the used files, terms and utilities:
 
 [/etc/ssh/]()
 
-Private and public key files]()
+[Private and public key files]()
 
-PermitRootLogin, PubKeyAuthentication, AllowUsers, PasswordAuthentication, Protocol]()
+[PermitRootLogin, PubKeyAuthentication, AllowUsers, PasswordAuthentication, Protocol]()
  
 
 ### 212.4 Security tasks 
