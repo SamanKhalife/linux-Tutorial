@@ -20,17 +20,17 @@ Basic feature knowledge of Let’s Encrypt, ACME and certbot
 Basic feature knowledge of CFSSL
 Partial list of the used files, terms and utilities:
 
-openssl (including relevant subcommands)
+[openssl (including relevant subcommands)]()
 
-OpenSSL configuration
+[OpenSSL configuration]()
 
-PEM, DER, PKCS
+[PEM, DER, PKCS]()
 
-CSR
+[CSR]()
 
-CRL
+[CRL]()
 
-OCSP
+[OCSP]()
  
 
 ### 331.2 X.509 Certificates for Encryption, Signing and Authentication 
@@ -49,11 +49,11 @@ Configure Apache HTTPD with mod_ssl to provide OCSP stapling
 Use OpenSSL for SSL/TLS client and server tests
 Partial list of the used files, terms and utilities:
 
-httpd.conf
+[httpd.conf]()
 
-mod_ssl
+[mod_ssl]()
 
-openssl (including relevant subcommands)
+[openssl (including relevant subcommands)]()
  
 
 ### 331.3 Encrypted File Systems (weight: 3)
@@ -72,19 +72,19 @@ Awareness of LUKS2 features
 Conceptual understanding of Clevis for LUKS devices and Clevis PINs for TMP2 and Network Bound Disk Encryption (NBDE)/Tang
 The following is a partial list of the used files, terms and utilities:
 
-cryptsetup (including relevant subcommands)
+[cryptsetup (including relevant subcommands)
 
-cryptmount
+[cryptmount]()
 
-/etc/crypttab
+[/etc/crypttab]()
 
-ecryptfsd
+[ecryptfsd]()
 
-ecryptfs-* commands
+[ecryptfs-* commands]()
 
-mount.ecryptfs, umount.ecryptfs
+[mount.ecryptfs, umount.ecryptfs]()
 
-pam_ecryptfs
+[pam_ecryptfs]()
  
 
 ### 331.4 DNS and Cryptography (weight: 5)
@@ -109,23 +109,23 @@ Awareness of DNS over TLS and DNS over HTTPS
 Awareness of Multicast DNS
 Partial list of the used files, terms and utilities:
 
-named.conf
+[named.conf]()
 
-dnssec-keygen
+[dnssec-keygen]()
 
-dnssec-signzone
+[dnssec-signzone]()
 
-dnssec-settime
+[dnssec-settime]()
 
-dnssec-dsfromkey
+[dnssec-dsfromkey]()
 
-rndc (including relevant subcommands)
+[rndc (including relevant subcommands)]()
 
 [dig]()
 
-delv
+[delv]()
 
-openssl (including relevant subcommands)
+openssl (including relevant subcommands)]()
  
 
 ## Topic 332: Host Security
@@ -153,35 +153,36 @@ Awareness of polkit
 Awareness of the security advantages of virtualization and containerization
 The following is a partial list of the used files, terms and utilities:
 
-grub.cfg
+[grub.cfg]()
 
-systemctl
+[systemctl]()
 
-getcap
+[getcap]()
 
-setcap
+[setcap]()
 
-capsh
+[capsh]()
 
-sysctl
 
-/etc/sysctl.conf
+[sysctl]()
 
-/etc/usbguard/usbguard-daemon.conf
+[/etc/sysctl.conf]()
 
-/etc/usbguard/rules.conf
+[/etc/usbguard/usbguard-daemon.conf]()
 
-usbguard
+[/etc/usbguard/rules.conf]()
 
-ssh-keygen
+[usbguard]()
 
-/etc/ssh/
+[ssh-keygen]()
 
-~/.ssh/
+[/etc/ssh/]()
 
-/etc/ssh/sshd_config
+[~/.ssh/]()
 
-chroot
+[/etc/ssh/sshd_config]()
+
+[chroot]()
  
 
 ### 332.2 Host Intrusion Detection (weight: 5)
@@ -203,27 +204,27 @@ Configure and use AIDE, including rule management
 Awareness of OpenSCAP
 Partial list of the used files, terms and utilities:
 
-auditd
+[auditd]()
 
-auditctl
+[auditctl]()
 
-ausearch, aureport
+[ausearch, aureport]()
 
-auditd.conf
+[auditd.conf]()
 
-audit.rules
+[audit.rules]()
 
-pam_tty_audit.so
+[pam_tty_audit.so]()
 
-chkrootkit
+[chkrootkit]()
 
-rkhunter
+[rkhunter]()
 
-/etc/rkhunter.conf
+[/etc/rkhunter.conf]()
 
-maldet
+[maldet]()
 
-conf.maldet
+[conf.maldet]()
 
 [rpm]()
 
@@ -231,7 +232,7 @@ conf.maldet
 
 [aide]()
 
-/etc/aide/aide.conf
+[/etc/aide/aide.conf]()
  
 
 ### 332.3 Resource Control (weight: 3)
@@ -250,19 +251,19 @@ Use systemd units to limit the system resources processes can consume
 Awareness of cgmanager and libcgroup utilities
 Partial list of the used files, terms and utilities:
 
-ulimit
+[ulimit]()
 
-/etc/security/limits.conf
+[/etc/security/limits.conf]()
 
-pam_limits.so
+[pam_limits.so]()
 
-/sys/fs/group/
+[/sys/fs/group/]()
 
-/proc/cgroups
+[/proc/cgroups]()
 
-systemd-cgls
+[systemd-cgls]()
 
-systemd-cgtop
+[systemd-cgtop]()
 
  
 
@@ -281,13 +282,13 @@ Understand and manage access control lists
 Understand and manage extended attributes and attribute classes
 Partial list of the used files, terms and utilities:
 
-getfacl
+[getfacl]()
 
-setfacl
+[setfacl]()
 
-getfattr
+[getfattr]()
 
-setfattr
+[setfattr]()
  
 
 ### 333.2 Mandatory Access Control (weight: 5)
@@ -303,47 +304,47 @@ Configure, manage and use SELinux
 Awareness of AppArmor and Smack
 Partial list of the used files, terms and utilities:
 
-getenforce
+[getenforce]()
 
-setenforce
+[setenforce]()
 
-selinuxenabled
+[selinuxenabled]()
 
-getsebool
+[getsebool]()
 
-setsebool
+[setsebool]()
 
-togglesebool
+[togglesebool]()
 
-fixfiles
+[fixfiles]()
 
-restorecon
+[restorecon]()
 
-setfiles
+[setfiles]()
 
-newrole
+[newrole]()
 
-setcon
+[setcon]()
 
-runcon
+[runcon]()
 
-chcon
+[chcon]()
 
-semanage
+[semanage]()
 
-sestatus
+[sestatus]()
 
-seinfo
+[seinfo]()
 
-apol
+[apol]()
 
-seaudit
+[seaudit]()
 
-audit2why
+[audit2why]()
 
-audit2allow
+[audit2allow]()
 
-/etc/selinux/*
+[/etc/selinux/*]()
  
 
  
@@ -366,31 +367,31 @@ Identify and deal with rogue router advertisements and DHCP messages
 Awareness of aircrack-ng and bettercap
 The following is a partial list of the used files, terms and utilities:
 
-radiusd
+[radiusd]()
 
-radmin
+[radmin]()
 
-radtest
+[radtest]()
 
-radclient
+[radclient]()
 
-radlast
+[radlast]()
 
-radwho
+[radwho]()
 
-radiusd.conf
+[radiusd.conf]()
 
-/etc/raddb/*
+[/etc/raddb/*]()
 
-wireshark
+[wireshark]()
 
-tshark
+[tshark]()
 
-tcpdump
+[tcpdump]()
 
-kismet
+[kismet]()
 
-ndpmon
+[ndpmon]()
  
 
 ### 334.2 Network Intrusion Detection (weight: 4)
@@ -406,29 +407,29 @@ Configure and use Snort, including rule management
 Configure and use OpenVAS, including NASL
 Partial list of the used files, terms and utilities:
 
-ntop
+[ntop]()
 
-snort
+[snort]()
 
-snort-stat
+[snort-stat]()
 
-pulledpork.pl
+[pulledpork.pl]()
 
-/etc/snort/*
+[/etc/snort/*]()
 
-openvas-adduser
+[openvas-adduser]()
 
-openvas-rmuser
+[openvas-rmuser]()
 
-openvas-nvt-sync
+[openvas-nvt-sync]()
 
-openvassd
+[openvassd]()
 
-openvas-mkcert
+[openvas-mkcert]()
 
-openvas-feed-update
+[openvas-feed-update]()
 
-/etc/openvas/*
+[/etc/openvas/*]()
 
  
 
@@ -481,25 +482,25 @@ Configure and operate WireGuard servers and clients
 Awareness of L2TP
 Partial list of the used files, terms and utilities:
 
-/etc/openvpn/
+[/etc/openvpn/]()
 
-openvpn
+[openvpn]()
 
-/etc/strongswan.conf
+[/etc/strongswan.conf]()
 
-/etc/strongswan.d/
+[/etc/strongswan.d/]()
 
-/etc/swanctl/swanctl.conf
+[/etc/swanctl/swanctl.conf]()
 
-/etc/swanctl/
+[/etc/swanctl/]()
 
-swanctl
+[swanctl]()
 
-/etc/wireguard/
+[/etc/wireguard/]()
 
 [wg]()
 
-wg-quick
+[wg-quick]()
 
 [ip]()
  
@@ -521,41 +522,41 @@ Conceptual understanding of threats against credentials and confidentiality
 Conceptual understanding of honeypots
 The following is a partial list of the used files, terms and utilities:
 
-Trojans
+[Trojans]()
 
-Viruses
+[Viruses]()
 
-Rootkits
+[Rootkits]()
 
-Keylogger
+[Keylogger]()
 
-DoS and DDoS
+[DoS and DDoS]()
 
-Man in the Middle
+[Man in the Middle]()
 
-ARP and NDP forgery
+[ARP and NDP forgery]()
 
-Rogue Access Points, Routers and DHCP servers
+[Rogue Access Points, Routers and DHCP servers]()
 
-Link layer address and IP address spoofing
+[Link layer address and IP address spoofing]()
 
-Buffer Overflows
+[Buffer Overflows]()
 
-SQL and Code Injections
+[SQL and Code Injections]()
 
-Cross Site Scripting
+[Cross Site Scripting]()
 
-Cross Site Request Forgery
+[Cross Site Request Forgery]()
 
-Privilege escalation
+[Privilege escalation]()
 
-Brute Force Attacks
+[Brute Force Attacks]()
 
-Rainbow tables
+[Rainbow tables]()
 
-Phishing
+[Phishing]()
 
-Social Engineering
+[Social Engineering]()
  
 
 ### 335.2 Penetration Testing (weight: 3)
