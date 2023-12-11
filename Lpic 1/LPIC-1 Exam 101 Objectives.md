@@ -15,11 +15,11 @@ Tools and utilities to manipulate USB devices.
 Conceptual understanding of sysfs, udev and dbus.
 The following is a partial list of the used files, terms and utilities:
 
-[/sys/]()
+[/sys/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/-sys-.md)
 
-[/proc/]()
+[/proc/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/-proc-.md)
 
-[/dev/]()
+[/dev/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/-dev-.md)
 
 [modprobe]()
 
@@ -48,19 +48,19 @@ The following is a partial list of the used files, terms and utilities:
 
 [journalctl](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/journalctl.md)
 
-[BIOS]()
+[BIOS](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/BIOS.md)
 
-[UEFI]()
+[UEFI](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/UEFI.md)
 
-[bootloader]()
+[bootloader](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/bootloader.md)
 
-[kernel]()
+[kernel](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/kernel.md)
 
-[initramfs]()
+[initramfs](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/initramfs.md)
 
 [init]()
 
-[SysVinit]()
+[SysVinit](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/SysVinit.md)
 
 [systemd]()
  
@@ -80,13 +80,13 @@ Properly terminate processes.
 Awareness of acpid.
 The following is a partial list of the used files, terms and utilities:
 
-/etc/inittab
+[/etc/inittab]()
 
 [shutdown]()
 
 [init]()
 
-[/etc/init.d/]()
+[/etc/init.d/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/-etc-init.d-.md)
 
 [telinit](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/telinit.md)
 
@@ -94,9 +94,9 @@ The following is a partial list of the used files, terms and utilities:
 
 [systemctl]()
 
-[/etc/systemd/]()
+[/etc/systemd/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/-etc-systemd-.md)
 
-[/usr/lib/systemd/]()
+[/usr/lib/systemd/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/-user-lib-systemd-.md)
 
 [wall]()
  
@@ -124,7 +124,7 @@ The following is a partial list of the used files, terms and utilities:
 
 [/boot filesystem]()
 
-[EFI System Partition (ESP)]()
+[EFI System Partition (ESP)](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/EFI%20System%20Partition.md)
 
 [swap space]()
 
@@ -148,11 +148,11 @@ The following is a partial list of the used files, terms and utilities:
 
 [menu.lst, grub.cfg and grub.conf]()
 
-[grub-install]()
+[grub-install](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/grub-install.md)
 
-[grub-mkconfig]()
+[grub-mkconfig](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/grub-mkconfig.md)
 
-[MBR]()
+[MBR](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/MBR.md)
  
 
 ### 102.3 Manage shared libraries
@@ -172,9 +172,9 @@ The following is a partial list of the used files, terms and utilities:
 
 [ldconfig]()
 
-[/etc/ld.so.conf]()
+[/etc/ld.so.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/-etc-ld.so.conf.md)
 
-[LD_LIBRARY_PATH]()
+[LD_LIBRARY_PATH](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/LD_LIBRARY_PATH.md)
  
 
 ### 102.4 Use Debian package management
@@ -190,11 +190,11 @@ Obtain package information like version, content, dependencies, package integrit
 Awareness of apt.
 The following is a partial list of the used files, terms and utilities:
 
-[/etc/apt/sources.list]()
+[/etc/apt/sources.list](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/-etc-apt-source.list.md)
 
 [dpkg]()
 
-[dpkg-reconfigure]()
+[dpkg-reconfigure](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/dpkg-reconfigure.md)
 
 [apt-get]()
 
@@ -216,11 +216,11 @@ The following is a partial list of the used files, terms and utilities:
 
 [rpm]()
 
-[rpm2cpio]()
+[rpm2cpio](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/rpm2cpio.md)
 
-[/etc/yum.conf]()
+[/etc/yum.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/-etc-yum.conf.md)
 
-[/etc/yum.repos.d/]()
+[/etc/yum.repos.d/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/-etc-yum.repos%2Cd.md)
 
 [yum]()
 
@@ -242,17 +242,17 @@ Understand Linux extensions which integrate Linux with a virtualization product
 Awareness of cloud-init
 The following is a partial list of the used files, terms and utilities:
 
-[Virtual machine]()
+[Virtual machine](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/Virtual%20machine.md)
 
-[Linux container]()
+[Linux container](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/Linux%20container.md)
 
-[Application container]()
+[Application container](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/Application%20container.mdv)
 
-[Guest drivers]()
+[Guest drivers](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/Guest%20drivers.md)
 
-[SSH host keys]()
+[SSH host keys](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/SSH%20host%20keys.md)
 
-[D-Bus machine id]()
+[D-Bus machine id](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/D-Bus%20machine%20id.mdv)
  
 
 ## Topic 103: GNU and Unix Commands
@@ -294,9 +294,9 @@ The following is a partial list of the used files, terms and utilities:
 
 [history]()
 
-[.bash_history]()
+[.bash_history](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/.bash_history.md)
 
-[Quoting]()
+[Quoting](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/Quoting.md)
  
 
 ### 103.2 Process text streams using filters
@@ -329,9 +329,9 @@ The following is a partial list of the used files, terms and utilities:
 
 [sed]()
 
-[sha256sum]()
+[sha256sum](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/sha256sum.md)
 
-[sha512sum]()
+[sha512sum](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/sha512sum.md)
 
 [sort]()
 
@@ -513,7 +513,7 @@ The following is a partial list of the used files, terms and utilities:
 
 [sed]()
 
-[regex(7)]()
+[regex(7)](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/regex(7).md)
  
 
 ### 103.8 Basic file editing
@@ -557,13 +557,13 @@ Key Knowledge Areas:
 Manage MBR and GPT partition tables
 Use various mkfs commands to create various filesystems such as:
 
-[ext2/ext3/ext4]()
+[ext2/ext3/ext4](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/ext2-ext3-ext4.md)
 
-[XFS]()
+[XFS](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/XFS.md)
 
-[VFAT]()
+[VFAT](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/VFAT.md)
 
-[exFAT]()
+[exFAT](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/exFAT.md)
 
 Basic feature knowledge of Btrfs, including multi-device filesystems, compression and subvolumes.
 
@@ -625,9 +625,9 @@ Use of labels and UUIDs for identifying and mounting file systems.
 Awareness of systemd mount units.
 The following is a partial list of the used files, terms and utilities:
 
-[/etc/fstab]()
+[/etc/fstab](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/-etc-fstab.md)
 
-[/media/]()
+[/media/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/-media-.md)
 
 [mount]()
 
