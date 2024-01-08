@@ -667,7 +667,7 @@ iptables   -t       nat        -I        FORWARDING          .     -P     tcp   
 
 ### chains that packets will go through in iptable
 
-![img](IMAGES/4444444444444444444.png)
+![img](https://github.com/SamanKhalife/linux-Tutorial/blob/main/IMAGES/4444444444444444444.png)
 
 ### If you live in countries that are embargoed by some companies and applications, you can use some thing like DNS changing for using the apps.
 
@@ -859,7 +859,7 @@ sudo modprobe kvm
 
 #### let's see the 2 types of hypervisors. First type 2, since it's easier to understand.
 
-![img](IMAGES/5555555555555555555.png)
+![img](https://github.com/SamanKhalife/linux-Tutorial/blob/main/IMAGES/5555555555555555555.png)
 
 **Type 2 Hypervisor**
 
@@ -926,7 +926,7 @@ PaaS provides a computing platform where the underlying infrastructure (such as 
 
 SaaS providers are cloud-based applications that users access on demand from the internet without needing to install or maintain the software. Examples include GitHub, Google Docs, Slack, and Adobe Creative Cloud. SaaS applications are popular among businesses and general users given that they’re often easy to adopt, accessible from any device, and have free, premium, and enterprise versions of their applications. Like PaaS, SaaS abstracts away the underlying infrastructure of the software application so that users are only exposed to the interface they interact with.
 
-![img](IMAGES/7777777777777777777.png)
+![img](https://github.com/SamanKhalife/linux-Tutorial/blob/main/IMAGES/7777777777777777777.png)
 
 ## Cloud Environments
 
@@ -956,7 +956,7 @@ Multi-cloud (also referred to as multi cloud or multicloud) is a concept that re
 
 ## SLA(Service Level agreement) / SLI(Service Level Indicators) / SLO(Service Level Objectives)
 
-![img](IMAGES/6666666666666666666.png)
+![img](https://github.com/SamanKhalife/linux-Tutorial/blob/main/IMAGES/6666666666666666666.png)
 
 If the running time and availability of a system cannot be measured, it is very difficult to maintain and operate the system that is already online, which often causes the maintenance and operation team to continue to be in the state of a fire brigade, and when the root cause of the problem is finally found, it may be the development There is a problem with the code written by the team.
 
