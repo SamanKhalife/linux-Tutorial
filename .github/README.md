@@ -1000,8 +1000,15 @@ MTBF is the predicted elapsed time between inherent failures of a mechanical or 
 
 MTTF denotes the expected time to failure for a non-repairable system.
 
+
+## books that you need to read as sre
+
+- [incident-management](https://www.atlassian.com/incident-management/get-the-handbook)
+
+
 ## Sources I get help from
 
 * Digital ocean
 * google youtube chanel
 * some open source projects
+
