@@ -1004,6 +1004,9 @@ MTTF denotes the expected time to failure for a non-repairable system.
 ## books that you need to read as sre
 
 - [incident-management](https://www.atlassian.com/incident-management/get-the-handbook)
+- [Building Secure & Reliable Systems](https://sre.google/books/)
+- [The Site Reliability Workbook](https://sre.google/books/)
+- [Site Reliability Engineering](https://sre.google/books/)
 
 
 ## Sources I get help from
