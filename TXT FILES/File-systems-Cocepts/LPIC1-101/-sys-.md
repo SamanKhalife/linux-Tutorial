@@ -1,3 +1,6 @@
+# /sys/
+
+
 1. **Demystifying the /sys/ Directory in Linux: A Comprehensive Guide**
    - Unveiling the secrets of the `/sys/` directory and its role in the Linux ecosystem.
 
@@ -19,4 +22,3 @@
 7. **Linux Kernel Administration Essentials: A Primer on /sys/ Management**
    - Essential knowledge and best practices for effective Linux kernel administration using `/sys/`.
 
-Remember, the title should reflect the tone and depth of the content you plan to cover. If you have a specific angle or focus, feel free to let me know for a more tailored approach!
