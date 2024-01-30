@@ -82,7 +82,7 @@ The following is a partial list of the used files, terms and utilities:
 
 [/etc/inittab]()
 
-[shutdown]()
+[shutdown](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/shutdown.md)
 
 [init]()
 
