@@ -1,7 +1,7 @@
 # /sys/
 
 
-1. **Demystifying the /sys/ Directory in Linux: A Comprehensive Guide**
+1. **Demystifying the `/sys/` Directory in Linux: A Comprehensive Guide**
    - Unveiling the secrets of the `/sys/` directory and its role in the Linux ecosystem.
 
 2. **Exploring the Kernel's Heart: An In-Depth Look into /sys/ in Linux**
