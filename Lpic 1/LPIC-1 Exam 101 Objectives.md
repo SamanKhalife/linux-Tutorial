@@ -23,9 +23,9 @@ The following is a partial list of the used files, terms and utilities:
 
 [modprobe]()
 
-[lsmod]()
+[lsmod](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/lsmod.md)
 
-[lspci]()
+[lspci](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/lspci.md)
 
 [lsusb](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/lsusb.md)
  
@@ -58,11 +58,11 @@ The following is a partial list of the used files, terms and utilities:
 
 [initramfs](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/initramfs.md)
 
-[init]()
+[init](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/init.md)
 
 [SysVinit](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/SysVinit.md)
 
-[systemd]()
+[systemd](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/systemd.md)
  
 
 ### 101.3 Change runlevels / boot targets and shutdown or reboot system
@@ -84,21 +84,21 @@ The following is a partial list of the used files, terms and utilities:
 
 [shutdown](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/shutdown.md)
 
-[init]()
+[init](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/init.md)
 
 [/etc/init.d/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/-etc-init.d-.md)
 
 [telinit](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/telinit.md)
 
-[systemd]()
+[systemd](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/systemd.md)
 
-[systemctl]()
+[systemctl](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/systemctl.md)
 
 [/etc/systemd/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/-etc-systemd-.md)
 
 [/usr/lib/systemd/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/-user-lib-systemd-.md)
 
-[wall]()
+[wall](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/wall.md)
  
 
 ## Topic 102: Linux Installation and Package Management
@@ -130,7 +130,7 @@ The following is a partial list of the used files, terms and utilities:
 
 [mount points]()
 
-[partitions]()
+[partitions](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/partitions.md)
  
 
 ### 102.2 Install a boot manager
@@ -168,9 +168,9 @@ Identify the typical locations of system libraries.
 Load shared libraries.
 The following is a partial list of the used files, terms and utilities:
 
-[ldd]()
+[ldd](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ldd.md)
 
-[ldconfig]()
+[ldconfig](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ldconfig.md)
 
 [/etc/ld.so.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/-etc-ld.so.conf.md)
 
@@ -196,7 +196,7 @@ The following is a partial list of the used files, terms and utilities:
 
 [dpkg-reconfigure](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/dpkg-reconfigure.md)
 
-[apt-get]()
+[apt-get](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/apt-get.md)
 
 [apt-cache]()
  
@@ -214,7 +214,7 @@ Determine what files a package provides, as well as find which package a specifi
 Awareness of dnf.
 The following is a partial list of the used files, terms and utilities:
 
-[rpm]()
+[rpm](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/rpm.md)
 
 [rpm2cpio](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/rpm2cpio.md)
 
@@ -272,27 +272,27 @@ The following is a partial list of the used files, terms and utilities:
 
 [bash]()
 
-[echo]()
+[echo](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/echo.md)
 
-[env]()
+[env](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/env.md)
 
-[export]()
+[export](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/export.md)
 
-[pwd]()
+[pwd](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/pwd.md)
 
-[set]()
+[set](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/set.md)
 
 [unset]()
 
-[type]()
+[type](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/type.md)
 
-[which]()
+[which](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/which.md)
 
-[man]()
+[man](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/man.md)
 
-[uname]()
+[uname](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/uname.md)
 
-[history]()
+[history](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/history.md)
 
 [.bash_history](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/.bash_history.md)
 
@@ -311,43 +311,43 @@ The following is a partial list of the used files, terms and utilities:
 
 [bzcat]()
 
-[cat]()
+[cat](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/cat.md)
 
-[cut]()
+[cut](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/cut.md)
 
-[head]()
+[head](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/head.md)
 
-[less]()
+[less](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/less.md)
 
 [md5sum]()
 
-[nl]()
+[nl](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/nl.md)
 
-[od]()
+[od](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/od.md)
 
-[paste]()
+[paste](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/paste.md)
 
-[sed]()
+[sed](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/sed.md)
 
 [sha256sum](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/sha256sum.md)
 
 [sha512sum](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/sha512sum.md)
 
-[sort]()
+[sort](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/sort.md)
 
-[split]()
+[split](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/split.md)
 
-[tail]()
+[tail](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/tail.md)
 
-[tr]()
+[tr](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/tr.md)
 
-[uniq]()
+[uniq](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/uniq.md)
 
 [wc]()
 
 [xzcat]()
 
-[zcat]()
+[zcat](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/zcat.md)
  
 
 ### 103.3 Perform basic file management
@@ -365,39 +365,39 @@ Using find to locate and act on files based on type, size, or time.
 Usage of tar, cpio and dd.
 The following is a partial list of the used files, terms and utilities:
 
-[cp]()
+[cp](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/cp.md)
 
-[find]()
+[find](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/find.md)
 
-[mkdir]()
+[mkdir](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/mkdir.md)
 
-[mv]()
+[mv](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/mv.md)
 
-[ls]()
+[ls](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ls.md)
 
-[rm]()
+[rm](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/rm.md)
 
-[rmdir]()
+[rmdir](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/rmdir.md)
 
-[touch]()
+[touch](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/touch.md)
 
-[tar]()
+[tar](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/tar.md)
 
-[cpio]()
+[cpio](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/cpio.md)
 
-[dd]()
+[dd](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/dd.md)
 
-[file]()
+[file](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/file.md)
 
-[gzip]()
+[gzip](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/gzip.md)
 
-[gunzip]()
+[gunzip](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/gunzip.md)
 
-[bzip2]()
+[bzip2](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/bzip2.md)
 
 [bunzip2]()
 
-[xz]()
+[xz](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/xz.md)
 
 [unxz]()
 
@@ -417,9 +417,9 @@ Use the output of one command as arguments to another command.
 Send output to both stdout and a file.
 The following is a partial list of the used files, terms and utilities:
 
-[tee]()
+[tee](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/tee.md)
 
-[xargs]()
+[xargs](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/xargs.md)
 
  
 
@@ -439,33 +439,33 @@ The following is a partial list of the used files, terms and utilities:
 
 &
 
-[bg]()
+[bg](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/bg.md)
 
-[fg]()
+[fg](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/fg.md)
 
-[jobs]()
+[jobs](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/jobs.md)
 
-[kill]()
+[kill](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/kill.md)
 
-[nohup]()
+[nohup](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/nohup.md)
 
-[ps]()
+[ps](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ps.md)
 
-[top]()
+[top](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/top.md)
 
-[free]()
+[free](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/free.md)
 
-[uptime]()
+[uptime](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/uptime.md)
 
-[pgrep]()
+[pgrep](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/pgrep.md)
 
-[pkill]()
+[pkill](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/pkill.md)
 
-[killall]()
+[killall](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/killall.md)
 
-[watch]()
+[watch](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/watch.md)
 
-[screen]()
+[screen](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/screen.md)
 
 [tmux]()
  
@@ -482,13 +482,13 @@ Run a program with higher or lower priority than the default.
 Change the priority of a running process.
 The following is a partial list of the used files, terms and utilities:
 
-[nice]()
+[nice](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/nice.md)
 
-[ps]()
+[ps](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ps.md)
 
-[renice]()
+[renice](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/renice.md)
 
-[top]()
+[top](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/top.md)
  
 
 ### 103.7 Search text files using regular expressions
@@ -505,7 +505,7 @@ Use regular expression tools to perform searches through a filesystem or file co
 Use regular expressions to delete, change and substitute text.
 The following is a partial list of the used files, terms and utilities:
 
-[grep]()
+[grep](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/grep.md)
 
 [egrep]()
 
