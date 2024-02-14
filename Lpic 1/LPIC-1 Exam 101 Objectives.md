@@ -569,13 +569,13 @@ Basic feature knowledge of Btrfs, including multi-device filesystems, compressio
 
 The following is a partial list of the used files, terms and utilities:
 
-[fdisk]()
+[fdisk](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/fdisk.md)
 
 [gdisk]()
 
 [parted]()
 
-[mkfs]()
+[mkfs](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/mkfs.md)
 
 [mkswap]()
  
@@ -592,17 +592,17 @@ Monitor free space and inodes.
 Repair simple filesystem problems.
 The following is a partial list of the used files, terms and utilities:
 
-[du]()
+[du](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/du.md)
 
-[df]()
+[df](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/df.md)
 
-[fsck]()
+[fsck](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/fsck.md)
 
-[e2fsck]()
+[e2fsck](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/e2fsck.md)
 
 [mke2fs]()
 
-[tune2fs]()
+[tune2fs](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/tune2fs.md)
 
 [xfs_repair]()
 
@@ -629,13 +629,13 @@ The following is a partial list of the used files, terms and utilities:
 
 [/media/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/-media-.md)
 
-[mount]()
+[mount](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/mount.md)
 
 [umount]()
 
-[blkid]()
+[blkid](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/blkid.md)
 
-[lsblk]()
+[lsblk](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/lsblk.md)
  
 
 ### 104.4 Removed
@@ -653,13 +653,13 @@ Know how to change the file creation mask.
 Use the group field to grant file access to group members.
 The following is a partial list of the used files, terms and utilities:
 
-[chmod]()
+[chmod](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/chmod.md)
 
 [umask]()
 
-[chown]()
+[chown](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/chown.md)
 
-[chgrp]()
+[chgrp](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/chgrp.md)
  
 
 ### 104.6 Create and change hard and symbolic links
@@ -675,9 +675,9 @@ Copying versus linking files.
 Use links to support system administration tasks.
 The following is a partial list of the used files, terms and utilities:
 
-[ln]()
+[ln](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ln.md)
 
-[ls]()
+[ls](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ls.md)
  
 
 ### 104.7 Find system files and place files in the correct location
@@ -692,14 +692,14 @@ Find files and commands on a Linux system.
 Know the location and purpose of important file and directories as defined in the FHS.
 The following is a partial list of the used files, terms and utilities:
 
-[find]()
+[find](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/find.md)
 
-[locate]()
+[locate](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/locate.md)
 
 [updatedb]()
 
 [whereis]()
 
-[which]()
+[which](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/which.md)
 
-[type]()
+[type](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/type.md)
