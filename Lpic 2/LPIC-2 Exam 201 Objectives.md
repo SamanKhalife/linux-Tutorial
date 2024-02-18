@@ -20,25 +20,25 @@ Match / correlate system symptoms with likely problems.
 Estimate throughput and identify bottlenecks in a system including networking.
 The following is a partial list of the used files, terms and utilities:
 
-[iostat]()
+[iostat](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/iostat.md)
 
-[iotop]()
+[iotop](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/iotop.md)
 
-[vmstat]()
+[vmstat](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/vmstat.md)
 
-[netstat]()
+[netstat](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/netstat.md)
 
-[ss]()
+[ss](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ss.md)
 
 [iptraf]()
 
-[pstree, ps]()
+[pstree, ps](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ps.md)
 
-[w]()
+[w](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/w.md)
 
-[lsof]()
+[lsof](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/lsof.md)
 
-[top]()
+[top](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/top.md)
 
 [htop]()
 
