@@ -40,13 +40,13 @@ The following is a partial list of the used files, terms and utilities:
 
 [top](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/top.md)
 
-[htop]()
+[htop](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/htop.md)
 
-[uptime]()
+[uptime](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/uptime.md)
 
-[sar]()
+[sar](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/sar.md)
 
-[swap]()
+[swap](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/swap.md)
 
 [processes blocked on I/O]()
 
@@ -73,7 +73,7 @@ Graph the trend of capacity usage.
 Awareness of monitoring solutions such as Icinga2, Nagios, collectd, MRTG and Cacti
 The following is a partial list of the used files, terms and utilities:
 
-[diagnose]()
+[diagnose](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/diagnose.md)
 
 [predict growth]()
 
@@ -125,17 +125,17 @@ Use DKMS to compile kernel modules.
 Awareness of dracut
 The following is a partial list of the used files, terms and utilities:
 
-[mkinitrd]()
+[mkinitrd](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/mkinitrd.md)
 
 [mkinitramfs]()
 
-[make]()
+[make](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/make.md)
 
 [make targets (all, config, xconfig, menuconfig, gconfig, oldconfig, mrproper, zImage, bzImage, modules, modules_install, rpm-pkg, binrpm-pkg, deb-pkg)]()
 
-[gzip]()
+[gzip](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/gzip.md)
 
-[bzip2]()
+[bzip2](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/bzip2.md)
 
 [module tools]()
 
@@ -143,7 +143,7 @@ The following is a partial list of the used files, terms and utilities:
 
 [/lib/modules/kernel-version/]()
 
-[depmod]()
+[depmod](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/depmod.md)
 
 [dkms]()
  
@@ -228,7 +228,7 @@ The following is a partial list of the used files, terms and utilities:
 
 [/run/systemd/]()
 
-[systemctl]()
+[systemctl](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/systemctl.md)
 
 [systemd-delta]()
 
@@ -238,11 +238,11 @@ The following is a partial list of the used files, terms and utilities:
 
 [/etc/rc.d/]()
 
-[chkconfig]()
+[chkconfig](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/chkconfig.md)
 
 [update-rc.d]()
 
-[init and telinit]()
+[init and telinit](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/init.md)
  
 
 ### 202.2 System recovery (weight: 4)
@@ -266,9 +266,9 @@ Use systemd rescue and emergency modes.
 The following is a partial list of the used files, terms and utilities:
 
 
-[mount]()
+[mount](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/mount.md)
 
-[fsck]()
+[fsck](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/fsck.md)
 
 [inittab, telinit and init with SysV init]()
 
@@ -276,7 +276,7 @@ The following is a partial list of the used files, terms and utilities:
 
 [EFI System Partition (ESP)]()
 
-[GRUB]()
+[GRUB](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/GRUB.md)
 
 [grub-install]()
 
@@ -288,7 +288,7 @@ The following is a partial list of the used files, terms and utilities:
 
 [Master boot record]()
 
-[systemctl]()
+[systemctl](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/systemctl.md)
  
 
 ### 202.3 Alternate Bootloaders (weight: 2)
@@ -305,9 +305,9 @@ Awareness of systemd-boot and U-Boot
 The following is a partial list of the used files, terms and utilities:
 
 
-[syslinux]()
+[syslinux](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/syslinux.md)
 
-[extlinux]()
+[extlinux](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/extlinux.md)
 
 [isolinux.bin]()
 
@@ -355,9 +355,9 @@ The following is a partial list of the used files, terms and utilities:
 
 [sync]()
 
-[swapon]()
+[swapon](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/swapon.md)
 
-[swapoff]()
+[swapoff](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/swapoff.md)
  
 
 ### 203.2 Maintaining a Linux filesystem (weight: 3)
