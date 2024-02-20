@@ -26,11 +26,11 @@ The following is a partial list of the used files, terms and utilities:
 
 [named-checkconf]()
 
-[kill]()
+[kill](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/kill.md)
 
-[host]()
+[host](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/host.md)
 
-[dig]()
+[dig](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/dig.md)
  
 
 ### 207.2 Create and maintain DNS zones 
@@ -59,11 +59,11 @@ The following is a partial list of the used files, terms and utilities:
 
 [masterfile-format]()
 
-[dig]()
+[dig](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/dig.md)
 
-[nslookup]()
+[nslookup](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/nslookup.md)
 
-[host]()
+[host](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/host.md)
  
 
 ### 207.3 Securing a DNS server 
@@ -122,7 +122,7 @@ The following is a partial list of the used files, terms and utilities:
 
 [mod_auth_basic, mod_authz_host and mod_access_compat]()
 
-[htpasswd]()
+[htpasswd](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/htpasswd.md)
 
 [AuthUserFile, AuthGroupFile]()
 
@@ -258,7 +258,7 @@ The following is a partial list of the used files, terms and utilities:
 
 [showmount]()
 
-[nfsstat]()
+[nfsstat](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/nfsstat.md)
 
 [/proc/mounts]()
 
@@ -266,9 +266,9 @@ The following is a partial list of the used files, terms and utilities:
 
 [rpcinfo]()
 
-[mountd]()
+[mountd](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/mountd.md)
 
-[portmapper]()
+[portmapper](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/portmapper.md)
 
  
 
@@ -293,13 +293,13 @@ The following is a partial list of the used files, terms and utilities:
 
 [DHCP Log messages in syslog or systemd journal]()
 
-[arp]()
+[arp](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/arp.md)
 
-[dhcpd]()
+[dhcpd](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/dhcpd.md)
 
-[radvd]()
+[radvd](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/radvd.md)
 
-[radvd.conf]()
+[radvd.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/radvd.conf.md)
  
 
 ### 210.2 PAM authentication 
@@ -317,13 +317,13 @@ The following is a partial list of the used files, terms and utilities:
 
 [/etc/pam.d/]()
 
-[pam.conf]()
+[pam.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/pam.conf.md)
 
-[nsswitch.conf]()
+[nsswitch.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/nsswitch.conf.md)
 
 [pam_unix, pam_cracklib, pam_limits, pam_listfile, pam_sss]()
 
-[sssd.conf]()
+[sssd.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/sssd.conf.md)
  
 
 ### 210.3 LDAP client usage 
@@ -475,9 +475,9 @@ The following is a partial list of the used files, terms and utilities:
 
 [/etc/services]()
 
-[iptables]()
+[iptables](https://github.com/SamanKhalife/linux-Tutorial/tree/main/Firewalls/Iptables)
 
-[ip6tables]()
+[ip6tables](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/ip6tables.md)
  
 
 ### 212.2 Managing FTP servers
@@ -492,7 +492,7 @@ Awareness of ProFTPd
 Understanding of passive vs. active FTP connections
 The following is a partial list of the used files, terms and utilities:
 
-[vsftpd.conf]()
+[vsftpd.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/vsftpd.conf.md)
 
 [important Pure-FTPd command line options]()
  
@@ -511,7 +511,7 @@ Managing and using server and client keys to login with and without password
 Usage of multiple connections from multiple hosts to guard against loss of connection to remote host following configuration changes
 The following is a partial list of the used files, terms and utilities:
 
-[ssh]()
+[ssh](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ssh.md)
 
 [sshd]()
 
