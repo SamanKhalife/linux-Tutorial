@@ -20,17 +20,17 @@ Basic feature knowledge of Let’s Encrypt, ACME and certbot
 Basic feature knowledge of CFSSL
 Partial list of the used files, terms and utilities:
 
-[openssl (including relevant subcommands)]()
+[openssl (including relevant subcommands)](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/openssl%20(including%20relevant%20subcommands).md)
 
-[OpenSSL configuration]()
+[OpenSSL configuration](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/OpenSSL%20configuration.md)
 
-[PEM, DER, PKCS]()
+[PEM, DER, PKCS](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/PEM%2C%20DER%2C%20PKCS.md)
 
-[CSR]()
+[CSR](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/CSR.md)
 
-[CRL]()
+[CRL](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/CRL.md)
 
-[OCSP]()
+[OCSP](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/OCSP.md)
  
 
 ### 331.2 X.509 Certificates for Encryption, Signing and Authentication 
@@ -49,11 +49,11 @@ Configure Apache HTTPD with mod_ssl to provide OCSP stapling
 Use OpenSSL for SSL/TLS client and server tests
 Partial list of the used files, terms and utilities:
 
-[httpd.conf]()
+[httpd.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/httpd.conf.md)
 
-[mod_ssl]()
+[mod_ssl](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/mod_ssl.md)
 
-[openssl (including relevant subcommands)]()
+[openssl (including relevant subcommands)](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/openssl%20(including%20relevant%20subcommands).md)
  
 
 ### 331.3 Encrypted File Systems (weight: 3)
@@ -72,19 +72,19 @@ Awareness of LUKS2 features
 Conceptual understanding of Clevis for LUKS devices and Clevis PINs for TMP2 and Network Bound Disk Encryption (NBDE)/Tang
 The following is a partial list of the used files, terms and utilities:
 
-[cryptsetup (including relevant subcommands)
+[cryptsetup (including relevant subcommands)](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/cryptsetup%20(including%20relevant%20subcommands).md)
 
-[cryptmount]()
+[cryptmount](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/cryptmount.md)
 
-[/etc/crypttab]()
+[/etc/crypttab](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/-etc-crypttab.md)
 
-[ecryptfsd]()
+[ecryptfsd](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/ecryptfsd.md)
 
-[ecryptfs-* commands]()
+[ecryptfs-* commands](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/ecryptfs-%20commands.md)
 
-[mount.ecryptfs, umount.ecryptfs]()
+[mount.ecryptfs, umount.ecryptfs](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/mount.ecryptfs%2C%20umount.ecryptfs.md)
 
-[pam_ecryptfs]()
+[pam_ecryptfs](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/pam_ecryptfs.md)
  
 
 ### 331.4 DNS and Cryptography (weight: 5)
@@ -109,23 +109,23 @@ Awareness of DNS over TLS and DNS over HTTPS
 Awareness of Multicast DNS
 Partial list of the used files, terms and utilities:
 
-[named.conf]()
+[named.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/named.conf.md)
 
-[dnssec-keygen]()
+[dnssec-keygen](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/dnssec-signkey.md)
 
-[dnssec-signzone]()
+[dnssec-signzone](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/dnssec-signzone.md)
 
-[dnssec-settime]()
+[dnssec-settime](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/dnssec-settime.md)
 
 [dnssec-dsfromkey]()
 
 [rndc (including relevant subcommands)]()
 
-[dig]()
+[dig](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/dig.md)
 
-[delv]()
+[delv](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/delv.md)
 
-openssl (including relevant subcommands)]()
+[openssl (including relevant subcommands)](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/openssl%20(including%20relevant%20subcommands).md)
  
 
 ## Topic 332: Host Security
