@@ -14,17 +14,17 @@ The following is a partial list of the used files, terms and utilities:
 
 .
 
-[source]()
+[source](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/source.md)
 
 [/etc/bash.bashrc]()
 
 [/etc/profile]()
 
-[env]()
+[env](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/env.md)
 
-[export]()
+[export](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/export.md)
 
-[set]()
+[set](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/set.md)
 
 [unset]()
 
@@ -38,9 +38,9 @@ The following is a partial list of the used files, terms and utilities:
 
 [~/.bash_logout]()
 
-[function]()
+[function](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/function.md)
 
-[alias]()
+[alias](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/alias.md)
  
 
 ### 105.2 Customize or write simple scripts
@@ -59,19 +59,19 @@ Correctly select the script interpreter through the shebang (#!) line.
 Manage the location, ownership, execution and suid-rights of scripts.
 The following is a partial list of the used files, terms and utilities:
 
-[for]()
+[for](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/for.md)
 
-[while]()
+[while](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/while.md)
 
 [test]()
 
-[if]()
+[if](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/if.md)
 
-[read]()
+[read](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/read.md)
 
-[seq]()
+[seq](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/seq.md)
 
-[exec]()
+[exec](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/exec.md)
 
 [||]()
 
@@ -103,11 +103,11 @@ The following is a partial list of the used files, terms and utilities:
 
 [xhost]()
 
-[xauth]()
+[xauth](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/xauth.md)
 
-[DISPLAY]()
+[DISPLAY](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/DISPLAY.md)
 
-[X]()
+[X](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/X.md)
  
 
 ### 106.2 Graphical Desktops
@@ -121,9 +121,9 @@ Awareness of major desktop environments
 Awareness of protocols to access remote desktop sessions
 The following is a partial list of the used files, terms and utilities:
 
-[KDE]()
+[KDE](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/KDE.md)
 
-[Gnome]()
+[Gnome](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/Gnome.md)
 
 [Xfce]()
 
