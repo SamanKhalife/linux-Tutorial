@@ -193,7 +193,7 @@ The following is a partial list of the used files, terms and utilities:
 
 [/etc/skel/]()
 
-[chage]()
+[chage](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/chage.md)
 
 [getent]()
 
