@@ -454,15 +454,15 @@ Awareness of SAN, including relevant protocols (AoE, FCoE)
 The following is a partial list of the used files, terms and utilities:
 
 
-[hdparm, sdparm]()
+[hdparm, sdparm](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/hdparm.md)
 
-[nvme]()
+[nvme](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/nvme.md)
 
-[tune2fs]()
+[tune2fs](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/tune2fs.md)
 
-[fstrim]()
+[fstrim](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/fstrim.md)
 
-[sysctl]()
+[sysctl](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/sysctl.md)
 
 [/dev/hd*, /dev/sd*, /dev/nvme*]()
 
@@ -492,7 +492,7 @@ The following is a partial list of the used files, terms and utilities:
 
 [/sbin/vg*]()
 
-[mount]()
+[mount](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/mount.md)
 
 [/dev/mapper/]()
 
@@ -514,13 +514,13 @@ Configuring basic access to wireless networks
 The following is a partial list of the used files, terms and utilities:
 
 
-[ip]()
+[ip](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ip.md)
 
-[ifconfig]()
+[ifconfig](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ifconfig.md)
 
-[route]()
+[route](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/route.md)
 
-[arp]()
+[arp](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/arp.md)
 
 [iw]()
 
@@ -543,17 +543,17 @@ Utilities to analyse the status of the network devices
 Utilities to monitor and analyse the TCP/IP traffic
 The following is a partial list of the used files, terms and utilities:
 
-[ip]()
+[ip](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ip.md)
 
-[ifconfig]()
+[ifconfig](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ifconfig.md)
 
-[route]()
+[route](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/route.md)
 
-[arp]()
+[arp](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/arp.md)
 
-[ss]()
+[ss](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ss.md)
 
-[netstat]()
+[netstat](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/netstat.md)
 
 [lsof]()
 
@@ -561,7 +561,7 @@ The following is a partial list of the used files, terms and utilities:
 
 [nc]()
 
-[tcpdump]()
+[tcpdump](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/tcpdump.md)
 
 [nmap]()
  
@@ -584,29 +584,29 @@ System initialisation files and their contents (Systemd and SysV init)
 Awareness of NetworkManager and its impact on network configuration
 The following is a partial list of the used files, terms and utilities:
 
-[ip]()
+[ip](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ip.md)
 
-[ifconfig]()
+[ifconfig](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ifconfig.md)
 
-[route]()
+[route](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/route.md)
 
-[ss]()
+[ss](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ss.md)
 
-[netstat]()
+[netstat](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/netstat.md)
 
 [/etc/network/, /etc/sysconfig/network-scripts/]()
 
-[ping, ping6]()
+[ping, ping6](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ping.md)
 
-[traceroute, traceroute6]()
+[traceroute, traceroute6](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/traceroute.md)
 
 [mtr]()
 
-[hostname]()
+[hostname](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/hostname.md)
 
 [System log files such as /var/log/syslog, /var/log/messages and the systemd journal]()
 
-[dmesg]()
+[dmesg](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/dmesg.md)
 
 [/etc/resolv.conf]()
 
@@ -636,25 +636,25 @@ The following is a partial list of the used files, terms and utilities:
 
 [/usr/src/]()
 
-[gunzip]()
+[gunzip](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/gunzip.md)
 
-[gzip]()
+[gzip](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/gzip.md)
 
-[bzip2]()
+[bzip2](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/bzip2.md)
 
-[xz]()
+[xz](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/xz.md)
 
-[tar]()
+[tar](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/tar.md)
 
 [configure]()
 
-[make]()
+[make](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/make.md)
 
-[uname]()
+[uname](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/uname.md)
 
-[install]()
+[install](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/install.md)
 
-[patch]()
+[patch](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/patch.md)
  
 
 ### 206.2 Backup operations (weight: 3)
