@@ -538,7 +538,7 @@ Tools and utilities to implement an intrusion detection system (IDS)
 Awareness of OpenVAS and Snort
 The following is a partial list of the used files, terms and utilities:
 
-[telnet]()
+[telnet](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/telnet.md)
 
 [nmap]()
 
@@ -546,7 +546,7 @@ The following is a partial list of the used files, terms and utilities:
 
 [nc]()
 
-[iptables]()
+[iptables](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/iptables.md)
  
 
 ### 212.5 OpenVPN 
