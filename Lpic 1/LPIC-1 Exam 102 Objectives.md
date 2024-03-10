@@ -125,11 +125,11 @@ The following is a partial list of the used files, terms and utilities:
 
 [Gnome](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/Gnome.md)
 
-[Xfce]()
+[Xfce](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/Xfce.md)
 
 [X11]()
 
-[XDMCP]()
+[XDMCP](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/XDMCP.md)
 
 [VNC]()
 
@@ -195,21 +195,21 @@ The following is a partial list of the used files, terms and utilities:
 
 [chage](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/chage.md)
 
-[getent]()
+[getent](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/getent.md)
 
-[groupadd]()
+[groupadd](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/groupadd.md)
 
-[groupdel]()
+[groupdel](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/groupdel.md)
 
 [groupmod]()
 
-[passwd]()
+[passwd](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/passwd.md)
 
-[useradd]()
+[useradd](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/useradd.md)
 
 [userdel]()
 
-[usermod]()
+[usermod](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/usermod.md)
  
 
 ### 107.2 Automate system administration tasks by scheduling jobs
