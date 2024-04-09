@@ -2,17 +2,16 @@
 
 linux commands and any thing basic you need yo know for using linux (for cloud computing) it is for my own Knowledge but if you want to use I try to make it very complex and from base so you can learn linux so easy and work on linux based systems.
 
-## Commands in first place
-
-[Commands](https://github.com/SamanKhalife/linux-commands/blob/main/Commands.md)
-
-[Commands](https://github.com/SamanKhalife/linux-commands/blob/main/Commands.md)
-
-[Commands](https://github.com/SamanKhalife/linux-commands/blob/main/Commands.md)
-
-[Commands](https://github.com/SamanKhalife/linux-commands/blob/main/Commands.md)
-
-[Commands](https://github.com/SamanKhalife/linux-commands/blob/main/Commands.md)
+# Contents (Not-Only-In-This-Page)
+* [Quick-review-important-commants](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Quick%20review%20for%20commands.md)
+* [full-list-for-all-Commands](https://github.com/SamanKhalife/linux-commands/blob/main/Commands.md)
+* [tree-of-repo](https://github.com/SamanKhalife/linux-Tutorial/blob/main/SUMMARY.md)
+* Exams-Objectives-and-samples:
+  * [LPIC1](https://github.com/SamanKhalife/linux-Tutorial/tree/main/Lpic%201)
+  * [LPIC2](https://github.com/SamanKhalife/linux-Tutorial/tree/main/Lpic%202)
+  * [LPIC3](https://github.com/SamanKhalife/linux-Tutorial/tree/main/Lpic%203)
+* [Some-How-To-do](https://github.com/SamanKhalife/linux-Tutorial/tree/main/How%20to)
+* [Deep-into-linux](https://github.com/SamanKhalife/linux-Tutorial?tab=readme-ov-file#common-commands-preview)
 
 ## Common commands preview
 
