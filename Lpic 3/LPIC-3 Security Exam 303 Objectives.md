@@ -153,36 +153,35 @@ Awareness of polkit
 Awareness of the security advantages of virtualization and containerization
 The following is a partial list of the used files, terms and utilities:
 
-[grub.cfg]()
+[grub.cfg](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/grub.cfg.md)
 
-[systemctl]()
+[systemctl](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/systemctl.md)
 
-[getcap]()
+[getcap](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/getcap.md)
 
-[setcap]()
+[setcap](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/setcap.md)
 
-[capsh]()
+[capsh](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/capsh.md)
 
+[sysctl](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/sysctl.md)
 
-[sysctl]()
+[/etc/sysctl.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/-etc-sysctl.conf.md)
 
-[/etc/sysctl.conf]()
+[/etc/usbguard/usbguard-daemon.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/-etc-usbguard-usbguard-daemon.conf.md)
 
-[/etc/usbguard/usbguard-daemon.conf]()
+[/etc/usbguard/rules.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/-etc-usbguard-rules.conf.md)
 
-[/etc/usbguard/rules.conf]()
+[usbguard](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/usbguard.md)
 
-[usbguard]()
+[ssh-keygen](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/ssh-keygen.md)
 
-[ssh-keygen]()
+[/etc/ssh/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/-etc-ssh.md)
 
-[/etc/ssh/]()
+[~/.ssh/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/~-.ssh-.md)
 
-[~/.ssh/]()
+[/etc/ssh/sshd_config](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/-etc-ssh-sshd_config-.md)
 
-[/etc/ssh/sshd_config]()
-
-[chroot]()
+[chroot](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/chroot.md)
  
 
 ### 332.2 Host Intrusion Detection (weight: 5)
@@ -204,35 +203,35 @@ Configure and use AIDE, including rule management
 Awareness of OpenSCAP
 Partial list of the used files, terms and utilities:
 
-[auditd]()
+[auditd](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/auditd.md)
 
-[auditctl]()
+[auditctl](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/auditctl.md)
 
-[ausearch, aureport]()
+[ausearch, aureport](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/ausearch%2C%20aureport.md)
 
-[auditd.conf]()
+[auditd.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/auditd.conf.md)
 
-[audit.rules]()
+[audit.rules](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/audit.rules.md)
 
-[pam_tty_audit.so]()
+[pam_tty_audit.so](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/pam_tty_audit.so.md)
 
-[chkrootkit]()
+[chkrootkit](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/chkrootkit.md)
 
-[rkhunter]()
+[rkhunter](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/rkhunter.md)
 
-[/etc/rkhunter.conf]()
+[/etc/rkhunter.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/-etc-rkhunter.conf.md)
 
-[maldet]()
+[maldet](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/maldet.md)
 
-[conf.maldet]()
+[conf.maldet](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/conf.maldet.md)
 
-[rpm]()
+[rpm](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/rpm.md)
 
 [dpkg]()
 
 [aide]()
 
-[/etc/aide/aide.conf]()
+[/etc/aide/aide.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/-etc-aide-aide.conf.md)
  
 
 ### 332.3 Resource Control (weight: 3)
@@ -253,17 +252,17 @@ Partial list of the used files, terms and utilities:
 
 [ulimit]()
 
-[/etc/security/limits.conf]()
+[/etc/security/limits.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/-etc-security-limits.conf.md)
 
-[pam_limits.so]()
+[pam_limits.so](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/pam_limits.so.md)
 
-[/sys/fs/group/]()
+[/sys/fs/group/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/-sys-fs-group-.md)
 
-[/proc/cgroups]()
+[/proc/cgroups](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/-proc-cgroups.md)
 
-[systemd-cgls]()
+[systemd-cgls](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/systemd-cgls.md)
 
-[systemd-cgtop]()
+[systemd-cgtop](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/systemd-cgtop.md)
 
  
 
@@ -282,13 +281,13 @@ Understand and manage access control lists
 Understand and manage extended attributes and attribute classes
 Partial list of the used files, terms and utilities:
 
-[getfacl]()
+[getfacl](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/getfacl.md)
 
-[setfacl]()
+[setfacl](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/setfacl.md)
 
-[getfattr]()
+[getfattr](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/getfattr.md)
 
-[setfattr]()
+[setfattr](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/setfattr.md)
  
 
 ### 333.2 Mandatory Access Control (weight: 5)
