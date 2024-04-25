@@ -110,6 +110,9 @@ linux commands and any thing basic you need yo know for using linux (for cloud c
 
 * User login and use.
 
+
+[for-deeper-view-of-kernel-click](https://github.com/0xAX/linux-insides/blob/master/SUMMARY.md)
+
 ## Shell
 
 ### Concepts
