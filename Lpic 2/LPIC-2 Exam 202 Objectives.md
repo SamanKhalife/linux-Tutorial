@@ -18,13 +18,13 @@ Reloading modified configuration and zone files
 Awareness of dnsmasq, djbdns and PowerDNS as alternate name servers
 The following is a partial list of the used files, terms and utilities:
 
-[/etc/named.conf]()
+[/etc/named.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/-etc-named.conf.md)
 
-[/var/named/]()
+[/var/named/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/-var-named-.md)
 
 [rndc]()
 
-[named-checkconf]()
+[named-checkconf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/named-checkconf.md)
 
 [kill](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/kill.md)
 
@@ -47,17 +47,17 @@ Layout, content and file location of the BIND zone files
 Various methods to add a new host in the zone files, including reverse zones
 The following is a partial list of the used files, terms and utilities:
 
-[/var/named/]()
+[/var/named/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/-var-named-.md)
 
-[zone file syntax]()
+[zone file syntax](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/zone%20file%20syntax.md)
 
-[resource record formats]()
+[resource record formats](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/resource%20record%20formats.md)
 
-[named-checkzone]()
+[named-checkzone](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/named-checkzone.md)
 
-[named-compilezone]()
+[named-compilezone](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/named-compilezone.md)
 
-[masterfile-format]()
+[masterfile-format](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/masterfile-format.md)
 
 [dig](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/dig.md)
 
@@ -84,13 +84,13 @@ The following is a partial list of the used files, terms and utilities:
 
 [/etc/named.conf]()
 
-[/etc/passwd]()
+[/etc/passwd](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/-etc-passwd.md)
 
-[DNSSEC]()
+[DNSSEC](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/DNSSEC.md)
  
-[dnssec-keygen]()
+[dnssec-keygen](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/dnssec-keygen.md)
 
-[dnssec-signzone]()
+[dnssec-signzone](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/dnssec-signzone.md)
 
  
 ## Topic 208: HTTP Services
@@ -114,21 +114,21 @@ Using redirect statements in Apache’s configuration files to customise file ac
 The following is a partial list of the used files, terms and utilities:
 
 
-[access logs and error logs]()
+[access logs and error logs](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/access%20logs%20and%20error%20logs.md)
 
-[.htaccess]()
+[.htaccess](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/.htaccess.md)
 
-[httpd.conf]()
+[httpd.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/httpd.conf.md)
 
-[mod_auth_basic, mod_authz_host and mod_access_compat]()
+[mod_auth_basic, mod_authz_host and mod_access_compat](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/mod_auth_basic%2C%20mod_authz_host%20and%20mod_access_compat.md)
 
 [htpasswd](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/htpasswd.md)
 
-[AuthUserFile, AuthGroupFile]()
+[AuthUserFile, AuthGroupFile](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/AuthUserFile%2C%20AuthGroupFile.md)
 
-[apachectl, apache2ctl]()
+[apachectl, apache2ctl](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/apachectl%2C%20apache2ctl.md)
 
-[httpd, apache2]()
+[httpd, apache2](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/httpd%2C%20apache2.md)
  
 
 ### 208.2 Apache configuration for HTTPS
@@ -149,17 +149,17 @@ Security issues in SSL use, disable insecure protocols and ciphers
 The following is a partial list of the used files, terms and utilities:
 
 
-[Apache2 configuration files]()
+[Apache2 configuration files](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/Apache2%20configuration%20files.md)
 
-[/etc/ssl/, /etc/pki/]()
+[/etc/ssl/, /etc/pki/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/-etc-ssl-%2C%20-etc-pki-.md)
 
-[openssl, CA.pl]()
+[openssl, CA.pl](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/openssl%2C%20CA.pl.md)
 
-[SSLEngine, SSLCertificateKeyFile, SSLCertificateFile]()
+[SSLEngine, SSLCertificateKeyFile, SSLCertificateFile](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/SSLEngine%2C%20SSLCertificateKeyFile%2C%20SSLCertificateFile.md)
 
-[SSLCACertificateFile, SSLCACertificatePath]()
+[SSLCACertificateFile, SSLCACertificatePath](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/SSLCACertificateFile%2C%20SSLCACertificatePath.md)
 
-[SSLProtocol, SSLCipherSuite, ServerTokens, ServerSignature, TraceEnable]()
+[SSLProtocol, SSLCipherSuite, ServerTokens, ServerSignature, TraceEnable](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/SSLProtocol%2C%20SSLCipherSuite%2C%20ServerTokens%2C%20ServerSignature%2C%20TraceEnable.md)
  
 
 ### 208.3 Implementing Squid as a caching proxy 
@@ -176,11 +176,11 @@ Client user authentication methods
 Layout and content of ACL in the Squid configuration files
 The following is a partial list of the used files, terms and utilities:
 
-[squid.conf]()
+[squid.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/squid.conf.md)
 
-[acl]()
+[acl](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/acl.md)
 
-[http_access]()
+[http_access](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/http_access.md)
  
 
 ### 208.4 Implementing Nginx as a web server and a reverse proxy 
@@ -196,7 +196,7 @@ Reverse Proxy
 Basic Web Server
 The following is a partial list of the used files, terms and utilities:
 
-[/etc/nginx/]()
+[/etc/nginx/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/-etc-nginx.md)
 
 [nginx]()
  
