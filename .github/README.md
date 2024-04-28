@@ -11,7 +11,7 @@ linux commands and any thing basic you need yo know for using linux (for cloud c
   * [LPIC1](https://github.com/SamanKhalife/linux-Tutorial/tree/main/Lpic%201)
   * [LPIC2](https://github.com/SamanKhalife/linux-Tutorial/tree/main/Lpic%202)
   * [LPIC3](https://github.com/SamanKhalife/linux-Tutorial/tree/main/Lpic%203)
-* [Some-How-To-do](https://github.com/SamanKhalife/linux-Tutorial/tree/main/How%20to)
+* [How-To-do-some-installation-and-linux-tricks](https://github.com/SamanKhalife/linux-Tutorial/tree/main/How%20to)
 * [Deep-into-linux](https://github.com/SamanKhalife/linux-Tutorial?tab=readme-ov-file#common-commands-preview)
 
 
