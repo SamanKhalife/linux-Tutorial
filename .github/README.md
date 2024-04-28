@@ -13,7 +13,8 @@ linux commands and any thing basic you need yo know for using linux (for cloud c
   * [LPIC3](https://github.com/SamanKhalife/linux-Tutorial/tree/main/Lpic%203)
 * [How-To-do-some-installation-and-linux-tricks](https://github.com/SamanKhalife/linux-Tutorial/tree/main/How%20to)
 * [Deep-into-linux](https://github.com/SamanKhalife/linux-Tutorial?tab=readme-ov-file#common-commands-preview)
-* [working-with-git-in-command-line](https://github.com/SamanKhalife/linux-Tutorial/tree/main/Git%20Commands)
+* [Working-with-cli-editor](https://github.com/SamanKhalife/linux-Tutorial/tree/main/Commadline-Editors)
+* [Working-with-git-cli](https://github.com/SamanKhalife/linux-Tutorial/tree/main/Git%20Commands)
 
 ## Common commands preview
 
