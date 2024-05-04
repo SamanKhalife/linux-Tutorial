@@ -48,11 +48,11 @@ The following is a partial list of the used files, terms and utilities:
 
 [swap](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/swap.md)
 
-[processes blocked on I/O]()
+[processes blocked on I/O](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/processes%20blocked%20on%20IO.md)
 
-[blocks in]()
+[blocks in](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/blocks%20in.md)
 
-[blocks out]()
+[blocks out](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/blocks%20out.md)
 
 
 
@@ -75,9 +75,9 @@ The following is a partial list of the used files, terms and utilities:
 
 [diagnose](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/diagnose.md)
 
-[predict growth]()
+[predict growth](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/predict%20growth.md)
 
-[resource exhaustion]()
+[resource exhaustion](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/resource%20exhaustion.md)
 
  
 ## Topic 201: Linux Kernel
@@ -94,15 +94,15 @@ Kernel 2.6.x, 3.x and 4.x documentation
 The following is a partial list of the used files, terms and utilities:
 
 
-[/usr/src/linux/]()
+[/usr/src/linux/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/usr-src-linux-.md)
 
-[/usr/src/linux/Documentation/]()
+[/usr/src/linux/Documentation/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/usr-src-linux-Documentation-.md)
 
-[zImage]()
+[zImage](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/zImage.md)
 
-[bzImage]()
+[bzImage](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/bzImage.md)
 
-[xz compression]()
+[xz compression](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/xz%20compression.md)
  
 
 ### 201.2 Compiling a Linux kernel (weight: 3)
@@ -127,19 +127,19 @@ The following is a partial list of the used files, terms and utilities:
 
 [mkinitrd](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/mkinitrd.md)
 
-[mkinitramfs]()
+[mkinitramfs](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/mkinitramfs.md)
 
 [make](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/make.md)
 
-[make targets (all, config, xconfig, menuconfig, gconfig, oldconfig, mrproper, zImage, bzImage, modules, modules_install, rpm-pkg, binrpm-pkg, deb-pkg)]()
+[make targets (all, config, xconfig, menuconfig, gconfig, oldconfig, mrproper, zImage, bzImage, modules, modules_install, rpm-pkg, binrpm-pkg, deb-pkg)](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/make%20targets.md)
 
 [gzip](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/gzip.md)
 
 [bzip2](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/bzip2.md)
 
-[module tools]()
+[module tools](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/module%20tools.md)
 
-[/usr/src/linux/.config]()
+[/usr/src/linux/.config](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/usr-src-linux-.config.md)
 
 [/lib/modules/kernel-version/]()
 
@@ -167,43 +167,43 @@ udev rules
 The following is a partial list of the used files, terms and utilities:
 
 
-[/lib/modules/kernel-version/modules.dep]()
+[/lib/modules/kernel-version/modules.dep](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/lib-modules-kernel-version-modules.dep.md)
 
-[module configuration files in /etc/]()
+[module configuration files in /etc/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/module%20configuration%20files%20in%20-etc-.md)
 
-[/proc/sys/kernel/]()
+[/proc/sys/kernel/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/-proc-sys-kernel-.md)
 
-[/sbin/depmod]()
+[/sbin/depmod](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/-sbin-depmod.md)
 
-[/sbin/rmmod]()
+[/sbin/rmmod](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/-sbin-rmmod.md)
 
-[/sbin/modinfo]()
+[/sbin/modinfo](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/-sbin-modinfo.md)
 
-[/bin/dmesg]()
+[/bin/dmesg](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/-bin-dmesg.md)
 
-[/sbin/lspci]()
+[/sbin/lspci](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/-sbin-lspci.md)
 
-[/usr/bin/lsdev]()
+[/usr/bin/lsdev](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/-usr-bin-lsdev.md)
 
-[/sbin/lsmod]()
+[/sbin/lsmod](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/-sbin-lsmod.md)
 
-[/sbin/modprobe]()
+[/sbin/modprobe](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/-sbin-modprobe.md)
 
-[/sbin/insmod]()
+[/sbin/insmod](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/-sbin-insmod.md)
 
-[/bin/uname]()
+[/bin/uname](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/-bin-uname.md)
 
-[/usr/bin/lsusb]()
+[/usr/bin/lsusb](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/-usr-bin-lsusb.md)
 
-[/etc/sysctl.conf, /etc/sysctl.d/]()
+[/etc/sysctl.conf, /etc/sysctl.d/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/-etc-sysctl.conf%2C%20-etc-sysctl.d-.md)
 
-[/sbin/sysctl]()
+[/sbin/sysctl](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/sysctl.md)
 
-[udevmonitor]()
+[udevmonitor](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/udevmonitor.md)
 
-[udevadm monitor]()
+[udevadm monitor](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/udevadm%20monitor.md)
 
-[/etc/udev/]()
+[/etc/udev/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/-etc-udev.md)
  
 
 ## Topic 202: System Startup
@@ -222,25 +222,25 @@ Linux Standard Base Specification (LSB)
 The following is a partial list of the used files, terms and utilities:
 
 
-[/usr/lib/systemd/]()
+[/usr/lib/systemd/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/usr-lib-systemd-.md)
 
-[/etc/systemd/]()
+[/etc/systemd/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/-etc-systemd-.md)
 
-[/run/systemd/]()
+[/run/systemd/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/-run-systemd-.md)
 
 [systemctl](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/systemctl.md)
 
-[systemd-delta]()
+[systemd-delta](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/systemd-delta.md)
 
-[/etc/inittab]()
+[/etc/inittab](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/-etc-inittab-.md)
 
-[/etc/init.d/]()
+[/etc/init.d/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/-etc-init.d-.md)
 
-[/etc/rc.d/]()
+[/etc/rc.d/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/-etc-rc.d-.md)
 
 [chkconfig](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/chkconfig.md)
 
-[update-rc.d]()
+[update-rc.d](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/update-rc.d.md)
 
 [init and telinit](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/init.md)
  
@@ -270,23 +270,23 @@ The following is a partial list of the used files, terms and utilities:
 
 [fsck](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/fsck.md)
 
-[inittab, telinit and init with SysV init]()
+[inittab, telinit and init with SysV init](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/inittab%2C%20telinit%20and%20init%20with%20SysV%20init.md)
 
-[The contents of /boot/, /boot/grub/ and /boot/efi/]()
+[The contents of /boot/, /boot/grub/ and /boot/efi/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/The%20contents%20of%20-boot-%2C%20-boot-grub-%20and%20-boot-efi-.md)
 
-[EFI System Partition (ESP)]()
+[EFI System Partition (ESP)](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/EFI%20System%20Partition%20(ESP).md)
 
 [GRUB](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/GRUB.md)
 
-[grub-install]()
+[grub-install](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/grub-install.md)
 
-[efibootmgr]()
+[efibootmgr](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/efibootmgr.md)
 
-[UEFI shell]()
+[UEFI shell](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/UEFI%20shell.md)
 
-[initrd, initramfs]()
+[initrd, initramfs](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/initrd%2C%20initramfs.md)
 
-[Master boot record]()
+[Master boot record](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/Master%20boot%20record.md)
 
 [systemctl](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/systemctl.md)
  
@@ -309,21 +309,21 @@ The following is a partial list of the used files, terms and utilities:
 
 [extlinux](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/extlinux.md)
 
-[isolinux.bin]()
+[isolinux.bin](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/isolinux.bin.md)
 
-[isolinux.cfg]()
+[isolinux.cfg](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/isolinux.cfg.mdv)
 
-[isohdpfx.bin]()
+[isohdpfx.bin](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/isohdpfx.bin.md)
 
-[efiboot.img]()
+[efiboot.img](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/efiboot.img.md)
 
-[pxelinux.0]()
+[pxelinux.0](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/pxelinux.0.md)
 
-[pxelinux.cfg/]()
+[pxelinux.cfg/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/pxelinux.cfg-.md)
 
-[uefi/shim.efi]()
+[uefi/shim.efi](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/uefi-shim.efi.md)
 
-[uefi/grubx64.efi]()
+[uefi/grubx64.efi](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/uefi-grubx64.efi.md)
  
 
 ## Topic 203: Filesystem and Devices
@@ -343,15 +343,15 @@ Understanding of systemd mount units
 The following is a partial list of the used files, terms and utilities:
 
 
-[/etc/fstab]()
+[/etc/fstab](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/-etc-fstab.md)
 
-[/etc/mtab]()
+[/etc/mtab](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/-etc-mtab.md)
 
-[/proc/mounts]()
+[/proc/mounts](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/-proc-mounts.mdv)
 
-[mount and umount]()
+[mount and umount](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/mount%20and%20umount.md)
 
-[blkid]()
+[blkid](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/blkid.md)
 
 [sync]()
 
@@ -374,19 +374,19 @@ Tools and utilities to manipulate XFS
 Awareness of ZFS
 The following is a partial list of the used files, terms and utilities:
 
-[mkfs (mkfs.*)]()
+[mkfs (mkfs.*)](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/mkfs%20(mkfs.).md)
 
 [mkswap]()
 
-[fsck (fsck.*)]()
+[fsck (fsck.*)](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/fsck%20(fsck.).md)
 
-[tune2fs, dumpe2fs and debugfs]()
+[tune2fs, dumpe2fs and debugfs](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/tune2fs.md)
 
-[btrfs, btrfs-convert]()
+[btrfs, btrfs-convert](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/btrfs%2C%20btrfs-convert.md)
 
-[xfs_info, xfs_check, xfs_repair, xfsdump and xfsrestore]()
+[xfs_info, xfs_check, xfs_repair, xfsdump and xfsrestore](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/xfs_info%2C%20xfs_check%2C%20xfs_repair%2C%20xfsdump%20and%20xfsrestore.md)
 
-[smartd, smartctl]()
+[smartd, smartctl](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/smartd%2C%20smartctl.md)
  
 
 ### 203.3 Creating and configuring filesystem options (weight: 2)
@@ -405,13 +405,13 @@ Awareness of CD-ROM filesystem extensions (Joliet, Rock Ridge, El Torito)
 Basic feature knowledge of data encryption (dm-crypt / LUKS)
 The following is a partial list of the used files, terms and utilities:
 
-[/etc/auto.master]()
+[/etc/auto.master](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/-etc-auto.master.md)
 
-[/etc/auto.[dir]]()
+[/etc/auto(dir)](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/-etc-auto.%5Bdir%5D.md)
 
-[mkisofs]()
+[mkisofs](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/mkisofs.md)
 
-[cryptsetup]()
+[cryptsetup](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/cryptsetup.md)
  
 
 ## Topic 204: Advanced Storage Device Administration
@@ -428,13 +428,13 @@ Software RAID configuration files and utilities
 The following is a partial list of the used files, terms and utilities:
 
 
-[mdadm.conf]()
+[mdadm.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/mdadm.conf.md)
 
-[mdadm]()
+[mdadm](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/mdadm.md)
 
-[/proc/mdstat]()
+[/proc/mdstat](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/-proc-mdstat.md)
 
-[partition type 0xFD]()
+[partition type 0xFD](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/partition%20type%200xFD.md)
  
 
 ### 204.2 Adjusting Storage Device Access (weight: 2)
@@ -464,9 +464,9 @@ The following is a partial list of the used files, terms and utilities:
 
 [sysctl](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/sysctl.md)
 
-[/dev/hd*, /dev/sd*, /dev/nvme*]()
+[/dev/hd*, /dev/sd*, /dev/nvme*](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/-dev-hd%2C%20-dev-sd%2C%20-dev-nvme.md)
 
-[iscsiadm, scsi_id, iscsid and iscsid.conf]()
+[iscsiadm, scsi_id, iscsid and iscsid.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/iscsiadm%2C%20scsi_id%2C%20iscsid%20and%20iscsid.conf.md)
 
 [WWID, WWN, LUN numbers]()
  
@@ -486,17 +486,17 @@ Activating volume groups
 The following is a partial list of the used files, terms and utilities:
 
 
-[/sbin/pv*]()
+[/sbin/pv*](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/-sbin-pv.md)
 
-[/sbin/lv*]()
+[/sbin/lv*](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/-sbin-lv.md)
 
-[/sbin/vg*]()
+[/sbin/vg*](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/-sbin-vg.md)
 
 [mount](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/mount.md)
 
-[/dev/mapper/]()
+[/dev/mapper/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/-dev-mapper-.md)
 
-[lvm.conf]()
+[lvm.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/lvm.conf.md)
  
 
 ## Topic 205: Networking Configuration
