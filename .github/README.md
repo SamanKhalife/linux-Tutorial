@@ -15,6 +15,7 @@ linux commands and any thing basic you need yo know for using linux (for cloud c
 * [Deep-into-linux](https://github.com/SamanKhalife/linux-Tutorial?tab=readme-ov-file#common-commands-preview)
 * [Working-with-cli-editor](https://github.com/SamanKhalife/linux-Tutorial/tree/main/Commadline-Editors)
 * [Working-with-git-cli](https://github.com/SamanKhalife/linux-Tutorial/tree/main/Git%20Commands)
+* [How-to-use-tools-in-iran(dns-settings)](https://github.com/SamanKhalife/linux-Tutorial/tree/main?tab=readme-ov-file#if-you-live-in-countries-that-are-embargoed-by-some-companies-and-applications-you-can-use-some-thing-like-dns-changing-for-using-the-apps)
 
 ## Common commands preview
 
