@@ -121,6 +121,8 @@ wtf mkdir
 * User login and use.
 
 
+
+
 [for-deeper-view-of-kernel-click](https://github.com/0xAX/linux-insides/blob/master/SUMMARY.md)
 
 ## Shell
@@ -684,11 +686,9 @@ iptables   -t       nat        -I        FORWARDING          .     -P     tcp   
 ### If you live in countries that are embargoed by some companies and applications, you can use some thing like DNS changing for using the apps.
 
 * [shecan](https://shecan.ir/)
-* [hostiran](https://hostiran.net/landing/proxy)
-* [electrotm](https://electrotm.org/)
-* [begzar](https://begzar.ir/)
-* [vanillapp](https://vanillapp.ir/)
 * [403.online](https://403.online/)
+* [hostiran](https://hostiran.net/landing/proxy)
+* [begzar](https://begzar.ir/)
 
 ### If you dont know how to change and set it follow these steps
 
