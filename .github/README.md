@@ -19,7 +19,7 @@ linux commands and any thing basic you need yo know for using linux (for cloud c
 
 ## Common commands preview
 
-* \[View Linux command help information] - commands：`help`, `whatis`, `info`, `which`, `whereis`, `man`
+* \[View Linux command help information] - commands：`help`, `whatis`, `info`, `which`, `whereis`, `man`, `stat`
 * \[Linux file directory management] -commands：`cd`, `ls`, `pwd`, `mkdir`, `rmdir`, `tree`, `touch`, `ln`, `rename`, `stat`, `file`, `chmod`, `chown`, `locate`, `find`, `cp`, `mv`, `rm`
 * \[Linux file content viewing command] - commands：`cat`, `head`, `tail`, `more`, `less`, `sed`, `vi`, `grep`
 * \[Linux File Compression and Decompression] -commands：`tar`, `gzip`, `zip`, `unzip`
