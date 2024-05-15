@@ -6,7 +6,6 @@ linux commands and any thing basic you need yo know for using linux (for cloud c
 ## please 🙏 click on each link cause every thing is not on this page it is more than you think 😜😜😜
 * [Quick-review-important-commants](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Quick%20review%20for%20commands.md)
 * [Full-list-for-all-Commands](https://github.com/SamanKhalife/linux-commands/blob/main/Commands.md)
-* [Tree-of-repo](https://github.com/SamanKhalife/linux-Tutorial/blob/main/SUMMARY.md)
 * Exams-Objectives-and-samples:
   * [LPIC1](https://github.com/SamanKhalife/linux-Tutorial/tree/main/Lpic%201)
   * [LPIC2](https://github.com/SamanKhalife/linux-Tutorial/tree/main/Lpic%202)
@@ -17,6 +16,8 @@ linux commands and any thing basic you need yo know for using linux (for cloud c
 * [Working-with-git-cli](https://github.com/SamanKhalife/linux-Tutorial/tree/main/Git%20Commands)
 * [How-to-use-tools-in-iran(dns-settings)](https://github.com/SamanKhalife/linux-Tutorial/tree/main?tab=readme-ov-file#if-you-live-in-countries-that-are-embargoed-by-some-companies-and-applications-you-can-use-some-thing-like-dns-changing-for-using-the-apps)
 * [Virtualization-in-linux](https://github.com/SamanKhalife/linux-Tutorial/blob/main/virtualization-in-linux.md)
+* [secure shell(ssh)](https://github.com/SamanKhalife/linux-Tutorial/blob/main/ssh.md)
+* [Tree-of-repo](https://github.com/SamanKhalife/linux-Tutorial/blob/main/SUMMARY.md)
 
 ## Common commands preview
 
@@ -28,7 +29,7 @@ linux commands and any thing basic you need yo know for using linux (for cloud c
 * \[Linux System Administration ] - commands：`reboot`, `exit`, `shutdown`, `date`, `mount`, `umount`, `ps`, `kill`, `systemctl`, `service`, `crontab`
 * \[Linux Network Administration] - commands：`curl`, `wget`, `telnet`, `ip`, `hostname`, `ifconfig`, `route`, `ssh`, `ssh-keygen`, `firewalld`, `iptables`, `host`, `nslookup`, `nc`, `netcat`, `ping`, `traceroute`, `netstat`
 * \[Linux Hardware Management ] - commands：`df`, `du`, `top`, `free`, `iotop`
-* \[Linux Software Management ] - commands：`rpm`, `yum`, `apt-get`
+* \[Linux Software Management ] - commands：`rpm`, `yum`, `apt-get`, `dpkg`
 
 try wtf in linux to see the one line describe about commands 
 like this:
