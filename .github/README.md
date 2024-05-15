@@ -2,7 +2,7 @@
 
 linux commands and any thing basic you need yo know for using linux (for cloud computing) it is for my own Knowledge but if you want to use I try to make it very complex and from base so you can learn linux so easy and work on linux based systems.
 
-# Contents (Not-Only-In-This-Page)
+# Repo-Contents
 ## please 🙏 click on each link cause every thing is not on this page it is more than you think 😜😜😜
 * [Quick-review-important-commants](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Quick%20review%20for%20commands.md)
 * [Full-list-for-all-Commands](https://github.com/SamanKhalife/linux-commands/blob/main/Commands.md)
@@ -16,7 +16,7 @@ linux commands and any thing basic you need yo know for using linux (for cloud c
 * [Working-with-git-cli](https://github.com/SamanKhalife/linux-Tutorial/tree/main/Git%20Commands)
 * [How-to-use-tools-in-iran(dns-settings)](https://github.com/SamanKhalife/linux-Tutorial/tree/main?tab=readme-ov-file#if-you-live-in-countries-that-are-embargoed-by-some-companies-and-applications-you-can-use-some-thing-like-dns-changing-for-using-the-apps)
 * [Virtualization-in-linux](https://github.com/SamanKhalife/linux-Tutorial/blob/main/virtualization-in-linux.md)
-* [secure shell(ssh)](https://github.com/SamanKhalife/linux-Tutorial/blob/main/ssh.md)
+* [Secure shell(ssh)](https://github.com/SamanKhalife/linux-Tutorial/blob/main/ssh.md)
 * [Tree-of-repo](https://github.com/SamanKhalife/linux-Tutorial/blob/main/SUMMARY.md)
 
 ## Common commands preview
