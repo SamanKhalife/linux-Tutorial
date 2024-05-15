@@ -5,8 +5,8 @@ linux commands and any thing basic you need yo know for using linux (for cloud c
 # Contents (Not-Only-In-This-Page)
 ## please 🙏 click on each link cause every thing is not on this page it is more than you think 😜😜😜
 * [Quick-review-important-commants](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Quick%20review%20for%20commands.md)
-* [full-list-for-all-Commands](https://github.com/SamanKhalife/linux-commands/blob/main/Commands.md)
-* [tree-of-repo](https://github.com/SamanKhalife/linux-Tutorial/blob/main/SUMMARY.md)
+* [Full-list-for-all-Commands](https://github.com/SamanKhalife/linux-commands/blob/main/Commands.md)
+* [Tree-of-repo](https://github.com/SamanKhalife/linux-Tutorial/blob/main/SUMMARY.md)
 * Exams-Objectives-and-samples:
   * [LPIC1](https://github.com/SamanKhalife/linux-Tutorial/tree/main/Lpic%201)
   * [LPIC2](https://github.com/SamanKhalife/linux-Tutorial/tree/main/Lpic%202)
@@ -16,7 +16,7 @@ linux commands and any thing basic you need yo know for using linux (for cloud c
 * [Working-with-cli-editor](https://github.com/SamanKhalife/linux-Tutorial/tree/main/Commadline-Editors)
 * [Working-with-git-cli](https://github.com/SamanKhalife/linux-Tutorial/tree/main/Git%20Commands)
 * [How-to-use-tools-in-iran(dns-settings)](https://github.com/SamanKhalife/linux-Tutorial/tree/main?tab=readme-ov-file#if-you-live-in-countries-that-are-embargoed-by-some-companies-and-applications-you-can-use-some-thing-like-dns-changing-for-using-the-apps)
-* [virtualization-in-linux]()
+* [Virtualization-in-linux](https://github.com/SamanKhalife/linux-Tutorial/blob/main/virtualization-in-linux.md)
 
 ## Common commands preview
 
