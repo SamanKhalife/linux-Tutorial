@@ -1,6 +1,6 @@
 # linux-Tutorial (with some SRE's info)
 
-linux commands and any thing basic you need yo know for using linux (for cloud computing) it is for my own Knowledge but if you want to use I try to make it very complex and from base so you can learn linux so easy and work on linux based systems.
+linux commands and any thing basic you need yo know for using linux (for cloud computing) it is for my own Knowledge but if you want to use I try to make it very complex and from base so you can learn linux so easy and work on linux based systems.(cause I'm the only person working on this repo I dont follow semantic versioning and the repo is always updating)
 
 # Repo-Contents
 ## please 🙏 click on each link cause every thing is not on this page it is more than you think 😜😜😜
