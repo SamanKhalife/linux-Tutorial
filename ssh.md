@@ -1,5 +1,118 @@
 # Config file parameters you can use 
 
+
+best parameters to set 
+
+```
+# Common SSH configuration file
+# Place this file under ~/.ssh/config for user-specific configurations
+# or /etc/ssh/ssh_config for system-wide configurations.
+
+# Global settings
+Host *
+    # Address family: any, inet, inet6
+    AddressFamily any
+    
+    # Batch mode: yes or no (default: no)
+    BatchMode no
+    
+    # Check host IP in known_hosts file: yes or no (default: yes)
+    CheckHostIP yes
+    
+    # Clear all forwardings: yes or no (default: no)
+    ClearAllForwardings no
+    
+    # Compression: yes or no (default: no)
+    Compression no
+    
+    # Connection attempts before exiting (default: 1)
+    ConnectionAttempts 3
+    
+    # Connect timeout in seconds
+    ConnectTimeout 10
+    
+    # Enable SSH keysign for HostbasedAuthentication: yes or no (default: no)
+    EnableSSHKeysign no
+    
+    # Forward agent connection: yes or no (default: no)
+    ForwardAgent no
+    
+    # Forward X11 connections: yes or no (default: no)
+    ForwardX11 no
+    
+    # Allow remote hosts to connect to local forwarded ports: yes or no (default: no)
+    GatewayPorts no
+    
+    # Hash host names in known_hosts file: yes or no (default: no)
+    HashKnownHosts yes
+    
+    # Try hostbased authentication: yes or no (default: no)
+    HostbasedAuthentication no
+    
+    # Authentication identity file
+    IdentityFile ~/.ssh/id_rsa
+    
+    # Keyboard-interactive authentication: yes or no (default: yes)
+    KbdInteractiveAuthentication yes
+    
+    # Log level (default: INFO)
+    LogLevel INFO
+    
+    # Password authentication: yes or no (default: yes)
+    PasswordAuthentication yes
+    
+    # Port number to connect on the remote host (default: 22)
+    Port 22
+    
+    # Preferred authentication methods (default shown below)
+    PreferredAuthentications publickey,password,keyboard-interactive
+    
+    # Protocol versions to support (default: 2,1)
+    Protocol 2
+    
+    # Public key authentication: yes or no (default: yes)
+    PubkeyAuthentication yes
+    
+    # Maximum number of server alive messages sent without receiving a reply (default: 3)
+    ServerAliveCountMax 3
+    
+    # Timeout interval in seconds to send a message through the encrypted channel (default: 0)
+    ServerAliveInterval 60
+    
+    # Strict host key checking: yes or no (default: ask)
+    StrictHostKeyChecking ask
+    
+    # TCP keepalive: yes or no (default: yes)
+    TCPKeepAlive yes
+
+# Host-specific settings (example for a specific host)
+Host example.com
+    # Use IPv4 only
+    AddressFamily inet 
+             # or inet6 
+    
+    # Enable agent forwarding
+    ForwardAgent yes
+    
+    # Set specific port
+    Port 2200
+    
+    # Use a specific identity file
+    IdentityFile ~/.ssh/id_rsa_example
+    
+    # Set log level to DEBUG for this host
+    LogLevel DEBUG
+    
+    # Set a local forward
+    LocalForward 8080 localhost:80
+
+# More host-specific settings can be added below following the same format
+
+```
+
+
+
+
 ## AddressFamily
 Specifies which address family to use when connecting. Valid arguments are ''any'', ''inet'' (use IPv4 only), or ''inet6'' (use IPv6 only).
 
