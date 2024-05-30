@@ -1,7 +1,7 @@
 # /sys/
 
 
-Great choice! The `/sys` directory is an essential part of the Linux filesystem, especially related to the system's hardware and kernel. Here’s a detailed explanation of `/sys`:
+The `/sys` directory is an essential part of the Linux filesystem, especially related to the system's hardware and kernel. Here’s a detailed explanation of `/sys`:
 
 ### Understanding the `/sys` Directory
 
