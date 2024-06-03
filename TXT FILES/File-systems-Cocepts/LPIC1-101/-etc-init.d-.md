@@ -328,4 +328,3 @@ WantedBy=multi-user.target
 
 The `/etc/init.d/` directory and its scripts are fundamental to the SysVinit system, providing control over system services. Understanding how to use and write these scripts is essential for managing services on systems that still use SysVinit or for understanding legacy systems. Transitioning to `systemd` simplifies and unifies service management with more advanced features and capabilities.
 
-If you have more specific questions or need further examples, feel free to ask!
