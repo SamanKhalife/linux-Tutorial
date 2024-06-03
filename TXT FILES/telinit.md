@@ -1,38 +1,120 @@
 # telinit
 
-Sure, the `telinit` command in Linux is used to change the system runlevel. The runlevel is a state in which the system is operating. There are 7 runlevels in Linux, each with its own purpose.
+The `telinit` command is used to change the runlevel of a system in Unix-like operating systems that use the SysVinit init system. Runlevels are preset operating states that define what system services are available. Each runlevel has its own configuration and purpose.
 
-The `telinit` command is used as follows:
+### Overview of Runlevels
 
-```
+- **0**: Halt the system
+- **1**: Single-user mode (maintenance or emergency mode)
+- **2**: Multi-user mode without networking (varies by distribution)
+- **3**: Multi-user mode with networking (text mode)
+- **4**: Undefined (can be user-defined)
+- **5**: Multi-user mode with networking and graphical interface (default for many distributions)
+- **6**: Reboot the system
+
+### Usage of `telinit`
+
+The `telinit` command is a symbolic link to the `init` command. It sends signals to the `init` process to change the system runlevel. When you use `telinit`, you are essentially instructing the `init` process to transition the system to a specified runlevel.
+
+#### Basic Syntax
+
+```sh
 telinit [runlevel]
 ```
 
-* `runlevel`: This is the runlevel that the system will be changed to. The default runlevel is 3.
+### Example Commands
 
-The `telinit` command has a number of options that can be used to control the output of the command. Some of the most commonly used `telinit` options are:
+#### Changing to Runlevel 1 (Single-User Mode)
 
-* `-f`: This option specifies that the `telinit` command should ignore any errors that occur.
-* `-q`: This option specifies that the `telinit` command should not display any output.
+Single-user mode is typically used for maintenance purposes, where you need minimal services running:
 
-For example, the following command will change the system to runlevel 1:
-
-```
-telinit 1
+```sh
+sudo telinit 1
 ```
 
-The `telinit` command is a valuable tool for system administrators who need to change the system runlevel. It can be used to troubleshoot problems, to perform maintenance tasks, and to start and stop services.
+#### Changing to Runlevel 3 (Multi-User Mode without GUI)
 
-Here is a table of the 7 runlevels in Linux and their purposes:
+Runlevel 3 is used for full multi-user mode with networking but without a graphical interface:
 
-| Runlevel | Purpose |
-|---|---|
-| 0 | Halt the system |
-| 1 | Single-user mode |
-| 2 | Multiuser, no networking |
-| 3 | Multiuser, with networking |
-| 4 | Not used |
-| 5 | Graphical login |
-| 6 | Reboot the system |
+```sh
+sudo telinit 3
+```
 
-The default runlevel is 3, which means that the system will boot into multiuser mode with networking. If you want to change the default runlevel, you can do so by editing the `/etc/inittab` file.
+#### Changing to Runlevel 5 (Multi-User Mode with GUI)
+
+Runlevel 5 is used for full multi-user mode with networking and a graphical user interface:
+
+```sh
+sudo telinit 5
+```
+
+#### Rebooting the System (Runlevel 6)
+
+To reboot the system:
+
+```sh
+sudo telinit 6
+```
+
+#### Halting the System (Runlevel 0)
+
+To halt the system:
+
+```sh
+sudo telinit 0
+```
+
+### Checking Current Runlevel
+
+To check the current runlevel of the system, use the `runlevel` command:
+
+```sh
+runlevel
+```
+
+This command outputs two characters: the previous and the current runlevel. For example:
+
+```plaintext
+N 5
+```
+
+This means there was no previous runlevel (`N`) and the current runlevel is 5.
+
+### Transitioning from SysVinit to Systemd
+
+In systems using `systemd`, the concept of runlevels is replaced by targets, which offer more flexibility. However, `systemd` maintains compatibility with traditional runlevels.
+
+#### Equivalent Commands in `systemd`
+
+To change the runlevel (target) in `systemd`, use the `systemctl isolate` command:
+
+- **Single-User Mode** (rescue.target):
+  ```sh
+  sudo systemctl isolate rescue.target
+  ```
+
+- **Multi-User Mode without GUI** (multi-user.target):
+  ```sh
+  sudo systemctl isolate multi-user.target
+  ```
+
+- **Multi-User Mode with GUI** (graphical.target):
+  ```sh
+  sudo systemctl isolate graphical.target
+  ```
+
+- **Reboot the System**:
+  ```sh
+  sudo systemctl reboot
+  ```
+
+- **Halt the System**:
+  ```sh
+  sudo systemctl poweroff
+  ```
+
+### Conclusion
+
+The `telinit` command is an essential tool for managing the runlevel of a Unix-like system using SysVinit. Understanding how to change runlevels is crucial for system maintenance and administration. With the transition to `systemd`, similar functionalities are maintained through targets, providing a more modern and flexible approach to system state management.
+
+If you have more specific questions or need further examples, feel free to ask!
