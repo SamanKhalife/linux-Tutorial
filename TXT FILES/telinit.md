@@ -117,4 +117,3 @@ To change the runlevel (target) in `systemd`, use the `systemctl isolate` comman
 
 The `telinit` command is an essential tool for managing the runlevel of a Unix-like system using SysVinit. Understanding how to change runlevels is crucial for system maintenance and administration. With the transition to `systemd`, similar functionalities are maintained through targets, providing a more modern and flexible approach to system state management.
 
-If you have more specific questions or need further examples, feel free to ask!
