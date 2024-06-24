@@ -159,7 +159,7 @@ sudo apt-get install --no-install-recommends package_name
 
 ### Conclusion
 
-The `apt-get` command is a versatile and essential tool for managing software packages on Debian-based systems. By understanding its basic and advanced commands, you can effectively install, update, upgrade, and remove packages, ensuring your system stays up-to-date and free of unnecessary software. If you have any further questions or need assistance with anything else, feel free to ask!
+The `apt-get` command is a versatile and essential tool for managing software packages on Debian-based systems. By understanding its basic and advanced commands, you can effectively install, update, upgrade, and remove packages, ensuring your system stays up-to-date and free of unnecessary software.
 
 
 
