@@ -246,13 +246,13 @@ The following is a partial list of the used files, terms and utilities:
 
 [Linux container](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/Linux%20container.md)
 
-[Application container](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/Application%20container.mdv)
+[Application container](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/Application%20container.md)
 
 [Guest drivers](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/Guest%20drivers.md)
 
 [SSH host keys](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/SSH%20host%20keys.md)
 
-[D-Bus machine id](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/D-Bus%20machine%20id.mdv)
+[D-Bus machine id](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/D-Bus%20machine%20id.md)
  
 
 ## Topic 103: GNU and Unix Commands
