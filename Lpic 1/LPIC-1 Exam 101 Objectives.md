@@ -220,7 +220,7 @@ The following is a partial list of the used files, terms and utilities:
 
 [/etc/yum.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/-etc-yum.conf.md)
 
-[/etc/yum.repos.d/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/-etc-yum.repos%2Cd.md)
+[/etc/yum.repos.d/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/-etc-yum.repos.d.md)
 
 [yum]()
 
