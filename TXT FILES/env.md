@@ -112,7 +112,7 @@ This runs the `env` command itself in a completely clean environment, which will
 
 ### Conclusion
 
-The `env` command is a versatile tool for managing and interacting with environment variables in Unix and Linux systems. Whether you need to display, modify, or clear environment variables, `env` provides a simple and effective way to control the environment in which commands are executed. Understanding how to use `env` can help you better manage your system's behavior and debug issues related to environment variables. If you have any further questions or need assistance with anything else, feel free to ask!
+The `env` command is a versatile tool for managing and interacting with environment variables in Unix and Linux systems. Whether you need to display, modify, or clear environment variables, `env` provides a simple and effective way to control the environment in which commands are executed. Understanding how to use `env` can help you better manage your system's behavior and debug issues related to environment variables.
 
 # help 
 
