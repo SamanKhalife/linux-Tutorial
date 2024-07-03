@@ -31,6 +31,9 @@ linux commands and any thing basic you need yo know for using linux (for cloud c
 * \[Linux Hardware Management ] - commands：`df`, `du`, `top`, `free`, `iotop`
 * \[Linux Software Management ] - commands：`rpm`, `yum`, `apt-get`, `dpkg`
 
+[view the art of command line repo](https://github.com/jlevy/the-art-of-command-line)
+
+
 try wtf in linux to see the one line describe about commands 
 like this:
 ```
