@@ -1,15 +1,13 @@
-# linux-Tutorial (with some SRE's info)
+# linux Tutorial
+Learning Linux: Essential commands and foundational knowledge . We started from scratch to build a complete tutorial covering everything from commands and tools to kernel structure and all the details.And even though we're not heavily focused on LPIC exams, we've included that too.
 
-linux commands and any thing basic you need yo know for using linux (for cloud computing) it is for my own Knowledge but if you want to use I try to make it very complex and from base so you can learn linux so easy and work on linux based systems.(cause I'm the only person working on this repo I dont follow semantic versioning and the repo is always updating)
-
-# Repo-Contents
-## please 🙏 click on each link cause every thing is not on this page it is more than you think 😜😜😜
-* [Quick-review-important-commants](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Quick%20review%20for%20commands.md)
+# Repo Contents😜😜😜(it is more than you think)
 * [Full-list-for-all-Commands](https://github.com/SamanKhalife/linux-commands/blob/main/Commands.md)
 * Exams-Objectives-and-samples:
   * [LPIC1](https://github.com/SamanKhalife/linux-Tutorial/tree/main/Lpic%201)
   * [LPIC2](https://github.com/SamanKhalife/linux-Tutorial/tree/main/Lpic%202)
   * [LPIC3](https://github.com/SamanKhalife/linux-Tutorial/tree/main/Lpic%203)
+* [Quick-review-important-commants](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Quick%20review%20for%20commands.md)
 * [How-To-do-some-installation-and-linux-tricks](https://github.com/SamanKhalife/linux-Tutorial/tree/main/How%20to)
 * [Deep-into-linux](https://github.com/SamanKhalife/linux-Tutorial?tab=readme-ov-file#common-commands-preview)
 * [Working-with-cli-editor](https://github.com/SamanKhalife/linux-Tutorial/tree/main/Commadline-Editors)
