@@ -1,6 +1,46 @@
 # free
+The `free` command in Unix and Linux systems is used to display information about the system's memory usage, including total and used memory, free memory, swap usage, and buffer/cache usage.
 
-The "free" command in Linux is used to display information about the system's memory usage and availability. It provides details about total, used, and free memory, as well as information about swap space usage.
+### Basic Usage
+
+Simply type `free` in your terminal:
+
+```sh
+free
+```
+
+### Output Format
+
+The `free` command typically outputs information in the following format:
+
+```
+              total        used        free      shared  buff/cache   available
+Mem:        1635412      467908      587084       44644      580420      922572
+Swap:       2097148      192224     1904924
+```
+
+- **`total`**: Total amount of physical memory (RAM) in kilobytes.
+- **`used`**: Used memory, in kilobytes.
+- **`free`**: Free memory, in kilobytes.
+- **`shared`**: Memory used (shared by processes), in kilobytes.
+- **`buff/cache`**: Memory used as buffers/cache, in kilobytes.
+- **`available`**: Estimate of how much memory is available for starting new applications, in kilobytes.
+
+For swap:
+
+- **`Swap`**: Total amount of swap memory (if available).
+- **`used`**: Used swap memory.
+- **`free`**: Free swap memory.
+
+### Practical Use Cases
+
+- **Monitoring Memory Usage**: Quickly check how much memory is being used and how much is free.
+- **Identifying Memory Pressure**: Determine if the system is running low on available memory.
+- **Checking Swap Usage**: Assess whether swap space is being utilized and if there might be performance implications.
+
+### Summary
+
+The `free` command provides essential information about system memory usage, including both physical memory (RAM) and swap space. It's a useful tool for monitoring system resources, diagnosing performance issues related to memory, and understanding the overall health of the system on Unix and Linux platforms.
 
 # help
 
