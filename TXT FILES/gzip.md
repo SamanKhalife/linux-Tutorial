@@ -104,13 +104,3 @@ Options:
 
 For more information, see the gzip man page.
 ```
-
-breakdown
-
-```
--f: This option tells gzip to force the compression, even if the file is already compressed.
--v: This option tells gzip to be verbose and print out more information about the compression.
--c: This option tells gzip to write the compressed data to standard output.
--d: This option tells gzip to decompress the file.
--h: This option shows this help message.
-```
