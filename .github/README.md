@@ -1,8 +1,10 @@
 # linux Tutorial
-Learning Linux: Essential commands and foundational knowledge . We started from scratch to build a complete tutorial covering everything from commands and tools to kernel structure and all the details.And even though we're not heavily focused on LPIC exams, we've included that too.
+**Learning Linux**: Essential commands and foundational knowledge . We started from scratch to build a complete tutorial covering everything from commands and tools to kernel structure and all the details.And even though we're not heavily focused on LPIC exams, we've included that too.
 
-# Repo Contents😜😜😜(it is more than you think)
-* [Full-list-for-all-Commands](https://github.com/SamanKhalife/linux-commands/blob/main/Commands.md)
+Feel free to contribute ([lets-fork-it](https://github.com/login?return_to=%2FSamanKhalife%2Flinux-Tutorial)), and if there's any problem or recommendation, I'd be happy to sort it out if you raise an [issue](https://github.com/SamanKhalife/linux-Tutorial/issues/new/choose).
+
+# Repo Contents😜😜😜(It's more than you imagine)
+* [**Full-list-for-all-Commands**](https://github.com/SamanKhalife/linux-commands/blob/main/Commands.md)
 * Exams-Objectives-and-samples:
   * [LPIC1](https://github.com/SamanKhalife/linux-Tutorial/tree/main/Lpic%201)
   * [LPIC2](https://github.com/SamanKhalife/linux-Tutorial/tree/main/Lpic%202)
@@ -29,8 +31,7 @@ Learning Linux: Essential commands and foundational knowledge . We started from 
 * \[Linux Hardware Management ] - commands：`df`, `du`, `top`, `free`, `iotop`
 * \[Linux Software Management ] - commands：`rpm`, `yum`, `apt-get`, `dpkg`
 
-[view the art of command line repo](https://github.com/jlevy/the-art-of-command-line)
-
+view the [art of command line](https://github.com/jlevy/the-art-of-command-line) repo
 
 try wtf in linux to see the one line describe about commands 
 like this:
