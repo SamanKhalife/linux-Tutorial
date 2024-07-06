@@ -55,9 +55,7 @@ By default, `w` displays a summary of the current users logged in and their acti
 
 ### Conclusion
 
-`w` is a useful command-line tool for monitoring user activity and sessions on Linux systems. It provides essential information about logged-in users, their terminal sessions, and current activities. By understanding its output and options, administrators and users can effectively manage user sessions, monitor system usage, and maintain system security.
-
-
+`w` is a useful command-line tool for monitoring user activity and sessions on Linux systems. It provides essential information about logged-in users, their terminal sessions, and current activities. By understanding its output and options, administrators and users can effectively manage user sessions, monitor system usage, and maintain system security. 
 # help 
 
 ```
