@@ -1,35 +1,61 @@
 # nfsstat
 
-The nfsstat command can be used to troubleshoot NFS performance problems. If you are seeing a high number of bad calls or retransmissions, it may indicate a problem with the network or the server.
+NFS (Network File System) and its related utilities. `nfsstat` is a command-line utility used to display NFS client and server statistics. Here's an overview of how `nfsstat` works and its typical usage:
 
-here is the output of the nfsstat command without any options:
+### nfsstat Command Overview
 
-```
-nfsstat
+#### Purpose
+- **nfsstat** is used to report NFS client and server statistics, including various counters and performance metrics related to NFS operations.
 
-Server: 192.168.1.100
-Version: 4.0.0
+#### Usage
+- **Syntax**: `nfsstat [options]`
+- **Options**:
+  - `-c`: Displays client statistics.
+  - `-s`: Displays server statistics.
+  - `-m`: Displays mount information.
+  - `-n`: Displays NFSv4 statistics.
+  - `-o`: Displays NFSv4 operation statistics.
+  - `-r`: Displays RPC (Remote Procedure Call) statistics.
+  - `-t`: Displays TCP statistics for NFS.
 
-Client NFS   RPC   Calls          Badcalls           Retrans
---------  -------- ------  --------  --------  --------
-Total        49996    0          0          0
-Lookups      24935    0          0          0
-Reads        19222    0          0          0
-Writes       6839     0          0          0
-Creats       500       0          0          0
-Removes       12       0          0          0
-```
+#### Typical Output
+- **Client Statistics**:
+  - Shows information such as number of NFS operations (reads, writes, etc.), caching statistics, and errors encountered by NFS clients.
 
-This output shows the following information:
+- **Server Statistics**:
+  - Provides details on server-side NFS operations, including read/write operations, cache utilization, and errors encountered by NFS servers.
 
-The server IP address
-The NFS version
-The number of NFS calls made by the client
-The number of bad calls (calls that were rejected by the server)
-The number of retransmissions (RPC calls that had to be sent again because they were not acknowledged by the server)
+- **Mount Information**:
+  - Lists NFS mounts and associated details like mount options and NFS version used.
 
+- **NFSv4 and RPC Statistics**:
+  - Provides NFSv4-specific statistics and RPC performance metrics, including timings and counts for various RPC operations.
 
+- **TCP Statistics**:
+  - Displays statistics related to NFS over TCP connections, such as connection states, retransmissions, and errors.
 
+#### Examples
+- Display client statistics:
+  ```bash
+  nfsstat -c
+  ```
+
+- Display server statistics:
+  ```bash
+  nfsstat -s
+  ```
+
+- Display NFSv4 operation statistics:
+  ```bash
+  nfsstat -n
+  ```
+
+#### Usage Notes
+- **Privileges**: `nfsstat` typically requires superuser (root) privileges to access all statistics, especially server-side information.
+- **Interpretation**: Understanding the output requires familiarity with NFS concepts and performance metrics, such as latency, throughput, and error rates.
+
+### Conclusion
+`nfsstat` is a valuable tool for administrators and developers managing NFS environments. It provides insights into NFS performance and usage, helping diagnose issues, optimize configurations, and monitor NFS operations effectively. Understanding its various options and interpreting its output is crucial for maintaining reliable NFS services.
 
 # help 
 
