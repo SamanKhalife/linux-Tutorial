@@ -16,9 +16,9 @@ The following is a partial list of the used files, terms and utilities:
 
 [source](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/source.md)
 
-[/etc/bash.bashrc]()
+[/etc/bash.bashrc](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-etc-bash.bashrc.md)
 
-[/etc/profile]()
+[/etc/profile](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-etc-profile.md)
 
 [env](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/env.md)
 
@@ -28,15 +28,15 @@ The following is a partial list of the used files, terms and utilities:
 
 [unset]()
 
-[~/.bash_profile]()
+[~/.bash_profile](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/~-.bash_profile.md)
 
-[~/.bash_login]()
+[~/.bash_login](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/~-.bash_login.md)
 
-[~/.profile]()
+[~/.profile](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/~-.profile.md)
+ 
+[~/.bashrc](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/~-.bashrc.md)
 
-[~/.bashrc]()
-
-[~/.bash_logout]()
+[~/.bash_logout](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/~-.bash_logout.md)
 
 [function](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/function.md)
 
@@ -73,9 +73,9 @@ The following is a partial list of the used files, terms and utilities:
 
 [exec](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/exec.md)
 
-[||]()
+[||(logic or)]()
 
-[&&]()
+[&& (logic and)]()
  
 
 ## Topic 106: User Interfaces and Desktops
@@ -95,13 +95,13 @@ Manage access to the X server and display applications on remote X servers.
 Awareness of Wayland.
 The following is a partial list of the used files, terms and utilities:
 
-[/etc/X11/xorg.conf]()
+[/etc/X11/xorg.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-etc-X11-xorg.conf.md)
 
-[/etc/X11/xorg.conf.d/]()
+[/etc/X11/xorg.conf.d/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-etc-X11-xrog.conf.d.md)
 
-[~/.xsession-errors]()
+[~/.xsession-errors](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/~-.xsesion-errors.md)
 
-[xhost]()
+[xhost](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/xhost.md)
 
 [xauth](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/xauth.md)
 
@@ -127,15 +127,15 @@ The following is a partial list of the used files, terms and utilities:
 
 [Xfce](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/Xfce.md)
 
-[X11]()
+[X11](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/X11.md)
 
 [XDMCP](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/XDMCP.md)
 
-[VNC]()
+[VNC](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/VNC.md)
 
-[Spice]()
+[Spice](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/Spice.md)
 
-[RDP]()
+[RDP](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/RDP.md)
  
 
 ### 106.3 Accessibility
@@ -149,25 +149,25 @@ Basic knowledge of visual settings and themes.
 Basic knowledge of assistive technology.
 The following is a partial list of the used files, terms and utilities:
 
-[High Contrast/Large Print Desktop Themes]()
+[High Contrast/Large Print Desktop Themes](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/High%20ContrastLarge%20Print%20Desktop%20Themes..md)
 
-[Screen Reader]()
+[Screen Reader](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/Screen%20Reader.md)
 
-[Braille Display]()
+[Braille Display](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/Braille%20Display..md)
 
-[Screen Magnifier]()
+[Screen Magnifier](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/Screen%20Magnifier..md)
 
-[On-Screen Keyboard]()
+[On-Screen Keyboard](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/On-Screen%20Keyboard..md)
 
-[Sticky/Repeat keys]()
+[Sticky/Repeat keys](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/Sticky-Repeat%20keys.md)
 
-[Slow/Bounce/Toggle keys]()
+[Slow/Bounce/Toggle keys](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/Slow-Bounce-Toggle%20keys.md)
 
-[Mouse keys.]()
+[Mouse keys.](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/Mouse%20keys.md)
 
 [Gestures.]()
 
-[Voice recognition.]()
+[Voice recognition.](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/Voice%20recognition.md)
  
 
 
@@ -185,13 +185,13 @@ Manage user/group info in password/group databases.
 Create and manage special purpose and limited accounts.
 The following is a partial list of the used files, terms and utilities:
 
-[/etc/passwd]()
+[/etc/passwd](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-etc-passwd.md)
 
-[/etc/shadow]()
+[/etc/shadow](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-etc-shadow.md)
 
-[/etc/group]()
+[/etc/group](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-etc-group.md)
 
-[/etc/skel/]()
+[/etc/skel/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-etc-skel-.md)
 
 [chage](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/chage.md)
 
@@ -224,29 +224,29 @@ Configure user access to cron and at services.
 Understand systemd timer units.
 The following is a partial list of the used files, terms and utilities:
 
-[/etc/cron.{d,daily,hourly,monthly,weekly}/]()
+[/etc/cron.{d,daily,hourly,monthly,weekly}/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-etc-cron.md)
 
-[/etc/at.deny]()
+[/etc/at.deny](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-etc-at.deny.md)
 
-[/etc/at.allow]()
+[/etc/at.allow](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-etc-at.allow.md)
 
-[/etc/crontab]()
+[/etc/crontab](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-etc-crontab.md)
 
-[/etc/cron.allow]()
+[/etc/cron.allow](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-etc-cron.allow.md)
 
-[/etc/cron.deny]()
+[/etc/cron.deny](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-etc-cron.deny.md)
 
-[/var/spool/cron/]()
+[/var/spool/cron/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-var-spool-cron.md)
 
-[crontab]()
+[crontab](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-etc-crontab.md)
 
-[at]()
+[at](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/at.md)
 
 [atq]()
 
 [atrm]()
 
-[systemctl]()
+[systemctl](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/systemctl.md)
 
 [systemd-run]()
  
@@ -262,37 +262,37 @@ Configure locale settings and environment variables.
 Configure timezone settings and environment variables.
 The following is a partial list of the used files, terms and utilities:
 
-[/etc/timezone]()
+[/etc/timezone](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-etc-timezone.md)
 
-[/etc/localtime]()
+[/etc/localtime](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-etc-localtime.md)
 
-[/usr/share/zoneinfo/]()
+[/usr/share/zoneinfo/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-usr-share-zoneinfo.md)
 
-[LC_*]()
+[LC_*](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/LC_.md)
 
-[LC_ALL]()
+[LC_ALL](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/LC_ALL.md)
 
-[LANG]()
+[LANG](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/LANG.md)
 
-[TZ]()
+[TZ](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/TZ.md)
 
-[/usr/bin/locale]()
+[/usr/bin/locale](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-usr-bin-locale.md)
 
 [tzselect]()
 
 [timedatectl]()
 
-[date]()
+[date](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/date.md)
 
-[iconv]()
+[iconv](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/iconv.md)
 
-[UTF-8]()
+[UTF-8](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/UTF-8.md)
 
-[ISO-8859]()
+[ISO-8859](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/ISO-8859.md)
 
-[ASCII]()
+[ASCII](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/ASCII.md)
 
-[Unicode]()
+[Unicode](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/Unicode.md)
  
 
 ## Topic 108: Essential System Services
@@ -312,19 +312,19 @@ Knowledge of using the pool.ntp.org service.
 Awareness of the ntpq command.
 The following is a partial list of the used files, terms and utilities:
 
-[/usr/share/zoneinfo/]()
+[/usr/share/zoneinfo/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-usr-share-zoneinfo.md)
 
-[/etc/timezone]()
+[/etc/timezone](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-etc-timezone.md)
 
-[/etc/localtime]()
+[/etc/localtime](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-etc-localtime.md)
 
 [/etc/ntp.conf]()
 
-[/etc/chrony.conf]()
+[/etc/chrony.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-etc-chrony.conf.md)
 
-[date]()
+[date](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/date.md)
 
-[hwclock]()
+[hwclock](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/hwclock.md)
 
 [timedatectl]()
 
@@ -334,7 +334,7 @@ The following is a partial list of the used files, terms and utilities:
 
 [chronyc]()
 
-[pool.ntp.org]()
+[pool.ntp.org](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/pool.ntp.org.md)
 
  
 ### 108.2 System logging
@@ -356,25 +356,25 @@ Configuration of logrotate.
 Awareness of syslog and syslog-ng.
 The following is a partial list of the used files, terms and utilities:
 
-[/etc/rsyslog.conf]()
+[/etc/rsyslog.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-etc-rsyslog.conf.md)
 
-[/var/log/]()
+[/var/log/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-var-log.md)
 
-[logger]()
+[logger](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/logger.md)
 
-[logrotate]()
+[logrotate](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/logrotate.md)
 
-[/etc/logrotate.conf]()
+[/etc/logrotate.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-etc-logrotate.conf.md)
 
-[/etc/logrotate.d/]()
+[/etc/logrotate.d/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-etc-logrotate.d-.md)
 
-[journalctl]()
+[journalctl](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/journalctl.md)
 
 [systemd-cat]()
 
-[/etc/systemd/journald.conf]()
+[/etc/systemd/journald.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-etc-systemd-journald.conf.md)
 
-[/var/log/journal/]()
+[/var/log/journal/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-var-log-journal.md)
 
  
 
@@ -390,13 +390,13 @@ Configure e-mail forwarding.
 Knowledge of commonly available MTA programs (postfix, sendmail, exim) (no configuration)
 The following is a partial list of the used files, terms and utilities:
 
-[~/.forward]()
+[~/.forward](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/~-.forward.md)
 
-[sendmail emulation layer commands]()
+[sendmail emulation layer commands](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/sendmail%20emulation%20layer%20commands.md)
 
-[newaliases]()
+[newaliases](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/newaliases.md)
 
-[mail]()
+[mail](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/mail.md)
 
 [mailq]()
 
@@ -420,11 +420,11 @@ Troubleshoot general printing problems.
 Add and remove jobs from configured printer queues.
 The following is a partial list of the used files, terms and utilities:
 
-[CUPS configuration files, tools and utilities]()
+[CUPS configuration files, tools and utilities](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/CUPS%20configuration%20files%2C%20tools%20and%20utilities.md)
 
-[/etc/cups/]()
+[/etc/cups/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-etc-cups.md)
 
-[lpd legacy interface (lpr, lprm, lpq)]()
+[lpd legacy interface (lpr, lprm, lpq)](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/lpd%20legacy%20interface.md)
 
  
 
@@ -445,13 +445,13 @@ Knowledge of the major differences between IPv4 and IPv6.
 Knowledge of the basic features of IPv6.
 The following is a partial list of the used files, terms and utilities:
 
-[/etc/services]()
+[/etc/services](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-etc-services.md)
 
-[IPv4, IPv6]()
+[IPv4, IPv6](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/IPv4-IPv6.md)
 
-[Subnetting]()
+[Subnetting](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/Subnetting.md)
 
-[TCP, UDP, ICMP]()
+[TCP, UDP, ICMP](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/TCP-UDP-ICMP.md)
 
  
 
@@ -467,19 +467,19 @@ Configure ethernet and wi-fi network configuration using NetworkManager
 Awareness of systemd-networkd
 The following is a partial list of the used files, terms and utilities:
 
-[/etc/hostname]()
+[/etc/hostname](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-etc-hostname.md)
 
-[/etc/hosts]()
+[/etc/hosts](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-etc-hosts.md)
 
-[/etc/nsswitch.conf]()
+[/etc/nsswitch.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-etc-nsswitches.conf.md)
 
-[/etc/resolv.conf]()
+[/etc/resolv.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-etc-resolv.conf.md)
 
-[nmcli]()
+[nmcli](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/nmcli.md)
 
-[hostnamectl]()
+[hostnamectl](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/hostnamectl.md)
 
-[ifup]()
+[ifup](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ifup.md)
 
 [ifdown]()
  
@@ -497,31 +497,31 @@ Debug problems associated with the network configuration.
 Awareness of legacy net-tools commands.
 The following is a partial list of the used files, terms and utilities:
 
-[ip]()
+[ip](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ip.md)
 
-[hostname]()
+[hostname](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/hostname.md)
 
-[ss]()
+[ss](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ss.md)
 
-[ping]()
+[ping](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ping.md)
 
 [ping6]()
 
-[traceroute]()
+[traceroute](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/traceroute.md)
 
 [traceroute6]()
 
-[tracepath]()
+[tracepath](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/tracepath.md)
 
 [tracepath6]()
 
-[netcat]()
+[netcat](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/netcat.md)
 
-[ifconfig]()
+[ifconfig](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ifconfig.md)
 
-[netstat]()
+[netstat](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/netstat.md)
 
-[route]()
+[route](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/route.md)
  
 
 ### 109.4 Configure client side DNS
@@ -538,17 +538,17 @@ Debug errors related to name resolution.
 Awareness of systemd-resolved
 The following is a partial list of the used files, terms and utilities:
 
-[/etc/hosts]()
+[/etc/hosts](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-etc-hosts.md)
 
-[/etc/resolv.conf]()
+[/etc/resolv.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-etc-resolv.conf.md)
 
-[/etc/nsswitch.conf]()
+[/etc/nsswitch.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-etc-nsswitches.conf.md)
 
-[host]()
+[host](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/host.md)
 
-[dig]()
+[dig](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/dig.md)
 
-[getent]()
+[getent](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/getent.md)
  
 
 ## Topic 110: Security
@@ -568,31 +568,31 @@ Determine which users have logged in to the system or are currently logged in.
 Basic sudo configuration and usage.
 The following is a partial list of the used files, terms and utilities:
 
-[find]()
+[find](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/find.md)
 
-[passwd]()
+[passwd](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/passwd.md)
 
 [fuser]()
 
-[lsof]()
+[lsof](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/lsof.md)
 
 [nmap]()
 
-[chage]()
+[chage](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/chage.md)
 
-[netstat]()
+[netstat](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/netstat.md)
 
-[sudo]()
+[sudo](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/sudo.md)
 
-[/etc/sudoers]()
+[/etc/sudoers](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-etc-sudoers.md)
 
-[su]()
+[su](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/su.md)
 
-[usermod]()
+[usermod](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/usermod.md)
 
 [ulimit]()
 
-[who, w, last]()
+[who, w, last](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/who%2C%20w%2C%20last.md)
 
  
 
@@ -608,25 +608,25 @@ Turn off network services not in use.
 Understand the role of TCP wrappers.
 The following is a partial list of the used files, terms and utilities:
 
-[/etc/nologin]()
+[/etc/nologin](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-etc-nologin.md)
 
-[/etc/passwd]()
+[/etc/passwd](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-etc-passwd.md)
 
-[/etc/shadow]()
+[/etc/shadow](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-etc-shadow.md)
 
-[/etc/xinetd.d/]()
+[/etc/xinetd.d/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-etc-xinetd.d-.md)
 
-[/etc/xinetd.conf]()
+[/etc/xinetd.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-etc-xinetd.conf.md)
 
-[systemd.socket]()
+[systemd.socket](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/systemd.socket.md)
 
-[/etc/inittab]()
+[/etc/inittab](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-etc-inittab.md)
 
-[/etc/init.d/]()
+[/etc/init.d/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-etc-init.d-.md)
 
-[/etc/hosts.allow]()
+[/etc/hosts.allow](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-etc-hosts.allow.md)
 
-[/etc/hosts.deny]()
+[/etc/hosts.deny](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-etc-hosts.deny.md)
 
  
 
@@ -644,39 +644,39 @@ Use GPG to encrypt, decrypt, sign and verify files.
 Understand SSH port tunnels (including X11 tunnels).
 The following is a partial list of the used files, terms and utilities:
 
-[ssh]()
+[ssh](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ssh.md)
 
-[ssh-keygen]()
+[ssh-keygen](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ssh-keygen.md)
 
-[ssh-agent]()
+[ssh-agent](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ssh-agent.md)
 
-[ssh-add]()
+[ssh-add](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ssh-add.md)
 
-[~/.ssh/id_rsa and id_rsa.pub]()
+[~/.ssh/id_rsa and id_rsa.pub](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/~-.ssh-id_rsa%20and%20id_rsa.pub.md)
 
-[~/.ssh/id_dsa and id_dsa.pub]()
+[~/.ssh/id_dsa and id_dsa.pub](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/~-.ssh-id_dsa%20and%20id_dsa.pub.md)
 
-[~/.ssh/id_ecdsa and id_ecdsa.pub]()
+[~/.ssh/id_ecdsa and id_ecdsa.pub](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/~-.ssh-id_ecdsa%20and%20id_ecdsa.pub.md)
 
-[~/.ssh/id_ed25519 and id_ed25519.pub]()
+[~/.ssh/id_ed25519 and id_ed25519.pub](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/~-.ssh-id_ed25519%20and%20id_ed25519.pub.md)
 
-[/etc/ssh/ssh_host_rsa_key and ssh_host_rsa_key.pub]()
+[/etc/ssh/ssh_host_rsa_key and ssh_host_rsa_key.pub](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-etc-ssh-ssh_host_rsa_key%20and%20ssh_host_rsa_key.pub.md)
 
-[/etc/ssh/ssh_host_dsa_key and ssh_host_dsa_key.pub]()
+[/etc/ssh/ssh_host_dsa_key and ssh_host_dsa_key.pub](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-etc-ssh-ssh_host_dsa_key%20and%20ssh_host_dsa_key.pub.md)
 
-[/etc/ssh/ssh_host_ecdsa_key and ssh_host_ecdsa_key.pub]()
+[/etc/ssh/ssh_host_ecdsa_key and ssh_host_ecdsa_key.pub](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-etc-ssh-ssh_host_ecdsa_key%20and%20ssh_host_ecdsa_key.pub.md)
 
-[/etc/ssh/ssh_host_ed25519_key and ssh_host_ed25519_key.pub]()
+[/etc/ssh/ssh_host_ed25519_key and ssh_host_ed25519_key.pub](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-etc-ssh-ssh_host_ed25519_key%20and%20ssh_host_ed25519_key.pub.md)
 
-[~/.ssh/authorized_keys]()
+[~/.ssh/authorized_keys](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/~-.ssh-authorized_keys.md)
 
-[ssh_known_hosts]()
+[ssh_known_hosts](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/ssh_known_hosts.md)
 
-[gpg]()
+[gpg](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/gpg.md)
 
-[gpg-agent]()
+[gpg-agent](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/gpg-agent.md)
 
-[~/.gnupg/]()
+[~/.gnupg/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/~-.gnupg-.md)
 
-[/etc/updatedb.conf]()
+[/etc/updatedb.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-etc-updatedb.conf.md)
 

@@ -21,7 +21,7 @@ The following is a partial list of the used files, terms and utilities:
 
 [/dev/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/-dev-.md)
 
-[modprobe]()
+[modprobe](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/modprobe.md)
 
 [lsmod](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/lsmod.md)
 
@@ -80,7 +80,7 @@ Properly terminate processes.
 Awareness of acpid.
 The following is a partial list of the used files, terms and utilities:
 
-[/etc/inittab]()
+[/etc/inittab](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-102/-etc-inittab.md)
 
 [shutdown](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/shutdown.md)
 
@@ -116,19 +116,19 @@ Ensure the /boot partition conforms to the hardware architecture requirements fo
 Knowledge of basic features of LVM.
 The following is a partial list of the used files, terms and utilities:
 
-[/ (root) filesystem  ]()
+[/ (root) filesystem  ](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/-root.md)
 
-[/var filesystem]()
+[/var filesystem](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/-var.md)
 
-[/home filesystem]()
+[/home filesystem](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/-home.md)
 
-[/boot filesystem]()
+[/boot filesystem](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/-boot.md)
 
 [EFI System Partition (ESP)](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/EFI%20System%20Partition.md)
 
-[swap space]()
+[swap space](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/swap%20space.md)
 
-[mount points]()
+[mount points](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/mount%20points.md)
 
 [partitions](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/partitions.md)
  
@@ -146,7 +146,7 @@ Perform basic configuration changes for GRUB 2.
 Interact with the boot loader.
 The following is a partial list of the used files, terms and utilities:
 
-[menu.lst, grub.cfg and grub.conf]()
+[menu.lst, grub.cfg and grub.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/menu.lst%2C%20grub.cfg%20and%20grub.conf.md)
 
 [grub-install](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/grub-install.md)
 
@@ -192,13 +192,13 @@ The following is a partial list of the used files, terms and utilities:
 
 [/etc/apt/sources.list](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/-etc-apt-source.list.md)
 
-[dpkg]()
+[dpkg](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/dpkg.md)
 
 [dpkg-reconfigure](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/dpkg-reconfigure.md)
 
 [apt-get](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/apt-get.md)
 
-[apt-cache]()
+[apt-cache](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/apt-cache.md)
  
 
 ### 102.5 Use RPM and YUM package management
@@ -222,9 +222,9 @@ The following is a partial list of the used files, terms and utilities:
 
 [/etc/yum.repos.d/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/-etc-yum.repos.d.md)
 
-[yum]()
+[yum](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/yum.md)
 
-[zypper]()
+[zypper](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/zypper.md)
  
 
 ### 102.6 Linux as a virtualization guest
@@ -270,7 +270,7 @@ Use and edit command history.
 Invoke commands inside and outside the defined path.
 The following is a partial list of the used files, terms and utilities:
 
-[bash]()
+[bash](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/bash.md)
 
 [echo](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/echo.md)
 
@@ -282,7 +282,7 @@ The following is a partial list of the used files, terms and utilities:
 
 [set](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/set.md)
 
-[unset]()
+[unset](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/unset.md)
 
 [type](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/type.md)
 
@@ -309,7 +309,7 @@ Key Knowledge Areas:
 Send text files and output streams through text utility filters to modify the output using standard UNIX commands found in the GNU textutils package.
 The following is a partial list of the used files, terms and utilities:
 
-[bzcat]()
+[bzcat](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/bzcat.md)
 
 [cat](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/cat.md)
 
@@ -343,9 +343,9 @@ The following is a partial list of the used files, terms and utilities:
 
 [uniq](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/uniq.md)
 
-[wc]()
+[wc](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/wc.md)
 
-[xzcat]()
+[xzcat](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/xzcat.md)
 
 [zcat](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/zcat.md)
  
@@ -395,13 +395,13 @@ The following is a partial list of the used files, terms and utilities:
 
 [bzip2](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/bzip2.md)
 
-[bunzip2]()
+[bunzip2](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/bunzip2.md)
 
 [xz](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/xz.md)
 
-[unxz]()
+[unxz](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/unxz.md)
 
-[file globbing]()
+[file globbing](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/file%20globbing.md)
  
 
 ### 103.4 Use streams, pipes and redirects
@@ -467,7 +467,7 @@ The following is a partial list of the used files, terms and utilities:
 
 [screen](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/screen.md)
 
-[tmux]()
+[tmux](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/tmux.md)
  
 
 ### 103.6 Modify process execution priorities
@@ -507,11 +507,11 @@ The following is a partial list of the used files, terms and utilities:
 
 [grep](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/grep.md)
 
-[egrep]()
+[egrep](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/egrep.md)
 
-[fgrep]()
+[fgrep](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/fgrep.md)
 
-[sed]()
+[sed](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/sed.md)
 
 [regex(7)](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/regex(7).md)
  
@@ -571,13 +571,13 @@ The following is a partial list of the used files, terms and utilities:
 
 [fdisk](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/fdisk.md)
 
-[gdisk]()
+[gdisk](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/gdisk.md)
 
-[parted]()
+[parted](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/parted.md)
 
 [mkfs](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/mkfs.md)
 
-[mkswap]()
+[mkswap](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/mkswap.md)
  
 
 ### 104.2 Maintain the integrity of filesystems
@@ -600,15 +600,15 @@ The following is a partial list of the used files, terms and utilities:
 
 [e2fsck](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/e2fsck.md)
 
-[mke2fs]()
+[mke2fs](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/mke2fs.md)
 
 [tune2fs](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/tune2fs.md)
 
-[xfs_repair]()
+[xfs_repair](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/xfs_repair.md)
 
-[xfs_fsr]()
+[xfs_fsr](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/xfs_fsr.md)
 
-[xfs_db]()
+[xfs_db](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/xfs_db.md)
  
 
 ### 104.3 Control mounting and unmounting of filesystems
@@ -631,7 +631,7 @@ The following is a partial list of the used files, terms and utilities:
 
 [mount](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/mount.md)
 
-[umount]()
+[umount](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/umount.md)
 
 [blkid](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/blkid.md)
 
@@ -655,7 +655,7 @@ The following is a partial list of the used files, terms and utilities:
 
 [chmod](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/chmod.md)
 
-[umask]()
+[umask](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/umask.md)
 
 [chown](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/chown.md)
 
@@ -696,9 +696,9 @@ The following is a partial list of the used files, terms and utilities:
 
 [locate](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/locate.md)
 
-[updatedb]()
+[updatedb](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/updatedb.md)
 
-[whereis]()
+[whereis](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC1-101/whereis.md)
 
 [which](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/which.md)
 
