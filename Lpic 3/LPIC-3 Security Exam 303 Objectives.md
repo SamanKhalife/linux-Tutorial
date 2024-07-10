@@ -117,9 +117,9 @@ Partial list of the used files, terms and utilities:
 
 [dnssec-settime](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/dnssec-settime.md)
 
-[dnssec-dsfromkey]()
+[dnssec-dsfromkey](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/dnssec-dsfromkey.md)
 
-[rndc (including relevant subcommands)]()
+[rndc (including relevant subcommands)](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/rndc%20(including%20relevant%20subcommands).md)
 
 [dig](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/dig.md)
 
@@ -227,9 +227,9 @@ Partial list of the used files, terms and utilities:
 
 [rpm](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/rpm.md)
 
-[dpkg]()
+[dpkg](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/dpkg.md)
 
-[aide]()
+[aide](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/aide.md)
 
 [/etc/aide/aide.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/-etc-aide-aide.conf.md)
  
@@ -250,7 +250,7 @@ Use systemd units to limit the system resources processes can consume
 Awareness of cgmanager and libcgroup utilities
 Partial list of the used files, terms and utilities:
 
-[ulimit]()
+[ulimit](utorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/ulimit.md)
 
 [/etc/security/limits.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/-etc-security-limits.conf.md)
 
@@ -325,7 +325,7 @@ Partial list of the used files, terms and utilities:
 
 [setcon](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/setcon.md)
 
-[c]()
+[c](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/c.md)
 
 [chcon](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/chcon.md)
 
@@ -337,7 +337,7 @@ Partial list of the used files, terms and utilities:
 
 [apol](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/apol.md)
 
-[seaudit]()
+[seaudit](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/seaudit.md)
 
 [audit2why](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/audit2why.md)
 
@@ -388,7 +388,7 @@ The following is a partial list of the used files, terms and utilities:
 
 [tcpdump](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/tcpdump.md)
 
-[kismet]()
+[kismet](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/kismet.md)
 
 [ndpmon](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/ndpmon.md)
  
@@ -450,19 +450,19 @@ Awareness of ebtables
 Awareness of conntrackd
 Partial list of the used files, terms and utilities:
 
-[iptables]()
+[iptables](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/iptables.md)
 
-[ip6tables]()
+[ip6tables](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/ip6tables.md)
 
-[iptables-save]()
+[iptables-save](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/iptables-save.md)
 
 [iptables-restore](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/iptables-restore.md)
 
-[ip6tables-save]()
+[ip6tables-save](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/ip6tables-save.md)
 
-[ip6tables-restore]()
+[ip6tables-restore](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/ip6tables-restore.md)
 
-[ipset]()
+[ipset](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/ipset.md)
  
 
 ### 334.4 Virtual Private Networks (weight: 4)
@@ -497,11 +497,11 @@ Partial list of the used files, terms and utilities:
 
 [/etc/wireguard/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/-etc-wireguard-.md)
 
-[wg]()
+[wg](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/wg.md)
 
 [wg-quick](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/wg-quick.md)
 
-[ip]()
+[ip](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ip.md)
  
 
 ## Topic 335: Threats and Vulnerability Assessment
@@ -576,4 +576,4 @@ Understand the concepts of Nmap Scripting Engine and execute existing scripts
 Awareness of Kali Linux, Armitage and the Social Engineer Toolkit (SET)
 Partial list of the used files, terms and utilities:
 
-[nmap]()
+[nmap](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/nmap.md)
