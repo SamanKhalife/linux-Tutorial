@@ -22,7 +22,7 @@ The following is a partial list of the used files, terms and utilities:
 
 [/var/named/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/-var-named-.md)
 
-[rndc]()
+[rndc](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/rndc.md)
 
 [named-checkconf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/named-checkconf.md)
 
@@ -82,7 +82,7 @@ Awareness of DNSSEC and basic tools
 Awareness of DANE and related records
 The following is a partial list of the used files, terms and utilities:
 
-[/etc/named.conf]()
+[/etc/named.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/-etc-named.conf.md)
 
 [/etc/passwd](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/-etc-passwd.md)
 
@@ -198,7 +198,7 @@ The following is a partial list of the used files, terms and utilities:
 
 [/etc/nginx/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/-etc-nginx.md)
 
-[nginx]()
+[nginx](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/nginx.md)
  
 
 ## Topic 209: File Sharing
@@ -219,21 +219,21 @@ Mapping Windows user names to Linux user names
 User-Level, Share-Level and AD security
 The following is a partial list of the used files, terms and utilities:
 
-[smbd, nmbd, winbindd]()
+[smbd, nmbd, winbindd](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/smbd%2C%20nmbd%2C%20winbindd.md)
 
-[smbcontrol, smbstatus, testparm, smbpasswd, nmblookup]()
+[smbcontrol, smbstatus, testparm, smbpasswd, nmblookup](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/smbcontrol%2C%20smbstatus%2C%20testparm%2C%20smbpasswd%2C%20nmblookup.md)
 
-[samba-tool]()
+[samba-tool](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/samba-tool.md)
 
-[net]()
+[net](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/net.md)
 
-[smbclient]()
+[smbclient](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/smbclient.md)
 
-[mount.cifs]()
+[mount.cifs](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/mount.cifs.md)
 
-[/etc/samba/]()
+[/etc/samba/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/-etc-samba-.md)
 
-[/var/log/samba/]()
+[/var/log/samba/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/-var-log-samba-.md)
  
 
 ### 209.2 NFS Server Configuration 
@@ -252,19 +252,19 @@ TCP Wrappers
 Awareness of NFSv4
 The following is a partial list of the used files, terms and utilities:
 
-[/etc/exports]()
+[/etc/exports](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/-etc-exports.md)
 
-[exportfs]()
+[exportfs](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/exportfs.md)
 
-[showmount]()
+[showmount](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/showmount.md)
 
 [nfsstat](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/nfsstat.md)
 
-[/proc/mounts]()
+[/proc/mounts](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/-proc-mounts.md)
 
-[/etc/fstab]()
+[/etc/fstab](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/-etc-fstab.md)
 
-[rpcinfo]()
+[rpcinfo](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/rpcinfo.md)
 
 [mountd](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/mountd.md)
 
@@ -287,11 +287,11 @@ Subnet and dynamically-allocated range setup
 Awareness of DHCPv6 and IPv6 Router Advertisements
 The following is a partial list of the used files, terms and utilities:
 
-[dhcpd.conf]()
+[dhcpd.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/dhcpd.conf.md)
 
-[dhcpd.leases]()
+[dhcpd.leases](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/dhcpd.leases.md)
 
-[DHCP Log messages in syslog or systemd journal]()
+[DHCP Log messages in syslog or systemd journal](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/DHCP%20Log%20messages%20in%20syslog%20or%20systemd%20journal.md)
 
 [arp](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/arp.md)
 
@@ -315,13 +315,13 @@ passwd and shadow passwords
 Use sssd for LDAP authentication
 The following is a partial list of the used files, terms and utilities:
 
-[/etc/pam.d/]()
+[/etc/pam.d/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/etcpam.d.md)
 
 [pam.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/pam.conf.md)
 
 [nsswitch.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/nsswitch.conf.md)
 
-[pam_unix, pam_cracklib, pam_limits, pam_listfile, pam_sss]()
+[pam_unix, pam_cracklib, pam_limits, pam_listfile, pam_sss](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/pam_unix%2C%20pam_cracklib%2C%20pam_limits%2C%20pam_listfile%2C%20pam_sss.md)
 
 [sssd.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/sssd.conf.md)
  
@@ -338,13 +338,13 @@ Change user passwords
 Querying the LDAP directory
 The following is a partial list of the used files, terms and utilities:
 
-[ldapsearch]()
+[ldapsearch](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/ldapsearch.md)
 
-[ldappasswd]()
+[ldappasswd](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/ldappasswd.md)
 
-[ldapadd]()
+[ldapadd](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/ldapadd.md)
 
-[ldapdelete]()
+[ldapdelete](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/ldapdelete.md)
  
 
 ### 210.4 Configuring an OpenLDAP server 
@@ -365,21 +365,21 @@ Directories
 Object IDs, Attributes and Classes
 The following is a partial list of the used files, terms and utilities:
 
-[slapd]()
+[slapd](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/slapadd.md)
 
-[slapd-config]()
+[slapd-config](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/slapd-config.md)
 
-[LDIF]()
+[LDIF](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/LDIF.md)
 
-[slapadd]()
+[slapadd](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/slapadd.md)
 
-[slapcat]()
+[slapcat](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/slapcat.md)
 
-[slapindex]()
+[slapindex](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/slapindex.md)
 
-[/var/lib/ldap/]()
+[/var/lib/ldap/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/varlibldap.md)
 
-[loglevel]()
+[loglevel](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/loglevel.md)
  
 
 ## Topic 211: E-Mail Services
@@ -398,17 +398,17 @@ Basic knowledge of the SMTP protocol
 Awareness of sendmail and exim
 The following is a partial list of the used files, terms and utilities:
 
-[Configuration files and commands for postfix]()
+[Configuration files and commands for postfix](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/Configuration%20files%20and%20commands%20for%20postfix.md)
 
-[/etc/postfix/]()
+[/etc/postfix/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/-etc-postfix-.md)
 
 [/var/spool/postfix/]()
 
-[sendmail emulation layer commands]()
+[sendmail emulation layer commands](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/sendmail%20emulation%20layer%20commands.md)
 
-[/etc/aliases]()
+[/etc/aliases](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/-etc-aliases.md)
 
-mail-related logs in /var/log/]()
+[mail-related logs in /var/log/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/mail-related%20logs%20in%20-var-log-.md)
  
 
 ### 211.2 Managing E-Mail Delivery 
@@ -424,9 +424,9 @@ Use Sieve to filter and sort mail with respect to sender, recipient(s), headers 
 Awareness of procmail
 The following is a partial list of the used files, terms and utilities:
 
-[Conditions and comparison operators]()
-[keep, fileinto, redirect, reject, discard, stop]()
-[Dovecot vacation extension]()
+[Conditions and comparison operators](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/Conditions%20and%20comparison%20operators.md)
+[keep, fileinto, redirect, reject, discard, stop](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/keep%2C%20fileinto%2C%20redirect%2C%20reject%2C%20discard%2C%20stop%20.md)
+[Dovecot vacation extension](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/Dovecot%20vacation%20extension.md)
  
 
 ### 211.3 Managing Mailbox Access
@@ -442,13 +442,13 @@ Basic TLS configuration for Dovecot
 Awareness of Courier
 The following is a partial list of the used files, terms and utilities:
 
-[/etc/dovecot/]()
+[/etc/dovecot/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/-etc-dovecot-.md)
 
-[dovecot.conf]()
+[dovecot.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/dovecot.conf.md)
 
-[doveconf]()
+[doveconf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/doveconf.md)
 
-[doveadm]()
+[doveadm](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/doveadm.md)
  
 
 ## Topic 212: System Security
@@ -469,11 +469,11 @@ List and write filtering and rules that accept or block IP packets based on sour
 Save and reload filtering configurations
 The following is a partial list of the used files, terms and utilities:
 
-[/proc/sys/net/ipv4/]()
+[/proc/sys/net/ipv4/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/-proc-sys-net-ipv4-.md)
 
-[/proc/sys/net/ipv6/]()
+[/proc/sys/net/ipv6/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/-proc-sys-net-ipv6-.md)
 
-[/etc/services]()
+[/etc/services](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/-etc-services.md)
 
 [iptables](https://github.com/SamanKhalife/linux-Tutorial/tree/main/Firewalls/Iptables)
 
@@ -494,7 +494,7 @@ The following is a partial list of the used files, terms and utilities:
 
 [vsftpd.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/vsftpd.conf.md)
 
-[important Pure-FTPd command line options]()
+[important Pure-FTPd command line options](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/important%20Pure-FTPd%20command%20line%20options.md)
  
 
 ### 212.3 Secure shell (SSH) 
@@ -513,15 +513,15 @@ The following is a partial list of the used files, terms and utilities:
 
 [ssh](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ssh.md)
 
-[sshd]()
+[sshd](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/sshd.md)
 
-[/etc/ssh/sshd_config]()
+[/etc/ssh/sshd_config](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/-etc-ssh-sshd_config.md)
 
-[/etc/ssh/]()
+[/etc/ssh/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/-etc-ssh.md)
 
-[Private and public key files]()
+[Private and public key files](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/Private%20and%20public%20key%20files.md)
 
-[PermitRootLogin, PubKeyAuthentication, AllowUsers, PasswordAuthentication, Protocol]()
+[PermitRootLogin, PubKeyAuthentication, AllowUsers, PasswordAuthentication, Protocol](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/PermitRootLogin%2C%20PubKeyAuthentication%2C%20AllowUsers%2C%20PasswordAuthentication%2C%20Protocol.md)
  
 
 ### 212.4 Security tasks 
@@ -540,11 +540,11 @@ The following is a partial list of the used files, terms and utilities:
 
 [telnet](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/telnet.md)
 
-[nmap]()
+[nmap](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/nmap.md)
 
-[fail2ban]()
+[fail2ban](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/fail2ban.md)
 
-[nc]()
+[nc](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/nc.md)
 
 [iptables](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/iptables.md)
  
@@ -560,7 +560,7 @@ Key Knowledge Areas:
 OpenVPN
 The following is a partial list of the used files, terms and utilities:
 
-[/etc/openvpn/]()
+[/etc/openvpn/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/-etc-openvpn.md)
 
-[openvpn]()
+[openvpn](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/openvpn.md)
  
