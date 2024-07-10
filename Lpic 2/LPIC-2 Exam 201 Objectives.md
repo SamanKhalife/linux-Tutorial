@@ -145,7 +145,7 @@ The following is a partial list of the used files, terms and utilities:
 
 [depmod](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/depmod.md)
 
-[dkms]()
+[dkms](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/dkms.md)
  
 
 ### 201.3 Kernel runtime management and troubleshooting (weight: 4)
@@ -353,7 +353,7 @@ The following is a partial list of the used files, terms and utilities:
 
 [blkid](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/blkid.md)
 
-[sync]()
+[sync](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/sync.md)
 
 [swapon](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/swapon.md)
 
@@ -376,7 +376,7 @@ The following is a partial list of the used files, terms and utilities:
 
 [mkfs (mkfs.*)](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/mkfs%20(mkfs.).md)
 
-[mkswap]()
+[mkswap](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/mkswap.md)
 
 [fsck (fsck.*)](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/fsck%20(fsck.).md)
 
@@ -468,7 +468,7 @@ The following is a partial list of the used files, terms and utilities:
 
 [iscsiadm, scsi_id, iscsid and iscsid.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/iscsiadm%2C%20scsi_id%2C%20iscsid%20and%20iscsid.conf.md)
 
-[WWID, WWN, LUN numbers]()
+[WWID, WWN, LUN numbers](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/WWID%2C%20WWN%2C%20LUN%20numbers.md)
  
 
 ### 204.3 Logical Volume Manager (weight: 3)
@@ -522,11 +522,11 @@ The following is a partial list of the used files, terms and utilities:
 
 [arp](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/arp.md)
 
-[iw]()
+[iw](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/iw.md)
 
-[iwconfig]()
+[iwconfig](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/iwconfig.md)
 
-[iwlist]()
+[iwlist](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/iwlist.md)
  
 
 ### 205.2 Advanced Network Configuration (weight: 4)
@@ -555,15 +555,15 @@ The following is a partial list of the used files, terms and utilities:
 
 [netstat](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/netstat.md)
 
-[lsof]()
+[lsof](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/lsof.md)
 
-[ping, ping6]()
+[ping, ping6](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/ping%2C%20ping6.md)
 
-[nc]()
+[nc](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/nc.md)
 
 [tcpdump](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/tcpdump.md)
 
-[nmap]()
+[nmap](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/nmap.md)
  
 
 ### 205.3 Troubleshooting network issues (weight: 4)
@@ -594,13 +594,13 @@ The following is a partial list of the used files, terms and utilities:
 
 [netstat](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/netstat.md)
 
-[/etc/network/, /etc/sysconfig/network-scripts/]()
+[/etc/network/, /etc/sysconfig/network-scripts/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/-etc-network%2C%20-etc-sysconfig-network-scripts-.md)
 
 [ping, ping6](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ping.md)
 
 [traceroute, traceroute6](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/traceroute.md)
 
-[mtr]()
+[mtr](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/mtr.md)
 
 [hostname](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/hostname.md)
 
@@ -608,13 +608,13 @@ The following is a partial list of the used files, terms and utilities:
 
 [dmesg](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/dmesg.md)
 
-[/etc/resolv.conf]()
+[/etc/resolv.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/-etc-resolv.conf.md)
 
-[/etc/hosts]()
+[/etc/hosts](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/-etc-hosts.md)
 
-[/etc/hostname, /etc/HOSTNAME]()
+[/etc/hostname, /etc/HOSTNAME](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/-etc-hostname%2C%20-etc-HOSTNAME.md)
 
-[/etc/hosts.allow, /etc/hosts.deny]()
+[/etc/hosts.allow, /etc/hosts.deny](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/-etc-hosts.allow%2C%20-etc-hosts.deny.md)
  
 
 ## Topic 206: System Maintenance
@@ -634,7 +634,7 @@ Know where sources are stored by default.
 The following is a partial list of the used files, terms and utilities:
 
 
-[/usr/src/]()
+[/usr/src/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/-usr-src-.md)
 
 [gunzip](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/gunzip.md)
 
@@ -646,7 +646,7 @@ The following is a partial list of the used files, terms and utilities:
 
 [tar](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/tar.md)
 
-[configure]()
+[configure](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/configure.md)
 
 [make](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/make.md)
 
