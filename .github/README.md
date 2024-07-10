@@ -3,20 +3,20 @@
 
 Feel free to contribute ([lets-fork-it](https://github.com/login?return_to=%2FSamanKhalife%2Flinux-Tutorial)), and if there's any problem or recommendation, I'd be happy to sort it out if you raise an [issue](https://github.com/SamanKhalife/linux-Tutorial/issues/new/choose).
 
-# Repo Contents😜😜😜(It's more than you imagine)
-* [**Full-list-for-all-Commands**](https://github.com/SamanKhalife/linux-commands/blob/main/Commands.md)
-* Exams-Objectives-and-samples:
+# Repo Contents😜😜😜(More Than You Imagine)
+* [**Complete-List-Of-All-Commands**](https://github.com/SamanKhalife/linux-commands/blob/main/Commands.md)
+* LPIC-Exams: Objectives-and-Samples:
   * [LPIC1](https://github.com/SamanKhalife/linux-Tutorial/tree/main/Lpic%201)
   * [LPIC2](https://github.com/SamanKhalife/linux-Tutorial/tree/main/Lpic%202)
   * [LPIC3](https://github.com/SamanKhalife/linux-Tutorial/tree/main/Lpic%203)
-* [Quick-review-important-commants](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Quick%20review%20for%20commands.md)
-* [How-To-do-some-installation-and-linux-tricks](https://github.com/SamanKhalife/linux-Tutorial/tree/main/How%20to)
-* [Deep-into-linux](https://github.com/SamanKhalife/linux-Tutorial?tab=readme-ov-file#common-commands-preview)
-* [Working-with-cli-editor](https://github.com/SamanKhalife/linux-Tutorial/tree/main/Commadline-Editors)
-* [Working-with-git-cli](https://github.com/SamanKhalife/linux-Tutorial/tree/main/Git%20Commands)
-* [How-to-use-tools-in-iran(dns-settings)](https://github.com/SamanKhalife/linux-Tutorial/tree/main?tab=readme-ov-file#if-you-live-in-countries-that-are-embargoed-by-some-companies-and-applications-you-can-use-some-thing-like-dns-changing-for-using-the-apps)
+* [Quick-review-of-important-commants](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Quick%20review%20for%20commands.md)
+* [A-Handy-Guide-for-Installing-Some-Useful-Tools-and-Apps](https://github.com/SamanKhalife/linux-Tutorial/tree/main/Installing%20tools%20and%20apps)
+* [Diving-Deep-into-Linux](https://github.com/SamanKhalife/linux-Tutorial?tab=readme-ov-file#common-commands-preview)
+* [Working-with-Cli-Editor](https://github.com/SamanKhalife/linux-Tutorial/tree/main/Commadline-Editors)
+* [Working-with-Git-Cli](https://github.com/SamanKhalife/linux-Tutorial/tree/main/Git%20Commands)
+* [How-to-Use-Tools-in-Iran(DNS-Settings)](https://github.com/SamanKhalife/linux-Tutorial/tree/main?tab=readme-ov-file#if-you-live-in-countries-that-are-embargoed-by-some-companies-and-applications-you-can-use-some-thing-like-dns-changing-for-using-the-apps)
 * [Virtualization-in-linux](https://github.com/SamanKhalife/linux-Tutorial/blob/main/virtualization-in-linux.md)
-* [Secure shell(ssh)](https://github.com/SamanKhalife/linux-Tutorial/blob/main/ssh.md)
+* [Secure-Shell(ssh)](https://github.com/SamanKhalife/linux-Tutorial/blob/main/ssh.md)
 * [Tree-of-repo](https://github.com/SamanKhalife/linux-Tutorial/blob/main/SUMMARY.md)
 
 ## Common commands preview
@@ -31,16 +31,9 @@ Feel free to contribute ([lets-fork-it](https://github.com/login?return_to=%2FSa
 * \[Linux Hardware Management ] - commands：`df`, `du`, `top`, `free`, `iotop`
 * \[Linux Software Management ] - commands：`rpm`, `yum`, `apt-get`, `dpkg`
 
-view the [art of command line](https://github.com/jlevy/the-art-of-command-line) repo
+View the [art of command line](https://github.com/jlevy/the-art-of-command-line) repo
 
-try wtf in linux to see the one line describe about commands 
-like this:
-```
-wtf ls
-wtf mkdir
-```
-
-## Linux Getting Started Overview
+## Getting Started With linux Overview (Hardware Interaction)
 
 * **Kernel operating system**
 * **Drivers**
@@ -56,7 +49,7 @@ wtf mkdir
 
 ## More info about Linux kernel 
 
-[Linux kernel map](https://makelinux.github.io/kernel/map/)
+[Linux kernel Map](https://makelinux.github.io/kernel/map/)
 
 ## Linux Boot Process
 
@@ -283,17 +276,6 @@ du -h /path/to/directory | sort -rh
 * /mnt – Mount point for mounting a filesystem temporarily
 * /srv – Service data
 
-### All default Linux commands in bin dir
-
-<details>
-
-<summary>VIEW ALL</summary>
-
-\
-for better view you can see the code----------------------------------------------------------------------------------------------------------- envsubst lslogins rgrep systemd-cryptenroll VGAuthService eqn lsmem rlogin systemd-delta '\[' ex lsmod rm systemd-detect-virt aa-enabled expand lsns rmdir systemd-escape aa-exec expiry lsof rnano systemd-hwdb aa-features-abi expr lspci routef systemd-id128 add-apt-repository factor lspgpot routel systemd-inhibit addpart faillog lspower rrsync systemd-machine-id-setup addr2line fallocate lsusb rsh systemd-mount apport-bug false lzcat rsync systemd-notify apport-cli fgconsole lzcmp rsync-ssl systemd-path apport-collect fgrep lzdiff rtstat systemd-repart apport-unpack file lzegrep run-one systemd-run apropos finalrd lzfgrep run-one-constantly systemd-socket-activate apt fincore lzgrep run-one-until-failure systemd-stdio-bridge apt-add-repository find lzless run-one-until-success systemd-sysext apt-cache findmnt lzma run-parts systemd-sysusers apt-cdrom flock lzmainfo run-this-one systemd-tmpfiles apt-config fmt lzmore runcon systemd-tty-ask-password-agent apt-extracttemplates fold mailmail3 rview systemd-umount apt-ftparchive free man rvim tabs apt-get ftp man-recode savelog tac apt-key fuser mandb sbattach tail apt-mark fusermount manifest sbkeysync tar apt-sortpkgs fusermount3 manpath sbsiglist taskset ar gapplication mapscrn sbsign tbl arch gawk mawk sbvarsign tclsh as gdbus mcookie sbverify tclsh8.6 automat-visualize3 geqn md5sum scandeps tcpdump awk getconf md5sum.textutils scp tee b2sum getent mdig screen telnet base32 getkeycodes mesg screendump telnet.netkit base64 getopt migrate-pubring-from-classic-gpg script tempfile basename gettext mk\_modmap scriptlive test basenc gettext.sh mkdir scriptreplay tic bash ginstall-info mkfifo scsi\_logging\_level time bashbug gio mknod scsi\_mandat timedatectl bc gio-querymodules mksquashfs scsi\_readcap timeout boltctl git mktemp scsi\_ready tkconch3 btrfs git-receive-pack mokutil scsi\_satl tload btrfs-convert git-shell more scsi\_start tmux btrfs-find-root git-upload-archive mount scsi\_stop tnftp btrfs-image git-upload-pack mountpoint scsi\_temperature toe btrfs-map-logical glib-compile-schemas mt sdiff top btrfs-select-super gold mt-gnu sed touch btrfsck gp-archive mtr select-editor tput btrfstune gp-collect-app mtr-packet sensible-browser tr busctl gp-display-html mv sensible-editor tracepath busybox gp-display-src namei sensible-pager trial3 byobu gp-display-text nano seq troff byobu-config gpasswd nawk setarch true byobu-ctrl-a gpg nc setfont truncate byobu-disable gpg-agent nc.openbsd setkeycodes tset byobu-disable-prompt gpg-connect-agent neqn setleds tsort byobu-enable gpg-wks-server netcat setlogcons tty byobu-enable-prompt gpg-zip networkctl setmetamode twist3 byobu-export gpg2 networkd-dispatcher setpci twistd3 byobu-janitor gpgcompose newgrp setpriv tzselect byobu-keybindings gpgconf ngettext setsid ua byobu-launch gpgparsemail nice setterm ubuntu-advantage byobu-launcher gpgsm nisdomainname setupcon ubuntu-bug byobu-launcher-install gpgsplit nl sftp ubuntu-core-launcher byobu-launcher-uninstall gpgtar nm sg ubuntu-distro-info byobu-layout gpgv nohup sg\_bg\_ctl ubuntu-security-status byobu-prompt gpic nproc sg\_compare\_and\_write ucf byobu-quiet gprof nroff sg\_copy\_results ucfq byobu-reconnect-sockets gprofng nsenter sg\_dd ucfr byobu-screen grep nslookup sg\_decode\_sense uclampset byobu-select-backend gresource nstat sg\_emc\_trespass udevadm byobu-select-profile groff nsupdate sg\_format ul byobu-select-session grog ntfs-3g sg\_get\_config umount byobu-shell grops ntfs-3g.probe sg\_get\_elem\_status uname byobu-silent grotty ntfscat sg\_get\_lba\_status unattended-upgrade byobu-status groups ntfscluster sg\_ident unattended-upgrades byobu-status-detail growpart ntfscmp sg\_inq uncompress byobu-tmux grub-editenv ntfsdecrypt sg\_logs unexpand byobu-ugraph grub-file ntfsfallocate sg\_luns unicode\_start byobu-ulevel grub-fstest ntfsfix sg\_map unicode\_stop c++filt grub-glue-efi ntfsinfo sg\_map26 uniq c\_rehash grub-kbdcomp ntfsls sg\_modes unlink captoinfo grub-menulst2cfg ntfsmove sg\_opcodes unlzma cat grub-mkfont ntfsrecover sg\_persist unmkinitramfs catman grub-mkimage ntfssecaudit sg\_prevent unshare cftp3 grub-mklayout ntfstruncate sg\_raw unsquashfs chage grub-mknetdir ntfsusermap sg\_rbuf unxz chardet grub-mkpasswd-pbkdf2 ntfswipe sg\_rdac unzstd chardetect grub-mkrelpath numfmt sg\_read update-alternatives chattr grub-mkrescue objcopy sg\_read\_attr update-mime-database chcon grub-mkstandalone objdump sg\_read\_block\_limits uptime chfn grub-mount od sg\_read\_buffer usb-devices chgrp grub-ntldr-img oem-getlogs sg\_read\_long usbhid-dump chmod grub-render-label on\_ac\_power sg\_readcap usbreset choom grub-script-check openssl sg\_reassign users chown grub-syslinux2cfg openvt sg\_referrals utmpdump chrt gsettings os-prober sg\_rep\_pip uuidgen chsh gtbl pager sg\_rep\_zones uuidparse chvt gunzip partx sg\_requests vcs-run ckbcomp gzexe passwd sg\_reset vdir ckeygen3 gzip paste sg\_reset\_wp vi cksum h2ph pastebinit sg\_rmsn view clear h2xs patch sg\_rtpg vigpg clear\_console hardlink pathchk sg\_safte vim cloud-id hd pbget sg\_sanitize vim.basic cloud-init head pbput sg\_sat\_identify vim.tiny cloud-init-per helpztags pbputs sg\_sat\_phy\_event vimdiff cmp hexdump pdb3 sg\_sat\_read\_gplog vimtutor codepage host pdb3.10 sg\_sat\_set\_features vm-support col hostid peekfd sg\_scan vmhgfs-fuse col1 hostname perl sg\_seek vmstat col2 hostnamectl perl5.34-x86\_64-linux-gnu sg\_senddiag vmtoolsd col3 htop perl5.34.0 sg\_ses vmware-alias-import col4 hwe-support-status perlbug sg\_ses\_microcode vmware-checkvm col5 i386 perldoc sg\_start vmware-hgfsclient col6 iconv perlivp sg\_stpg vmware-namespace-cmd col7 id perlthanks sg\_stream\_ctl vmware-rpctool col8 info pgrep sg\_sync vmware-toolbox-cmd col9 infobrowser pic sg\_test\_rwbuf vmware-vgauth-cmd colcrt infocmp pico sg\_timestamp vmware-vmblock-fuse colrm infotocap piconv sg\_turs vmware-xferlogs column install pidof sg\_unmap w comm install-info pidwait sg\_verify wall conch3 instmodsh pinentry sg\_vpd watch corelist ionice pinentry-curses sg\_wr\_mode watchgnupg cp ip ping sg\_write\_buffer wc cpan ipcmk ping4 sg\_write\_long wdctl cpan5.34-x86\_64-linux-gnu ipcrm ping6 sg\_write\_same wget cpio ipcs pinky sg\_write\_verify whatis crontab iptables-xml pkaction sg\_write\_x whereis csplit ischroot pkcheck sg\_xcopy which ctail iscsiadm pkcon sg\_zone which.debianutils ctstat join pkexec sginfo whiptail curl journalctl pkill sgm\_dd who cut jq pkmon sgp\_dd whoami cvtsudoers json-patch-jsondiff pkttyagent sh wifi-status dash json\_pp pl2pm sha1sum write date jsondiff pldd sha224sum x86\_64 dbus-cleanup-sockets jsonpatch plymouth sha256sum x86\_64-linux-gnu-addr2line dbus-daemon jsonpointer pmap sha384sum x86\_64-linux-gnu-ar dbus-monitor jsonschema pod2html sha512sum x86\_64-linux-gnu-as dbus-run-session kbd\_mode pod2man shasum x86\_64-linux-gnu-c++filt dbus-send kbdinfo pod2text showconsolefont x86\_64-linux-gnu-dwp dbus-update-activation-environment kbxutil pod2usage showkey x86\_64-linux-gnu-elfedit dbus-uuidgen keep-one-running podchecker shred x86\_64-linux-gnu-gold dd kernel-install pollinate shuf x86\_64-linux-gnu-gp-archive deallocvt keyring pr size x86\_64-linux-gnu-gp-collect-app deb-systemd-helper kill preconv skill x86\_64-linux-gnu-gp-display-html deb-systemd-invoke killall printenv slabtop x86\_64-linux-gnu-gp-display-src debconf kmod printf sleep x86\_64-linux-gnu-gp-display-text debconf-apt-progress kmodsign prlimit slogin x86\_64-linux-gnu-gprof debconf-communicate landscape-sysinfo pro snap x86\_64-linux-gnu-gprofng debconf-copydb last prove snapctl x86\_64-linux-gnu-ld debconf-escape lastb prtstat snapfuse x86\_64-linux-gnu-ld.bfd debconf-set-selections lastlog ps snice x86\_64-linux-gnu-ld.gold debconf-show lcf psfaddtable soelim x86\_64-linux-gnu-nm debian-distro-info ld psfgettable sort x86\_64-linux-gnu-objcopy delpart ld.bfd psfstriptable sos x86\_64-linux-gnu-objdump delv ld.gold psfxtable sos-collector x86\_64-linux-gnu-ranlib df ldd pslog sosreport x86\_64-linux-gnu-readelf dh\_bash-completion less pstree splain x86\_64-linux-gnu-size diff lessecho pstree.x11 split x86\_64-linux-gnu-strings diff3 lessfile ptar splitfont x86\_64-linux-gnu-strip dig lesskey ptardiff sqfscat xargs dir lesspipe ptargrep sqfstar xauth dircolors lexgrog ptx ss xdg-user-dir dirmngr libnetcfg purge-old-kernels ssh xdg-user-dirs-update dirmngr-client link pwd ssh-add xsubpp dirname linux-boot-prober pwdx ssh-agent xxd distro-info linux-check-removal py3clean ssh-argv0 xz dmesg linux-update-symlinks py3compile ssh-copy-id xzcat dnsdomainname linux-version py3versions ssh-import-id xzcmp do-release-upgrade linux32 pybabel ssh-import-id-gh xzdiff domainname linux64 pybabel-python3 ssh-import-id-lp xzegrep dpkg ln pydoc3 ssh-keygen xzfgrep dpkg-deb lnstat pydoc3.10 ssh-keyscan xzgrep dpkg-divert loadkeys pygettext3 stat xzless dpkg-maintscript-helper loadunimap pygettext3.10 static-sh xzmore dpkg-query locale pyhtmlizer3 stdbuf yes dpkg-realpath locale-check pyserial-miniterm strace ypdomainname dpkg-split localectl pyserial-ports strace-log-merge zcat dpkg-statoverride localedef python3 streamzip zcmp dpkg-trigger logger python3.10 strings zdiff du login pzstd strip zdump dumpkeys loginctl ranlib stty zegrep dwp logname rbash su zfgrep eatmydata look rcp sudo zforce ec2metadata lowntfs-3g rdma sudoedit zgrep echo ls readelf sudoreplay zipdetails ed lsattr readlink sum zless editor lsb\_release realpath sync zmore efibootdump lsblk red systemctl znew efibootmgr lscpu renice systemd zstd egrep lsfd rescan-scsi-bus.sh systemd-analyze zstdcat eject lshw reset systemd-ask-password zstdgrep elfedit lsinitramfs resizecons systemd-cat zstdless enc2xs lsipc resizepart systemd-cgls zstdmt encguess lsirq resolvectl systemd-cgtop env lslocks rev systemd-creds
-
-</details>
-
 ## User Permissions and attributes
 
 | command | what it means     | what it does                    | how to use it      |
@@ -519,13 +501,9 @@ The following commands will get you the private IP address of your interfaces:
 
 [nslookup](<TXT FILES/nslookup.md>)
 
-## SSH
-
-## DNS
-
 ## Firewalls
 
-Here are the Best Firewalls for Linux for Effective System Protection
+Here are the Best Firewalls for Linux for Effective System Protection(We Mostly use Iptables ,(ufw for regular usages))
 
 <details>
 
@@ -690,8 +668,8 @@ iptables   -t       nat        -I        FORWARDING          .     -P     tcp   
 
 ### If you live in countries that are embargoed by some companies and applications, you can use some thing like DNS changing for using the apps.
 
-* [shecan](https://shecan.ir/)
 * [403.online](https://403.online/)
+* [shecan](https://shecan.ir/)
 * [hostiran](https://hostiran.net/landing/proxy)
 * [begzar](https://begzar.ir/)
 
@@ -729,23 +707,23 @@ Another Fun way:
 
 you can use any kind tools you know here are some of them:
 
+* [certbot](https://github.com/certbot/certbot)
 * [acme](https://github.com/acmesh-official/acme.sh)
 * [zerossl](https://github.com/zerossl)
 * [free-ssl](https://github.com/topics/free-ssl-certificates)
-* [certbot](https://github.com/certbot/certbot)
 
 [learn getting free ssl with acme step by step](acme-freessl.md)
 
-## Some of the server monitoring tools
+## Some of the monitoring tools (Cli) 
 
-#### How To View Running Processes in Linux
+#### Viewing Running Processes in Linux
 
 * [top](<TXT FILES/top.md>)
 * [htop](<TXT FILES/htop.md>)
 * [ps](<TXT FILES/ps.md>)
 * [lsof](<TXT FILES/lsof.md>)
 
-#### How To Monitor Your Network
+#### Monitor Network
 
 * [nethogs](<README (1).md>)
 * [iptraf-ng](<README (1).md>)
@@ -753,41 +731,28 @@ you can use any kind tools you know here are some of them:
 * [iftop](<TXT FILES/iftop.md>)
 * [(speed test)](<README (1).md>)
 
-#### How To Monitor Your Disk Usage
+#### Monitor Disk Usage
 
 * [df](<TXT FILES/df.md>)
 * [du](<TXT FILES/du.md>)
 * [iotop](<TXT FILES/iotop.md>)
 * [iostat](<TXT FILES/iostat.md>)
 
-#### How To Monitor Your Memory Usage
+#### Monitor Memory Usage
 
 * [free(Ram usage)](<TXT FILES/free.md>)
 * [vmstat](<TXT FILES/vmstat.md>)
 
-## How to to Manage Processes in Linux
+## Managing Processes in Linux
 
 * [kill](<TXT FILES/kill.md>)
 * [nice](<TXT FILES/nice.md>)
 
 mosltly use for controlling the cpu usage (nice number is from -20 to 19 ).
 
-## Some of the monitoring apps
-
-* [prometheus](https://prometheus.io/)
-  * [my docs](<README (1).md>)
-* [grafana](https://grafana.com/)
-  * [my docs](<README (1).md>)
-* [zabbix](https://www.zabbix.com/)
-* [paessler](https://www.paessler.com/)
-* [nagios](https://www.nagios.org/)
-* [elastic.co](https://www.elastic.co/kibana)
-* [elastic](https://www.elastic.co/)
-* [influxdata](https://www.influxdata.com/)
-
 ## How To Add Swap Space
 
-What is Swap????? Swap is a portion of hard drive storage that has been set aside for the operating system to temporarily store data that it can no longer hold in RAM. This lets you increase the amount of information that your server can keep in its working memory, with some caveats.
+What is Swap ? Swap is a portion of hard drive storage that has been set aside for the operating system to temporarily store data that it can no longer hold in RAM. This lets you increase the amount of information that your server can keep in its working memory, with some caveats.
 
 #### Checking the System for Swap Information
 
@@ -915,17 +880,7 @@ Some configurations are machine specific. For example, a network card's MAC addr
 
 ##
 
-##
-
-##
-
-##
-
 ## Some info about Clouds and SRE things
-
-##
-
-##
 
 ##
 
