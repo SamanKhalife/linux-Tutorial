@@ -1,4 +1,4 @@
-### openssl
+# openssl
 The `openssl` command in Linux is a versatile toolkit for the Transport Layer Security (TLS) and Secure Sockets Layer (SSL) protocols. It is widely used for tasks such as generating private keys, creating certificate signing requests (CSRs), converting certificates between different formats, and testing SSL/TLS connections.
 
 #### Usage of openssl
