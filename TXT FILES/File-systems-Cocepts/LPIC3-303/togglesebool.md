@@ -1,4 +1,5 @@
-# togglesebool#
+# togglesebool
+
 The `togglesebool` command is not a standard Linux command or utility. In SELinux management and administration, there isn't a specific command dedicated to toggling SELinux boolean variables directly using a command named `togglesebool`.
 
 Instead, administrators typically use `setsebool` to explicitly set SELinux boolean variables to either `on` or `off`. This command allows for the fine-grained control needed to adjust SELinux security policies as per the system's requirements.
