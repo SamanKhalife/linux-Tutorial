@@ -1,4 +1,4 @@
-### `openvas-adduser` Command
+# openvas-adduser
 
 The `openvas-adduser` command is used to create new user accounts for the OpenVAS (Open Vulnerability Assessment System) scanner. OpenVAS is an open-source framework for vulnerability scanning and vulnerability management. Adding users to OpenVAS is an essential step for managing access control and user permissions.
 
