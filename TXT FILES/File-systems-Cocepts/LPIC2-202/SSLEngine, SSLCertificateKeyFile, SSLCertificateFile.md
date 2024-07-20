@@ -1,3 +1,4 @@
+# SSLEngine, SSLCertificateKeyFile, SSLCertificateFile
 These directives are commonly used in Apache HTTP Server configuration files (`httpd.conf` or `.htaccess`) to enable SSL/TLS encryption and specify the SSL certificate details. Here's what each directive does:
 
 ### 1. SSLEngine
