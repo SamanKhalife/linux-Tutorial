@@ -1,3 +1,5 @@
+# mod_auth_basic, mod_authz_host and mod_access_compat
+
 The Apache modules `mod_auth_basic`, `mod_authz_host`, and `mod_access_compat` are critical for controlling access to resources served by Apache HTTP Server. Here's an overview of each module:
 
 ### 1. mod_auth_basic
