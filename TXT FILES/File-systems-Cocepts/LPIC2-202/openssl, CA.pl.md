@@ -1,4 +1,4 @@
-### OpenSSL
+# OpenSSL
 
 OpenSSL is a widely-used open-source software library that implements the Secure Sockets Layer (SSL) and Transport Layer Security (TLS) protocols. It provides cryptographic functions and utilities, including:
 
