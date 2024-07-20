@@ -1,3 +1,5 @@
+# apachectl, apache2ctl
+
 The `apachectl` and `apache2ctl` commands are both command-line tools used for managing Apache HTTP Server. They are typically interchangeable depending on the Linux distribution and the version of Apache installed. Here’s an overview of each:
 
 ### apachectl
