@@ -1,3 +1,4 @@
+# htpasswd
 The `htpasswd` command is used to create and manage user authentication files for Basic Authentication in Apache HTTP Server. Here's how you typically use it:
 
 ### Usage
