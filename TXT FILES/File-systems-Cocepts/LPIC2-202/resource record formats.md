@@ -1,4 +1,4 @@
-### Resource Record Formats
+# Resource Record Formats
 
 DNS (Domain Name System) uses Resource Records (RRs) to store information about domain names. Each RR has a specific format and type, defining the type of data it holds. Here’s a detailed look at common DNS Resource Record formats:
 
