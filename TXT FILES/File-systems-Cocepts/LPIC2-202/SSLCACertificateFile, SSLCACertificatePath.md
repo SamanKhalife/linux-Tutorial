@@ -1,3 +1,5 @@
+# SSLCACertificateFile, SSLCACertificatePath
+
 The directives `SSLCACertificateFile` and `SSLCACertificatePath` are used in Apache HTTP Server configuration files (`httpd.conf` or `.htaccess`) to specify the Certificate Authority (CA) certificates that the server will use to verify client certificates during SSL/TLS connections. Here’s what each directive does:
 
 ### 1. SSLCACertificateFile
