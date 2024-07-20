@@ -1,3 +1,5 @@
+# SSLProtocol, SSLCipherSuite, ServerTokens, ServerSignature, TraceEnable
+
 The directives `SSLProtocol`, `SSLCipherSuite`, `ServerTokens`, `ServerSignature`, and `TraceEnable` are key configuration options used in Apache HTTP Server (`httpd.conf` or `.htaccess`) to control various aspects of SSL/TLS encryption, server information disclosure, and HTTP request tracing. Here’s what each directive does:
 
 ### 1. SSLProtocol
