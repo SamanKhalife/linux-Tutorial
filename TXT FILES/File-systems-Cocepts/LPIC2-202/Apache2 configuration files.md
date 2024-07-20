@@ -1,3 +1,5 @@
+# Apache2 configuration files
+
 Apache2, the HTTP server software, uses several configuration files on Linux systems, each serving a distinct purpose in defining how the server operates. Here are the main configuration files typically found in Apache2 setups:
 
 ### Main Configuration Files:
