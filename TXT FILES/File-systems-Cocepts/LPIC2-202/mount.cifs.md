@@ -1,4 +1,4 @@
-### `mount.cifs`
+# mount.cifs
 
 `mount.cifs` is a command-line utility that allows you to mount a CIFS (Common Internet File System) or SMB (Server Message Block) network share onto your local filesystem. This is useful for accessing files on remote servers as if they were part of your local filesystem. `mount.cifs` is part of the `cifs-utils` package on many Linux distributions.
 
