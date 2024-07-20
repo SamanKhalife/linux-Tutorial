@@ -1,3 +1,5 @@
+# AuthUserFile, AuthGroupFile
+
 The Apache directives `AuthUserFile` and `AuthGroupFile` are used to specify the location of user authentication and group membership files for Basic Authentication in Apache HTTP Server configurations. Here’s how they are typically used:
 
 ### AuthUserFile Directive
