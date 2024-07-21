@@ -1,4 +1,4 @@
-#/boot , /boot/grub, and /boot/efi
+# /boot , /boot/grub , /boot/efi
 The directories `/boot`, `/boot/grub`, and `/boot/efi` are crucial for the boot process of a Linux system. They contain the necessary files and configurations to start the operating system. Here’s a detailed look at their contents and their roles:
 
 ### /boot Directory
