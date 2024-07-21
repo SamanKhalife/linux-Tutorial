@@ -1,5 +1,5 @@
 # mkfs
-پ
+
 `mkfs` (short for "make filesystem") is a command-line utility in Unix-like operating systems used to create filesystems on disk partitions or storage devices. It is a front-end for various filesystem-specific utilities, allowing users to initialize a partition with a specified filesystem type.
 
 ### Key Features
