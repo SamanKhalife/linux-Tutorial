@@ -11,7 +11,7 @@ Troubleshooting Complex Systems: Diagnosing and resolving complex issues across 
 [303 Objectives (With Explanations for Each One)](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Lpic%203/LPIC-3%20Security%20Exam%20303%20Objectives.md)
 
 
-## LPIC-3 Exam 303 Sample Questions 
+## LPIC-3 Exam 303 Sample Questions
 
 
 [(Not Ready Yet) 303 Sample Questions  ](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Lpic%203/LPIC-3%20Security%20Exam%20303%20(303-450)%20Exam%20.md)
