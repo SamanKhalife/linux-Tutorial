@@ -28,7 +28,7 @@ System Troubleshooting: Diagnosing and resolving complex system issues, analyzin
 Storage Management: Managing and configuring storage devices, file systems, and disk quotas.
 High Availability and Performance Tuning: Configuring high-availability solutions, optimizing system performance, and managing system resources.
 
-[202 Objectives(With Explanations for Each One)](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Lpic%202/LPIC-2%20Exam%20202%20Objectives.md)
+[202 Objectives (With Explanations for Each One)](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Lpic%202/LPIC-2%20Exam%20202%20Objectives.md)
 
 ## LPIC-2 Exam 202 Sample Questions 
 
