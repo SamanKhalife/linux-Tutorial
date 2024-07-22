@@ -10,8 +10,32 @@ Troubleshooting Complex Systems: Diagnosing and resolving complex issues across 
 
 [303 Objectives (With Explanations for Each One)](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Lpic%203/LPIC-3%20Security%20Exam%20303%20Objectives.md)
 
+# LPIC-3 Security Exam 303 Exam Sample Questions
 
-## LPIC-3 Exam 303 Sample Questions
+[(Not Ready Yet) 303 Sample Questions ](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Lpic%203/LPIC-3%20Security%20Exam%20303%20(303-450)%20Exam%20.md)
+
+## LPIC-3 Mixed Environments 300 Objectives
+
+[(Not Ready Yet) 300 Objectives](url)
+
+## LPIC-3 Mixed Environments 300 Exam Sample Questions
+[(Not Ready Yet) 300 Sample Questions](url)
+
+## LPIC-3 Virtualization and Containerization 305 Objectives
+
+[(Not Ready Yet) 305 Objectives](url)
+
+## LPIC-3 Virtualization and Containerization 305 Exam Sample Questions
+
+[(Not Ready Yet) 305 Sample Questions](url)
+
+## LPIC-3 High Availability and Storage Clusters 306 Objectives
+[(Not Ready Yet) 306 Objectives](url)
+
+## LPIC-3 High Availability and Storage Clusters 306 Exam Sample Questions
+
+[(Not Ready Yet) 306 Sample Questions](url)
 
 
-[(Not Ready Yet) 303 Sample Questions  ](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Lpic%203/LPIC-3%20Security%20Exam%20303%20(303-450)%20Exam%20.md)
+
+
