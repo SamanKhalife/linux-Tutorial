@@ -17,7 +17,18 @@ Feel free to contribute ([lets-fork-it](https://github.com/login?return_to=%2FSa
 * [How-to-Use-Tools-in-Iran(DNS-Settings)](https://github.com/SamanKhalife/linux-Tutorial/tree/main?tab=readme-ov-file#if-you-live-in-countries-that-are-embargoed-by-some-companies-and-applications-you-can-use-some-thing-like-dns-changing-for-using-the-apps)
 * [Virtualization-in-linux](https://github.com/SamanKhalife/linux-Tutorial/blob/main/virtualization-in-linux.md)
 * [Secure-Shell(ssh)](https://github.com/SamanKhalife/linux-Tutorial/blob/main/ssh.md)
-* [Tree-of-repo](https://github.com/SamanKhalife/linux-Tutorial/blob/main/SUMMARY.md)
+
+# Advanced Mode (On)
+* [Linux Networking (Not Ready)
+* [Shell Scripting(Not Ready)
+* [Linux File Systems and Storage Management(Not Ready)](url)
+* [Ansible for Linux Automation(Not Ready)](url)
+* [Backup and Recovery(Not Ready)](url)
+* [Log Management and Analysis(Not Ready)](url)
+* [Common Troubleshooting Scenarios(Not Ready)](url)
+* [Linux Kernel Customization and Compilation(Not Ready)](url)
+* [(Not Ready)](url)
+* [(Not Ready)](url)
 
 ## Common commands preview
 
