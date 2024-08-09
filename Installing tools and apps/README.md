@@ -1,5 +1,5 @@
-# Here's a List of Tools and Apps We Mostly Use (Or For Fun😉😉)
-Guide is only for Debian-Based Linux
+# Here's a basic list of tools and apps needed. but In the production environment, we primarily use automation tools.
+Guide is only for Debian-Based Linux.
 
 # Installing Monitoring Tools
 * [glances](https://github.com/nicolargo/glances?tab=readme-ov-file#installation)
@@ -36,12 +36,13 @@ Guide is only for Debian-Based Linux
 # Installing Container Things
 * [Docker](https://docs.docker.com/engine/install/ubuntu/)
 * [Kubernetes](https://kubernetes.io/docs/tasks/tools/)
+  * [Kubespray](https://kubespray.io/#/) 
 * [Helm](https://helm.sh/docs/intro/install/)
 * [Podman](https://podman.io/docs/installation)
 
 
 # Installing Webservers 
-* [Nginx](url)
+* [Nginx](https://docs.nginx.com/nginx/admin-guide/installing-nginx/installing-nginx-open-source/)
 * [Apache HTTP Server](url)
 * [Apache Tomcat](url)
 * [LiteSpeed Web Server](url)
@@ -50,9 +51,9 @@ Guide is only for Debian-Based Linux
 
 
 # Installing LoadBlancers
-* [NGINX](url)
-* [HAProxy](url)
-* [Traefik](url)
+* [Nginx](https://docs.nginx.com/nginx/admin-guide/installing-nginx/installing-nginx-open-source/)
+* [HAProxy](https://www.haproxy.com/blog/how-to-install-haproxy-on-ubuntu)
+* [Traefik](https://doc.traefik.io/traefik/getting-started/install-traefik)
   
 
 # LOOOOL LoadBlancer (Only Watch These Game Changers)
@@ -70,7 +71,11 @@ Guide is only for Debian-Based Linux
 # Server Mangement
 * [Proxomox](url)
 * [Openstack](url)
-
-
+  * [kolla-ansible](url)
+  * [kolla](url)
+  * [Openstack-Ansible](url)
+  * [Openstack-Helm](url)
+  * [Kayobi](url)
+  * [Binaries](url)
 
 
