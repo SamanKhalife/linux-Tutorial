@@ -23,8 +23,6 @@ Guide is only for Debian-Based Linux.
 * [MongoDB](url)
 * [Elasticsearch](https://www.elastic.co/)
 
-
-
 # Installing Automation Tools
 * [Ansible](https://docs.ansible.com/ansible/latest/installation_guide/installation_distros.html)
 * [Terraform](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)
@@ -68,14 +66,22 @@ Guide is only for Debian-Based Linux.
 * [Kafka](https://kafka.apache.org/quickstart)
 * [Rabbitmq](https://www.rabbitmq.com/docs/download)
 
-# Server Mangement
-* [Proxomox](url)
-* [Openstack](url)
-  * [kolla-ansible](url)
-  * [kolla](url)
-  * [Openstack-Ansible](url)
-  * [Openstack-Helm](url)
-  * [Kayobi](url)
-  * [Binaries](url)
+# Server Mangement and Storage
+* [Proxomox](https://pve.proxmox.com/wiki/Installation)
+* [Openstack](https://www.openstack.org/)
+  * [kolla](https://wiki.openstack.org/wiki/Kolla)
+  * [kolla-ansible](https://docs.openstack.org/kolla-ansible/latest/user/quickstart.html)
+  * [Openstack-Ansible](https://docs.openstack.org/openstack-ansible/latest/)
+  * [Openstack-Helm](https://wiki.openstack.org/wiki/Openstack-helm)
+  * [Kayobi](https://docs.openstack.org/kayobe/latest/installation.html)
+  * Binaries
+* [Ceph](https://docs.ceph.com/en/reef/cephadm/)
+  * [Ceph-Ansible](https://docs.ceph.com/projects/ceph-ansible/en/latest/)
+  * [ROOK](https://rook.io/docs/rook/v1.10/Getting-Started/intro/)
+  * [Ceph-Salt](https://github.com/ceph/ceph-salt)
 
-
+# CLI-Tools
+* [](url)
+* [](url)
+* [](url)
+* [](url)
