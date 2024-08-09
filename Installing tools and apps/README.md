@@ -26,23 +26,18 @@ Guide is only for Debian-Based Linux
 
 
 # Installing Automation Tools
-* [Ansible](url)
-* [Terraform](url)
-* [SaltStack](url)
-* [Puppet](url)
-* [Chef](url)
+* [Ansible](https://docs.ansible.com/ansible/latest/installation_guide/installation_distros.html)
+* [Terraform](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)
+* [SaltStack](https://docs.saltproject.io/salt/install-guide/en/latest/topics/install-by-operating-system/ubuntu.html)
+* [Puppet](https://www.puppet.com/docs/puppet/7/install_puppet.html)
+* [Chef](https://docs.chef.io/workstation/install_workstation/)
 
 
 # Installing Container Things
-* [Docker](url)
-* [Kubernetes](url)
-* [Helm](url)
-* [Podman](url)
-* [](url)
-* [](url)
-* [](url)
-* [](url)
-* [](url)
+* [Docker](https://docs.docker.com/engine/install/ubuntu/)
+* [Kubernetes](https://kubernetes.io/docs/tasks/tools/)
+* [Helm](https://helm.sh/docs/intro/install/)
+* [Podman](https://podman.io/docs/installation)
 
 
 # Installing Webservers 
