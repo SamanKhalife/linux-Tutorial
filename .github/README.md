@@ -18,17 +18,16 @@ Feel free to contribute ([lets-fork-it](https://github.com/login?return_to=%2FSa
 * [Secure-Shell(ssh)](https://github.com/SamanKhalife/linux-Tutorial/blob/main/ssh.md)
 
 # Advanced Mode (On)
+* [Common Troubleshooting Scenarios](https://www.hipeople.io/interview-questions/linux-troubleshooting-interview-questions)
+* [Linux Kernel Customization and Compilation](https://docs.rockylinux.org/guides/custom-linux-kernel/)
+* [eBPF Tools](https://www.brendangregg.com/ebpf.html)
+* [eBPF,XDP,DPDK](https://github.com/zoidyzoidzoid/awesome-ebpf)
+* [Virtualization-in-linux](https://github.com/SamanKhalife/linux-Tutorial/blob/main/virtualization-in-linux.md)
 * [Linux Networking (Not Ready)](url)
 * [Shell Scripting(Not Ready)](url)
 * [Linux File Systems and Storage Management(Not Ready)](url)
 * [Ansible for Linux Automation(Not Ready)](url)
 * [Backup and Recovery(Not Ready)](url)
-* [Log Management and Analysis(Not Ready)](url)
-* [Common Troubleshooting Scenarios(Not Ready)](url)
-* [Linux Kernel Customization and Compilation(Not Ready)](url)
-* [eBPF and XDP](https://github.com/zoidyzoidzoid/awesome-ebpf)
-* [eBPF Tracing Tools](https://www.brendangregg.com/ebpf.html)
-* [Virtualization-in-linux](https://github.com/SamanKhalife/linux-Tutorial/blob/main/virtualization-in-linux.md)
 
 ## Common commands preview
 
