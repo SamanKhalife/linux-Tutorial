@@ -14,13 +14,13 @@ Guide is only for Debian-Based Linux.
 * [influxdata](https://www.influxdata.com/)
 
 # Installing Data bases
-* [Oracle](url)
-* [MySQL](url)
-* [PostgreSQL](url)
-* [MariaDB](url)
-* [Redis](url)
-* [SQLite](url)
-* [MongoDB](url)
+* [Oracle](https://www.oracle.com/eg/linux/technologies/articles/xe-on-kubuntu.html)
+* [MySQL](https://ubuntu.com/server/docs/install-and-configure-a-mysql-server)
+* [PostgreSQL](https://ubuntu.com/server/docs/install-and-configure-postgresql)
+* [MariaDB](https://mariadb.com/kb/en/building-mariadb-on-ubuntu/)
+* [Redis](https://redis.io/docs/latest/operate/oss_and_stack/install/install-redis/install-redis-on-linux/)
+* [SQLite](https://sqlitebrowser.org/dl/#:~:text=sqlitebrowser.org/latest-,Linux,-Our%20latest%20release)
+* [MongoDB](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-ubuntu/)
 * [Elasticsearch](https://www.elastic.co/)
 
 # Installing Automation Tools
