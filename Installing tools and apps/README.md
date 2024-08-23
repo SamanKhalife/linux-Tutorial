@@ -41,10 +41,10 @@ Guide is only for Debian-Based Linux.
 
 # Installing Webservers 
 * [Nginx](https://docs.nginx.com/nginx/admin-guide/installing-nginx/installing-nginx-open-source/)
-* [Apache HTTP Server](url)
-* [Apache Tomcat](url)
-* [LiteSpeed Web Server](url)
-* [Caddy](url)
+* [Apache HTTP Server](https://ubuntu.com/tutorials/install-and-configure-apache)
+* [Apache Tomcat](https://tomcat.apache.org/)
+* [LiteSpeed Web Server](https://docs.litespeedtech.com/lsws/installation/)
+* [Caddy](https://caddyserver.com/docs/install)
 * [Varnish](https://varnish-cache.org/docs/trunk/installation/index.html)
 
 
