@@ -889,9 +889,5 @@ Some configurations are machine specific. For example, a network card's MAC addr
 * HDD UUIDs
 * Any other UUIDs on the system
 
-## Sources I get help from
 
-* Digital ocean
-* google youtube chanel
-* some open source projects
 
