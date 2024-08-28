@@ -28,7 +28,7 @@ Feel free to contribute ([lets-fork-it](https://github.com/login?return_to=%2FSa
 * [Linux File Systems and Storage Management(Not Ready)](url)
 * [Ansible for Linux Automation(Not Ready)](url)
 * [Backup and Recovery(Not Ready)](url)
-* [Cloud Delivery Models and Sla,Slo,Sli](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/readme/SRE.md)
+* [Cloud Delivery Models and SLA,SLI,SLO](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/readme/SRE.md)
 
 ## Common commands preview
 
