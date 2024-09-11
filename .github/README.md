@@ -681,8 +681,6 @@ iptables   -t       nat        -I        FORWARDING          .     -P     tcp   
 
 * [403.online](https://403.online/)
 * [shecan](https://shecan.ir/)
-* [hostiran](https://hostiran.net/landing/proxy)
-* [begzar](https://begzar.ir/)
 
 ### If you dont know how to change and set it follow these steps
 
