@@ -12,7 +12,7 @@ The LPIC-3 Security Exam 303 focuses on advanced Linux enterprise-level security
 
 ## LPIC-3 Security Exam 303 Exam Sample Questions
 
-[(Not Ready Yet) 303 Sample Questions ](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Lpic%203/LPIC-3%20Security%20Exam%20303%20(303-450)%20Exam%20.md)
+[(Not Ready Yet) 303 Sample Questions ](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Lpic%203/LPIC-3%20Security%20Exam%20303%20Exam%20.md)
 
 # LPIC-3 Mixed Environments 300 Objectives
 The LPIC-3 Mixed Environments 300 exam focuses on the skills required to integrate Linux systems into mixed environments, including:
