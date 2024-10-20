@@ -4,7 +4,6 @@
 
 ### 331.1 X.509 Certificates and Public Key Infrastructures (weight: 5)
 
-#### Weight	5
 
 #### Description	Candidates should understand X.509 certificates and public key infrastructures. They should know how to configure and use OpenSSL to implement certification authorities and issue SSL certificates for various purposes.
 
@@ -35,7 +34,6 @@ Partial list of the used files, terms and utilities:
 
 ### 331.2 X.509 Certificates for Encryption, Signing and Authentication 
 
-#### Weight	4
 
 #### Description	Candidates should be able to use X.509 certificates for both server and client authentication. This includes implementing user and server authentication for Apache HTTPD. The version of Apache HTTPD covered is 2.4 or higher.
 
@@ -57,8 +55,6 @@ Partial list of the used files, terms and utilities:
  
 
 ### 331.3 Encrypted File Systems (weight: 3)
-
-#### Weight	3
 
 #### Description	Candidates should be able to set up and configure encrypted file systems.
 
@@ -88,8 +84,6 @@ The following is a partial list of the used files, terms and utilities:
  
 
 ### 331.4 DNS and Cryptography (weight: 5)
-
-#### Weight	5
 
 #### Description	Candidates should have experience and knowledge of cryptography in the context of DNS and its implementation using BIND. The version of BIND covered is 9.7 or higher.
 
@@ -132,7 +126,6 @@ Partial list of the used files, terms and utilities:
 
 ### 332.1 Host Hardening (weight: 5)
 
-#### Weight	5
 
 #### Description	Candidates should be able to secure computers running Linux against common threats.
 
@@ -186,8 +179,6 @@ The following is a partial list of the used files, terms and utilities:
 
 ### 332.2 Host Intrusion Detection (weight: 5)
 
-#### Weight	5
-
 #### Description	Candidates should be familiar with the use and configuration of common host intrusion detection software. This includes managing the Linux Audit system and verifying a system’s integrity.
 
 Key Knowledge Areas:
@@ -236,7 +227,6 @@ Partial list of the used files, terms and utilities:
 
 ### 332.3 Resource Control (weight: 3)
 
-#### Weight	3
 
 #### Description	Candidates should be able to restrict the resources services and programs can consume.
 
@@ -270,8 +260,6 @@ Partial list of the used files, terms and utilities:
 
 ### 333.1 Discretionary Access Control (weight: 3)
 
-#### Weight	3
-
 #### Description	Candidates should understand discretionary access control (DAC) and know how to implement it using access control lists (ACL). Additionally, candidates are required to understand and know how to use extended attributes.
 
 Key Knowledge Areas:
@@ -291,8 +279,6 @@ Partial list of the used files, terms and utilities:
  
 
 ### 333.2 Mandatory Access Control (weight: 5)
-
-#### Weight	5
 
 #### Description	Candidates should be familiar with mandatory access control (MAC) systems for Linux. Specifically, candidates should have a thorough knowledge of SELinux. Also, candidates should be aware of other mandatory access control systems for Linux. This includes major features of these systems but not configuration and use.
 
@@ -352,7 +338,6 @@ Partial list of the used files, terms and utilities:
 
 ### 334.1 Network Hardening (weight: 4)
 
-#### Weight	4
 
 #### Description	Candidates should be able to secure networks against common threats. This includes analyzing network traffic of specific nodes and protocols.
 
@@ -395,8 +380,6 @@ The following is a partial list of the used files, terms and utilities:
 
 ### 334.2 Network Intrusion Detection (weight: 4)
 
-#### Weight	4
-
 #### Description	Candidates should be familiar with the use and configuration of network security scanning, network monitoring and network intrusion detection software. This includes updating and maintaining the security scanners.
 
 Key Knowledge Areas:
@@ -434,8 +417,6 @@ Partial list of the used files, terms and utilities:
 
 ### 334.3 Packet Filtering (weight: 5)
 
-#### Weight	5
-
 #### Description	Candidates should be familiar with the use and configuration of the netfilter Linux packet filter.
 
 Key Knowledge Areas:
@@ -466,8 +447,6 @@ Partial list of the used files, terms and utilities:
  
 
 ### 334.4 Virtual Private Networks (weight: 4)
-
-#### Weight	4
 
 #### Description	Candidates should be familiar with the use of OpenVPN, IPsec and WireGuard to set up remote access and site to site VPNs.
 
@@ -507,8 +486,6 @@ Partial list of the used files, terms and utilities:
 ## Topic 335: Threats and Vulnerability Assessment
 
 ### 335.1 Common Security Vulnerabilities and Threats (weight: 2)
-
-#### Weight	2
 
 #### Description	Candidates should understand the principle of major types of security vulnerabilities and threats.
 
@@ -559,8 +536,6 @@ The following is a partial list of the used files, terms and utilities:
  
 
 ### 335.2 Penetration Testing (weight: 3)
-
-#### Weight	3
 
 #### Description	Candidates understand the concepts of penetration testing, including an understand of commonly used penetration testing tools. 
 
