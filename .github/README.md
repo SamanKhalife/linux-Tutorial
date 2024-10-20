@@ -1,9 +1,9 @@
 # linux Tutorial
-**Learning Linux**: Essential commands and foundational knowledge . We started from scratch to build a complete tutorial covering everything from commands and tools to kernel structure and all the details.And even though we're not heavily focused on LPIC exams, we've included that too.
+**Learning Linux**: We started from scratch to build a comprehensive tutorial covering everything from essential Linux commands and tools to the structure of the Linux kernel, including all the relevant details. Although our primary focus is not on the LPIC exams, we've included each objective along with explanations, a partial list of commands, and even sample exam questions ([**lpic101**]https://github.com/SamanKhalife/linux-Tutorial/tree/main/Lpic%201#lpic-1-exam-101-objectives), [**lpic102**](https://github.com/SamanKhalife/linux-Tutorial/tree/main/Lpic%201#lpic-1-exam-102-objectives), [**lpic201**](https://github.com/SamanKhalife/linux-Tutorial/tree/main/Lpic%202#lpic-2-exam-201-objectives), [**lpic202**](https://github.com/SamanKhalife/linux-Tutorial/tree/main/Lpic%202#lpic-2-exam-202-objectives), [**lpic300**](), [**lpic303**](), [**lpic305**](), [**lpic306**]()).
 
 Feel free to contribute ([lets-fork-it](https://github.com/login?return_to=%2FSamanKhalife%2Flinux-Tutorial)), and if there's any problem or recommendation, I'd be happy to sort it out if you raise an [issue](https://github.com/SamanKhalife/linux-Tutorial/issues/new/choose).
 
-# Repo Contents😜😜😜(More Than You Imagine)
+# Repo Contents (More Than You Imagine 😜)
 * [**Complete-List-Of-All-Commands**](https://github.com/SamanKhalife/linux-commands/blob/main/Commands.md)
 * LPIC-Exams: Objectives-and-Samples:
   * [LPIC1](https://github.com/SamanKhalife/linux-Tutorial/tree/main/Lpic%201)
@@ -23,11 +23,11 @@ Feel free to contribute ([lets-fork-it](https://github.com/login?return_to=%2FSa
 * [eBPF Tools](https://www.brendangregg.com/ebpf.html)
 * [eBPF,XDP,DPDK](https://github.com/zoidyzoidzoid/awesome-ebpf)
 * [Virtualization-in-linux](https://github.com/SamanKhalife/linux-Tutorial/blob/main/virtualization-in-linux.md)
-* [Linux Networking (Not Ready)](url)
-* [Shell Scripting(Not Ready)](url)
-* [Linux File Systems and Storage Management(Not Ready)](url)
-* [Ansible for Linux Automation(Not Ready)](url)
-* [Backup and Recovery(Not Ready)](url)
+* [Linux Networking (Not Ready)]()
+* [Shell Scripting(Not Ready)]()
+* [Linux File Systems and Storage Management(Not Ready)]()
+* [Ansible for Linux Automation(Not Ready)]()
+* [Backup and Recovery(Not Ready)]()
 * [Cloud Delivery Models and SLA,SLI,SLO](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/readme/SRE.md)
 
 ## Common commands preview
