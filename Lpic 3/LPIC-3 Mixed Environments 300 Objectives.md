@@ -1,7 +1,7 @@
 # LPIC-3 Mixed Environments 300 Objectives.md
 ## Topic 301: Samba Basics
 ### 301.1 Samba Concepts and Architecture [weight: 2]
-Description: Candidates should understand the essential concepts of Samba, including the various Samba server processes and networking protocols used by Samba when acting in various roles. Samba version 4.8 or higher is covered.
+#### Description: Candidates should understand the essential concepts of Samba, including the various Samba server processes and networking protocols used by Samba when acting in various roles. Samba version 4.8 or higher is covered.
 
 Key Knowledge Areas:
 
@@ -25,7 +25,7 @@ Partial list of the used files, terms and utilities:
 
 ### 301.2 Samba Configuration [weight: 4]
 
-Description: Candidates should be able to configure the Samba daemons.
+#### Description: Candidates should be able to configure the Samba daemons.
 
 Key Knowledge Areas:
 
@@ -89,7 +89,7 @@ The following is a partial list of the used files, terms and utilities:
 
 ### 301.3 Regular Samba Maintenance [weight: 2]
 
-Description: Candidates should know the various tools and utilities that are part of a Samba installation.
+#### Description: Candidates should know the various tools and utilities that are part of a Samba installation.
 
 Key Knowledge Areas:
 
@@ -120,7 +120,7 @@ The following is a partial list of the used files, terms and utilities:
 
 ### 301.4 Troubleshooting Samba [weight: 3]
 
-Description: Candidates should be able to analyze and troubleshoot Samba issues. This includes accessing and modifying the LDAP content of a Samba server hosting an Active directory as well as working with trivial database files. Furthermore, candidates should be able to create a renamed clone of an existing Active Directory for debugging.
+#### Description: Candidates should be able to analyze and troubleshoot Samba issues. This includes accessing and modifying the LDAP content of a Samba server hosting an Active directory as well as working with trivial database files. Furthermore, candidates should be able to create a renamed clone of an existing Active Directory for debugging.
 
 Key Knowledge Areas:
 
@@ -179,7 +179,7 @@ The following is a partial list of the used files, terms and utilities:
 ## Topic 302: Samba and Active Directory Domains
 ### 302.1 Samba as Active Directory Domain Controller [weight: 5]
 
-Description: Candidates should be able to configure Samba as an Active Directory domain controller. This includes managing an Active Directory domain.
+#### Description: Candidates should be able to configure Samba as an Active Directory domain controller. This includes managing an Active Directory domain.
 
 Key Knowledge Areas:
 
@@ -228,7 +228,7 @@ The following is a partial list of the used files, terms and utilities:
 
 ### 302.2 Active Directory Name Resolution [weight: 2]
 
-Description: Candidates should be familiar with the internal DNS server of Samba.
+#### Description: Candidates should be familiar with the internal DNS server of Samba.
 
 Key Knowledge Areas:
 
@@ -262,7 +262,7 @@ The following is a partial list of the used files, terms and utilities:
 
 ### 302.3 Active Directory User Management [weight: 4]
 
-Description: Candidates should be able to manage user and group accounts on a standalone server and in a Samba based Active Directory.
+#### Description: Candidates should be able to manage user and group accounts on a standalone server and in a Samba based Active Directory.
 
 Key Knowledge Areas:
 
@@ -302,7 +302,7 @@ The following is a partial list of the used files, terms and utilities:
 
 ### 302.4 Samba Domain Membership [weight: 4]
 
-Description: Candidates should be able to join a Samba server into an existing Active Directory domain and authorize domain users to use the server. This includes installing and configuring the Winbind service.
+#### Description: Candidates should be able to join a Samba server into an existing Active Directory domain and authorize domain users to use the server. This includes installing and configuring the Winbind service.
 
 Key Knowledge Areas:
 
@@ -371,7 +371,7 @@ The following is a partial list of the used files, terms and utilities:
 
 ### 302.5 Samba Local User Management [weight: 2]
 
-Description: Candidates should be able to create and manage local user accounts on a stand alone Samba server.
+#### Description: Candidates should be able to create and manage local user accounts on a stand alone Samba server.
 
 Key Knowledge Areas:
 
@@ -399,7 +399,7 @@ The following is a partial list of the used files, terms and utilities:
 ## Topic 303: Samba Share Configuration
 ### 303.1 File Share Configuration [weight: 4]
 
-Description: Candidates should be able to create and configure CIFS file shares in Samba.
+#### Description: Candidates should be able to create and configure CIFS file shares in Samba.
 
 Key Knowledge Areas:
 
@@ -458,7 +458,7 @@ The following is a partial list of the used files, terms and utilities:
 
 ### 303.2 File Share Security [weight: 3]
 
-Description: Candidates should understand file permissions on CIFS shares and on a Linux file system.
+#### Description: Candidates should understand file permissions on CIFS shares and on a Linux file system.
 
 Key Knowledge Areas:
 
@@ -522,7 +522,7 @@ The following is a partial list of the used files, terms and utilities:
 
 ### 303.3 DFS Share Configuration [weight: 1]
 
-Description: Candidates should be able to create and manage DFS shares in Samba.
+#### Description: Candidates should be able to create and manage DFS shares in Samba.
 
 Key Knowledge Areas:
 
@@ -542,7 +542,7 @@ The following is a partial list of the used files, terms and utilities:
 
 ### 303.4 Print Share Configuration [weight: 2]
 
-Description: Candidates should be able to create and manage print shares in Samba.
+#### Description: Candidates should be able to create and manage print shares in Samba.
 
 Key Knowledge Areas:
 
@@ -590,7 +590,7 @@ The following is a partial list of the used files, terms and utilities:
 ## Topic 304: Samba Client Configuration
 ### 304.1 Linux Authentication Clients [weight: 5]
 
-Description: Candidates should be familiar with management and authentication of user accounts. This includes configuration and use of NSS, PAM, SSSD and Kerberos for both local and remote directories and authentication mechanisms as well as enforcing a password policy.
+#### Description: Candidates should be familiar with management and authentication of user accounts. This includes configuration and use of NSS, PAM, SSSD and Kerberos for both local and remote directories and authentication mechanisms as well as enforcing a password policy.
 
 Key Knowledge Areas:
 
@@ -656,7 +656,7 @@ The following is a partial list of the used files, terms and utilities:
 
 ### 304.2 Linux CIFS Clients [weight: 3]
 
-Description: Candidates should be able to use remote CIFS shares from a Linux client. This includes client-side management of CIFS credentials and managing remote ACLs and quotas.
+#### Description: Candidates should be able to use remote CIFS shares from a Linux client. This includes client-side management of CIFS credentials and managing remote ACLs and quotas.
 
 Key Knowledge Areas:
 
@@ -698,7 +698,7 @@ The following is a partial list of the used files, terms and utilities:
 
 ### 304.3 Windows Clients [weight: 3]
 
-Description: Candidates should be able to access CIFS and print shares from Windows hosts and join such hosts into an Active Directory domain. Furthermore, candidates should be able to manage Windows hosts using GPOs and access remote Windows hosts.
+#### Description: Candidates should be able to access CIFS and print shares from Windows hosts and join such hosts into an Active Directory domain. Furthermore, candidates should be able to manage Windows hosts using GPOs and access remote Windows hosts.
 
 Key Knowledge Areas:
 
@@ -732,7 +732,7 @@ The following is a partial list of the used files, terms and utilities:
 ## Topic 305: Linux Identity Management and File Sharing
 ### 305.1 FreeIPA Installation and Maintenance [weight: 2]
 
-Description: Candidates should be able to set up and manage a FreeIPA domain using standard settings and default services. This includes setting up replication and joining clients to the domain.
+#### Description: Candidates should be able to set up and manage a FreeIPA domain using standard settings and default services. This includes setting up replication and joining clients to the domain.
 
 Key Knowledge Areas:
 
@@ -756,7 +756,7 @@ The following is a partial list of the used files, terms and utilities:
 
 ### 305.2 FreeIPA Entity Management [weight: 4]
 
-Description: Candidates should be able manage users, hosts and services in a FreeIPA domain.
+#### Description: Candidates should be able manage users, hosts and services in a FreeIPA domain.
 
 Key Knowledge Areas:
 
@@ -782,7 +782,7 @@ The following is a partial list of the used files, terms and utilities:
 
 ### 305.3 FreeIPA Active Directory Integration [weight: 2]
 
-Description: Candidates should be able to set up a cross-forest trust between a FreeIPA and an Active Directory domain.
+#### Description: Candidates should be able to set up a cross-forest trust between a FreeIPA and an Active Directory domain.
 
 Key Knowledge Areas:
 
@@ -799,7 +799,7 @@ The following is a partial list of the used files, terms and utilities:
 
 ### 305.4 Network File System [weight: 3]
 
-Description: Candidates should be able to use NFSv4. This includes understanding ID mapping, NFSv4 ACLs and Kerberos authentication for NFS.
+#### Description: Candidates should be able to use NFSv4. This includes understanding ID mapping, NFSv4 ACLs and Kerberos authentication for NFS.
 
 Key Knowledge Areas:
 
