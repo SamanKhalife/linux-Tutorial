@@ -352,7 +352,7 @@ The following is a partial list of the used files, terms and utilities:
 
 [idmap_tdb2]()
 
-[net ads [including relevant subcommands]()]()
+[net ads (including relevant subcommands)]()
 
 [/etc/nsswitch.conf]()
 
@@ -794,7 +794,7 @@ Awareness of replication based FreeIPA and Active Directory integration
 The following is a partial list of the used files, terms and utilities:
 
 [ipa-adtrust-install]()
-[ipa [including relevant trust-*, idrange-* and group-* subcommands]()]()
+[ipa (including relevant trust-*, idrange-* and group-* subcommands)]()
 
 
 ### 305.4 Network File System [weight: 3]
