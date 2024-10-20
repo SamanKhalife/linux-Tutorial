@@ -1,6 +1,19 @@
 # Introduction to LPIC-3 Exams
 
-## LPIC-3 Security Exam 303 Objectives
+# LPIC-3 Mixed Environments 300 Objectives
+The LPIC-3 Mixed Environments 300 exam focuses on the skills required to integrate Linux systems into mixed environments, including:
+- Managing integration with Windows and other operating systems.
+- Handling interoperability challenges.
+- Implementing network and directory services integration.
+
+[(Not Ready Yet) 300 Objectives](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Lpic%203/LPIC-3%20Mixed%20Environments%20300%20Objectives.md)
+
+## LPIC-3 Mixed Environments 300 Exam Sample Questions
+
+[(Not Ready Yet) 300 Sample Questions](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Lpic%203/LPIC-3%20Mixed%20Environments%20300%20Exam.md)
+
+
+# LPIC-3 Security Exam 303 Objectives
 The LPIC-3 Security Exam 303 focuses on advanced Linux enterprise-level security and integration. The exam covers:
 
 - Integration with Other Systems: Managing integration of Linux systems with other platforms such as Windows and cloud environments.
@@ -13,18 +26,6 @@ The LPIC-3 Security Exam 303 focuses on advanced Linux enterprise-level security
 ## LPIC-3 Security Exam 303 Exam Sample Questions
 
 [(Not Ready Yet) 303 Sample Questions ](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Lpic%203/LPIC-3%20Security%20Exam%20303%20Exam%20.md)
-
-# LPIC-3 Mixed Environments 300 Objectives
-The LPIC-3 Mixed Environments 300 exam focuses on the skills required to integrate Linux systems into mixed environments, including:
-- Managing integration with Windows and other operating systems.
-- Handling interoperability challenges.
-- Implementing network and directory services integration.
-
-[(Not Ready Yet) 300 Objectives](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Lpic%203/LPIC-3%20Mixed%20Environments%20300%20Objectives.md)
-
-## LPIC-3 Mixed Environments 300 Exam Sample Questions
-
-[(Not Ready Yet) 300 Sample Questions](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Lpic%203/LPIC-3%20Mixed%20Environments%20300%20Exam.md)
 
 # LPIC-3 Virtualization and Containerization 305 Objectives
 This exam focuses on virtualization and containerization technologies, covering topics such as:
