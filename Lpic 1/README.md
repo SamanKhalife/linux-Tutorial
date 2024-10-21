@@ -12,7 +12,7 @@ This exam focuses on basic Linux system management topics, including:
 - GNU and Unix Commands: Proficiency in basic Linux commands, file and directory management.
 - Devices and Filesystems: Managing hardware devices and understanding the filesystem hierarchy.
 
-[101 Objectives (With Explanations for Each One)](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Lpic%201/LPIC-1%20Exam%20101%20Objectives.md)
+[101 Objectives](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Lpic%201/LPIC-1%20Exam%20101%20Objectives.md)
 
 
 ## LPIC-1 Exam 101 Sample Questions 
@@ -33,7 +33,7 @@ This exam covers more advanced system administration skills, including:
 - Networking Fundamentals: Configuring network interfaces, managing network services, and basic firewall management.
 
 
-[102 Objectives (With Explanations for Each One)](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Lpic%201/LPIC-1%20Exam%20102%20Objectives.md)
+[102 Objectives](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Lpic%201/LPIC-1%20Exam%20102%20Objectives.md)
 
 
 ## LPIC-1 Exam 102 Sample Questions 
