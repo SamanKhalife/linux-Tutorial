@@ -6,7 +6,7 @@ The LPIC-3 Mixed Environments 300 exam focuses on the skills required to integra
 - Handling interoperability challenges.
 - Implementing network and directory services integration.
 
-[(Not Ready Yet) 300 Objectives](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Lpic%203/LPIC-3%20Mixed%20Environments%20300%20Objectives.md)
+[300 Objectives](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Lpic%203/LPIC-3%20Mixed%20Environments%20300%20Objectives.md)
 
 ## LPIC-3 Mixed Environments 300 Exam Sample Questions
 
@@ -34,7 +34,7 @@ This exam focuses on virtualization and containerization technologies, covering 
 - Managing and deploying containers.
 - Understanding the principles and best practices of virtualization and container orchestration.
 
-[(Not Ready Yet) 305 Objectives](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Lpic%203/LPIC-3%20Virtualization%20and%20Containerization%20305%20Objectives.md)
+[305 Objectives](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Lpic%203/LPIC-3%20Virtualization%20and%20Containerization%20305%20Objectives.md)
 
 ## LPIC-3 Virtualization and Containerization 305 Exam Sample Questions
 
@@ -47,7 +47,7 @@ The LPIC-3 High Availability and Storage Clusters 306 exam focuses on:
 - Managing storage clusters and ensuring data redundancy.
 - Utilizing clustering software and technologies
 
-[(Not Ready Yet) 306 Objectives](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Lpic%203/LPIC-3%20High%20Availability%20and%20Storage%20Clusters%20306%20Objectives.md)
+[306 Objectives](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Lpic%203/LPIC-3%20High%20Availability%20and%20Storage%20Clusters%20306%20Objectives.md)
 
 ## LPIC-3 High Availability and Storage Clusters 306 Exam Sample Questions
 
