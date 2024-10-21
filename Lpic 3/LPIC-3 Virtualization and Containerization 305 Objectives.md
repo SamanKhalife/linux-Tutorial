@@ -15,13 +15,19 @@ Awareness of oVirt, Proxmox, systemd-machined and VirtualBox
 Awareness of Open vSwitch
 The following is a partial list of the used files, terms and utilities:
 
-Hypervisor
-Hardware Virtual Machine (HVM)
-Paravirtualization (PV)
-Emulation and Simulation
-CPU flags
-/proc/cpuinfo
-Migration (P2V, V2V)
+[Hypervisor]()
+
+[Hardware Virtual Machine (HVM)]()
+
+[Paravirtualization (PV)]()
+
+[Emulation and Simulation]()
+
+[CPU flags]()
+
+[/proc/cpuinfo]()
+
+[Migration (P2V, V2V)]()
 
 
 ### 351.2 Xen (weight: 3)
@@ -39,14 +45,19 @@ Awareness of Xen Boot Parameters
 Awareness of the xm utility
 The following is a partial list of the used files, terms and utilities:
 
-Domain0 (Dom0), DomainU (DomU)
-PV-DomU, HVM-DomU
-/etc/xen/
-xl
-xl.cfg
-xl.conf
-xentop
+[Domain0 (Dom0), DomainU (DomU)]()
 
+[PV-DomU, HVM-DomU]()
+
+[/etc/xen/]()
+
+[xl]()
+
+[xl.cfg]()
+
+[xl.conf]()
+
+[xentop]()
 
 ### 351.3 QEMU (weight: 4)
 
@@ -61,15 +72,21 @@ Troubleshoot QEMU installations, including networking and storage
 Awareness of important QEMU configuration parameters
 The following is a partial list of the used files, terms and utilities:
 
-Kernel modules: kvm, kvm-intel and kvm-amd
-/dev/kvm
-QEMU monitor
-qemu
-qemu-system-x86_64
-ip
-brctl
-tunctl
+[Kernel modules: kvm, kvm-intel and kvm-amd]()
 
+[/dev/kvm]()
+
+[QEMU monitor]()
+
+[qemu]()
+
+[qemu-system-x86_64]()
+
+[ip]()
+
+[brctl]()
+
+[tunctl]()
 
 ### 351.4 Libvirt Virtual Machine Management (weight: 9)
 
@@ -89,9 +106,11 @@ Understand libvirt XML configuration files
 Awareness of virtlogd and virtlockd
 The following is a partial list of the used files, terms and utilities:
 
-libvirtd
-/etc/libvirt/
-virsh (including relevant subcommands)
+[libvirtd]()
+
+[/etc/libvirt/]()
+
+[virsh (including relevant subcommands)]()
 
 
 ### 351.5 Virtual Machine Disk Image Management (weight: 3)
@@ -107,24 +126,41 @@ Migrate disk content between various virtual machine disk image formats
 Awareness of Open Virtualization Format (OVF)
 The following is a partial list of the used files, terms and utilities:
 
-qemu-img
-guestfish (including relevant subcommands)
-guestmount
-guestumount
-virt-cat
-virt-copy-in
-virt-copy-out
-virt-diff
-virt-inspector
-virt-filesystems
-virt-rescue
-virt-df
-virt-resize
-virt-sparsify
-virt-p2v
-virt-p2v-make-disk
-virt-v2v
-virt-sysprep
+[qemu-img]()
+
+[guestfish (including relevant subcommands)]()
+
+[guestmount]()
+
+[guestumount]()
+
+[virt-cat]()
+
+[virt-copy-in]()
+
+[virt-copy-out]()
+
+[virt-diff]()
+
+[virt-inspector]()
+
+[virt-filesystems]()
+
+[virt-rescue]()
+
+[virt-df]()
+
+[virt-resize]()
+
+[virt-sparsify]()
+
+[virt-p2v]()
+
+[virt-p2v-make-disk]()
+
+[virt-v2v]()
+
+[virt-sysprep]()
 
 
 ## Topic 352: Container Virtualization
@@ -147,13 +183,19 @@ Awareness of podman, buildah and skopeo
 Awareness of other container virtualization approaches in Linux and other free operating systems, such as rkt, OpenVZ, systemd-nspawn or BSD Jails
 The following is a partial list of the used files, terms and utilities:
 
-nsenter
-unshare
-ip (including relevant subcommands)
-capsh
-/sys/fs/cgroups
-/proc/[0-9]+/ns
-/proc/[0-9]+/status
+[nsenter]()
+
+[unshare]()
+
+[ip (including relevant subcommands)]()
+
+[capsh]()
+
+[/sys/fs/cgroups]()
+
+[/proc/[0-9]+/ns]()
+
+[/proc/[0-9]+/status]()
 
 
 ### 352.2 LXC (weight: 6)
@@ -169,8 +211,9 @@ Understand LXC images
 Awareness of traditional LXC tools
 Partial list of the used files, terms and utilities:
 
-lxd
-lxc (including relevant subcommands)
+[lxd]()
+
+[lxc (including relevant subcommands)]()
 
 
 ### 352.3 Docker (weight: 9)
@@ -186,11 +229,15 @@ Use Dockerfiles to create container images
 Run a Docker registry using the registry Docker image
 Partial list of the used files, terms and utilities:
 
-dockerd
-/etc/docker/daemon.json
-/var/lib/docker/
-docker
-Dockerfile
+[dockerd]()
+
+[/etc/docker/daemon.json]()
+
+[/var/lib/docker/]()
+
+[docker]()
+
+[Dockerfile]()
 
 
 ### 352.4 Container Orchestration Platforms (weight: 3)
@@ -217,9 +264,11 @@ Basic feature knowledge of Terraform
 Awareness of CloudStack, Eucalyptus and OpenNebula
 Partial list of the used files, terms and utilities:
 
-IaaS, PaaS, SaaS
-OpenStack
-Terraform
+[IaaS, PaaS, SaaS]()
+
+[OpenStack]()
+
+[Terraform]()
 
 
 ### 353.2 Packer (weight: 2)
@@ -232,7 +281,7 @@ Create and maintain template files
 Build images from template files using different builders
 Partial list of the used files, terms and utilities:
 
-packer
+[packer]()
 
 
 ### 353.3 cloud-init (weight: 3)
@@ -246,12 +295,14 @@ Integrate cloud-init into system images
 Use config drive datasource for testing
 Partial list of the used files, terms and utilities:
 
-cloud-init
-user-data
-/var/lib/cloud/
+[cloud-init]()
+
+[user-data]()
+
+[/var/lib/cloud/]()
 
 ### 353.4 Vagrant (weight: 3)
- 
+
 #### Description:	Candidate should be able to use Vagrant to manage virtual machines, including provisioning of the virtual machine.
 Key Knowledge Areas:
 
@@ -264,5 +315,6 @@ Understand Vagrant provisioning, i.e. File and Shell provisioners
 Understand multi-machine setup
 Partial list of the used files, terms and utilities:
 
-vagrant
-Vagrantfile
+[vagrant]()
+
+[Vagrantfile]()
