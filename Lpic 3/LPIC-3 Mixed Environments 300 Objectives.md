@@ -1,6 +1,6 @@
 # LPIC-3 Mixed Environments 300 Objectives.md
 ## Topic 301: Samba Basics
-### 301.1 Samba Concepts and Architecture [weight: 2]
+### 301.1 Samba Concepts and Architecture * [weight: 2]
 #### Description: Candidates should understand the essential concepts of Samba, including the various Samba server processes and networking protocols used by Samba when acting in various roles. Samba version 4.8 or higher is covered.
 
 Key Knowledge Areas:
@@ -14,16 +14,16 @@ Awareness of Samba VFS modules
 Awareness of Samba Clustering and CTDB
 Partial list of the used files, terms and utilities:
 
-[smbd]()
+* [smbd]()
 
-[nmbd]()
+* [nmbd]()
 
-[samba]()
+* [samba]()
 
-[winbindd]()
+* [winbindd]()
 
 
-### 301.2 Samba Configuration [weight: 4]
+### 301.2 Samba Configuration * [weight: 4]
 
 #### Description: Candidates should be able to configure the Samba daemons.
 
@@ -39,55 +39,55 @@ Troubleshoot and debug configuration problems with Samba
 Understand Windows tools used to configure a Samba Server
 The following is a partial list of the used files, terms and utilities:
 
-[smb.conf]()
+* [smb.conf]()
 
-[security]()
+* [security]()
 
-[server role]()
+* [server role]()
 
-[server string]()
+* [server string]()
 
-[server services]()
+* [server services]()
 
-[tls enabled]()
+* [tls enabled]()
 
-[tls keyfile]()
+* [tls keyfile]()
 
-[tls certfile]()
+* [tls certfile]()
 
-[tls dh params file]()
+* [tls dh params file]()
 
-[tls cafile]()
+* [tls cafile]()
 
-[config backend]()
+* [config backend]()
 
-[registry shares]()
+* [registry shares]()
 
-[include]()
+* [include]()
 
-[vfs objects]()
+* [vfs objects]()
 
-[samba-regedit]()
+* [samba-regedit]()
 
-[HKLM\Software\Samba]()
+* [HKLM\Software\Samba]()
 
-[REG_SZ, REG_MULTI_SZ]()
+* [REG_SZ, REG_MULTI_SZ]()
 
-[testparm]()
+* [testparm]()
 
-[net registry including relevant subcommands]()
+* [net registry including relevant subcommands]()
 
-[Microsoft RSAT Tools]()
+* [Microsoft RSAT Tools]()
 
-[Microsoft MMC]()
+* [Microsoft MMC]()
 
-[Microsoft ADSI Edit]()
+* [Microsoft ADSI Edit]()
 
-[Microsoft LDP]()
+* [Microsoft LDP]()
 
-[Microsoft Regedit]()
+* [Microsoft Regedit]()
 
-### 301.3 Regular Samba Maintenance [weight: 2]
+### 301.3 Regular Samba Maintenance * [weight: 2]
 
 #### Description: Candidates should know the various tools and utilities that are part of a Samba installation.
 
@@ -101,24 +101,24 @@ Understand backup and recovery strategies for Active Directory domain controller
 Understand the impact of virtualization on Active Directory domain controllers
 The following is a partial list of the used files, terms and utilities:
 
-[systemctl]()
+* [systemctl]()
 
-[smbcontrol (including relevant message types)]()
+* [smbcontrol (including relevant message types)]()
 
-[smbstatus]()
+* [smbstatus]()
 
-[tdbbackup]()
+* [tdbbackup]()
 
-[tdbrestore]()
+* [tdbrestore]()
 
-[samba-tool domain backup (including subcommands)]()
+* [samba-tool domain backup (including subcommands)]()
 
-[Virtual Machine Generation Identifier]()
+* [Virtual Machine Generation Identifier]()
 
-[Virtual Machine Snapshots]()
+* [Virtual Machine Snapshots]()
 
 
-### 301.4 Troubleshooting Samba [weight: 3]
+### 301.4 Troubleshooting Samba * [weight: 3]
 
 #### Description: Candidates should be able to analyze and troubleshoot Samba issues. This includes accessing and modifying the LDAP content of a Samba server hosting an Active directory as well as working with trivial database files. Furthermore, candidates should be able to create a renamed clone of an existing Active Directory for debugging.
 
@@ -138,46 +138,46 @@ Use rpcclient to query information on a Samba server
 
 The following is a partial list of the used files, terms and utilities:
 
-[smb.conf:]()
+* [smb.conf:]()
 
-[log level]()
+* [log level]()
 
-[debuglevel]()
+* [debuglevel]()
 
-[/var/log/samba/]()
+* [/var/log/samba/]()
 
-[smbpasswd]()
+* [smbpasswd]()
 
-[pdbedit]()
+* [pdbedit]()
 
-[registry.tdb]()
+* [registry.tdb]()
 
-[secrets.tdb]()
+* [secrets.tdb]()
 
-[tdbdump]()
+* [tdbdump]()
 
-[tdbtool]()
+* [tdbtool]()
 
-[ldbsearch]()
+* [ldbsearch]()
 
-[ldbmodify]()
+* [ldbmodify]()
 
-[ldbedit]()
+* [ldbedit]()
 
-[ldbadd]()
+* [ldbadd]()
 
-[ldbdel]()
+* [ldbdel]()
 
-[LDIF]()
+* [LDIF]()
 
-[samba-tool dbcheck]()
+* [samba-tool dbcheck]()
 
-[samba-tool domain backup (including relevant subcommands)]()
+* [samba-tool domain backup (including relevant subcommands)]()
 
-[rpcclient]()
+* [rpcclient]()
 
 ## Topic 302: Samba and Active Directory Domains
-### 302.1 Samba as Active Directory Domain Controller [weight: 5]
+### 302.1 Samba as Active Directory Domain Controller * [weight: 5]
 
 #### Description: Candidates should be able to configure Samba as an Active Directory domain controller. This includes managing an Active Directory domain.
 
@@ -200,33 +200,33 @@ Integrate Samba with ntpd
 Awareness of Windows NT4 domains
 The following is a partial list of the used files, terms and utilities:
 
-[smb.conf:]()
+* [smb.conf:]()
 
-[server role]()
+* [server role]()
 
-[log level]()
+* [log level]()
 
-[samba-tool domain (including relevant subcommands)]()
+* [samba-tool domain (including relevant subcommands)]()
 
-[samba-tool fsmo (including relevant subcommands)]()
+* [samba-tool fsmo (including relevant subcommands)]()
 
-[samba-tool drs (including relevant subcommands)]()
+* [samba-tool drs (including relevant subcommands)]()
 
-[samba-tool sites (including relevant subcommands)]()
+* [samba-tool sites (including relevant subcommands)]()
 
-[rsync]()
+* [rsync]()
 
-[rsync.conf]()
+* [rsync.conf]()
 
-[/var/lib/samba/sysvol]()
+* [/var/lib/samba/sysvol]()
 
-[robocopy]()
+* [robocopy]()
 
-[ntpd.conf]()
+* [ntpd.conf]()
 
-[ntpsigndsocket]()
+* [ntpsigndsocket]()
 
-### 302.2 Active Directory Name Resolution [weight: 2]
+### 302.2 Active Directory Name Resolution * [weight: 2]
 
 #### Description: Candidates should be familiar with the internal DNS server of Samba.
 
@@ -241,26 +241,26 @@ Awareness of BIND9 DLZ DNS back end
 Awareness of NetBIOS name resolution and WINS
 The following is a partial list of the used files, terms and utilities:
 
-[smb.conf:]()
+* [smb.conf:]()
 
-[dns forwarder]()
+* [dns forwarder]()
 
-[allow dns updates]()
+* [allow dns updates]()
 
-[multicst dns register]()
+* [multicst dns register]()
 
-[samba-tool dns (with subcommands)]()
+* [samba-tool dns (with subcommands)]()
 
-[samba_dnsupdate]()
+* [samba_dnsupdate]()
 
-[dig]()
+* [dig]()
 
-[host]()
+* [host]()
 
-[/etc/resolv.conf]()
+* [/etc/resolv.conf]()
 
 
-### 302.3 Active Directory User Management [weight: 4]
+### 302.3 Active Directory User Management * [weight: 4]
 
 #### Description: Candidates should be able to manage user and group accounts on a standalone server and in a Samba based Active Directory.
 
@@ -281,26 +281,26 @@ Export Kerberos keytabs for a specific principal
 Awareness of LDAP Account Manager
 The following is a partial list of the used files, terms and utilities:
 
-[samba-tool user (including relevant subcommands)]()
+* [samba-tool user (including relevant subcommands)]()
 
-[samba-tool group (including relevant subcommands)]()
+* [samba-tool group (including relevant subcommands)]()
 
-[samba-tool domain passwordsettings]()
+* [samba-tool domain passwordsettings]()
 
-[samba-tool domain exportkeytab]()
+* [samba-tool domain exportkeytab]()
 
-[samba-tool spn (including relevant subcommands)]()
+* [samba-tool spn (including relevant subcommands)]()
 
-[smbpasswd]()
+* [smbpasswd]()
 
-[pdbedit]()
+* [pdbedit]()
 
-[kinit]()
+* [kinit]()
 
-[klist]()
+* [klist]()
 
 
-### 302.4 Samba Domain Membership [weight: 4]
+### 302.4 Samba Domain Membership * [weight: 4]
 
 #### Description: Candidates should be able to join a Samba server into an existing Active Directory domain and authorize domain users to use the server. This includes installing and configuring the Winbind service.
 
@@ -312,64 +312,64 @@ Understand and configure Winbind ID mapping, including various mapping backends
 Configure PAM and NSS to use Winbind
 The following is a partial list of the used files, terms and utilities:
 
-[smb.conf:]()
+* [smb.conf:]()
 
-[security]()
+* [security]()
 
-[server role]()
+* [server role]()
 
-[realm]()
+* [realm]()
 
-[workgroup]()
+* [workgroup]()
 
-[idmap config]()
+* [idmap config]()
 
-[winbind enumerate users]()
+* [winbind enumerate users]()
 
-[winbind enumerate groups]()
+* [winbind enumerate groups]()
 
-[winbind offline logon]()
+* [winbind offline logon]()
 
-[winbind separator]()
+* [winbind separator]()
 
-[template shell]()
+* [template shell]()
 
-[template homedir]()
+* [template homedir]()
 
-[allow trusted domains]()
+* [allow trusted domains]()
 
-[idmap_ad]()
+* [idmap_ad]()
 
-[idmap_autorid]()
+* [idmap_autorid]()
 
-[idmap_ldap]()
+* [idmap_ldap]()
 
-[idmap_rfc2307]()
+* [idmap_rfc2307]()
 
-[idmap_rid]()
+* [idmap_rid]()
 
-[idmap_tdb]()
+* [idmap_tdb]()
 
-[idmap_tdb2]()
+* [idmap_tdb2]()
 
-[net ads (including relevant subcommands)]()
+* [net ads (including relevant subcommands)]()
 
-[/etc/nsswitch.conf]()
+* [/etc/nsswitch.conf]()
 
-[/etc/pam.conf]()
+* [/etc/pam.conf]()
 
-[/etc/pam.d/]()
+* [/etc/pam.d/]()
 
-[libnss_winbind]()
+* [libnss_winbind]()
 
-[libpam_winbind]()
+* [libpam_winbind]()
 
-[getent]()
+* [getent]()
 
-[wbinfo]()
+* [wbinfo]()
 
 
-### 302.5 Samba Local User Management [weight: 2]
+### 302.5 Samba Local User Management * [weight: 2]
 
 #### Description: Candidates should be able to create and manage local user accounts on a stand alone Samba server.
 
@@ -381,23 +381,23 @@ Knowledge of different passdb backends
 Convert between Samba passdb backends
 The following is a partial list of the used files, terms and utilities:
 
-[smb.conf:]()
+* [smb.conf:]()
 
-[passdb backend]()
+* [passdb backend]()
 
-[/etc/passwd]()
+* [/etc/passwd]()
 
-[/etc/group]()
+* [/etc/group]()
 
-[pam_smbpass.so]()
+* [pam_smbpass.so]()
 
-[smbpasswd]()
+* [smbpasswd]()
 
-[pdbedit]()
+* [pdbedit]()
 
 
 ## Topic 303: Samba Share Configuration
-### 303.1 File Share Configuration [weight: 4]
+### 303.1 File Share Configuration * [weight: 4]
 
 #### Description: Candidates should be able to create and configure CIFS file shares in Samba.
 
@@ -413,50 +413,50 @@ Awareness of user shares
 Awareness of existing VFS modules and their general functionality, including modules to support audit logs and snapshots / shadow copies
 The following is a partial list of the used files, terms and utilities:
 
-[smb.conf:]()
+* [smb.conf:]()
 
-[path]()
+* [path]()
 
-[browsable]()
+* [browsable]()
 
-[writable / write ok / read only]()
+* [writable / write ok / read only]()
 
-[valid users]()
+* [valid users]()
 
-[invalid users]()
+* [invalid users]()
 
-[read list]()
+* [read list]()
 
-[write list]()
+* [write list]()
 
-[guest ok]()
+* [guest ok]()
 
-[hosts allow / allow hosts]()
+* [hosts allow / allow hosts]()
 
-[hosts deny / deny hosts]()
+* [hosts deny / deny hosts]()
 
-[copy]()
+* [copy]()
 
-[hide unreadable]()
+* [hide unreadable]()
 
-[hide unwritable files]()
+* [hide unwritable files]()
 
-[hide dot files]()
+* [hide dot files]()
 
-[hide special files]()
+* [hide special files]()
 
-[veto files]()
+* [veto files]()
 
-[delete veto files]()
+* [delete veto files]()
 
-[(homes)]()
+* [(homes)]()
 
-[(IPC$)]()
+* [(IPC$)]()
 
-[smbcquotas]()
+* [smbcquotas]()
 
 
-### 303.2 File Share Security [weight: 3]
+### 303.2 File Share Security * [weight: 3]
 
 #### Description: Candidates should understand file permissions on CIFS shares and on a Linux file system.
 
@@ -470,57 +470,57 @@ Configure ACLs for profile and home folder shares
 Configure encryption of CIFS connections
 The following is a partial list of the used files, terms and utilities:
 
-[smb.conf]()
+* [smb.conf]()
 
-[create mask / create mode]()
+* [create mask / create mode]()
 
-[directory mask / directory mode]()
+* [directory mask / directory mode]()
 
-[force create mode]()
+* [force create mode]()
 
-[force directory mode]()
+* [force directory mode]()
 
-[force user]()
+* [force user]()
 
-[force group / group]()
+* [force group / group]()
 
-[profile acls]()
+* [profile acls]()
 
-[inherit acls]()
+* [inherit acls]()
 
-[map acl inherit]()
+* [map acl inherit]()
 
-[store dos attributes]()
+* [store dos attributes]()
 
-[vfs objects]()
+* [vfs objects]()
 
-[smb encrypt]()
+* [smb encrypt]()
 
-[chown]()
+* [chown]()
 
-[chmod]()
+* [chmod]()
 
-[getfacl]()
+* [getfacl]()
 
-[setfacl]()
+* [setfacl]()
 
-[getfattr]()
+* [getfattr]()
 
-[smbcacls]()
+* [smbcacls]()
 
-[sharesec]()
+* [sharesec]()
 
-[SeDiskOperatorPrivilege]()
+* [SeDiskOperatorPrivilege]()
 
-[vfs_acl_xattr]()
+* [vfs_acl_xattr]()
 
-[vfs_acl_tdb]()
+* [vfs_acl_tdb]()
 
-[samba-tool ntacl (including subcommands)]()
+* [samba-tool ntacl (including subcommands)]()
 
 
 
-### 303.3 DFS Share Configuration [weight: 1]
+### 303.3 DFS Share Configuration * [weight: 1]
 
 #### Description: Candidates should be able to create and manage DFS shares in Samba.
 
@@ -530,17 +530,17 @@ Understand DFS
 Configure DFS shares
 The following is a partial list of the used files, terms and utilities:
 
-[smb.conf:]()
+* [smb.conf:]()
 
-[host msdfs]()
+* [host msdfs]()
 
-[msdfs root]()
+* [msdfs root]()
 
-[msdfs proxy]()
+* [msdfs proxy]()
 
-[ln]()
+* [ln]()
 
-### 303.4 Print Share Configuration [weight: 2]
+### 303.4 Print Share Configuration * [weight: 2]
 
 #### Description: Candidates should be able to create and manage print shares in Samba.
 
@@ -558,37 +558,37 @@ Manage GPO options for trusted print servers
 Awareness of spoolssd
 The following is a partial list of the used files, terms and utilities:
 
-[smb.conf:]()
+* [smb.conf:]()
 
-[printing]()
+* [printing]()
 
-[printable / print ok]()
+* [printable / print ok]()
 
-[printcap name / printcap]()
+* [printcap name / printcap]()
 
-[spoolss: architecture = Windows x64]()
+* [spoolss: architecture = Windows x64]()
 
-[(printers)]()
+* [(printers)]()
 
-[(print$)]()
+* [(print$)]()
 
-[CUPS]()
+* [CUPS]()
 
-[cupsd.conf]()
+* [cupsd.conf]()
 
-[/var/spool/samba/]()
+* [/var/spool/samba/]()
 
-[smbspool]()
+* [smbspool]()
 
-[rpcclient (to execute topic-related commands (enumdrivers, enumprinters, setdriver))]()
+* [rpcclient (to execute topic-related commands (enumdrivers, enumprinters, setdriver))]()
 
-[net (included topic-related subcommands)]()
+* [net (included topic-related subcommands)]()
 
-[SePrintOperatorPrivilege]()
+* [SePrintOperatorPrivilege]()
 
 
 ## Topic 304: Samba Client Configuration
-### 304.1 Linux Authentication Clients [weight: 5]
+### 304.1 Linux Authentication Clients * [weight: 5]
 
 #### Description: Candidates should be familiar with management and authentication of user accounts. This includes configuration and use of NSS, PAM, SSSD and Kerberos for both local and remote directories and authentication mechanisms as well as enforcing a password policy.
 
@@ -604,57 +604,57 @@ Manage local accounts through SSSD
 Obtain and manage Kerberos tickets
 The following is a partial list of the used files, terms and utilities:
 
-[/etc/pam.conf]()
+* [/etc/pam.conf]()
 
-[/etc/pam.d/]()
+* [/etc/pam.d/]()
 
-[/etc/nsswitch.conf]()
+* [/etc/nsswitch.conf]()
 
-[/etc/login.defs]()
+* [/etc/login.defs]()
 
-[pam_ldap.so]()
+* [pam_ldap.so]()
 
-[ldap.conf]()
+* [ldap.conf]()
 
-[pam_krb5.so]()
+* [pam_krb5.so]()
 
-[pam_cracklib.so]()
+* [pam_cracklib.so]()
 
-[pam_tally2.so]()
+* [pam_tally2.so]()
 
-[pam_faillock.so]()
+* [pam_faillock.so]()
 
-[pam_mkhomedir.so]()
+* [pam_mkhomedir.so]()
 
-[chage]()
+* [chage]()
 
-[faillog]()
+* [faillog]()
 
-[sssd]()
+* [sssd]()
 
-[sssd.conf]()
+* [sssd.conf]()
 
-[sss_override]()
+* [sss_override]()
 
-[sss_cache]()
+* [sss_cache]()
 
-[sss_debuglevel]()
+* [sss_debuglevel]()
 
-[sss_user* and sss_group*]()
+* [sss_user* and sss_group*]()
 
-[/var/lib/sss/db/]()
+* [/var/lib/sss/db/]()
 
-[krb5.conf]()
+* [krb5.conf]()
 
-[kinit]()
+* [kinit]()
 
-[klist]()
+* [klist]()
 
-[kdestroy]()
+* [kdestroy]()
 
 
 
-### 304.2 Linux CIFS Clients [weight: 3]
+### 304.2 Linux CIFS Clients * [weight: 3]
 
 #### Description: Candidates should be able to use remote CIFS shares from a Linux client. This includes client-side management of CIFS credentials and managing remote ACLs and quotas.
 
@@ -668,35 +668,35 @@ Understand and manage permissions and file ownership of remote CIFS shares
 Understand and manage quotas on CIFS shares
 The following is a partial list of the used files, terms and utilities:
 
-[smb.conf]()
+* [smb.conf]()
 
-[smbclient (including relevant subcommands)]()
+* [smbclient (including relevant subcommands)]()
 
-[mount]()
+* [mount]()
 
-[mount.cifs]()
+* [mount.cifs]()
 
-[/etc/fstab]()
+* [/etc/fstab]()
 
-[pam_mount.so]()
+* [pam_mount.so]()
 
-[pam_mount.conf.xml]()
+* [pam_mount.conf.xml]()
 
-[cifscreds]()
+* [cifscreds]()
 
-[getcifsacl]()
+* [getcifsacl]()
 
-[setcifsacl]()
+* [setcifsacl]()
 
-[smbcquotas]()
+* [smbcquotas]()
 
-[cifsiostat]()
+* [cifsiostat]()
 
-[smbget]()
+* [smbget]()
 
-[smbtar]()
+* [smbtar]()
 
-### 304.3 Windows Clients [weight: 3]
+### 304.3 Windows Clients * [weight: 3]
 
 #### Description: Candidates should be able to access CIFS and print shares from Windows hosts and join such hosts into an Active Directory domain. Furthermore, candidates should be able to manage Windows hosts using GPOs and access remote Windows hosts.
 
@@ -715,22 +715,22 @@ Configure roaming profiles for Active Directory users
 Configure profile folder redirects
 The following is a partial list of the used files, terms and utilities:
 
-[smb.conf:]()
+* [smb.conf:]()
 
-[logon path]()
+* [logon path]()
 
-[logon script]()
+* [logon script]()
 
-[net (Windows command; including all relevant subcommands)]()
+* [net (Windows command; including all relevant subcommands)]()
 
-[samba-tool gpo (including all relevant subcommands)]()
+* [samba-tool gpo (including all relevant subcommands)]()
 
-[gpupdate (Windows command)]()
+* [gpupdate (Windows command)]()
 
-[rdesktop]()
+* [rdesktop]()
 
 ## Topic 305: Linux Identity Management and File Sharing
-### 305.1 FreeIPA Installation and Maintenance [weight: 2]
+### 305.1 FreeIPA Installation and Maintenance * [weight: 2]
 
 #### Description: Candidates should be able to set up and manage a FreeIPA domain using standard settings and default services. This includes setting up replication and joining clients to the domain.
 
@@ -744,17 +744,17 @@ Join clients to an existing FreeIPA domain
 Awareness of ipa-backup
 The following is a partial list of the used files, terms and utilities:
 
-[ipa-server-install]()
+* [ipa-server-install]()
 
-[ipa-replica-prepare]()
+* [ipa-replica-prepare]()
 
-[ipa-replica-install]()
+* [ipa-replica-install]()
 
-[ipa-client-install]()
+* [ipa-client-install]()
 
-[ipactl]()
+* [ipactl]()
 
-### 305.2 FreeIPA Entity Management [weight: 4]
+### 305.2 FreeIPA Entity Management * [weight: 4]
 
 #### Description: Candidates should be able manage users, hosts and services in a FreeIPA domain.
 
@@ -768,19 +768,19 @@ Awareness of sudo, autofs, SSH, SELinux and NIS integration as well as host base
 Awareness of the FreeIPA CA
 The following is a partial list of the used files, terms and utilities:
 
-[ipa (including relevant user-*, stageuser-* and group-* and idview-* subcommands)]()
+* [ipa (including relevant user-*, stageuser-* and group-* and idview-* subcommands)]()
 
-[ipa (including relevant host-*, hostgroup-*, service-* and getkeytab subcommands)]()
+* [ipa (including relevant host-*, hostgroup-*, service-* and getkeytab subcommands)]()
 
-[ipa (including relevant permission-*, privilege-*, and role-* subcommands)]()
+* [ipa (including relevant permission-*, privilege-*, and role-* subcommands)]()
 
-[ipctl]()
+* [ipctl]()
 
-[ipa-advice]()
+* [ipa-advice]()
 
 
 
-### 305.3 FreeIPA Active Directory Integration [weight: 2]
+### 305.3 FreeIPA Active Directory Integration * [weight: 2]
 
 #### Description: Candidates should be able to set up a cross-forest trust between a FreeIPA and an Active Directory domain.
 
@@ -793,11 +793,11 @@ Awareness of Microsoft Privilege Attribute Certificates and how they are handled
 Awareness of replication based FreeIPA and Active Directory integration
 The following is a partial list of the used files, terms and utilities:
 
-[ipa-adtrust-install]()
-[ipa (including relevant trust-*, idrange-* and group-* subcommands)]()
+* [ipa-adtrust-install]()
+* [ipa (including relevant trust-*, idrange-* and group-* subcommands)]()
 
 
-### 305.4 Network File System [weight: 3]
+### 305.4 Network File System * [weight: 3]
 
 #### Description: Candidates should be able to use NFSv4. This includes understanding ID mapping, NFSv4 ACLs and Kerberos authentication for NFS.
 
@@ -810,18 +810,18 @@ Understand and use NFSv4 ACLs
 Use Kerberos for for NFSv4 authentication
 The following is a partial list of the used files, terms and utilities:
 
-[exportfs]()
+* [exportfs]()
 
-[/etc/exports]()
+* [/etc/exports]()
 
-[/etc/idmapd.conf]()
+* [/etc/idmapd.conf]()
 
-[nfs4_editfacl]()
+* [nfs4_editfacl]()
 
-[nfs4_getfacl]()
+* [nfs4_getfacl]()
 
-[nfs4_setfacl]()
+* [nfs4_setfacl]()
 
-[mount (including common NFS mount options)]()
+* [mount (including common NFS mount options)]()
 
-[/etc/fstab]()
+* [/etc/fstab]()
