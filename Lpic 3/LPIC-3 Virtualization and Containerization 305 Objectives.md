@@ -1,7 +1,6 @@
 # LPIC-3 Virtualization and Containerization 305 Objectives
 ## Topic 351: Full Virtualization
 ### 351.1 Virtualization Concepts and Theory (weight: 6)
-
 #### Description:	Candidates should know and understand the general concepts, theory and terminology of virtualization. This includes Xen, QEMU and libvirt terminology.
 Key Knowledge Areas:
 
@@ -15,23 +14,21 @@ Awareness of oVirt, Proxmox, systemd-machined and VirtualBox
 Awareness of Open vSwitch
 The following is a partial list of the used files, terms and utilities:
 
-[Hypervisor]()
+* [Hypervisor]()
 
-[Hardware Virtual Machine (HVM)]()
+* [Hardware Virtual Machine (HVM)]()
 
-[Paravirtualization (PV)]()
+* [Paravirtualization (PV)]()
 
-[Emulation and Simulation]()
+* [Emulation and Simulation]()
 
-[CPU flags]()
+* [CPU flags]()
 
-[/proc/cpuinfo]()
+* [/proc/cpuinfo]()
 
-[Migration (P2V, V2V)]()
-
+* [Migration (P2V, V2V)]()
 
 ### 351.2 Xen (weight: 3)
-
 #### Description:	Candidates should be able to install, configure, maintain, migrate and troubleshoot Xen installations. The focus is on Xen version 4.x.
 Key Knowledge Areas:
 
@@ -45,22 +42,21 @@ Awareness of Xen Boot Parameters
 Awareness of the xm utility
 The following is a partial list of the used files, terms and utilities:
 
-[Domain0 (Dom0), DomainU (DomU)]()
+* [Domain0 (Dom0), DomainU (DomU)]()
 
-[PV-DomU, HVM-DomU]()
+* [PV-DomU, HVM-DomU]()
 
-[/etc/xen/]()
+* [/etc/xen/]()
 
-[xl]()
+* [xl]()
 
-[xl.cfg]()
+* [xl.cfg]()
 
-[xl.conf]()
+* [xl.conf]()
 
-[xentop]()
+* [xentop]()
 
 ### 351.3 QEMU (weight: 4)
-
 #### Description:	Candidates should be able to install, configure, maintain, migrate and troubleshoot QEMU installations.
 Key Knowledge Areas:
 
@@ -72,24 +68,23 @@ Troubleshoot QEMU installations, including networking and storage
 Awareness of important QEMU configuration parameters
 The following is a partial list of the used files, terms and utilities:
 
-[Kernel modules: kvm, kvm-intel and kvm-amd]()
+* [Kernel modules: kvm, kvm-intel and kvm-amd]()
 
-[/dev/kvm]()
+* [/dev/kvm]()
 
-[QEMU monitor]()
+* [QEMU monitor]()
 
-[qemu]()
+* [qemu]()
 
-[qemu-system-x86_64]()
+* [qemu-system-x86_64]()
 
-[ip]()
+* [ip]()
 
-[brctl]()
+* [brctl]()
 
-[tunctl]()
+* [tunctl]()
 
 ### 351.4 Libvirt Virtual Machine Management (weight: 9)
-
 #### Description:	Candidates should be able to manage virtualization hosts and virtual machines (‘libvirt domains’) using libvirt and related tools.
 Key Knowledge Areas:
 
@@ -106,15 +101,14 @@ Understand libvirt XML configuration files
 Awareness of virtlogd and virtlockd
 The following is a partial list of the used files, terms and utilities:
 
-[libvirtd]()
+* [libvirtd]()
 
-[/etc/libvirt/]()
+* [/etc/libvirt/]()
 
-[virsh (including relevant subcommands)]()
+* [virsh (including relevant subcommands)]()
 
 
 ### 351.5 Virtual Machine Disk Image Management (weight: 3)
-
 #### Description:	Candidates should be able to manage virtual machines disk images. This includes converting disk images between various formats and hypervisors and accessing data stored within an image.
 Key Knowledge Areas:
 
@@ -126,46 +120,45 @@ Migrate disk content between various virtual machine disk image formats
 Awareness of Open Virtualization Format (OVF)
 The following is a partial list of the used files, terms and utilities:
 
-[qemu-img]()
+* [qemu-img]()
 
-[guestfish (including relevant subcommands)]()
+* [guestfish (including relevant subcommands)]()
 
-[guestmount]()
+* [guestmount]()
 
-[guestumount]()
+* [guestumount]()
 
-[virt-cat]()
+* [virt-cat]()
 
-[virt-copy-in]()
+* [virt-copy-in]()
 
-[virt-copy-out]()
+* [virt-copy-out]()
 
-[virt-diff]()
+* [virt-diff]()
 
-[virt-inspector]()
+* [virt-inspector]()
 
-[virt-filesystems]()
+* [virt-filesystems]()
 
-[virt-rescue]()
+* [virt-rescue]()
 
-[virt-df]()
+* [virt-df]()
 
-[virt-resize]()
+* [virt-resize]()
 
-[virt-sparsify]()
+* [virt-sparsify]()
 
-[virt-p2v]()
+* [virt-p2v]()
 
-[virt-p2v-make-disk]()
+* [virt-p2v-make-disk]()
 
-[virt-v2v]()
+* [virt-v2v]()
 
-[virt-sysprep]()
+* [virt-sysprep]()
 
 
 ## Topic 352: Container Virtualization
 ### 352.1 Container Virtualization Concepts (weight: 7)
-
 #### Description:	Candidates should understand the concept of container virtualization. This includes understanding the Linux components used to implement container virtualization as well as using standard Linux tools to troubleshoot these components.
 Key Knowledge Areas:
 
@@ -183,19 +176,19 @@ Awareness of podman, buildah and skopeo
 Awareness of other container virtualization approaches in Linux and other free operating systems, such as rkt, OpenVZ, systemd-nspawn or BSD Jails
 The following is a partial list of the used files, terms and utilities:
 
-[nsenter]()
+* [nsenter]()
 
-[unshare]()
+* [unshare]()
 
-[ip (including relevant subcommands)]()
+* [ip (including relevant subcommands)]()
 
-[capsh]()
+* [capsh]()
 
-[/sys/fs/cgroups]()
+* [/sys/fs/cgroups]()
 
-[/proc/[0-9]+/ns]()
+* [/proc/* [0-9]+/ns]()
 
-[/proc/[0-9]+/status]()
+* [/proc/* [0-9]+/status]()
 
 
 ### 352.2 LXC (weight: 6)
@@ -211,9 +204,9 @@ Understand LXC images
 Awareness of traditional LXC tools
 Partial list of the used files, terms and utilities:
 
-[lxd]()
+* [lxd]()
 
-[lxc (including relevant subcommands)]()
+* [lxc (including relevant subcommands)]()
 
 
 ### 352.3 Docker (weight: 9)
@@ -229,19 +222,18 @@ Use Dockerfiles to create container images
 Run a Docker registry using the registry Docker image
 Partial list of the used files, terms and utilities:
 
-[dockerd]()
+* [dockerd]()
 
-[/etc/docker/daemon.json]()
+* [/etc/docker/daemon.json]()
 
-[/var/lib/docker/]()
+* [/var/lib/docker/]()
 
-[docker]()
+* [docker]()
 
-[Dockerfile]()
+* [Dockerfile]()
 
 
 ### 352.4 Container Orchestration Platforms (weight: 3)
-
 #### Description:	Candidates should understand the importance of container orchestration and the key concepts Docker Swarm and Kubernetes provide to implement container orchestration.
 Key Knowledge Areas:
 
@@ -254,7 +246,6 @@ Awareness of OpenShift, Rancher and Mesosphere DC/OS
 
 ## Topic 353: VM Deployment and Provisioning
 ### 353.1 Cloud Management Tools (weight: 2)
-
 #### Description:	Candidates should understand common offerings in public clouds and have basic feature knowledge of commonly available cloud management tools.
 Key Knowledge Areas:
 
@@ -264,15 +255,14 @@ Basic feature knowledge of Terraform
 Awareness of CloudStack, Eucalyptus and OpenNebula
 Partial list of the used files, terms and utilities:
 
-[IaaS, PaaS, SaaS]()
+* [IaaS, PaaS, SaaS]()
 
-[OpenStack]()
+* [OpenStack]()
 
-[Terraform]()
+* [Terraform]()
 
 
 ### 353.2 Packer (weight: 2)
-
 #### Description:	Candidates should be able to use Packer to create system images. This includes running Packer in various public and private cloud environments as well as building container images for LXC/LXD.
 Key Knowledge Areas:
 
@@ -281,11 +271,10 @@ Create and maintain template files
 Build images from template files using different builders
 Partial list of the used files, terms and utilities:
 
-[packer]()
+* [packer]()
 
 
 ### 353.3 cloud-init (weight: 3)
-
 #### Description:	Candidates should able to use cloud-init to configure virtual machines created from standardized images. This includes adjusting virtual machines to match their available hardware resources, specifically, disk space and volumes. Additionally, candidates should be able to configure instances to allow secure SSH logins and install a specific set of software packages. Furthermore, candidates should be able to create new system images with cloud-init support.
 Key Knowledge Areas:
 
@@ -295,14 +284,13 @@ Integrate cloud-init into system images
 Use config drive datasource for testing
 Partial list of the used files, terms and utilities:
 
-[cloud-init]()
+* [cloud-init]()
 
-[user-data]()
+* [user-data]()
 
-[/var/lib/cloud/]()
+* [/var/lib/cloud/]()
 
 ### 353.4 Vagrant (weight: 3)
-
 #### Description:	Candidate should be able to use Vagrant to manage virtual machines, including provisioning of the virtual machine.
 Key Knowledge Areas:
 
@@ -315,6 +303,6 @@ Understand Vagrant provisioning, i.e. File and Shell provisioners
 Understand multi-machine setup
 Partial list of the used files, terms and utilities:
 
-[vagrant]()
+* [vagrant]()
 
-[Vagrantfile]()
+* [Vagrantfile]()
