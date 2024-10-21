@@ -12,45 +12,43 @@ Understand application aspects of high availability
 Understand operational considerations of high availability
 Partial list of the used files, terms and utilities:
 
-[Active/Passive Cluster]()
+* [Active/Passive Cluster]()
 
-[Active/Active Cluster]()
+* [Active/Active Cluster]()
 
-[Failover Cluster]()
+* [Failover Cluster]()
 
-[Load Balanced Cluster]()
+* [Load Balanced Cluster]()
 
-[Shared-Nothing Cluster]()
+* [Shared-Nothing Cluster]()
 
+* [Shared-Disk Cluster]()
 
-[Shared-Disk Cluster]()
+* [Cluster resources]()
 
-[Cluster resources]()
+* [Cluster services]()
 
-[Cluster services]()
+* [Quorum]()
 
-[Quorum]()
+* [Fencing (Node and Resource Level Fencing)]()
 
-[Fencing (Node and Resource Level Fencing)]()
+* [Split brain]()
 
-[Split brain]()
+* [Redundancy]()
 
-[Redundancy]()
+* [Mean Time Before Failure (MTBF)]()
 
-[Mean Time Before Failure (MTBF)]()
+* [Mean Time To Repair (MTTR)]()
 
-[Mean Time To Repair (MTTR)]()
+* [Service Level Agreement (SLA)]()
 
-[Service Level Agreement (SLA)]()
+* [Disaster Recovery]()
 
-[Disaster Recovery]()
+* [State Handling]()
 
+* [Replication]()
 
-[State Handling]()
-
-[Replication]()
-
-[Session handling]()
+* [Session handling]()
 
 ### 361.2 Load Balanced Clusters (weight: 8)
 #### Description:	Candidates should know how to install, configure, maintain and troubleshoot LVS. This includes the configuration and use of keepalived and ldirectord. Candidates should further be able to install, configure, maintain and troubleshoot HAProxy.
@@ -65,25 +63,25 @@ Understand HAProxy
 Configure HAProxy
 Partial list of the used files, terms and utilities:
 
-[ipvsadm]()
+* [ipvsadm]()
 
-[syncd]()
+* [syncd]()
 
-[LVS Forwarding (NAT, Direct Routing, Tunneling, Local Node)]()
+* [LVS Forwarding (NAT, Direct Routing, Tunneling, Local Node)]()
 
-[connection scheduling algorithms]()
+* [connection scheduling algorithms]()
 
-[keepalived configuration file]()
+* [keepalived configuration file]()
 
-[ldirectord configuration file]()
+* [ldirectord configuration file]()
 
-[genhash]()
+* [genhash]()
 
-[HAProxy configuration file]()
+* [HAProxy configuration file]()
 
-[load balancing algorithms]()
+* [load balancing algorithms]()
 
-[ACLs]()
+* [ACLs]()
 
 ### 361.3 Failover Clusters (weight: 8)
 #### Description:	Candidates should have experience in the installation, configuration, maintenance and troubleshooting of a Pacemaker cluster. This includes the use of Corosync. The focus is on Pacemaker 2.x for Corosync 2.x.
@@ -105,53 +103,53 @@ Awareness of Pacemaker ACLs
 Awareness of other cluster engines (OpenAIS, Heartbeat, CMAN)
 Partial list of the used files, terms and utilities:
 
-[pcs]()
+* [pcs]()
 
-[crm]()
+* [crm]()
 
-[crm_mon]()
+* [crm_mon]()
 
-[crm_verify]()
+* [crm_verify]()
 
-[crm_simulate]()
+* [crm_simulate]()
 
-[crm_shadow]()
+* [crm_shadow]()
 
-[crm_resource]()
+* [crm_resource]()
 
-[crm_attribute]()
+* [crm_attribute]()
 
-[crm_node]()
+* [crm_node]()
 
-[crm_standby]()
+* [crm_standby]()
 
-[cibadmin]()
+* [cibadmin]()
 
-[corosync.conf]()
+* [corosync.conf]()
 
-[authkey]()
+* [authkey]()
 
-[corosync-cfgtool]()
+* [corosync-cfgtool]()
 
-[corosync-cmapctl]()
+* [corosync-cmapctl]()
 
-[corosync-quorumtool]()
+* [corosync-quorumtool]()
 
-[stonith_admin]()
+* [stonith_admin]()
 
-[stonith]()
+* [stonith]()
 
-[ocf:pacemaker:ping]()
+* [ocf:pacemaker:ping]()
 
-[ocf:pacemaker:NodeUtilization]()
+* [ocf:pacemaker:NodeUtilization]()
 
-[ocf:pacemaker:ocf:SysInfo]()
+* [ocf:pacemaker:ocf:SysInfo]()
 
-[ocf:pacemaker:HealthCPU]()
+* [ocf:pacemaker:HealthCPU]()
 
-[ocf:pacemaker:HealthSMART]()
+* [ocf:pacemaker:HealthSMART]()
 
-[sbd]()
+* [sbd]()
 
 ## Topic 362: High Availability Cluster Storage
 ### 362.1 DRBD (weight: 6)
@@ -171,27 +169,27 @@ Integrate DRBD with Pacemaker
 Understand the architecture and features of LINSTOR
 Partial list of the used files, terms and utilities:
 
-[Protocol A, B and C]()
+* [Protocol A, B and C]()
 
-[Primary, Secondary]()
+* [Primary, Secondary]()
 
-[Three-way replication]()
+* [Three-way replication]()
 
-[drbd kernel module]()
+* [drbd kernel module]()
 
-[drbdadm]()
+* [drbdadm]()
 
-[drbdmon]()
+* [drbdmon]()
 
-[drbdsetup]()
+* [drbdsetup]()
 
-[drbdmeta]()
+* [drbdmeta]()
 
-[/etc/drbd.conf]()
+* [/etc/drbd.conf]()
 
-[/etc/drbd.d/]()
+* [/etc/drbd.d/]()
 
-[/proc/drbd]()
+* [/proc/drbd]()
 
 ### 362.2 Cluster Storage Access (weight: 3)
 #### Description:	Candidates should be able to connect a Linux node to remote block storage. This includes understanding common SAN technology and architectures, including management of iSCSI, as well as configuring multipathing for high availability and using LVM on a clustered storage.
@@ -206,25 +204,25 @@ Understand and manage clustered LVM
 Manage DLM and LVM with Pacemaker
 Partial list of the used files, terms and utilities:
 
-[tgtadm]()
+* [tgtadm]()
 
-[targets.conf]()
+* [targets.conf]()
 
-[iscsiadm]()
+* [iscsiadm]()
 
-[iscsid.conf]()
+* [iscsid.conf]()
 
-[/etc/multipath.conf]()
+* [/etc/multipath.conf]()
 
-[multipath]()
+* [multipath]()
 
-[kpartx]()
+* [kpartx]()
 
-[pvmove]()
+* [pvmove]()
 
-[vgchange]()
+* [vgchange]()
 
-[lvchange]()
+* [lvchange]()
 
 ### 362.3 Clustered File Systems (weight: 4)
 #### Description:	Candidates should be able to install, maintain and troubleshoot GFS2 and OCFS2 filesystems. This includes awareness of other clustered filesystems available on Linux.
@@ -238,31 +236,31 @@ Awareness of the O2CB cluster stack
 Awareness of other commonly used clustered file systems, such as AFS and Lustre
 Partial list of the used files, terms and utilities:
 
-[mkfs.gfs2]()
+* [mkfs.gfs2]()
 
-[mount.gfs2]()
+* [mount.gfs2]()
 
-[fsck.gfs2]()
+* [fsck.gfs2]()
 
-[gfs2_grow]()
+* [gfs2_grow]()
 
-[gfs2_edit]()
+* [gfs2_edit]()
 
-[gfs2_jadd]()
+* [gfs2_jadd]()
 
-[mkfs.ocfs2]()
+* [mkfs.ocfs2]()
 
-[mount.ocfs2]()
+* [mount.ocfs2]()
 
-[fsck.ocfs2]()
+* [fsck.ocfs2]()
 
-[tunefs.ocfs2]()
+* [tunefs.ocfs2]()
 
-[mounted.ocfs2]()
+* [mounted.ocfs2]()
 
-[o2info]()
+* [o2info]()
 
-[o2image]()
+* [o2image]()
 
 ## Topic 363: High Availability Distributed Storage
 ### 363.1 GlusterFS Storage Clusters (weight: 5)
@@ -280,7 +278,7 @@ Restore and verify the integrity of a GlusterFS cluster after an outage
 Awareness of GNFS
 Partial list of the used files, terms and utilities:
 
-[gluster (including relevant subcommands)]()
+* [gluster (including relevant subcommands)]()
 
 ### 363.2 Ceph Storage Clusters (weight: 8)
 #### Description:	Candidates should be able to manage and maintain a Ceph Cluster. This includes the configuration of RGW, RDB devices and CephFS.
@@ -301,25 +299,25 @@ Restore and verify the integrity of a Ceph cluster after an outage
 Understand key concepts of Ceph updates, including update order, tunables and features
 Partial list of the used files, terms and utilities:
 
-[ceph-deploy (including relevant subcommands)]()
+* [ceph-deploy (including relevant subcommands)]()
 
-[ceph.conf]()
+* [ceph.conf]()
 
-[ceph (including relevant subcommands)]()
+* [ceph (including relevant subcommands)]()
 
-[rados (including relevant subcommands)]()
+* [rados (including relevant subcommands)]()
 
-[rdb (including relevant subcommands)]()
+* [rdb (including relevant subcommands)]()
 
-[cephfs (including relevant subcommands)]()
+* [cephfs (including relevant subcommands)]()
 
-[ceph-volume (including relevant subcommands)]()
+* [ceph-volume (including relevant subcommands)]()
 
-[ceph-authtool]()
+* [ceph-authtool]()
 
-[ceph-bluestore-tool]()
+* [ceph-bluestore-tool]()
 
-[crushtool]()
+* [crushtool]()
 
 ## Topic 364: Single Node High Availability
 ### 364.1 Hardware and Resource High Availability (weight: 2)
@@ -331,19 +329,19 @@ Configure system shutdown at specific UPS events
 Configure monit for alerts in case of resource exhaustion
 Partial list of the used files, terms and utilities:
 
-[smartctl]()
+* [smartctl]()
 
-[/etc/smartd.conf]()
+* [/etc/smartd.conf]()
 
-[smartd]()
+* [smartd]()
 
-[nvme-cli]()
+* [nvme-cli]()
 
-[apcupsd]()
+* [apcupsd]()
 
-[apctest]()
+* [apctest]()
 
-[monit]()
+* [monit]()
 
 ### 364.2 Advanced RAID (weight: 2)
 #### Description:	Candidates should be able to manage software raid devices on Linux. This includes advanced features such as partitonable RAIDs and RAID containers as well as recovering RAID arrays after a failure.
@@ -358,11 +356,11 @@ Understand availability and performance properties of various raid levels
 Configure mdadm monitoring and reporting
 Partial list of the used files, terms and utilities:
 
-[mdadm]()
+* [mdadm]()
 
-[/proc/mdstat]()
+* [/proc/mdstat]()
 
-[/proc/sys/dev/raid/*]()
+* [/proc/sys/dev/raid/*]()
 
 ### 364.3 Advanced LVM (weight: 3)
 #### Description:	Candidates should be able to configure LVM volumes. This includes managing LVM snapshot, pools and RAIDs.
@@ -375,35 +373,35 @@ Understand and manage LVM thin and thick pools
 Understand and manage LVM RAIDs
 Partial list of the used files, terms and utilities:
 
-[/etc/lvm/lvm.conf]()
+* [/etc/lvm/lvm.conf]()
 
-[pvcreate]()
+* [pvcreate]()
 
-[pvdisplay]()
+* [pvdisplay]()
 
-[pvmove]()
+* [pvmove]()
 
-[pvremove]()
+* [pvremove]()
 
-[pvresize]()
+* [pvresize]()
 
-[vgcreate]()
+* [vgcreate]()
 
-[vgdisplay]()
+* [vgdisplay]()
 
-[vgreduce]()
+* [vgreduce]()
 
-[lvconvert]()
+* [lvconvert]()
 
-[lvcreate]()
+* [lvcreate]()
 
-[lvdisplay]()
+* [lvdisplay]()
 
-[lvextend]()
+* [lvextend]()
 
-[lvreduce]()
+* [lvreduce]()
 
-[lvresize]()
+* [lvresize]()
 
 ### 364.4 Network High Availability (weight: 5)
 #### Description:	Candidates should be able to configure redundant networking connections and manage VLANs. Furthermore, candidates should have a basic understanding of BGP.
@@ -418,24 +416,24 @@ Understand the principle of autonomous systems and BGP to manage external redund
 Awareness of traffic shaping and control capabilities of Linux
 Partial list of the used files, terms and utilities:
 
-[bonding.ko (including relevant module options)]()
+* [bonding.ko (including relevant module options)]()
 
-[/etc/network/interfaces]()
+* [/etc/network/interfaces]()
 
-[/etc/sysconfig/networking-scripts/ifcfg-*]()
+* [/etc/sysconfig/networking-scripts/ifcfg-*]()
 
-[/etc/systemd/network/*.network]()
+* [/etc/systemd/network/*.network]()
 
-[/etc/systemd/network/*.netdev]()
+* [/etc/systemd/network/*.netdev]()
 
-[nmcli]()
+* [nmcli]()
 
-[/sys/class/net/bonding_masters]()
+* [/sys/class/net/bonding_masters]()
 
-[/sys/class/net/bond*/bonding/miimon]()
+* [/sys/class/net/bond*/bonding/miimon]()
 
-[/sys/class/net/bond*/bonding/slaves]()
+* [/sys/class/net/bond*/bonding/slaves]()
 
-[ifenslave]()
+* [ifenslave]()
 
-[ip]()
+* [ip]()
