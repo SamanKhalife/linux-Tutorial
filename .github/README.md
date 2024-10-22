@@ -34,16 +34,17 @@ Feel free to contribute ([lets-fork-it](https://github.com/login?return_to=%2FSa
 ## Common commands preview
 
 * \[View Linux command help information] - commands：`help`, `whatis`, `info`, `which`, `whereis`, `man`, `stat`
-* \[Linux file directory management] -commands：`cd`, `ls`, `pwd`, `mkdir`, `rmdir`, `tree`, `touch`, `ln`, `rename`, `stat`, `file`, `chmod`, `chown`, `locate`, `find`, `cp`, `mv`, `rm`
+* \[Linux file directory management] - commands：`cd`, `ls`, `pwd`, `mkdir`, `rmdir`, `tree`, `touch`, `ln`, `rename`, `stat`, `file`, `chmod`, `chown`, `locate`, `find`, `cp`, `mv`, `rm`
 * \[Linux file content viewing command] - commands：`cat`, `head`, `tail`, `more`, `less`, `sed`, `vi`, `grep`
-* \[Linux File Compression and Decompression] -commands：`tar`, `gzip`, `zip`, `unzip`
+* \[Linux File Compression and Decompression] - commands：`tar`, `gzip`, `zip`, `unzip`
 * \[Linux User Management] - commands：`groupadd`, `groupdel`, `groupmod`, `useradd`, `userdel`, `usermod`, `passwd`, `su`, `sudo`
 * \[Linux System Administration ] - commands：`reboot`, `exit`, `shutdown`, `date`, `mount`, `umount`, `ps`, `kill`, `systemctl`, `service`, `crontab`
 * \[Linux Network Administration] - commands：`curl`, `wget`, `telnet`, `ip`, `hostname`, `ifconfig`, `route`, `ssh`, `ssh-keygen`, `firewalld`, `iptables`, `host`, `nslookup`, `nc`, `netcat`, `ping`, `traceroute`, `netstat`
 * \[Linux Hardware Management ] - commands：`df`, `du`, `top`, `free`, `iotop`
 * \[Linux Software Management ] - commands：`rpm`, `yum`, `apt-get`, `dpkg`
 
-View the [art of command line](https://github.com/jlevy/the-art-of-command-line) repo
+
+"The art of command line" is all about getting good at using the command line interface (CLI) in Unix-like systems, like Linux. If you want to learn more, check out this [Link](https://github.com/jlevy/the-art-of-command-line)
 
 ## Getting Started With linux Overview (Hardware Interaction)
 
