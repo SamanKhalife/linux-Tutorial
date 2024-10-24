@@ -53,12 +53,14 @@ Feel free to contribute ([lets-fork-it](https://github.com/login?return_to=%2FSa
 * **System software**
 * **Application software**
 * **Application software with graphical interface**
-
-![img](https://github.com/SamanKhalife/linux-commands/blob/main/IMAGES/1111111111111111111.png)
+<p align="center">
+  <img src="https://github.com/SamanKhalife/linux-commands/blob/main/IMAGES/1111111111111111111.png" alt="Image description" width="700" style="max-width: 50%;">
+</p>
 
 * **Application software with graphical interface**
-
-![img](https://github.com/SamanKhalife/linux-commands/blob/main/IMAGES/2222222222222222222.png)
+<p align="center">
+  <img src="https://github.com/SamanKhalife/linux-commands/blob/main/IMAGES/2222222222222222222.png" alt="Image description" width="700" style="max-width: 100%;">
+</p>
 
 ## More info about Linux kernel 
 
@@ -68,7 +70,9 @@ Feel free to contribute ([lets-fork-it](https://github.com/login?return_to=%2FSa
 
 * There are 6 stages of the Linux boot process
 
-![img](https://github.com/SamanKhalife/linux-commands/blob/main/IMAGES/3333333333333333333.png)
+<p align="center">
+  <img src="https://github.com/SamanKhalife/linux-commands/blob/main/IMAGES/3333333333333333333.png" alt="Image description" width="700" style="max-width: 100%;">
+</p>
 
 ### Stage 1: BIOS (Basic Input/Output System)
 
@@ -676,8 +680,9 @@ iptables   -t       nat        -I        FORWARDING          .     -P     tcp   
 ```
 
 ### chains that packets will go through in iptable
-
-![img](https://github.com/SamanKhalife/linux-Tutorial/blob/main/IMAGES/4444444444444444444.png)
+<p align="center">
+  <img src="https://github.com/SamanKhalife/linux-commands/blob/main/IMAGES/4444444444444444444.png" alt="Image description" width="700" style="max-width: 100%;">
+</p>
 
 ### If you live in countries that are embargoed by some companies and applications, you can use some thing like DNS changing for using the apps.
 
@@ -851,8 +856,10 @@ sudo modprobe kvm
 (If you see hypervisor in your /proc/cpuinfo it means that you are inside a virtualized Linux machine )
 
 #### let's see the 2 types of hypervisors. First type 2, since it's easier to understand.
+<p align="center">
+  <img src="https://github.com/SamanKhalife/linux-commands/blob/main/IMAGES/5555555555555555555.png" alt="Image description" width="700" style="max-width: 100%;">
+</p>
 
-![img](https://github.com/SamanKhalife/linux-Tutorial/blob/main/IMAGES/5555555555555555555.png)
 
 **Type 2 Hypervisor**
 
