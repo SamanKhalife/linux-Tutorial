@@ -21,7 +21,7 @@ The LPIC-3 Security Exam 303 focuses on advanced Linux enterprise-level security
 - Advanced Storage Solutions: Implementing and managing advanced storage solutions and high-performance storage systems.
 - Troubleshooting Complex Systems: Diagnosing and resolving complex issues across integrated systems and networks.
 
-[303 Objectives (With Explanations for Each One)](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Lpic%203/LPIC-3%20Security%20Exam%20303%20Objectives.md)
+[303 Objectives](https://github.com/SamanKhalife/linux-Tutorial/blob/main/Lpic%203/LPIC-3%20Security%20Exam%20303%20Objectives.md)
 
 ## LPIC-3 Security Exam 303 Exam Sample Questions
 
