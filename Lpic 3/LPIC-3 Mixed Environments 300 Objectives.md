@@ -16,11 +16,11 @@ Partial list of the used files, terms and utilities:
 
 * [smbd]()
 
-* [nmbd]()
+* [nmbd](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/nmbd.md)
 
-* [samba]()
+* [samba](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/samba.md)
 
-* [winbindd]()
+* [winbindd](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/winbindd.md)
 
 
 ### 301.2 Samba Configuration * [weight: 4]
@@ -39,53 +39,53 @@ Troubleshoot and debug configuration problems with Samba
 Understand Windows tools used to configure a Samba Server
 The following is a partial list of the used files, terms and utilities:
 
-* [smb.conf]()
+* [smb.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/smb.conf.md)
 
-* [security]()
+* [security](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/security.md)
 
-* [server role]()
+* [server role](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/server-role.md)
 
-* [server string]()
+* [server string](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/server-string.md)
 
-* [server services]()
+* [server services](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/server-services.md)
 
-* [tls enabled]()
+* [tls enabled](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/tls-enabled.md)
 
-* [tls keyfile]()
+* [tls keyfile](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/tls-keyfile.md)
 
-* [tls certfile]()
+* [tls certfile](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/tls-certfile.md)
 
-* [tls dh params file]()
+* [tls dh params file](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/tls-dh-params-file.md)
 
-* [tls cafile]()
+* [tls cafile](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/tls-cafile.md)
 
-* [config backend]()
+* [config backend](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/config-backend.md)
 
-* [registry shares]()
+* [registry shares](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/registry-shares.md)
 
-* [include]()
+* [include](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/include.md)
 
-* [vfs objects]()
+* [vfs objects](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/vfs-objects.md)
 
-* [samba-regedit]()
+* [samba-regedit](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/samba-regedit.md)
 
-* [HKLM\Software\Samba]()
+* [HKLM\Software\Samba](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/HKLM-Software-Samba.md)
 
-* [REG_SZ, REG_MULTI_SZ]()
+* [REG_SZ, REG_MULTI_SZ](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/REG_SZ%2C%20REG_MULTI_SZ.md)
 
-* [testparm]()
+* [testparm](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/testparm.md)
 
-* [net registry including relevant subcommands]()
+* [net registry including relevant subcommands](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/net-registry-including-relevant-subcommands.md)
 
-* [Microsoft RSAT Tools]()
+* [Microsoft RSAT Tools](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/Microsoft-RSAT-Tools.md)
 
-* [Microsoft MMC]()
+* [Microsoft MMC](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/Microsoft-MMC.md)
 
-* [Microsoft ADSI Edit]()
+* [Microsoft ADSI Edit](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/Microsoft-ADSI-Edit.md)
 
-* [Microsoft LDP]()
+* [Microsoft LDP](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/Microsoft-LDP.md)
 
-* [Microsoft Regedit]()
+* [Microsoft Regedit](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/Microsoft-Regedit.md)
 
 ### 301.3 Regular Samba Maintenance * [weight: 2]
 
@@ -101,21 +101,21 @@ Understand backup and recovery strategies for Active Directory domain controller
 Understand the impact of virtualization on Active Directory domain controllers
 The following is a partial list of the used files, terms and utilities:
 
-* [systemctl]()
+* [systemctl](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/systemctl.md)
 
-* [smbcontrol (including relevant message types)]()
+* [smbcontrol (including relevant message types)](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/smbcontrol(including-relevant-message-types).md)
 
-* [smbstatus]()
+* [smbstatus](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/smbstatus.md)
 
-* [tdbbackup]()
+* [tdbbackup](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/tdbbackup.md)
 
-* [tdbrestore]()
+* [tdbrestore](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/tdbrestore.md)
 
-* [samba-tool domain backup (including subcommands)]()
+* [samba-tool domain backup (including subcommands)](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/samba-tool-domain-backup(including-subcommands).md)
 
-* [Virtual Machine Generation Identifier]()
+* [Virtual Machine Generation Identifier](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/Virtual-Machine-Generation-Identifier.md)
 
-* [Virtual Machine Snapshots]()
+* [Virtual Machine Snapshots](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/Virtual-Machine-Snapshots.md)
 
 
 ### 301.4 Troubleshooting Samba * [weight: 3]
@@ -138,43 +138,43 @@ Use rpcclient to query information on a Samba server
 
 The following is a partial list of the used files, terms and utilities:
 
-* [smb.conf:]()
+* [smb.conf:](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/smb.conf.md)
 
-* [log level]()
+* [log level](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/log-level.md)
 
-* [debuglevel]()
+* [debuglevel](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/debuglevel.md)
 
-* [/var/log/samba/]()
+* [/var/log/samba/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/varlogsamba.md)
 
-* [smbpasswd]()
+* [smbpasswd](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/smbpasswd.md)
 
-* [pdbedit]()
+* [pdbedit](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/pdbedit.md)
 
-* [registry.tdb]()
+* [registry.tdb](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/registry.tdb.md)
 
-* [secrets.tdb]()
+* [secrets.tdb](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/secrets.tdb.md)
 
-* [tdbdump]()
+* [tdbdump](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/tdbdump.md)
 
-* [tdbtool]()
+* [tdbtool](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/tdbtool.md)
 
-* [ldbsearch]()
+* [ldbsearch](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/ldbsearch.md)
 
-* [ldbmodify]()
+* [ldbmodify](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/ldbmodify.md)
 
-* [ldbedit]()
+* [ldbedit](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/ldbedit.md)
 
-* [ldbadd]()
+* [ldbadd](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/ldbadd.md)
 
-* [ldbdel]()
+* [ldbdel](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/ldbdel.md)
 
-* [LDIF]()
+* [LDIF](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/LDIF.md)
 
-* [samba-tool dbcheck]()
+* [samba-tool dbcheck](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/samba-tool-dbcheck.md)
 
-* [samba-tool domain backup (including relevant subcommands)]()
+* [samba-tool domain backup (including relevant subcommands)](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/samba-tool-domain-backup(including-relevant-subcommands).md)
 
-* [rpcclient]()
+* [rpcclient](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/rpcclient.md)
 
 ## Topic 302: Samba and Active Directory Domains
 ### 302.1 Samba as Active Directory Domain Controller * [weight: 5]
@@ -200,31 +200,31 @@ Integrate Samba with ntpd
 Awareness of Windows NT4 domains
 The following is a partial list of the used files, terms and utilities:
 
-* [smb.conf:]()
+* [smb.conf:](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/smb.conf.md)
 
-* [server role]()
+* [server role](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/server-role.md)
 
-* [log level]()
+* [log level](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/log-level.md)
 
-* [samba-tool domain (including relevant subcommands)]()
+* [samba-tool domain (including relevant subcommands)](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/samba-tool-domain(including-relevant-subcommands).md)
 
-* [samba-tool fsmo (including relevant subcommands)]()
+* [samba-tool fsmo (including relevant subcommands)](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/samba-tool-fsmo(including-relevant-subcommands).md)
 
-* [samba-tool drs (including relevant subcommands)]()
+* [samba-tool drs (including relevant subcommands)](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/samba-tool-drs(including-relevant-subcommands).md)
 
-* [samba-tool sites (including relevant subcommands)]()
+* [samba-tool sites (including relevant subcommands)](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/rsync.conf.md)
 
-* [rsync]()
+* [rsync](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/rsync.md)
 
-* [rsync.conf]()
+* [rsync.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/rsync.conf.md)
 
-* [/var/lib/samba/sysvol]()
+* [/var/lib/samba/sysvol](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/varlibsambasysvol.md)
 
-* [robocopy]()
+* [robocopy](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/robocopy.md)
 
-* [ntpd.conf]()
+* [ntpd.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/ntpd.conf.md)
 
-* [ntpsigndsocket]()
+* [ntpsigndsocket](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/ntpsigndsocket.md)
 
 ### 302.2 Active Directory Name Resolution * [weight: 2]
 
@@ -241,23 +241,23 @@ Awareness of BIND9 DLZ DNS back end
 Awareness of NetBIOS name resolution and WINS
 The following is a partial list of the used files, terms and utilities:
 
-* [smb.conf:]()
+* [smb.conf:](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/smb.conf.md)
 
-* [dns forwarder]()
+* [dns forwarder](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/dns-forwarder.md)
 
-* [allow dns updates]()
+* [allow dns updates](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/allow-dns-updates.md)
 
-* [multicst dns register]()
+* [multicst dns register](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/multicst-dns-register.md)
 
-* [samba-tool dns (with subcommands)]()
+* [samba-tool dns (with subcommands)](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/samba-tool-dns-(with-subcommands).md)
 
-* [samba_dnsupdate]()
+* [samba_dnsupdate](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/samba_dnsupdate.md)
 
-* [dig]()
+* [dig](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/dig.md)
 
-* [host]()
+* [host](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/host.md)
 
-* [/etc/resolv.conf]()
+* [/etc/resolv.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-300/etcresolv.conf.md)
 
 
 ### 302.3 Active Directory User Management * [weight: 4]
