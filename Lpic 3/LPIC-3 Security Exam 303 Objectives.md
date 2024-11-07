@@ -15,17 +15,17 @@ Basic feature knowledge of Let’s Encrypt, ACME and certbot
 Basic feature knowledge of CFSSL
 Partial list of the used files, terms and utilities:
 
-* [openssl (including relevant subcommands)](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/openssl%20(including%20relevant%20subcommands).md)
+* [openssl (including relevant subcommands)](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/openssl%20(including%20relevant%20subcommands).md)
 
-* [OpenSSL configuration](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/OpenSSL%20configuration.md)
+* [OpenSSL configuration](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/OpenSSL%20configuration.md)
 
-* [PEM, DER, PKCS](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/PEM%2C%20DER%2C%20PKCS.md)
+* [PEM, DER, PKCS](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/PEM%2C%20DER%2C%20PKCS.md)
 
-* [CSR](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/CSR.md)
+* [CSR](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/CSR.md)
 
-* [CRL](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/CRL.md)
+* [CRL](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/CRL.md)
 
-* [OCSP](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/OCSP.md)
+* [OCSP](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/OCSP.md)
  
 
 ### 331.2 X.509 Certificates for Encryption, Signing and Authentication 
@@ -41,11 +41,11 @@ Configure Apache HTTPD with mod_ssl to provide OCSP stapling
 Use OpenSSL for SSL/TLS client and server tests
 Partial list of the used files, terms and utilities:
 
-* [httpd.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/httpd.conf.md)
+* [httpd.conf](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/httpd.conf.md)
 
-* [mod_ssl](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/mod_ssl.md)
+* [mod_ssl](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/mod_ssl.md)
 
-* [openssl (including relevant subcommands)](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/openssl%20(including%20relevant%20subcommands).md)
+* [openssl (including relevant subcommands)](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/openssl%20(including%20relevant%20subcommands).md)
 
 ### 331.3 Encrypted File Systems (weight: 3)
 #### Description:	Candidates should be able to set up and configure encrypted file systems.
@@ -59,19 +59,19 @@ Awareness of LUKS2 features
 Conceptual understanding of Clevis for LUKS devices and Clevis PINs for TMP2 and Network Bound Disk Encryption (NBDE)/Tang
 The following is a partial list of the used files, terms and utilities:
 
-* [cryptsetup (including relevant subcommands)](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/cryptsetup%20(including%20relevant%20subcommands).md)
+* [cryptsetup (including relevant subcommands)](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/cryptsetup%20(including%20relevant%20subcommands).md)
 
-* [cryptmount](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/cryptmount.md)
+* [cryptmount](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/cryptmount.md)
 
-* [/etc/crypttab](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/-etc-crypttab.md)
+* [/etc/crypttab](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/-etc-crypttab.md)
 
-* [ecryptfsd](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/ecryptfsd.md)
+* [ecryptfsd](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/ecryptfsd.md)
 
-* [ecryptfs-* commands](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/ecryptfs-%20commands.md)
+* [ecryptfs-* commands](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/ecryptfs-%20commands.md)
 
-* [mount.ecryptfs, umount.ecryptfs](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/mount.ecryptfs%2C%20umount.ecryptfs.md)
+* [mount.ecryptfs, umount.ecryptfs](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/mount.ecryptfs%2C%20umount.ecryptfs.md)
 
-* [pam_ecryptfs](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/pam_ecryptfs.md)
+* [pam_ecryptfs](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/pam_ecryptfs.md)
 
 ### 331.4 DNS and Cryptography (weight: 5)
 #### Description:	Candidates should have experience and knowledge of cryptography in the context of DNS and its implementation using BIND. The version of BIND covered is 9.7 or higher.
@@ -92,23 +92,23 @@ Awareness of DNS over TLS and DNS over HTTPS
 Awareness of Multicast DNS
 Partial list of the used files, terms and utilities:
 
-* [named.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/named.conf.md)
+* [named.conf](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/named.conf.md)
 
-* [dnssec-keygen](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/dnssec-signkey.md)
+* [dnssec-keygen](../TXT%20FILES/dnssec-signkey.md)
 
-* [dnssec-signzone](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-202/dnssec-signzone.md)
+* [dnssec-signzone](../TXT%20FILES/File-systems-Cocepts/LPIC2-202/dnssec-signzone.md)
 
-* [dnssec-settime](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/dnssec-settime.md)
+* [dnssec-settime](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/dnssec-settime.md)
 
-* [dnssec-dsfromkey](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/dnssec-dsfromkey.md)
+* [dnssec-dsfromkey](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/dnssec-dsfromkey.md)
 
-* [rndc (including relevant subcommands)](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/rndc%20(including%20relevant%20subcommands).md)
+* [rndc (including relevant subcommands)](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/rndc%20(including%20relevant%20subcommands).md)
 
-* [dig](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/dig.md)
+* [dig](../TXT%20FILES/dig.md)
 
-* [delv](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/delv.md)
+* [delv](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/delv.md)
 
-* [openssl (including relevant subcommands)](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/openssl%20(including%20relevant%20subcommands).md)
+* [openssl (including relevant subcommands)](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/openssl%20(including%20relevant%20subcommands).md)
  
 
 ## Topic 332: Host Security
@@ -131,35 +131,35 @@ Awareness of polkit
 Awareness of the security advantages of virtualization and containerization
 The following is a partial list of the used files, terms and utilities:
 
-* [grub.cfg](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/grub.cfg.md)
+* [grub.cfg](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/grub.cfg.md)
 
-* [systemctl](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/systemctl.md)
+* [systemctl](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/systemctl.md)
 
-* [getcap](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/getcap.md)
+* [getcap](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/getcap.md)
 
-* [setcap](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/setcap.md)
+* [setcap](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/setcap.md)
 
-* [capsh](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/capsh.md)
+* [capsh](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/capsh.md)
 
-* [sysctl](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/sysctl.md)
+* [sysctl](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/sysctl.md)
 
-* [/etc/sysctl.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/-etc-sysctl.conf.md)
+* [/etc/sysctl.conf](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/-etc-sysctl.conf.md)
 
-* [/etc/usbguard/usbguard-daemon.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/-etc-usbguard-usbguard-daemon.conf.md)
+* [/etc/usbguard/usbguard-daemon.conf](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/-etc-usbguard-usbguard-daemon.conf.md)
 
-* [/etc/usbguard/rules.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/-etc-usbguard-rules.conf.md)
+* [/etc/usbguard/rules.conf](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/-etc-usbguard-rules.conf.md)
 
-* [usbguard](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/usbguard.md)
+* [usbguard](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/usbguard.md)
 
-* [ssh-keygen](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/ssh-keygen.md)
+* [ssh-keygen](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/ssh-keygen.md)
 
-* [/etc/ssh/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/-etc-ssh.md)
+* [/etc/ssh/](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/-etc-ssh.md)
 
-* [~/.ssh/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/~-.ssh-.md)
+* [~/.ssh/](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/~-.ssh-.md)
 
-* [/etc/ssh/sshd_config](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/-etc-ssh-sshd_config-.md)
+* [/etc/ssh/sshd_config](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/-etc-ssh-sshd_config-.md)
 
-* [chroot](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/chroot.md)
+* [chroot](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/chroot.md)
 
 ### 332.2 Host Intrusion Detection (weight: 5)
 #### Description:	Candidates should be familiar with the use and configuration of common host intrusion detection software. This includes managing the Linux Audit system and verifying a system’s integrity.
@@ -175,35 +175,35 @@ Configure and use AIDE, including rule management
 Awareness of OpenSCAP
 Partial list of the used files, terms and utilities:
 
-* [auditd](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/auditd.md)
+* [auditd](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/auditd.md)
 
-* [auditctl](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/auditctl.md)
+* [auditctl](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/auditctl.md)
 
-* [ausearch, aureport](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/ausearch%2C%20aureport.md)
+* [ausearch, aureport](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/ausearch%2C%20aureport.md)
 
-* [auditd.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/auditd.conf.md)
+* [auditd.conf](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/auditd.conf.md)
 
-* [audit.rules](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/audit.rules.md)
+* [audit.rules](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/audit.rules.md)
 
-* [pam_tty_audit.so](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/pam_tty_audit.so.md)
+* [pam_tty_audit.so](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/pam_tty_audit.so.md)
 
-* [chkrootkit](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/chkrootkit.md)
+* [chkrootkit](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/chkrootkit.md)
 
-* [rkhunter](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/rkhunter.md)
+* [rkhunter](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/rkhunter.md)
 
-* [/etc/rkhunter.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/-etc-rkhunter.conf.md)
+* [/etc/rkhunter.conf](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/-etc-rkhunter.conf.md)
 
-* [maldet](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/maldet.md)
+* [maldet](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/maldet.md)
 
-* [conf.maldet](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/conf.maldet.md)
+* [conf.maldet](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/conf.maldet.md)
 
-* [rpm](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/rpm.md)
+* [rpm](../TXT%20FILES/rpm.md)
 
-* [dpkg](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/dpkg.md)
+* [dpkg](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/dpkg.md)
 
-* [aide](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/aide.md)
+* [aide](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/aide.md)
 
-* [/etc/aide/aide.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/-etc-aide-aide.conf.md)
+* [/etc/aide/aide.conf](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/-etc-aide-aide.conf.md)
 
 ### 332.3 Resource Control (weight: 3)
 #### Description:	Candidates should be able to restrict the resources services and programs can consume.
@@ -219,17 +219,17 @@ Partial list of the used files, terms and utilities:
 
 * [ulimit](utorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/ulimit.md)
 
-* [/etc/security/limits.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/-etc-security-limits.conf.md)
+* [/etc/security/limits.conf](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/-etc-security-limits.conf.md)
 
-* [pam_limits.so](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/pam_limits.so.md)
+* [pam_limits.so](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/pam_limits.so.md)
 
-* [/sys/fs/group/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/-sys-fs-group-.md)
+* [/sys/fs/group/](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/-sys-fs-group-.md)
 
-* [/proc/cgroups](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/-proc-cgroups.md)
+* [/proc/cgroups](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/-proc-cgroups.md)
 
-* [systemd-cgls](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/systemd-cgls.md)
+* [systemd-cgls](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/systemd-cgls.md)
 
-* [systemd-cgtop](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/systemd-cgtop.md)
+* [systemd-cgtop](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/systemd-cgtop.md)
 
 ## Topic 333: Access Control
 ### 333.1 Discretionary Access Control (weight: 3)
@@ -241,13 +241,13 @@ Understand and manage access control lists
 Understand and manage extended attributes and attribute classes
 Partial list of the used files, terms and utilities:
 
-* [getfacl](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/getfacl.md)
+* [getfacl](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/getfacl.md)
 
-* [setfacl](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/setfacl.md)
+* [setfacl](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/setfacl.md)
 
-* [getfattr](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/getfattr.md)
+* [getfattr](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/getfattr.md)
 
-* [setfattr](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/setfattr.md)
+* [setfattr](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/setfattr.md)
  
 
 ### 333.2 Mandatory Access Control (weight: 5)
@@ -259,47 +259,47 @@ Configure, manage and use SELinux
 Awareness of AppArmor and Smack
 Partial list of the used files, terms and utilities:
 
-* [getenforce](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/getenforce.md)
+* [getenforce](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/getenforce.md)
 
-* [setenforce](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/setenforce.md)
+* [setenforce](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/setenforce.md)
 
-* [selinuxenabled](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/selinuxenabled.md)
+* [selinuxenabled](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/selinuxenabled.md)
 
-* [getsebool](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/getsebool.md)
+* [getsebool](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/getsebool.md)
 
-* [setsebool](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/setsebool.md)
+* [setsebool](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/setsebool.md)
 
-* [togglesebool](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/togglesebool.md)
+* [togglesebool](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/togglesebool.md)
 
-* [fixfiles](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/fixfiles.md)
+* [fixfiles](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/fixfiles.md)
 
-* [restorecon](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/restorecon.md)
+* [restorecon](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/restorecon.md)
 
-* [setfiles](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/setfiles.md)
+* [setfiles](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/setfiles.md)
 
-* [newrole](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/newrole.md)
+* [newrole](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/newrole.md)
 
-* [setcon](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/setcon.md)
+* [setcon](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/setcon.md)
 
-* [c](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/c.md)
+* [c](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/c.md)
 
-* [chcon](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/chcon.md)
+* [chcon](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/chcon.md)
 
-* [semanage](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/semanage.md)
+* [semanage](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/semanage.md)
 
-* [sestatus](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/sestatus.md)
+* [sestatus](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/sestatus.md)
 
-* [seinfo](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/seinfo.md)
+* [seinfo](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/seinfo.md)
 
-* [apol](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/apol.md)
+* [apol](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/apol.md)
 
-* [seaudit](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/seaudit.md)
+* [seaudit](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/seaudit.md)
 
-* [audit2why](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/audit2why.md)
+* [audit2why](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/audit2why.md)
 
-* [audit2allow](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/audit2allow.md)
+* [audit2allow](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/audit2allow.md)
 
-* [/etc/selinux/*](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/-etc-selinux-.md)
+* [/etc/selinux/*](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/-etc-selinux-.md)
 
 ## Topic 334: Network Security
 ### 334.1 Network Hardening (weight: 4)
@@ -314,31 +314,31 @@ Identify and deal with rogue router advertisements and DHCP messages
 Awareness of aircrack-ng and bettercap
 The following is a partial list of the used files, terms and utilities:
 
-* [radiusd](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/radiusd.md)
+* [radiusd](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/radiusd.md)
 
-* [radmin](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/radmin.md)
+* [radmin](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/radmin.md)
 
-* [radtest](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/radtest.md)
+* [radtest](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/radtest.md)
 
-* [radclient](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/radclient.md)
+* [radclient](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/radclient.md)
 
-* [radlast](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/radlast.md)
+* [radlast](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/radlast.md)
 
-* [radwho](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/radwho.md)
+* [radwho](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/radwho.md)
 
-* [radiusd.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/radiusd.conf.md)
+* [radiusd.conf](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/radiusd.conf.md)
 
-* [/etc/raddb/*](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/-etc-raddb-.md)
+* [/etc/raddb/*](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/-etc-raddb-.md)
 
-* [wireshark](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/wireshark.md)
+* [wireshark](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/wireshark.md)
 
-* [tshark](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/tshark.md)
+* [tshark](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/tshark.md)
 
-* [tcpdump](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/tcpdump.md)
+* [tcpdump](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/tcpdump.md)
 
-* [kismet](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/kismet.md)
+* [kismet](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/kismet.md)
 
-* [ndpmon](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/ndpmon.md)
+* [ndpmon](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/ndpmon.md)
  
 
 ### 334.2 Network Intrusion Detection (weight: 4)
@@ -350,29 +350,29 @@ Configure and use Snort, including rule management
 Configure and use OpenVAS, including NASL
 Partial list of the used files, terms and utilities:
 
-* [ntop](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/ntop.md)
+* [ntop](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/ntop.md)
 
-* [snort](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/snort.md)
+* [snort](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/snort.md)
 
-* [snort-stat](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/snort-stat.md)
+* [snort-stat](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/snort-stat.md)
 
-* [pulledpork.pl](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/pulledpork.pl.md)
+* [pulledpork.pl](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/pulledpork.pl.md)
 
-* [/etc/snort/*](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/-etc-snort-.md)
+* [/etc/snort/*](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/-etc-snort-.md)
 
-* [openvas-adduser](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/openvas-adduser.md)
+* [openvas-adduser](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/openvas-adduser.md)
 
-* [openvas-rmuser](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/openvas-rmuser.md)
+* [openvas-rmuser](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/openvas-rmuser.md)
 
-* [openvas-nvt-sync](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/openvas-nvt-sync.md)
+* [openvas-nvt-sync](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/openvas-nvt-sync.md)
 
-* [openvassd](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/openvassd.md)
+* [openvassd](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/openvassd.md)
 
-* [openvas-mkcert](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/openvas-mkcert.md)
+* [openvas-mkcert](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/openvas-mkcert.md)
 
-* [openvas-feed-update](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/openvas-feed-update.md)
+* [openvas-feed-update](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/openvas-feed-update.md)
 
-* [/etc/openvas/*](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/-etc-openvas-.md)
+* [/etc/openvas/*](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/-etc-openvas-.md)
 
 ### 334.3 Packet Filtering (weight: 5)
 #### Description:	Candidates should be familiar with the use and configuration of the netfilter Linux packet filter.
@@ -388,19 +388,19 @@ Awareness of ebtables
 Awareness of conntrackd
 Partial list of the used files, terms and utilities:
 
-* [iptables](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/iptables.md)
+* [iptables](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/iptables.md)
 
-* [ip6tables](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/ip6tables.md)
+* [ip6tables](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/ip6tables.md)
 
-* [iptables-save](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/iptables-save.md)
+* [iptables-save](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/iptables-save.md)
 
-* [iptables-restore](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/iptables-restore.md)
+* [iptables-restore](../TXT%20FILES/iptables-restore.md)
 
-* [ip6tables-save](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/ip6tables-save.md)
+* [ip6tables-save](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/ip6tables-save.md)
 
-* [ip6tables-restore](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/ip6tables-restore.md)
+* [ip6tables-restore](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/ip6tables-restore.md)
 
-* [ipset](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/ipset.md)
+* [ipset](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/ipset.md)
 
 ### 334.4 Virtual Private Networks (weight: 4)
 #### Description:	Candidates should be familiar with the use of OpenVPN, IPsec and WireGuard to set up remote access and site to site VPNs.
@@ -414,27 +414,27 @@ Configure and operate WireGuard servers and clients
 Awareness of L2TP
 Partial list of the used files, terms and utilities:
 
-* [/etc/openvpn/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/-etc-openvpn-.md)
+* [/etc/openvpn/](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/-etc-openvpn-.md)
 
-* [openvpn](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/openvpn.md)
+* [openvpn](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/openvpn.md)
 
-* [/etc/strongswan.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/-etc-strongswan.conf.md)
+* [/etc/strongswan.conf](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/-etc-strongswan.conf.md)
 
-* [/etc/strongswan.d/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/-etc-strongswan.d-.md)
+* [/etc/strongswan.d/](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/-etc-strongswan.d-.md)
 
-* [/etc/swanctl/swanctl.conf](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/-etc-swanctl-swanctl.conf.md)
+* [/etc/swanctl/swanctl.conf](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/-etc-swanctl-swanctl.conf.md)
 
-* [/etc/swanctl/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/-etc-swanctl-.md)
+* [/etc/swanctl/](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/-etc-swanctl-.md)
 
-* [swanctl](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/swanctl.md)
+* [swanctl](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/swanctl.md)
 
-* [/etc/wireguard/](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/-etc-wireguard-.md)
+* [/etc/wireguard/](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/-etc-wireguard-.md)
 
-* [wg](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/wg.md)
+* [wg](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/wg.md)
 
-* [wg-quick](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/wg-quick.md)
+* [wg-quick](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/wg-quick.md)
 
-* [ip](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/ip.md)
+* [ip](../TXT%20FILES/ip.md)
 
 ## Topic 335: Threats and Vulnerability Assessment
 ### 335.1 Common Security Vulnerabilities and Threats (weight: 2)
@@ -448,41 +448,41 @@ Conceptual understanding of threats against credentials and confidentiality
 Conceptual understanding of honeypots
 The following is a partial list of the used files, terms and utilities:
 
-* [Trojans](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/Trojans.mdv)
+* [Trojans](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/Trojans.mdv)
 
-* [Viruses](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/Rootkits.md)
+* [Viruses](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/Rootkits.md)
 
-* [Rootkits](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/Rootkits.md)
+* [Rootkits](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/Rootkits.md)
 
-* [Keylogger](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/Keylogger.md)
+* [Keylogger](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/Keylogger.md)
 
-* [DoS and DDoS](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/DoS%20and%20DDoS.md)
+* [DoS and DDoS](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/DoS%20and%20DDoS.md)
 
-* [Man in the Middle](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/Man%20in%20the%20Middle.md)
+* [Man in the Middle](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/Man%20in%20the%20Middle.md)
 
-* [ARP and NDP forgery](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/ARP%20and%20NDP%20forgery.md)
+* [ARP and NDP forgery](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/ARP%20and%20NDP%20forgery.md)
 
-* [Rogue Access Points, Routers and DHCP servers](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/Rogue%20Access%20Points%2C%20Routers%20and%20DHCP%20servers.md)
+* [Rogue Access Points, Routers and DHCP servers](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/Rogue%20Access%20Points%2C%20Routers%20and%20DHCP%20servers.md)
 
-* [Link layer address and IP address spoofing](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/Link%20layer%20address%20and%20IP%20address%20spoofing.md)
+* [Link layer address and IP address spoofing](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/Link%20layer%20address%20and%20IP%20address%20spoofing.md)
 
-* [Buffer Overflows](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/Buffer%20Overflows.md)
+* [Buffer Overflows](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/Buffer%20Overflows.md)
 
-* [SQL and Code Injections](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/SQL%20and%20Code%20Injections.md)
+* [SQL and Code Injections](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/SQL%20and%20Code%20Injections.md)
 
-* [Cross Site Scripting](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/Cross%20Site%20Scripting.md)
+* [Cross Site Scripting](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/Cross%20Site%20Scripting.md)
 
-* [Cross Site Request Forgery](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/Cross%20Site%20Request%20Forgery.md)
+* [Cross Site Request Forgery](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/Cross%20Site%20Request%20Forgery.md)
 
-* [Privilege escalation](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/Privilege%20escalation.md)
+* [Privilege escalation](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/Privilege%20escalation.md)
 
-* [Brute Force Attacks](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/Brute%20Force%20Attacks.md)
+* [Brute Force Attacks](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/Brute%20Force%20Attacks.md)
 
-* [Rainbow tables](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/Rainbow%20tables.md)
+* [Rainbow tables](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/Rainbow%20tables.md)
 
-* [Phishing](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/Phishing.md)
+* [Phishing](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/Phishing.md)
 
-* [Social Engineering](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC3-303/Social%20Engineering.md)
+* [Social Engineering](../TXT%20FILES/File-systems-Cocepts/LPIC3-303/Social%20Engineering.md)
 
 ### 335.2 Penetration Testing (weight: 3)
 #### Description:	Candidates understand the concepts of penetration testing, including an understand of commonly used penetration testing tools. 
@@ -498,4 +498,4 @@ Understand the concepts of Nmap Scripting Engine and execute existing scripts
 Awareness of Kali Linux, Armitage and the Social Engineer Toolkit (SET)
 Partial list of the used files, terms and utilities:
 
-* [nmap](https://github.com/SamanKhalife/linux-Tutorial/blob/main/TXT%20FILES/File-systems-Cocepts/LPIC2-201/nmap.md)
+* [nmap](../TXT%20FILES/File-systems-Cocepts/LPIC2-201/nmap.md)
