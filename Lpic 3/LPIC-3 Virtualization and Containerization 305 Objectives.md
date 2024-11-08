@@ -14,19 +14,19 @@ Awareness of oVirt, Proxmox, systemd-machined and VirtualBox
 Awareness of Open vSwitch
 The following is a partial list of the used files, terms and utilities:
 
-* [Hypervisor]()
+* [Hypervisor](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/hypervisor.md)
 
-* [Hardware Virtual Machine (HVM)]()
+* [Hardware Virtual Machine (HVM)](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/Hardware-Virtual-Machine(HVM).md)
 
-* [Paravirtualization (PV)]()
+* [Paravirtualization (PV)](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/Paravirtualization(PV).md)
 
-* [Emulation and Simulation]()
+* [Emulation and Simulation](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/Emulation-and-Simulation.md)
 
-* [CPU flags]()
+* [CPU flags](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/CPU-flags.md)
 
-* [/proc/cpuinfo]()
+* [/proc/cpuinfo](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/proccpuinfo.md)
 
-* [Migration (P2V, V2V)]()
+* [Migration (P2V, V2V)](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/Migration(P2V%2C%20V2V).md)
 
 ### 351.2 Xen (weight: 3)
 #### Description:	Candidates should be able to install, configure, maintain, migrate and troubleshoot Xen installations. The focus is on Xen version 4.x.
@@ -42,19 +42,19 @@ Awareness of Xen Boot Parameters
 Awareness of the xm utility
 The following is a partial list of the used files, terms and utilities:
 
-* [Domain0 (Dom0), DomainU (DomU)]()
+* [Domain0 (Dom0), DomainU (DomU)](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/Domain0(Dom0)%2CDomainU%20(DomU).md)
 
-* [PV-DomU, HVM-DomU]()
+* [PV-DomU, HVM-DomU](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/PV-DomU%2CHVM-DomU.md)
 
-* [/etc/xen/]()
+* [/etc/xen/](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/etc-xen-.md)
 
-* [xl]()
+* [xl](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/xl.md)
 
-* [xl.cfg]()
+* [xl.cfg](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/xl.cfg.md)
 
-* [xl.conf]()
+* [xl.conf](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/xl.conf.md)
 
-* [xentop]()
+* [xentop](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/xentop.md)
 
 ### 351.3 QEMU (weight: 4)
 #### Description:	Candidates should be able to install, configure, maintain, migrate and troubleshoot QEMU installations.
@@ -68,21 +68,21 @@ Troubleshoot QEMU installations, including networking and storage
 Awareness of important QEMU configuration parameters
 The following is a partial list of the used files, terms and utilities:
 
-* [Kernel modules: kvm, kvm-intel and kvm-amd]()
+* [Kernel modules: kvm, kvm-intel and kvm-amd](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/Kernel-modules-kvm%2Ckvm-intel.and.kvm-amd.md)
 
-* [/dev/kvm]()
+* [/dev/kvm](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/-dev-kvm-.md)
 
-* [QEMU monitor]()
+* [QEMU monitor](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/QEMU-monitor.md)
 
-* [qemu]()
+* [qemu](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/qemu.md)
 
 * [qemu-system-x86_64]()
 
-* [ip]()
+* [ip](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/ip.md)
 
-* [brctl]()
+* [brctl](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/brctl.md)
 
-* [tunctl]()
+* [tunctl](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/tunctl.md)
 
 ### 351.4 Libvirt Virtual Machine Management (weight: 9)
 #### Description:	Candidates should be able to manage virtualization hosts and virtual machines (‘libvirt domains’) using libvirt and related tools.
@@ -101,11 +101,11 @@ Understand libvirt XML configuration files
 Awareness of virtlogd and virtlockd
 The following is a partial list of the used files, terms and utilities:
 
-* [libvirtd]()
+* [libvirtd](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/libvirtd.md)
 
-* [/etc/libvirt/]()
+* [/etc/libvirt/](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/-etc-libvirt.md)
 
-* [virsh (including relevant subcommands)]()
+* [virsh (including relevant subcommands)](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/virsh(including-relevant-subcommands).md)
 
 
 ### 351.5 Virtual Machine Disk Image Management (weight: 3)
@@ -120,41 +120,41 @@ Migrate disk content between various virtual machine disk image formats
 Awareness of Open Virtualization Format (OVF)
 The following is a partial list of the used files, terms and utilities:
 
-* [qemu-img]()
+* [qemu-img](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/qemu-img.md)
 
-* [guestfish (including relevant subcommands)]()
+* [guestfish (including relevant subcommands)](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/guestfish(including-relevant-subcommands).md)
 
-* [guestmount]()
+* [guestmount](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/guestmount.md)
 
-* [guestumount]()
+* [guestumount](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/guestumount.md)
 
 * [virt-cat]()
 
-* [virt-copy-in]()
+* [virt-copy-in](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/virt-copy-in.md)
 
-* [virt-copy-out]()
+* [virt-copy-out](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/virt-copy-out.md)
 
-* [virt-diff]()
+* [virt-diff](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/virt-diff.md)
 
-* [virt-inspector]()
+* [virt-inspector](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/virt-inspector.md)
 
-* [virt-filesystems]()
+* [virt-filesystems](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/virt-filesystems.md)
 
-* [virt-rescue]()
+* [virt-rescue](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/virt-rescue.md)
 
-* [virt-df]()
+* [virt-df](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/virt-df.md)
 
-* [virt-resize]()
+* [virt-resize](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/virt-resize.md)
 
-* [virt-sparsify]()
+* [virt-sparsify](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/virt-sparsify.md)
 
-* [virt-p2v]()
+* [virt-p2v](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/virt-p2v.md)
 
-* [virt-p2v-make-disk]()
+* [virt-p2v-make-disk](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/virt-p2v-make-disk.md)
 
-* [virt-v2v]()
+* [virt-v2v](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/virt-v2v.md)
 
-* [virt-sysprep]()
+* [virt-sysprep](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/virt-sysprep.md)
 
 
 ## Topic 352: Container Virtualization
@@ -176,19 +176,19 @@ Awareness of podman, buildah and skopeo
 Awareness of other container virtualization approaches in Linux and other free operating systems, such as rkt, OpenVZ, systemd-nspawn or BSD Jails
 The following is a partial list of the used files, terms and utilities:
 
-* [nsenter]()
+* [nsenter](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/nsenter.md)
 
-* [unshare]()
+* [unshare](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/unshare.md)
 
-* [ip (including relevant subcommands)]()
+* [ip (including relevant subcommands)](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/ip(including-relevant-subcommands).md)
 
-* [capsh]()
+* [capsh](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/capsh.md)
 
-* [/sys/fs/cgroups]()
+* [/sys/fs/cgroups](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/-sys-fs-cgroups.md)
 
-* [/proc/* [0-9]+/ns]()
+* [/proc/*[0-9]+/ns](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/-proc-%5B0-9%5D%2B-ns.md)
 
-* [/proc/* [0-9]+/status]()
+* [/proc/*[0-9]+/status](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/-proc%20-%5B0-9%5D%2B-status.md)
 
 
 ### 352.2 LXC (weight: 6)
@@ -204,9 +204,9 @@ Understand LXC images
 Awareness of traditional LXC tools
 Partial list of the used files, terms and utilities:
 
-* [lxd]()
+* [lxd](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/lxd.md)
 
-* [lxc (including relevant subcommands)]()
+* [lxc (including relevant subcommands)](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/lxc(including%20relevant%20subcommands).md)
 
 
 ### 352.3 Docker (weight: 9)
@@ -222,15 +222,15 @@ Use Dockerfiles to create container images
 Run a Docker registry using the registry Docker image
 Partial list of the used files, terms and utilities:
 
-* [dockerd]()
+* [dockerd](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/dockerd.md)
 
-* [/etc/docker/daemon.json]()
+* [/etc/docker/daemon.json](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/-etc-docker-daemon.json.md)
 
 * [/var/lib/docker/]()
 
-* [docker]()
+* [docker](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/-var-lib-docker-.md)
 
-* [Dockerfile]()
+* [Dockerfile](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/Dockerfile.md)
 
 
 ### 352.4 Container Orchestration Platforms (weight: 3)
@@ -255,11 +255,11 @@ Basic feature knowledge of Terraform
 Awareness of CloudStack, Eucalyptus and OpenNebula
 Partial list of the used files, terms and utilities:
 
-* [IaaS, PaaS, SaaS]()
+* [IaaS, PaaS, SaaS](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/IaaS%2CPaaS%2CSaaS.md)
 
-* [OpenStack]()
+* [OpenStack](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/OpenStack.md)
 
-* [Terraform]()
+* [Terraform](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/Terraform.md)
 
 
 ### 353.2 Packer (weight: 2)
@@ -271,7 +271,7 @@ Create and maintain template files
 Build images from template files using different builders
 Partial list of the used files, terms and utilities:
 
-* [packer]()
+* [packer](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/packer.md)
 
 
 ### 353.3 cloud-init (weight: 3)
@@ -284,11 +284,11 @@ Integrate cloud-init into system images
 Use config drive datasource for testing
 Partial list of the used files, terms and utilities:
 
-* [cloud-init]()
+* [cloud-init](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/cloud-init.md)
 
-* [user-data]()
+* [user-data](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/user-data.md)
 
-* [/var/lib/cloud/]()
+* [/var/lib/cloud/](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/-var-lib-cloud.md)
 
 ### 353.4 Vagrant (weight: 3)
 #### Description:	Candidate should be able to use Vagrant to manage virtual machines, including provisioning of the virtual machine.
@@ -303,6 +303,6 @@ Understand Vagrant provisioning, i.e. File and Shell provisioners
 Understand multi-machine setup
 Partial list of the used files, terms and utilities:
 
-* [vagrant]()
+* [vagrant](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/vagrant.md)
 
-* [Vagrantfile]()
+* [Vagrantfile](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/Vagrantfile.md)
