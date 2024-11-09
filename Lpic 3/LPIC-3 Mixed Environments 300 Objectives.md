@@ -14,7 +14,7 @@ Awareness of Samba VFS modules
 Awareness of Samba Clustering and CTDB
 Partial list of the used files, terms and utilities:
 
-* [smbd]()
+* [smbd](../TXT%20FILES/File-systems-Cocepts/LPIC3-300/smbd.md)
 
 * [nmbd](../TXT%20FILES/File-systems-Cocepts/LPIC3-300/nmbd.md)
 
