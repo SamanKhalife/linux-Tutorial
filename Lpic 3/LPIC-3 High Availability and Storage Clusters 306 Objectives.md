@@ -204,13 +204,13 @@ Understand and manage clustered LVM
 Manage DLM and LVM with Pacemaker
 Partial list of the used files, terms and utilities:
 
-* [tgtadm]()
+* [tgtadm](../TXT%20FILES/File-systems-Cocepts/LPIC3-306/tgtadm.md)
 
-* [targets.conf]()
+* [targets.conf](../TXT%20FILES/File-systems-Cocepts/LPIC3-306/targets.conf.md)
 
-* [iscsiadm]()
+* [iscsiadm](../TXT%20FILES/File-systems-Cocepts/LPIC3-306/iscsiadm.md)
 
-* [iscsid.conf]()
+* [iscsid.conf](../TXT%20FILES/File-systems-Cocepts/LPIC3-306/iscsid.conf.md)
 
 * [/etc/multipath.conf](../TXT%20FILES/File-systems-Cocepts/LPIC3-306/-etc-multipath.conf.md)
 
@@ -218,7 +218,7 @@ Partial list of the used files, terms and utilities:
 
 * [kpartx](../TXT%20FILES/File-systems-Cocepts/LPIC3-306/kpartx.md)
 
-* [pvmove]()
+* [pvmove](../TXT%20FILES/File-systems-Cocepts/LPIC3-306/pvmove.md)
 
 * [vgchange](../TXT%20FILES/File-systems-Cocepts/LPIC3-306/pvmove.md)
 
@@ -422,7 +422,7 @@ Partial list of the used files, terms and utilities:
 
 * [/etc/sysconfig/networking-scripts/ifcfg-*](../TXT%20FILES/File-systems-Cocepts/LPIC3-306/-etc-sysconfig-networking-scripts-ifcfg-.md)
 
-* [/etc/systemd/network/*.network]()
+* [/etc/systemd/network/*.network](../TXT%20FILES/File-systems-Cocepts/LPIC3-306/-etc-systemd-network-.network.md)
 
 * [/etc/systemd/network/*.netdev](../TXT%20FILES/File-systems-Cocepts/LPIC3-306/-etc-systemd-network-.netdev.md)
 
