@@ -128,7 +128,7 @@ The following is a partial list of the used files, terms and utilities:
 
 * [guestumount](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/guestumount.md)
 
-* [virt-cat]()
+* [virt-cat](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/virt-cat.md)
 
 * [virt-copy-in](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/virt-copy-in.md)
 
@@ -226,7 +226,7 @@ Partial list of the used files, terms and utilities:
 
 * [/etc/docker/daemon.json](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/-etc-docker-daemon.json.md)
 
-* [/var/lib/docker/]()
+* [/var/lib/docker/](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/-var-lib-docker-.md)
 
 * [docker](../TXT%20FILES/File-systems-Cocepts/LPIC3-305/-var-lib-docker-.md)
 
