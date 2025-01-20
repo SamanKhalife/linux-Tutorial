@@ -177,7 +177,7 @@ Partial list of the used files, terms and utilities:
 
 * [drbd kernel module](../TXT%20FILES/File-systems-Cocepts/LPIC3-306/drbd-kernel-module.md)
 
-* [drbdadm]()
+* [drbdadm](../TXT%20FILES/File-systems-Cocepts/LPIC3-306/drbdadm.md)
 
 * [drbdmon](../TXT%20FILES/File-systems-Cocepts/LPIC3-306/drbdadm.md)
 
