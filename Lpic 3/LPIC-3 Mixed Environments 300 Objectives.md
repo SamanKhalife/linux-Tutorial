@@ -350,11 +350,11 @@ The following is a partial list of the used files, terms and utilities:
 
 * [idmap_tdb](../TXT%20FILES/File-systems-Cocepts/LPIC3-300/idmap_tdb.md)
 
-* [idmap_tdb2]()
+* [idmap_tdb2](../TXT%20FILES/File-systems-Cocepts/LPIC3-300/idmap_tdb2.md)
 
-* [net ads (including relevant subcommands)]()
+* [net ads (including relevant subcommands)](../TXT%20FILES/File-systems-Cocepts/LPIC3-300/net-ads(including-relevant-subcommands).md)
 
-* [/etc/nsswitch.conf]()
+* [/etc/nsswitch.conf](../TXT%20FILES/File-systems-Cocepts/LPIC3-300/etcnsswitch.conf.md)
 
 * [/etc/pam.conf](../TXT%20FILES/File-systems-Cocepts/LPIC3-300/etcpam.conf.md)
 
@@ -387,7 +387,7 @@ The following is a partial list of the used files, terms and utilities:
 
 * [/etc/passwd](../TXT%20FILES/File-systems-Cocepts/LPIC3-300/etcpasswd.md)
 
-* [/etc/group]()
+* [/etc/group](../TXT%20FILES/File-systems-Cocepts/LPIC3-300/etcgroup.md)
 
 * [pam_smbpass.so](../TXT%20FILES/File-systems-Cocepts/LPIC3-300/pam_smbpass.so.md)
 
@@ -538,7 +538,7 @@ The following is a partial list of the used files, terms and utilities:
 
 * [msdfs proxy](../TXT%20FILES/File-systems-Cocepts/LPIC3-300/msdfs-proxy.md)
 
-* [ln]()
+* [ln](../TXT%20FILES/File-systems-Cocepts/LPIC3-300/ln.md)
 
 ### 303.4 Print Share Configuration * [weight: 2]
 
