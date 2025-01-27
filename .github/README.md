@@ -359,13 +359,13 @@ Only the file owner and superuser can use this command.
 
 ## Group Permissions and attributes
 
-[gorupmod](<README (1).md>)
+[gorupmod](/TXT%20FILES/gorupmod.md)
 
-[groupadd](<TXT FILES/groupadd.md>)
+[groupadd](/TXT%20FILES/groupadd.md)
 
-[groupdel](<TXT FILES/groupdel.md>)
+[groupdel](/TXT%20FILES/groupdel.md)
 
-[groups](<TXT FILES/groups.md>)
+[groups](/TXT%20FILES/groups.md)
 
 ## apt command in linux (for installing packages)
 
@@ -442,7 +442,7 @@ how do you download a file from the terminal?
 
 1.Download files from Linux terminal using wget command
 
-[wget command](<TXT FILES/wget.md>)
+[wget command](/TXT%20FILES/wget.md)
 
 Installing wget:
 
@@ -458,7 +458,7 @@ wget URL
 
 2.Download files from Linux command line using curl
 
-[curl command](<TXT FILES/curl.md>)
+[curl command](/TXT%20FILES/curl.md)
 
 Installing curl:
 
@@ -498,25 +498,25 @@ The following commands will get you the private IP address of your interfaces:
 
 ## Linux Networking Tools
 
-[ping](<TXT FILES/ping.md>)
+[ping](/TXT%20FILES/ping.md)
 
-[host](<TXT FILES/host.md>)
+[host](/TXT%20FILES/host.md)
 
-[finger](<TXT FILES/finger.md>)
+[finger](/TXT%20FILES/finger.md)
 
-[traceroute](<TXT FILES/traceroute.md>)
+[traceroute](/TXT%20FILES/traceroute.md)
 
-[netstat](<TXT FILES/netstat.md>)
+[netstat](/TXT%20FILES/netstat.md)
 
-[tracepath](<TXT FILES/tracepath.md>)
+[tracepath](/TXT%20FILES/tracepath.md)
 
-[dig](<TXT FILES/dig.md>)
+[dig](/TXT%20FILES/dig.md)
 
-[hostname](<TXT FILES/hostname.md>)
+[hostname](/TXT%20FILES/hostname.md)
 
-[route](<TXT FILES/route.md>)
+[route](/TXT%20FILES/route.md)
 
-[nslookup](<TXT FILES/nslookup.md>)
+[nslookup](/TXT%20FILES/nslookup.md)
 
 ## Firewalls
 
@@ -734,35 +734,35 @@ you can use any kind tools you know here are some of them:
 
 #### Viewing Running Processes in Linux
 
-* [top](<TXT FILES/top.md>)
-* [htop](<TXT FILES/htop.md>)
-* [ps](<TXT FILES/ps.md>)
-* [lsof](<TXT FILES/lsof.md>)
+* [top](</TXT%20FILES/top.md>)
+* [htop](</TXT%20FILES/htop.md>)
+* [ps](</TXT%20FILES/ps.md>)
+* [lsof](</TXT%20FILES/lsof.md>)
 
 #### Monitor Network
 
 * [nethogs](<README (1).md>)
 * [iptraf-ng](<README (1).md>)
-* [netstat](<TXT FILES/netstat.md>)
-* [iftop](<TXT FILES/iftop.md>)
+* [netstat](</TXT%20FILES/netstat.md>)
+* [iftop](</TXT%20FILES/iftop.md>)
 * [(speed test)](<README (1).md>)
 
 #### Monitor Disk Usage
 
-* [df](<TXT FILES/df.md>)
-* [du](<TXT FILES/du.md>)
-* [iotop](<TXT FILES/iotop.md>)
-* [iostat](<TXT FILES/iostat.md>)
+* [df](</TXT%20FILES/df.md>)
+* [du](</TXT%20FILES/du.md>)
+* [iotop](</TXT%20FILES/iotop.md>)
+* [iostat](</TXT%20FILES/iostat.md>)
 
 #### Monitor Memory Usage
 
-* [free(Ram usage)](<TXT FILES/free.md>)
-* [vmstat](<TXT FILES/vmstat.md>)
+* [free(Ram usage)](</TXT%20FILES/free.md>)
+* [vmstat](</TXT%20FILES/vmstat.md>)
 
 ## Managing Processes in Linux
 
-* [kill](<TXT FILES/kill.md>)
-* [nice](<TXT FILES/nice.md>)
+* [kill](</TXT%20FILES/kill.md>)
+* [nice](</TXT%20FILES/nice.md>)
 
 mosltly use for controlling the cpu usage (nice number is from -20 to 19 ).
 
