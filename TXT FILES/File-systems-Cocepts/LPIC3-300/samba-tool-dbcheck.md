@@ -1,4 +1,4 @@
-# samba-tool-dbcheck
+# samba-tool dbcheck
 The `samba-tool dbcheck` command is a utility in Samba used to check the integrity and consistency of the Active Directory (AD) database. It is an essential tool for administrators to diagnose and fix issues related to the Samba domain controller’s database. This command can help detect inconsistencies or errors that may arise in the AD database due to corruption, improper replication, or other issues.
 
 ### Overview of `samba-tool dbcheck`
