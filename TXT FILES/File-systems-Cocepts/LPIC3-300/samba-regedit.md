@@ -1,4 +1,4 @@
-# samba-regedit
+# samba regedit
 **`samba-regedit`** is a tool within the Samba suite designed to allow administrators to interact with the Windows registry from a Linux environment when Samba is configured as a domain controller or integrated with a Windows domain. It provides an interface similar to Windows' `regedit.exe`, enabling remote or local registry management for Windows systems or Samba Active Directory Domain Controllers (AD DC).
 
 ### Features of `samba-regedit`:
