@@ -684,6 +684,9 @@ iptables   -t       nat        -I        FORWARDING          .     -P     tcp   
   <img src="https://github.com/SamanKhalife/linux-commands/blob/main/IMAGES/4444444444444444444.png" alt="Image description" width="700" style="max-width: 100%;">
 </p>
 
+### Packet Flow in Netfilter and General Networking
+![Netfilter Packet Flow](https://upload.wikimedia.org/wikipedia/commons/3/37/Netfilter-packet-flow.svg)
+
 ### If you live in countries that are embargoed by some companies and applications, you can use some thing like DNS changing for using the apps.
 
 * [403.online](https://403.online/)
